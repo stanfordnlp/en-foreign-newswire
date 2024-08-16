@@ -1,0 +1,298 @@
+https://www.hondurasnews.com/official-list-of-the-23-players-representing-honduras-in-the-2019-gold-cup-honduras-national-team-soccer/	O
+
+Concacaf	B-Misc
+announced	O
+on	O
+Thursday	B-Misc
+June	I-Misc
+6	I-Misc
+,	I-Misc
+2019	I-Misc
+the	O
+list	O
+of	O
+the	O
+Honduras	B-Location	B-Organization
+National	O	I-Organization
+Team	O	I-Organization
+players	O
+that	O
+will	O
+represent	O
+Honduras	B-Location
+during	O
+the	O
+2019	B-Misc	B-Misc
+Concacaf	O	I-Misc
+Gold	O	I-Misc
+Cup	O	I-Misc
+Championship	O	I-Misc
+.	O
+
+The	O
+Honduras	B-Location	B-Organization
+National	O	I-Organization
+Selection	O
+also	O
+known	O
+as	O
+the	O
+BiColor	B-Misc
+and	O
+La	B-Organization
+Seleccion	I-Organization
+Catracha	I-Organization
+were	O
+presented	O
+on	O
+a	O
+list	O
+received	O
+Monday	B-Misc
+,	I-Misc
+June	I-Misc
+3	I-Misc
+,	O
+but	O
+there	O
+was	O
+a	O
+limit	O
+to	O
+present	O
+the	O
+final	O
+list	O
+by	O
+last	O
+night	O
+June	B-Misc
+5	I-Misc
+,	I-Misc
+2019	I-Misc
+.	O
+
+Among	O
+the	O
+great	O
+surprises	O
+presented	O
+by	O
+the	O
+Uruguayan	B-NORP
+coach	O
+Fabián	B-Person
+Coito	I-Person
+is	O
+the	O
+inclusion	O
+of	O
+the	O
+young	O
+players	O
+is	O
+Danilo	B-Person
+Acosta	I-Person
+,	O
+Denil	B-Person
+Maldonado	I-Person
+,	O
+Héctor	B-Person
+Castellanos	I-Person
+,	O
+Jorge	B-Person
+Álvarez	I-Person
+as	O
+well	O
+as	O
+Roger	B-Person
+Rojas	I-Person
+and	O
+goalies	O
+Rafael	B-Person
+Zúniga	I-Person
+y	O
+Harold	B-Person
+Fonseca	I-Person
+.	O
+
+The	O
+Honduran	B-NORP	B-Misc
+Selection	O	I-Misc
+debuts	O
+in	O
+the	O
+2019	B-Misc	B-Misc
+Gold	O	I-Misc
+Cup	O	I-Misc
+against	O
+in	O
+Kingston	B-Location
+,	I-Location
+Jamaica	I-Location
+on	O
+June	B-Misc
+17	I-Misc
+,	O
+then	O
+on	O
+the	O
+21st	O
+against	O
+Curacao	B-Location
+and	O
+closes	O
+against	O
+El	B-Location
+Salvador	I-Location
+in	O
+Los	B-Location
+Angeles	O
+.	O
+
+Goalies	O
+
+1	O
+.	O
+Luis	B-Person
+‘	I-Person
+Buba	I-Person
+’	I-Person
+López	I-Person
+
+2	O
+.	O
+Rafael	B-Person
+Zúniga	I-Person
+
+3	O
+.	O
+Harold	B-Person
+Fonseca	I-Person
+
+Defense	O
+
+4	O
+.	O
+Félix	B-Person
+Crisanto	I-Person
+
+5	O
+.	O
+Maynor	B-Person
+Figueroa	I-Person
+
+6	O
+.	O
+Henry	B-Person
+Figueroa	I-Person
+
+7	O
+.	O
+Ever	B-Person
+Alvarado	I-Person
+
+8	O
+.	O
+Emilio	B-Person
+Izaguirre	I-Person
+
+9	O
+.	O
+Denil	B-Person
+Maldonado	I-Person
+
+10	O
+.	O
+Bryan	B-Person
+Beckeles	I-Person
+
+Midfielders	O
+
+11	O
+.	O
+Bryan	B-Person
+Acosta	I-Person
+
+12	O
+.	O
+Andy	B-Person
+Nájar	I-Person
+
+13	O
+.	O
+Alex	B-Person
+López	I-Person
+
+14	O
+.	O
+Danilo	B-Person
+Acosta	I-Person
+
+15	O
+.	O
+Michaell	B-Person
+Chirinos	I-Person
+
+16	O
+.	O
+Héctor	B-Person
+Castellanos	I-Person
+
+17	O
+.	O
+Luis	B-Person
+Garrido	I-Person
+
+18	O
+.	O
+Jorge	B-Person
+Álvarez	I-Person
+
+Forwards	O
+
+19	O
+.	O
+Roger	B-Person
+Rojas	I-Person
+
+20	O
+.	O
+Alberth	B-Person
+Elis	I-Person
+
+21	O
+.	O
+Rubilio	B-Person
+Castillo	I-Person
+
+22	O
+.	O
+Romell	B-Person
+Quioto	I-Person
+
+23	O
+.	O
+Antony	B-Person
+Lozano	I-Person
+
+As	O
+usual	O
+we	O
+wish	O
+our	O
+young	O
+players	O
+the	O
+best	O
+and	O
+are	O
+routing	O
+for	O
+a	O
+successful	O
+2019	B-Misc	B-Misc
+Soccer	O	I-Misc
+Season	O	I-Misc
+.	O
+

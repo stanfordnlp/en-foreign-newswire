@@ -1,0 +1,76 @@
+https://timesofoman.com/article/119446-magnitude-5-earthquake-recorded-in-southern-iran	O
+
+Muscat	B-Location
+:	O
+An	O
+earthquake	O
+of	O
+magnitude	O
+5	O
+on	O
+the	O
+Richter	B-Person
+scale	O
+has	O
+been	O
+recorded	O
+in	O
+Southern	B-Location
+Iran	I-Location
+on	O
+Monday	B-Date
+,	O
+the	O
+Earthquake	B-Organization
+Monitoring	I-Organization
+Centre	I-Organization
+(	O
+EMC	B-Organization
+)	O
+at	O
+Sultan	B-Organization	B-Person
+Qaboos	I-Organization	I-Person
+University	I-Organization
+said	O
+.	O
+
+EMC	B-Organization
+said	O
+in	O
+a	O
+statement	O
+that	O
+an	O
+earthquake	O
+in	O
+Southern	B-Location
+Iran	I-Location
+with	O
+a	O
+magnitude	O
+of	O
+5	O
+was	O
+recorded	O
+at	O
+7:55 pm	O
+MCT	B-Misc
+and	O
+at	O
+a	O
+depth	O
+of	O
+10	O
+km	O
+.	O
+The	O
+earthquake	O
+was	O
+recorded	O
+114	O
+km	O
+away	O
+from	O
+Khasab	B-Location
+.	O
+

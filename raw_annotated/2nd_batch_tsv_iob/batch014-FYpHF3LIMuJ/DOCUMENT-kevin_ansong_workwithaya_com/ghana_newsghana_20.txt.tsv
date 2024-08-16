@@ -1,0 +1,2134 @@
+https://newsghana.com.gh/nana-okofo-ohene-ampofo-i-endorsed-as-the-legitimate-gomoa-hene-king-kusae-edu-i/	O
+
+Nana	B-Person
+Okofo	I-Person
+Ohene	I-Person
+Ampofo	I-Person
+I	O
+has	O
+been	O
+declared	O
+by	O
+all	O
+the	O
+Royal	O
+houses	O
+concerned	O
+as	O
+the	O
+Legitimate	B-Misc
+Apagyahene	I-Misc
+of	O
+the	O
+King	O
+Kusae	B-Person
+Edu	I-Person
+I	I-Person
+family	O
+.	O
+
+The	O
+Royal	B-Organization
+Gates	I-Organization
+have	O
+in	O
+a	O
+press	O
+statement	O
+set	O
+the	O
+records	O
+straight	O
+regarding	O
+who	O
+the	O
+General	B-Misc
+Public	I-Misc
+should	O
+be	O
+dealing	O
+with	O
+in	O
+the	O
+capacity	O
+as	O
+the	O
+King	B-Person
+Kusae	I-Person
+Edu	I-Person
+I	I-Person
+(	O
+Apagyaihene	B-Misc
+)	O
+Nana	B-Person
+Okofo	I-Person
+Ohampofo	I-Person
+I	I-Person
+.	O
+
+Below	O
+is	O
+the	O
+full	O
+statement	O
+and	O
+other	O
+related	O
+historical	O
+documents	O
+:	O
+
+PRESS	O
+RELEASE	O
+
+To	O
+All	O
+Media	O
+House	O
+/	O
+Regional	B-Misc
+,	I-Misc
+National	I-Misc
+House	I-Misc
+Of	I-Misc
+Chiefs	I-Misc
+,	O
+Security	B-Misc
+Agencies	I-Misc
+,	O
+And	O
+The	B-Misc
+General	I-Misc
+Public	I-Misc
+
+The	O
+general	O
+public	O
+is	O
+hereby	O
+notified	O
+that	O
+The	O
+King	O
+Kusae	B-Person
+Edu	I-Person
+(	O
+Gomoa	B-Misc
+Hene	I-Misc
+)	O
+family	O
+of	O
+the	O
+royal	O
+Asona	B-NORP
+section	O
+of	O
+Gomoa	B-Location
+State	I-Location
+Kingdom	I-Location
+as	O
+part	O
+of	O
+its	O
+measures	O
+to	O
+rectify	O
+all	O
+impasses	O
+pertaining	O
+to	O
+the	O
+state	O
+of	O
+Gomoa	B-Organization
+State	I-Organization
+Kingdom	I-Organization
+have	O
+with	O
+all	O
+kingmakers	O
+,	O
+elders	O
+,	O
+and	O
+leaders	O
+of	O
+the	O
+Five	B-Misc
+Gates	I-Misc
+namely	O
+;	O
+
+Kweku	B-Person
+Abakah	I-Person
+Mensah	I-Person
+(	O
+Nana	B-Person	B-Misc
+Esi	I-Person	I-Misc
+Ahemfoa	I-Person	I-Misc
+Gate	O	I-Misc
+)	O
+;	O
+
+Nana	B-Person
+Kow	I-Person
+Yartel	I-Person
+(	O
+Nana	B-Person
+Esi	I-Person
+Kum	I-Person
+)	O
+;	O
+
+Nana	B-Person
+Kobina	I-Person
+Omoano	I-Person
+(	O
+Nana	B-Person
+Obuafi	I-Person
+)	O
+;	O
+
+Nana	B-Person
+Kofi	I-Person
+Essel	I-Person
+(	O
+Nana	B-Person
+Guraba	I-Person
+)	O
+;	O
+
+Nana	B-Person
+Kojo	I-Person
+Kuma	I-Person
+(	O
+Nana	B-Person
+Ekuroku	I-Person
+Mumford	I-Person
+)	O
+;	O
+
+Abusuapayin	B-Misc
+,	O
+Obaapanyin	B-Misc
+Efua	B-Person
+Esurogyan	I-Person
+;	O
+
+Abusua	B-Misc
+Baatan	I-Misc
+Abass	B-Person
+Assopiah	I-Person
+;	O
+
+Nana	B-Person
+Kobina	I-Person
+Benyi	I-Person
+(	O
+Head	O
+of	O
+all	O
+Elders	O
+)	O
+
+and	O
+Nana	B-Person
+Kwesi	I-Person
+Assan	I-Person
+(	O
+Head	O
+of	O
+Kingmakers	O
+)	O
+;	O
+
+Appointed	O
+,	O
+elected	O
+,	O
+and	O
+installed	O
+Nana	B-Person
+Okofo	I-Person
+Ohene	I-Person
+Ampofo	I-Person
+I	I-Person
+,	O
+the	O
+Obabeyin	B-Misc
+of	O
+Twedan	B-Misc
+Royal	I-Misc
+Stool	I-Misc
+as	O
+the	O
+Apagyahene	B-Misc
+of	O
+the	O
+King	B-Person
+Kusae	I-Person
+Edu	I-Person
+I	I-Person
+family	O
+.	O
+
+The	O
+royal	O
+family	O
+has	O
+mandated	O
+him	O
+to	O
+provide	O
+technical	O
+,	O
+operational	O
+and	O
+financial	O
+capacity	O
+to	O
+take	O
+necessary	O
+,	O
+effective	O
+,	O
+and	O
+lawful	O
+action	O
+to	O
+restore	O
+the	O
+stool	O
+to	O
+its	O
+historical	O
+role	O
+and	O
+status	O
+in	O
+the	O
+Gomoa	B-Organization
+State	I-Organization
+Kingdom	I-Organization
+with	O
+the	O
+Royal	B-Organization
+United	I-Organization
+Kingdom	I-Organization
+.	O
+
+The	O
+General	O
+public	O
+is	O
+by	O
+this	O
+notice	O
+advised	O
+accordingly	O
+to	O
+only	O
+deal	O
+with	O
+Nana	B-Person
+Okofo	I-Person
+Ohene	I-Person
+Ampofo	I-Person
+I	I-Person
+on	O
+behalf	O
+of	O
+the	O
+Gomoa	B-Organization
+State	I-Organization
+Kingdom	I-Organization
+and	O
+none	O
+other	O
+.	O
+
+Any	O
+other	O
+engagements	O
+outside	O
+of	O
+these	O
+confines	O
+is	O
+at	O
+their	O
+own	O
+peril	O
+and	O
+will	O
+attract	O
+legal	O
+action	O
+.	O
+
+BRIEF	O
+HISTORY	O
+OF	O
+GOMOA	B-Location
+STATE	I-Location
+,	O
+KING	B-Person
+KUSAE	I-Person
+EDU	I-Person
+ASONA	B-Misc
+ROYAL	I-Misc
+STOOL	I-Misc
+,	O
+COMMISSION	O
+OF	O
+INQUIRY	O
+REPORT	O
+
+AND	O
+MANDATE	O
+TO	O
+KING	B-Person
+KUSAE	I-Person
+EDU	I-Person
+I	O
+(	O
+APAGYAIHENE	B-Misc
+)	O
+(	O
+NANA	B-Person
+OKOFO	I-Person
+OHAMPOFO	I-Person
+I	I-Person
+)	O
+
+King	B-Person
+Kusae	I-Person
+Edu	I-Person
+Asona	B-Misc
+Royal	I-Misc
+Stool	O
+{	O
+GOMOAHENE	B-Misc
+}	O
+of	O
+Gomoa	B-Location
+Ogwan	I-Location
+has	O
+been	O
+inactive	O
+or	O
+dormant	O
+for	O
+a	O
+period	O
+of	O
+time	O
+which	O
+has	O
+left	O
+questionable	O
+marks	O
+on	O
+its	O
+existence	O
+and	O
+legitimacy	O
+.	O
+
+Kusae	B-Person
+Edu	I-Person
+,	O
+a	O
+warrior	O
+and	O
+headman	O
+fought	O
+the	O
+Sasabro	B-Misc
+war	O
+to	O
+liberate	O
+Gomoa	B-Location
+land	O
+and	O
+the	O
+people	O
+of	O
+Gomoa	B-Location
+from	O
+1530	B-Misc
+to	O
+1570	B-Misc
+.	O
+
+When	O
+Kusae	B-Person
+Edu	I-Person
+returned	O
+from	O
+the	O
+war	O
+the	O
+Gomoa	B-Location	B-Misc
+State	I-Location	I-Misc
+Sword	O	I-Misc
+(	O
+Akomfona	B-Person
+Takyiwaa	I-Person
+)	O
+and	O
+Stool	B-Misc
+were	O
+customarily	O
+created	O
+,	O
+(	O
+black	O
+stool	O
+)	O
+for	O
+Gomoa	B-Location	B-Organization
+State	I-Location	I-Organization
+Kingdom	O	I-Organization
+(	O
+Akunwa	B-Misc
+kese	I-Misc
+)	O
+and	O
+handed	O
+it	O
+to	O
+him	O
+to	O
+rule	O
+over	O
+the	O
+Gomuafos	B-NORP
+and	O
+the	O
+Gomoa	B-Location
+Land	O
+through	O
+all	O
+his	O
+descendants	O
+in	O
+perpetuity	O
+.	O
+
+Kusae	B-Person
+Edu	I-Person
+thereupon	O
+ascended	O
+the	O
+Stool	O
+as	O
+Gomoa	B-Location	B-Misc
+Hene	O	I-Misc
+with	O
+prior	O
+approval	O
+of	O
+all	O
+Gomoa	B-NORP
+,	O
+Obir	B-NORP
+,	O
+Adam	B-NORP
+,	O
+Openisir	B-NORP
+,	O
+Antsisadzi	B-NORP
+,	O
+Gomoa	B-Location	B-NORP
+Manmu	O	I-NORP
+,	O
+Andamba	B-NORP
+,	O
+Antsiadzi	B-NORP
+,	O
+Asin	B-NORP
+,	O
+Aso	B-NORP
+Boaku	I-NORP
+,	O
+Kyireh	B-NORP
+Asanmba	I-NORP
+,	O
+Adwunanku	B-NORP
+,	O
+and	O
+Asin	B-NORP
+Endowu	I-NORP
+people	O
+.	O
+
+THE	O
+WAR	O
+CAPTAINS	O
+THAT	O
+SUPPORTED	O
+THE	O
+WAR	O
+COMMANDER	O
+(	O
+KUSAE	B-Person
+EDU	I-Person
+)	O
+TO	O
+DEFEAT	O
+THE	O
+AGONA	B-Misc
+HENE	I-Misc
+NYARKU	B-Person
+EKU	I-Person
+WERE	O
+:	O
+
+1	O
+.	O
+Pantsir	B-Person
+
+2	O
+.	O
+Kofi	B-Person
+Ketu	I-Person
+
+3	O
+.	O
+Andam	B-Person
+
+4	O
+.	O
+Assan	B-Person
+
+5	O
+.	O
+Kojo	B-Person
+Arku	I-Person
+
+6	O
+.	O
+Tekyi	B-Person
+.	O
+
+THE	O
+GOMOA	B-Misc
+HENE	I-Misc
+(	O
+KUSAE	B-Person
+EDU	I-Person
+)	O
+APPOINTMENTED	O
+STOOLS	O
+ESTABLISHMENT	O
+AND	O
+SETTLEMNET	O
+AREAS	O
+
+MAIN	O
+WAR	O
+LEADERS	O
+AND	O
+SETTLEMENT	O
+
+1	O
+.	O
+Pantsir	B-Person
+&	O
+Kofi	B-Person
+Ketu	I-Person
+settled	O
+at	O
+Pantsir	B-Location
+Dabon	I-Location
+.	O
+The	B-Misc
+Adonten	I-Misc
+Division	I-Misc
+-	O
+Town	B-Misc
+-	O
+Antseadze	B-Location
+.	O
+
+2	O
+.	O
+Andam	B-Person
+at	O
+Ohua	B-Location
+-	I-Location
+Nifa	I-Location
+Division	O
+.	O
+
+3	O
+.	O
+Assan	B-Person
+at	O
+Assin	B-Location
+–	I-Location
+Gyaase	I-Location
+Division	O
+-	O
+Gomoa	B-Location
+Assin	I-Location
+Mampong	I-Location
+.	O
+
+4	O
+.	O
+Kojo	B-Person
+Arku	I-Person
+at	O
+Edwumako	B-Location
+-	I-Location
+Tufuhen	I-Location
+,	O
+Town	O
+-	O
+Gomoa	B-Location
+Edwumako	I-Location
+.	O
+
+5	O
+.	O
+Tekyi	B-Person
+at	O
+Atekyi	B-Location
+(	I-Location
+Akropong	I-Location
+)	I-Location
+-	I-Location
+Benkum	I-Location
+Division	O
+.	O
+
+6	O
+.	O
+famous	O
+Herbalist	O
+.	O
+Bondam	B-Person
+-	O
+settled	O
+at	O
+Kyiren	B-Location
+-	I-Location
+Osahen	I-Location
+.	O
+
+7	O
+.	O
+Oguan	B-Person
+Arku	I-Person
+founded	O
+Gomoa	B-Location
+Wassa	I-Location
+.	O
+
+8	O
+.	O
+Twafo	B-Location
+Division	O
+Abor	B-Organization
+Awusi	I-Organization
+Gomoa	B-Location
+Fetteh	I-Location
+
+PARAMOUNT	O
+SEAT	O
+GIVEN	O
+BY	O
+GOMOA	B-Location	B-Misc
+HENE	O	I-Misc
+
+Awutu	B-Location
+Breku	I-Location
+
+Senya	B-Location
+Breku	I-Location
+
+Winneba	B-Location
+
+Agona	B-Location
+Nsaba	I-Location
+
+Ajumako	B-Location
+
+Towns	O
+and	O
+villages	O
+King	B-Person
+Kusae	I-Person
+Edu	I-Person
+created	O
+was	O
+251	O
+and	O
+some	O
+are	O
+Gomoa	B-Location
+Abotsia	I-Location
+,	O
+Gomoa	B-Location
+Wasa	I-Location
+,	O
+Gomoa	B-Location
+Dominase	I-Location
+,	O
+Gomoa	B-Location
+Potsin	I-Location
+,	O
+Gomoa	B-Location
+Oguan	I-Location
+etc	O
+.	O
+
+THE	O
+GOMOA	B-Location	B-Organization
+STATE	I-Location	I-Organization
+ARMY	O	I-Organization
+FOR	O
+SASABRO	B-Misc
+WAR	I-Misc
+
+The	O
+Gomoa	B-Location	B-Organization
+State	I-Location	I-Organization
+Army	O	I-Organization
+for	O
+Sasabro	B-Misc
+war	O
+was	O
+constituted	O
+as	O
+follows	O
+:	O
+
+Opentsir	B-Misc
+,	I-Misc
+Nkyidom	I-Misc
+(	O
+Rear	B-Misc
+Guard	I-Misc
+)	O
+
+Asanmba	B-Misc
+Edwumaku	I-Misc
+,	O
+Dontsidan	B-Misc
+or	O
+Adontsimdon	B-Misc
+(	O
+Centre	O
+or	O
+man	O
+body	O
+)	O
+
+King	B-Person
+Kusae	I-Person
+Edu	I-Person
+I	I-Person
+was	O
+gazette	O
+in	O
+1619	B-Misc
+as	O
+Gomoa	B-Location	B-Misc
+Hene	O	I-Misc
+for	O
+Gomoa	B-Location
+State	I-Location
+.	O
+
+From	O
+the	O
+rule	O
+of	O
+King	B-Person
+Kusae	I-Person
+Edu	I-Person
+I	I-Person
+to	O
+the	O
+rule	O
+of	O
+King	B-Person
+Kusae	I-Person
+Edu	I-Person
+XV	I-Person
+(	O
+Kweku	B-Person
+Tsim	I-Person
+)	O
+was	O
+335	O
+years	O
+.	O
+They	O
+ruled	O
+Gomoa	B-Location
+State	I-Location
+from	O
+1619	B-Misc
+to	O
+1972	B-Misc
+.	O
+
+Thereafter	O
+there	O
+was	O
+a	O
+dispute	O
+between	O
+the	O
+then	O
+Government	O
+and	O
+the	O
+Gomoa	B-Location
+State	I-Location
+which	O
+necessitated	O
+the	O
+setting	O
+up	O
+of	O
+a	O
+Commission	B-Misc
+of	I-Misc
+Inquiry	I-Misc
+into	O
+the	O
+unrest	O
+between	O
+Kwa	B-Misc
+Ahunaku	I-Misc
+Stool	I-Misc
+and	O
+King	B-Person	B-Misc
+Kusae	I-Person	I-Misc
+Edu	I-Person	I-Misc
+Stool	O	I-Misc
+.	O
+
+After	O
+the	O
+Commission	O
+of	O
+inquiry	O
+report	O
+in	O
+1922	B-Misc
+a	O
+solution	O
+was	O
+found	O
+to	O
+the	O
+protracted	O
+dispute	O
+between	O
+the	O
+Kaw	B-Misc
+Ahunaku	I-Misc
+Stool	I-Misc
+and	O
+King	B-Person	B-Misc
+Kusae	I-Person	I-Misc
+Edu	I-Person	I-Misc
+Stool	O	I-Misc
+.	O
+
+The	O
+Crowther	B-Organization
+report	O
+on	O
+Gomoa	B-Location
+State	I-Location
+on	O
+5th	B-Misc
+October	I-Misc
+,	I-Misc
+1922	I-Misc
+under	O
+the	O
+commission	O
+of	O
+enquiry	O
+ordinance	O
+differentiates	O
+the	O
+two	O
+stools	O
+Kwa	B-Misc
+Ahunaku	I-Misc
+Stool	I-Misc
+and	O
+King	B-Person	B-Misc
+Kusae	I-Person	I-Misc
+Edu	I-Person	I-Misc
+I	I-Person	I-Misc
+Stool	O	I-Misc
+.	O
+
+THE	O
+COMMISSION	O
+OF	O
+INQUIRY	O
+
+Gomoa	B-Location	B-Misc
+Assin	I-Location	I-Misc
+State	O	I-Misc
+Affairs	O	I-Misc
+
+It	O
+is	O
+notified	O
+for	O
+general	O
+information	O
+
+That	O
+the	O
+Committee	O
+of	O
+Enquiry	O
+appointed	O
+under	O
+section	O
+8	O
+of	O
+the	O
+State	O
+Councils	O
+(	O
+Colony	O
+and	O
+Southern	O
+Togoland	O
+)	O
+ordinance	O
+,	O
+1952	B-Misc
+to	O
+enquire	O
+into	O
+the	O
+matter	O
+of	O
+a	O
+constitutional	O
+nature	O
+in	O
+the	O
+Gomoa	B-Location
+Assin	I-Location
+State	O
+arising	O
+from	O
+a	O
+dispute	O
+certain	O
+chiefs	O
+and	O
+persons	O
+subject	O
+to	O
+them	O
+and	O
+Nana	B-Person
+Kusae	I-Person
+Edu	I-Person
+XV	I-Person
+,	O
+the	O
+Gomoa	B-Misc
+Hene	I-Misc
+,	O
+and	O
+specifically	O
+to	O
+enquire	O
+whether	O
+any	O
+grounds	O
+existed	O
+upon	O
+which	O
+Nana	B-Person
+Kuase	I-Person
+Edu	I-Person
+XV	I-Person
+could	O
+be	O
+destooled	O
+in	O
+accordance	O
+
+With	O
+custom	O
+and	O
+whether	O
+in	O
+fact	O
+he	O
+had	O
+been	O
+destooled	O
+,	O
+in	O
+a	O
+report	O
+to	O
+the	O
+Governor	O
+dated	O
+20th	B-Misc
+August	I-Misc
+,	I-Misc
+1954	I-Misc
+found	O
+.	O
+
+That	O
+under	O
+native	O
+customary	O
+law	O
+the	O
+gravity	O
+,	O
+seriousness	O
+and	O
+sufficiency	O
+of	O
+the	O
+charges	O
+proved	O
+warrants	O
+the	O
+destoolment	O
+of	O
+Nana	B-Person
+KusaeEdu	I-Person
+XV	I-Person
+as	O
+Omanhene	B-Misc
+;	O
+
+That	O
+the	O
+meeting	O
+at	O
+Kubekur	B-Location
+,	I-Location
+Apam	I-Location
+,	O
+on	O
+28th	B-Misc
+March	I-Misc
+,	I-Misc
+1952	I-Misc
+,	O
+was	O
+unconstitutional	O
+and	O
+that	O
+the	O
+body	O
+which	O
+met	O
+and	O
+declared	O
+Nana	B-Person
+Kusae	I-Person
+Edu	I-Person
+XV	I-Person
+,	O
+the	O
+Omanhene	B-Misc
+,	O
+destooled	O
+was	O
+not	O
+the	O
+customary	O
+body	O
+empowered	O
+so	O
+to	O
+do	O
+;	O
+and	O
+
+ALSO	O
+READ	O
+International	O
+Girls	O
+in	O
+ICT	O
+Day	O
+:	O
+Coding	O
+for	O
+employment	O
+’	O
+s	O
+new	O
+digital	O
+skills	O
+training	O
+centres	O
+to	O
+boost	O
+women	O
+’	O
+s	O
+opportunity	O
+in	O
+technology	O
+fields	O
+
+GOMOA	O
+STATE	O
+KINGDOM	O
+
+Refer	O
+to	O
+Report	O
+and	O
+the	O
+History	O
+of	O
+GOMOA	B-Location
+STATE	I-Location
+by	O
+Crowther	B-Organization
+Commission	I-Organization
+in	O
+1922	B-Misc
+from	O
+the	O
+Archives	B-Organization
+Department	I-Organization
+Accra	I-Organization	B-Location
+.	O
+
+That	O
+his	O
+Excellency	O
+the	O
+Governor	O
+confirmed	O
+the	O
+above	O
+findings	O
+on	O
+the	O
+24th	B-Misc
+day	I-Misc
+of	I-Misc
+November	I-Misc
+,	I-Misc
+1954	I-Misc
+.	O
+
+THE	O
+PAST	O
+GOMOA	B-Misc
+HENE	I-Misc
+OF	O
+THE	O
+KING	B-Person	B-Misc
+KUSAE	I-Person	I-Misc
+EDU	I-Person	I-Misc
+STOOL	O	I-Misc
+
+GOMOA	B-Misc
+HENE	I-Misc
+(	O
+POSITION	O
+)	O
+NAMES	O
+OF	O
+GOMOA	B-Misc
+HENE	I-Misc
+
+Nana	B-Person
+Kusae	I-Person
+Edu	I-Person
+I	I-Person
+
+Nana	B-Person
+Andu	I-Person
+I	I-Person
+
+Nana	B-Person
+Kwadumanu	I-Person
+
+Nana	B-Person
+Dadzi	I-Person
+Edu	I-Person
+
+Nana	B-Person
+Attah	I-Person
+Panyin	I-Person
+
+Nana	B-Person
+Attah	I-Person
+Kakra	I-Person
+
+Nana	B-Person
+Kwesi	I-Person
+Dadzi	I-Person
+
+Nana	B-Person
+Kweku	I-Person
+Attah	I-Person
+
+Nana	B-Person
+Andu	I-Person
+II	I-Person
+
+Nana	B-Person
+Kojo	I-Person
+Arku	I-Person
+
+Nana	B-Person
+Ogwan	I-Person
+Arku	I-Person
+
+Nana	B-Person
+Kobina	I-Person
+Otabil	I-Person
+
+Nana	B-Person
+Tandoh	I-Person
+
+Nana	B-Person
+Kojo	I-Person
+Nkum	I-Person
+
+Nana	B-Person
+Kweku	I-Person
+Tsim	I-Person
+
+From	O
+the	O
+rule	O
+of	O
+King	B-Person
+Kusae	I-Person
+Edu	I-Person
+I	I-Person
+to	O
+the	O
+rule	O
+of	O
+King	B-Person
+Kusae	I-Person
+Edu	I-Person
+XV	I-Person
+,	O
+Asona	B-NORP	B-Misc
+Royal	O	I-Misc
+Stool	O	I-Misc
+faced	O
+with	O
+a	O
+lot	O
+of	O
+dispute	O
+from	O
+the	O
+then	O
+government	O
+of	O
+the	O
+time	O
+.	O
+
+King	B-Person
+KUsae	I-Person
+Edu	I-Person
+XV	I-Person
+(	O
+Kweku	B-Person
+Tsim	I-Person
+)	O
+ruled	O
+from	O
+1936	B-Misc
+to	O
+1972	B-Misc
+when	O
+he	O
+passed	O
+on	O
+.	O
+Due	O
+to	O
+protracted	O
+dispute	O
+and	O
+misunderstanding	O
+between	O
+Kwa	B-Person
+Ahunako	I-Person
+and	O
+King	B-Person	B-Misc
+Kusae	I-Person	I-Misc
+Edu	I-Person	I-Misc
+Stool	O	I-Misc
+,	O
+King	B-Person
+Kusae	I-Person
+Edu	I-Person
+XV	I-Person
+is	O
+yet	O
+to	O
+be	O
+buried	O
+.	O
+
+CURRENT	O
+DISPUTE	O
+
+After	O
+the	O
+death	O
+of	O
+King	B-Person
+Kusae	I-Person
+Edu	I-Person
+the	I-Person
+XV	I-Person
+in	O
+1972	B-Misc
+to	O
+date	O
+,	O
+Gomoa	B-Location
+state	O
+have	O
+been	O
+on	O
+dispute	O
+due	O
+the	O
+death	O
+of	O
+Gomoa	B-Misc
+Hene	I-Misc
+,	O
+not	O
+buried	O
+,	O
+there	O
+are	O
+so	O
+main	O
+divisions	O
+,	O
+on	O
+the	O
+lands	O
+,	O
+chiefs	O
+,	O
+towns	O
+,	O
+villages	O
+,	O
+misunderstanding	O
+,	O
+lack	O
+of	O
+development	O
+,	O
+litigations	O
+,	O
+mismanagement	O
+,	O
+losing	O
+all	O
+assert	O
+,	O
+lands	O
+boundaries	O
+,	O
+royalty	O
+’	O
+s	O
+chiefs	O
+disputes	O
+ect	O
+.	O
+
+MANDATE	O
+TO	O
+NANA	B-Person
+OKOFO	I-Person
+OHENE	I-Person
+AMPOFO	I-Person
+I	I-Person
+AND	O
+HIS	O
+ROYAL	O
+ORGANIZATION	O
+ROYAL	B-Organization
+UNITED	I-Organization
+KINGDOM	I-Organization
+(	O
+RUK	B-Organization
+)	O
+
+Nana	B-Person
+Okofo	I-Person
+Ohene	I-Person
+Ampofo	I-Person
+I	I-Person
+has	O
+been	O
+mandated	O
+by	O
+the	O
+King	B-Person
+Kusae	I-Person
+Edu	I-Person
+-	O
+Asona	B-NORP	B-Misc
+Royal	O	I-Misc
+Stool	O	I-Misc
+of	O
+Gomoa	B-Location
+Oguan	I-Location
+,	O
+in	O
+the	O
+Central	B-Location
+Region	I-Location
+to	O
+:	O
+
+AND	O
+WHEREAS	O
+:	O
+-	O
+The	O
+NANA	B-Person
+OKOFO	I-Person
+OHENE	I-Person
+AMPOFO	I-Person
+1	I-Person
+together	O
+with	O
+team	O
+of	O
+experts	O
+ROYAL	B-Organization
+UNITED	I-Organization
+KINGDOM	I-Organization
+{	O
+RUK	B-Organization
+}	O
+have	O
+the	O
+technical	O
+,	O
+operational	O
+and	O
+the	O
+financial	O
+capacity	O
+to	O
+take	O
+necessary	O
+effective	O
+and	O
+lawful	O
+action	O
+to	O
+restore	O
+the	O
+Stool	O
+to	O
+its	O
+historical	O
+role	O
+and	O
+status	O
+in	O
+the	O
+Gomoa	B-Location
+State	I-Location
+region	O
+;	O
+
+AND	O
+WHEREAS	O
+:	O
+-	O
+The	O
+Stool	O
+has	O
+tasked	O
+NANA	B-Person
+OKOFO	I-Person
+OHENE	I-Person
+AMPOFO	I-Person
+1	I-Person
+and	O
+his	O
+ROYAL	O
+Organization	O
+{	O
+RUK	B-Organization
+}	O
+;	O
+and	O
+the	O
+NANA	B-Person
+OKOFO	I-Person
+and	O
+RUK	B-Organization
+has	O
+agreed	O
+,	O
+to	O
+help	O
+restore	O
+the	O
+Stool	O
+and	O
+to	O
+enable	O
+the	O
+Stool	O
+to	O
+govern	O
+its	O
+subjects	O
+and	O
+jurisdiction	O
+in	O
+accordance	O
+with	O
+the	O
+customs	O
+and	O
+traditions	O
+of	O
+the	O
+Asona	B-NORP	B-Misc
+Royal	O	I-Misc
+Stool	O	I-Misc
+;	O
+
+Protect	O
+and	O
+defend	O
+all	O
+assets	O
+of	O
+the	O
+Stool	O
+and	O
+Claim	O
+all	O
+assets	O
+due	O
+the	O
+stool	O
+.	O
+
+Be	O
+the	O
+second	O
+in	O
+command	O
+and	O
+caretaker	O
+to	O
+the	O
+stool	O
+assets	O
+lands	O
+,	O
+nutural	O
+resources	O
+and	O
+etc	O
+.	O
+
+Restore	O
+Asona	B-NORP	B-Misc
+Royal	O	I-Misc
+Stool	O	I-Misc
+to	O
+its	O
+former	O
+glory	O
+to	O
+enable	O
+it	O
+rule	O
+Gomoa	B-Location
+Land	O
+and	O
+its	O
+subjects	O
+effectively	O
+.	O
+
+Enforce	O
+that	O
+all	O
+settlers	O
+or	O
+settlements	O
+on	O
+Gomoa	B-Location
+lands	O
+pay	O
+Homage	O
+to	O
+Asona	B-Location	B-Misc
+Royal	O	I-Misc
+Stool	O	I-Misc
+.	O
+
+Restructure	O
+Gomoa	B-Location
+state	O
+management	O
+.	O
+
+Restructure	O
+stool	O
+family	O
+lineage	O
+.	O
+
+Appoint	O
+Chiefs	O
+and	O
+any	O
+person	O
+or	O
+persons	O
+needed	O
+to	O
+work	O
+with	O
+APAGYAHENE	B-Misc
+.	O
+
+Interact	O
+with	O
+the	O
+GOVERNMENT	O
+and	O
+claim	O
+all	O
+Royalties	O
+unpaid	O
+for	O
+years	O
+.	O
+
+Protect	O
+the	O
+King	O
+’	O
+s	O
+family	O
+and	O
+mediate	O
+in	O
+all	O
+family	O
+matters	O
+for	O
+amicable	O
+settlement	O
+.	O
+
+Trust	O
+,	O
+Transparency	O
+and	O
+Good	O
+Faith	O
+
+The	O
+cooperation	O
+between	O
+the	O
+parties	O
+will	O
+be	O
+based	O
+on	O
+professionalism	O
+,	O
+mutual	O
+trust	O
+,	O
+good	O
+faith	O
+,	O
+confidence	O
+,	O
+transparency	O
+,	O
+and	O
+information	O
+sharing	O
+.	O
+
+Amendment	O
+
+This	O
+Memorandum	O
+of	O
+Understanding	O
+will	O
+remain	O
+in	O
+effect	O
+until	O
+it	O
+is	O
+amended	O
+in	O
+writing	O
+on	O
+consent	O
+of	O
+both	O
+parties	O
+or	O
+until	O
+it	O
+is	O
+replaced	O
+by	O
+a	O
+formal	O
+agreement	O
+in	O
+accordance	O
+with	O
+the	O
+terms	O
+of	O
+this	O
+Memorandum	O
+.	O
+This	O
+Memorandum	O
+will	O
+lapse	O
+when	O
+a	O
+formal	O
+agreement	O
+is	O
+completed	O
+and	O
+signed	O
+by	O
+both	O
+parties	O
+.	O
+
+Force	O
+Majeure	O
+
+Neither	O
+party	O
+will	O
+be	O
+liable	O
+for	O
+any	O
+breach	O
+of	O
+its	O
+obligation	O
+under	O
+this	O
+MOU	O
+to	O
+the	O
+extent	O
+that	O
+it	O
+is	O
+prevented	O
+from	O
+performing	O
+them	O
+due	O
+to	O
+circumstances	O
+beyond	O
+his	O
+reasonable	O
+control	O
+.	O
+
+Applicable	O
+Law	O
+
+This	O
+MOU	O
+is	O
+subject	O
+to	O
+and	O
+construed	O
+in	O
+accordance	O
+with	O
+the	O
+laws	O
+of	O
+Ghana	B-Location
+.	O
+
+Dispute	O
+Resolution	O
+
+The	O
+parties	O
+shall	O
+resolve	O
+any	O
+dispute	O
+which	O
+may	O
+arise	O
+relating	O
+to	O
+this	O
+MOU	O
+in	O
+good	O
+faith	O
+.	O
+If	O
+the	O
+dispute	O
+cannot	O
+be	O
+resolved	O
+through	O
+such	O
+negotiations	O
+the	O
+parties	O
+shall	O
+resolve	O
+the	O
+dispute	O
+through	O
+mediation	O
+or	O
+other	O
+alternative	O
+dispute	O
+resolution	O
+procedure	O
+.	O
+If	O
+the	O
+matter	O
+cannot	O
+be	O
+resolved	O
+by	O
+such	O
+a	O
+procedure	O
+,	O
+either	O
+party	O
+may	O
+refer	O
+the	O
+dispute	O
+to	O
+arbitration	O
+under	O
+the	O
+auspices	O
+of	O
+the	O
+Ghana	B-Organization
+Arbitration	I-Organization
+Centre	I-Organization
+.	O
+
+IN	O
+PARTIES	O
+WHEREOF	O
+,	O
+the	O
+parties	O
+hereto	O
+hereunto	O
+set	O
+their	O
+respective	O
+
+KING	B-Person
+KUSAE	I-Person
+EDU	I-Person
+ASONA	B-NORP	B-Misc
+ROYAL	O	I-Misc
+STOOL	O	I-Misc
+{	O
+HEADS	O
+CABINET	O
+}	O
+
+MAIN	O
+FAMILY	O
+HEADS	O
+
+1	O
+____________________________________	O
+
+Abusuapanyin	O
+Nana	B-Person
+Kwesi	I-Person
+Aboah	I-Person
+
+King	B-Person
+Kusae	I-Person
+Edu	I-Person
+Over	O
+all	O
+Abusuapanyin	O
+{	O
+5	O
+gate	O
+}	O
+
+2	O
+___________________________________	O
+
+Nana	B-Person
+Kwesi	I-Person
+Assan	I-Person
+
+{	O
+HEAD	O
+OF	O
+KING	B-Person
+KUSAE	I-Person
+EDU	I-Person
+ASONA	B-NORP	B-Misc
+ROYAL	O	I-Misc
+STOOL	O	I-Misc
+,	O
+KING	O
+MAKERS	O
+}	O
+
+3	O
+,	O
+…	O
+…	O
+…	O
+…	O
+…	O
+…	O
+…	O
+…	O
+…	O
+…	O
+…	O
+…	O
+…	O
+…	O
+…	O
+…	O
+…	O
+…	O
+…	O
+…	O
+…	O
+…	O
+…	O
+…	O
+…	O
+…	O
+…	O
+…	O
+…	O
+…	O
+
+Nana	B-Person
+Abass	I-Person
+Assopiah	I-Person
+
+King	B-Person
+kusae	I-Person
+Edu	I-Person
+Asona	B-NORP	B-Misc
+Royal	O	I-Misc
+Stool	O	I-Misc
+Over	O
+All	O
+{	O
+Abusua	B-Misc
+Baatan	I-Misc
+)	O
+
+4	O
+___________________________________	O
+
+Nana	B-Person
+Kobina	I-Person
+Benyi	I-Person
+
+King	B-Person
+Kusae	I-Person
+Edu	I-Person
+Asona	B-NORP	B-Misc
+Royal	O	I-Misc
+Stool	O	I-Misc
+over	O
+all	O
+(	O
+Head	B-Misc
+of	I-Misc
+Elders	I-Misc
+)	O
+
+5	O
+___________________________________	O
+
+NANA	B-Person
+EFUA	I-Person
+ESUROGYAN	I-Person
+
+King	B-Person
+Kusae	I-Person
+Edu	I-Person
+Asona	B-NORP	B-Misc
+Royal	O	I-Misc
+stool	O	I-Misc
+Over	O
+all	O
+{	O
+Obaapanyin	B-Misc
+}	O
+

@@ -1,0 +1,92 @@
+http://www.alriyadhdaily.com/article/3533193787c540a1a1f70ce546fc5bcb	O
+
+More	O
+than	O
+252,000	O
+Pilgrims	O
+Arrived	O
+in	O
+Madinah	B-Location
+after	O
+Performing	O
+Hajj	B-Misc
+
+A	O
+total	O
+of	O
+252,163	O
+pilgrims	O
+have	O
+arrived	O
+in	O
+Madinah	B-Location
+until	O
+yesterday	O
+from	O
+several	O
+nationalities	O
+after	O
+performing	O
+Hajj	B-Misc
+this	O
+year	O
+.	O
+
+The	O
+Ministry	B-Organization
+of	I-Organization
+Hajj	I-Organization	B-Misc
+and	I-Organization
+Umrah	I-Organization	B-Misc
+’	O
+s	O
+statistics	O
+on	O
+arriving	O
+and	O
+departing	O
+pilgrims	O
+in	O
+Madinah	B-Location
+showed	O
+that	O
+169,837	O
+pilgrims	O
+have	O
+left	O
+Madinah	B-Location
+through	O
+Prince	B-Facility
+Muhammad	I-Facility	B-Person
+bin	I-Facility	I-Person
+Abdulaziz	I-Facility	I-Person
+International	I-Facility
+Airport	I-Facility
+and	O
+the	O
+Hajj	B-Location	B-Misc
+Land	I-Location
+Center	I-Location
+.	O
+
+Statistics	O
+also	O
+showed	O
+that	O
+the	O
+number	O
+of	O
+pilgrims	O
+staying	O
+in	O
+Madinah	B-Location
+until	O
+yesterday	O
+totaled	O
+82,326	O
+pilgrims	O
+from	O
+various	O
+nationalities	O
+.	O
+

@@ -1,0 +1,77 @@
+https://kashmirobserver.net/2022/07/22/teenager-drowns-in-nallah-in-south-kashmirs-shopian/	O
+
+Srinagar	B-Location
+-	O
+An	O
+18	O
+-	O
+year	O
+-	O
+old	O
+student	O
+drowned	O
+while	O
+taking	O
+a	O
+bath	O
+in	O
+Rambiara	B-Location
+Nallah	I-Location
+in	O
+Heff	B-Location
+Shirmaal	I-Location
+area	O
+of	O
+South	B-Location	B-Location
+Kashmir	I-Location	I-Location
+’	I-Location
+s	I-Location
+Shopian	I-Location	B-Location
+district	I-Location	I-Location
+on	O
+Friday	B-Date
+.	O
+
+Sources	O
+identified	O
+the	O
+victim	O
+as	O
+Shahid	B-Person
+Ahmed	I-Person
+Allaie	I-Person
+son	O
+of	O
+Abdul	B-Person
+Rashid	I-Person
+Allaie	I-Person
+,	O
+a	O
+resident	O
+of	O
+Allaiepora	B-Location
+.	O
+He	O
+was	O
+a	O
+student	O
+of	O
+12th	O
+class	O
+
+The	O
+operation	O
+to	O
+retrieve	O
+his	O
+body	O
+was	O
+underway	O
+till	O
+the	O
+filing	O
+of	O
+this	O
+report	O
+.	O
+

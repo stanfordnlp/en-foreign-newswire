@@ -1,0 +1,110 @@
+https://www.observerbd.com/news.php?id=376704	O
+
+A	O
+rickshaw	O
+puller	O
+was	O
+killed	O
+as	O
+a	O
+truck	O
+hit	O
+a	O
+battery	O
+-	O
+run	O
+auto	O
+-	O
+rickshaw	O
+in	O
+the	O
+capital	O
+'s	O
+Bashabo	B-Location
+area	O
+early	O
+Thursday	B-Misc
+.	O
+
+The	O
+deceased	O
+was	O
+identified	O
+as	O
+Halim	B-Person
+Bepari	I-Person
+,	O
+55	O
+,	O
+hailed	O
+from	O
+Madaripur	B-Location
+Sadar	I-Location
+upazila	I-Location
+.	O
+He	O
+lived	O
+in	O
+a	O
+rented	O
+house	O
+in	O
+the	O
+capital	O
+'s	O
+Kadamtala	B-Location
+area	O
+.	O
+
+Police	O
+said	O
+the	O
+accident	O
+occurred	O
+around	O
+4 am	O
+when	O
+a	O
+truck	O
+hit	O
+his	O
+battery	O
+-	O
+run	O
+auto	O
+-	O
+rickshaw	O
+,	O
+leaving	O
+him	O
+critically	O
+injured	O
+.	O
+
+He	O
+was	O
+taken	O
+to	O
+Dhaka	B-Location	B-Facility
+Medical	O	I-Facility
+College	O	I-Facility
+and	O	I-Facility
+Hospital	O	I-Facility
+where	O
+he	O
+succumbed	O
+to	O
+his	O
+injuries	O
+,	O
+Sabujbagh	B-Location	B-Facility
+Police	O	I-Facility
+Station	O	I-Facility
+sub	O
+-	O
+inspector	O
+Faruk	B-Person
+Hossain	I-Person
+said	O
+.	O
+

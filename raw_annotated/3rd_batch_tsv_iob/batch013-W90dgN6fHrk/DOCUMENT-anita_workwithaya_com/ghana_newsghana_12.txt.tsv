@@ -1,0 +1,226 @@
+https://newsghana.com.gh/u-20-womens-world-cup-black-princesses-to-clash-france-in-friendly/	O
+
+The	O
+Back	B-Misc
+Princesses	I-Misc
+of	O
+Ghana	B-Location
+will	O
+battle	O
+France	B-Location
+in	O
+their	O
+final	O
+preparation	O
+ahead	O
+of	O
+the	O
+2022	B-Misc
+Federation	I-Misc	B-Organization
+of	I-Misc	I-Organization
+International	I-Misc	I-Organization
+Football	I-Misc	I-Organization
+Association	I-Misc	I-Organization
+(	I-Misc
+FIFA	I-Misc	B-Organization
+)	I-Misc
+U	I-Misc
+-	I-Misc
+20	I-Misc
+Women	I-Misc
+’	I-Misc
+s	I-Misc
+World	I-Misc
+Cup	I-Misc
+in	O
+Costa	B-Location
+Rica	I-Location
+.	O
+
+The	O
+U	O
+-	O
+20	O
+team	O
+had	O
+been	O
+in	O
+camp	O
+at	O
+the	O
+Ghanaman	B-Location
+Centre	I-Location
+of	I-Location
+Excellence	I-Location
+at	O
+Prampram	B-Location
+for	O
+a	O
+period	O
+of	O
+five	O
+weeks	O
+and	O
+are	O
+set	O
+to	O
+finalize	O
+their	O
+training	O
+against	O
+the	O
+France	B-Location
+U	O
+-	O
+20	O
+female	O
+national	O
+team	O
+.	O
+
+The	O
+Ghanaian	B-NORP
+side	O
+,	O
+who	O
+would	O
+be	O
+making	O
+their	O
+sixth	O
+appearance	O
+at	O
+the	O
+biennial	O
+competition	O
+would	O
+also	O
+use	O
+the	O
+opportunity	O
+to	O
+fine	O
+-	O
+tune	O
+their	O
+preparations	O
+.	O
+
+The	O
+2016	B-Misc
+runner	O
+-	O
+up	O
+,	O
+France	B-Location
+would	O
+also	O
+be	O
+making	O
+their	O
+eighth	O
+appearance	O
+in	O
+the	O
+World	O
+tournament	O
+having	O
+been	O
+tagged	O
+as	O
+one	O
+of	O
+the	O
+best	O
+teams	O
+in	O
+the	O
+world	O
+.	O
+
+The	O
+French	B-NORP
+side	O
+competed	O
+in	O
+the	O
+2022	B-Misc
+Sud	I-Misc
+Ladies	I-Misc
+Cup	I-Misc
+as	O
+part	O
+of	O
+their	O
+preparation	O
+for	O
+the	O
+world	O
+tournament	O
+with	O
+the	O
+United	B-Location
+States	I-Location
+,	O
+Mexico	B-Location
+and	O
+Netherlands	B-Location
+early	O
+this	O
+month	O
+of	O
+which	O
+the	O
+USA	B-Location
+were	O
+crowned	O
+champions	O
+.	O
+
+Ghana	B-Location
+is	O
+housed	O
+in	O
+Group	B-Misc
+D	I-Misc
+with	O
+USA	B-Location
+,	O
+Netherlands	B-Location
+and	O
+Japan	B-Location
+.	O
+
+The	O
+FIFA	B-Organization	B-Misc
+U	O	I-Misc
+-	O	I-Misc
+20	O	I-Misc
+Women	O	I-Misc
+’	O	I-Misc
+s	O	I-Misc
+World	O	I-Misc
+Cup	O	I-Misc
+is	O
+billed	O
+for	O
+10-28	O
+in	O
+San	B-Location
+Jose	I-Location
+,	O
+Alajuela	B-Location
+in	O
+Costa	B-Location
+Rica	I-Location
+with	O
+16	O
+teams	O
+set	O
+to	O
+battle	O
+for	O
+the	O
+trophy	O
+.	O
+

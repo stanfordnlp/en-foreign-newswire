@@ -1,0 +1,349 @@
+https://www.taipeitimes.com/News/taiwan/archives/2022/07/07/2003781306	O
+
+Taiwanese	B-NORP
+writer	O
+Chi	B-Person
+Wei	I-Person
+-	I-Person
+jan	I-Person
+(	O
+紀蔚然	O
+)	O
+has	O
+won	O
+the	O
+Falcon	B-Location
+Award	I-Location
+from	O
+the	O
+Maltese	B-NORP	B-Organization
+Falcon	O	I-Organization
+Society	O	I-Organization
+in	O
+Japan	B-Location
+for	O
+his	O
+debut	O
+novel	O
+Private	B-Misc
+Eyes	I-Misc
+(	O
+私家偵探	O
+)	O
+,	O
+making	O
+him	O
+the	O
+first	O
+Taiwanese	B-NORP
+to	O
+win	O
+the	O
+honor	O
+,	O
+Ink	B-Organization
+Publishing	I-Organization
+Co	I-Organization
+said	O
+on	O
+Tuesday	B-Misc
+.	O
+
+The	O
+Falcon	B-Misc
+Award	I-Misc
+is	O
+presented	O
+annually	O
+to	O
+honor	O
+the	O
+best	O
+hard	O
+-	O
+boiled	O
+mystery	O
+novel	O
+published	O
+in	O
+Japan	B-Location
+.	O
+
+Mystery	O
+writer	O
+and	O
+translator	O
+Jiro	B-Person
+Kimura	I-Person
+,	O
+who	O
+founded	O
+the	O
+society	O
+’	O
+s	O
+Japanese	B-NORP
+chapter	O
+,	O
+announced	O
+the	O
+news	O
+on	O
+Twitter	B-Misc
+.	O
+
+The	O
+Maltese	B-NORP	B-Organization
+Falcon	O	I-Organization
+Society	O	I-Organization
+was	O
+founded	O
+in	O
+San	B-Location
+Francisco	I-Location
+in	O
+1981	B-Misc
+based	O
+on	O
+the	O
+1930	B-Misc
+detective	O
+novel	O
+The	B-Misc
+Maltese	I-Misc	B-NORP
+Falcon	I-Misc
+by	O
+US	B-Location
+writer	O
+Dashiell	B-Person
+Hammett	I-Person
+.	O
+
+The	O
+organization	O
+is	O
+no	O
+longer	O
+active	O
+in	O
+the	O
+US	B-Location
+,	O
+but	O
+the	O
+Japanese	B-NORP
+chapter	O
+has	O
+been	O
+active	O
+since	O
+1982	B-Misc
+.	O
+
+The	O
+winners	O
+of	O
+the	O
+award	O
+are	O
+masters	O
+of	O
+contemporary	O
+mystery	O
+novels	O
+,	O
+such	O
+as	O
+US	B-Location
+crime	O
+writer	O
+Lawrence	B-Person
+Block	I-Person
+,	O
+who	O
+has	O
+received	O
+the	O
+award	O
+twice	O
+for	O
+When	B-Misc
+the	I-Misc
+Sacred	I-Misc
+Ginmill	I-Misc
+Closes	I-Misc
+and	O
+A	B-Misc
+Ticket	I-Misc
+to	I-Misc
+the	I-Misc
+Boneyard	I-Misc
+,	O
+the	O
+publisher	O
+said	O
+.	O
+
+US	B-Location
+mystery	O
+authors	O
+Michel	B-Person
+Connelly	I-Person
+,	O
+Robert	B-Person
+B	I-Person
+.	I-Person
+Parker	I-Person
+,	O
+Sue	B-Person
+Grafton	I-Person
+and	O
+Don	B-Person
+Winslow	I-Person
+have	O
+won	O
+Falcon	B-Misc
+Awards	I-Misc
+from	O
+the	O
+Japanese	B-NORP
+chapter	O
+.	O
+
+Private	B-Misc
+Eyes	I-Misc
+tells	O
+the	O
+story	O
+of	O
+a	O
+former	O
+professor	O
+who	O
+becomes	O
+a	O
+private	O
+detective	O
+.	O
+It	O
+became	O
+a	O
+literary	O
+sensation	O
+when	O
+it	O
+came	O
+out	O
+in	O
+2011	B-Misc
+,	O
+winning	O
+almost	O
+every	O
+major	O
+literary	O
+award	O
+in	O
+Taiwan	B-Location
+that	O
+year	O
+,	O
+including	O
+the	O
+China	B-Location	B-Misc
+Times	O	I-Misc
+Open	O	I-Misc
+Book	O	I-Misc
+Award	O	I-Misc
+and	O
+Asia	B-Location	B-Misc
+Weekly	O	I-Misc
+Top	O	I-Misc
+10	O	I-Misc
+Chinese	O	I-Misc	B-NORP
+Novel	O	I-Misc
+of	O	I-Misc
+the	O	I-Misc
+Year	O	I-Misc
+.	O
+
+It	O
+also	O
+won	O
+the	O
+2012	B-Misc
+Taipei	I-Misc	B-Location
+Book	I-Misc
+Fair	I-Misc
+Award	I-Misc
+for	I-Misc
+Fiction	I-Misc
+and	O
+was	O
+later	O
+translated	O
+into	O
+French	B-NORP
+,	O
+Japanese	B-NORP
+,	O
+Italian	B-NORP
+,	O
+Turkish	B-NORP
+and	O
+Korean	B-NORP
+.	O
+
+Chi	B-Person
+’	O
+s	O
+contemporary	O
+detective	O
+story	O
+last	O
+month	O
+also	O
+won	O
+the	O
+Honkaku	B-Misc
+Mystery	I-Misc
+Award	I-Misc
+,	O
+which	O
+honors	O
+best	O
+works	O
+of	O
+mystery	O
+fiction	O
+published	O
+over	O
+the	O
+previous	O
+year	O
+in	O
+Japan	B-Location
+.	O
+
+Last	O
+year	O
+,	O
+Chi	B-Person
+published	O
+a	O
+sequel	O
+,	O
+titled	O
+DV	B-Misc
+8	I-Misc
+:	I-Misc
+Private	I-Misc
+Eyes	I-Misc
+2	I-Misc
+(	O
+DV	O
+8	O
+：私家偵探	O
+2	O
+)	O
+

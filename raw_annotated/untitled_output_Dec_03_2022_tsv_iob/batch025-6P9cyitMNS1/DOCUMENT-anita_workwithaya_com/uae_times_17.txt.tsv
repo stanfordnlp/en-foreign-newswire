@@ -1,0 +1,123 @@
+https://www.khaleejtimes.com/crime/uae-police-arrest-group-for-fighting-at-shopping-mall-after-video-goes-viral	O
+
+A	O
+group	O
+of	O
+people	O
+who	O
+were	O
+engaged	O
+in	O
+a	O
+heated	O
+argument	O
+in	O
+a	O
+shopping	O
+mall	O
+in	O
+Ras	B-Location
+Al	I-Location
+Khaimah	I-Location
+has	O
+been	O
+arrested	O
+.	O
+
+Ras	B-Location	B-Organization
+Al	I-Location	I-Organization
+Khaimah	I-Location	I-Organization
+Police	O	I-Organization
+detained	O
+the	O
+suspects	O
+after	O
+a	O
+video	O
+of	O
+the	O
+group	O
+fighting	O
+in	O
+public	O
+spread	O
+on	O
+social	O
+media	O
+.	O
+
+Police	O
+have	O
+also	O
+arrested	O
+the	O
+person	O
+who	O
+filmed	O
+the	O
+incident	O
+and	O
+published	O
+it	O
+on	O
+social	O
+media	O
+.	O
+
+All	O
+suspects	O
+have	O
+been	O
+referred	O
+to	O
+Ras	B-Location
+Al	I-Location
+Khaimah	I-Location
+'s	O
+Public	B-Organization
+Prosecution	I-Organization
+for	O
+further	O
+action	O
+.	O
+
+Ras	B-Location	B-Organization
+Al	I-Location	I-Organization
+Khaimah	I-Location	I-Organization
+Police	O	I-Organization
+said	O
+it	O
+has	O
+repeatedly	O
+warned	O
+residents	O
+against	O
+disturbing	O
+public	O
+peace	O
+by	O
+initiating	O
+quarrels	O
+or	O
+publishing	O
+and	O
+circulating	O
+videos	O
+.	O
+They	O
+are	O
+considered	O
+a	O
+violation	O
+of	O
+privacy	O
+,	O
+defamation	O
+and	O
+a	O
+transgression	O
+of	O
+public	O
+morals	O
+.	O
+

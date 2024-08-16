@@ -1,0 +1,2435 @@
+https://ticotimes.net/2022/07/19/a-brief-history-of-costa-ricas-national-park-system	O
+
+Costa	B-Location
+Rica	I-Location
+’	O
+s	O
+National	B-Organization
+Park	I-Organization
+System	I-Organization
+was	O
+created	O
+in	O
+1970	B-Date
+with	O
+efforts	O
+to	O
+protect	O
+and	O
+conserve	O
+what	O
+is	O
+considered	O
+to	O
+be	O
+one	O
+of	O
+the	O
+country	O
+’	O
+s	O
+ultimate	O
+treasures	O
+,	O
+its	O
+extensive	O
+biodiversity	O
+.	O
+From	O
+dense	O
+rainforests	O
+,	O
+wetlands	O
+,	O
+and	O
+magnificent	O
+volcanoes	O
+to	O
+its	O
+waters	O
+full	O
+of	O
+marine	O
+life	O
+and	O
+coral	O
+reefs	O
+the	O
+country	O
+strives	O
+for	O
+the	O
+preservation	O
+of	O
+its	O
+natural	O
+wonders	O
+.	O
+
+Costa	B-Location
+Rica	I-Location
+is	O
+considered	O
+to	O
+be	O
+one	O
+of	O
+the	O
+most	O
+biodiverse	O
+places	O
+on	O
+the	O
+planet	O
+hosting	O
+5	O
+%	O
+of	O
+the	O
+world	O
+’	O
+s	O
+biodiversity	O
+.	O
+This	O
+is	O
+truly	O
+remarkable	O
+as	O
+the	O
+country	O
+only	O
+makes	O
+up	O
+.	O
+03	O
+%	O
+of	O
+the	O
+world	O
+’	O
+s	O
+entire	O
+landmass	O
+.	O
+
+Biologists	O
+,	O
+conservationists	O
+,	O
+and	O
+advocates	O
+recognized	O
+that	O
+measures	O
+needed	O
+to	O
+be	O
+put	O
+in	O
+place	O
+before	O
+all	O
+was	O
+deforested	O
+and	O
+its	O
+unique	O
+wildlife	O
+and	O
+native	O
+species	O
+became	O
+extinct	O
+.	O
+That	O
+Costa	B-Location
+Rica	I-Location
+couldn	O
+’	O
+t	O
+afford	O
+to	O
+lose	O
+one	O
+of	O
+the	O
+great	O
+things	O
+that	O
+made	O
+the	O
+country	O
+stand	O
+out	O
+from	O
+the	O
+others	O
+.	O
+
+Through	O
+the	O
+years	O
+a	O
+movement	O
+toward	O
+conservation	O
+began	O
+in	O
+the	O
+country	O
+with	O
+the	O
+help	O
+of	O
+international	O
+residents	O
+Nicolas	B-Person
+Wessberg	I-Person
+and	O
+Karen	B-Person
+Mogensen	I-Person
+.	O
+The	O
+pioneers	O
+of	O
+the	O
+movement	O
+continued	O
+on	O
+the	O
+pursuit	O
+and	O
+through	O
+the	O
+years	O
+conservationists	O
+rallied	O
+to	O
+bring	O
+awareness	O
+of	O
+the	O
+immeasurable	O
+benefits	O
+that	O
+protecting	O
+the	O
+areas	O
+would	O
+bring	O
+.	O
+
+However	O
+,	O
+it	O
+didn	O
+’	O
+t	O
+come	O
+without	O
+its	O
+challenges	O
+as	O
+often	O
+the	O
+exploitation	O
+of	O
+natural	O
+resources	O
+is	O
+at	O
+the	O
+forefront	O
+of	O
+other	O
+’	O
+s	O
+agendas	O
+from	O
+hunting	O
+,	O
+gold	O
+panning	O
+,	O
+and	O
+deforestation	O
+.	O
+Alvaro	B-Person
+Ugalde	I-Person
+,	O
+recognized	O
+as	O
+the	O
+father	O
+of	O
+the	O
+national	O
+parks	O
+in	O
+Costa	B-Location
+Rica	I-Location
+played	O
+a	O
+significant	O
+role	O
+in	O
+what	O
+stands	O
+protected	O
+today	O
+alongside	O
+Mario	B-Person
+Boza	I-Person
+.	O
+Together	O
+they	O
+are	O
+seen	O
+as	O
+the	O
+key	O
+influential	O
+figures	O
+creating	O
+the	O
+foundation	O
+of	O
+the	O
+national	O
+parks	O
+.	O
+
+One	O
+of	O
+Alvaro	B-Person
+Ugalde	I-Person
+leading	O
+passions	O
+was	O
+with	O
+Rincón	B-Person
+de	I-Person
+la	I-Person
+Vieja	I-Person
+.	O
+He	O
+campaigned	O
+against	O
+the	O
+Costa	B-Organization	B-NORP
+Rican	I-Organization	I-NORP
+Electricity	I-Organization
+Institute	I-Organization
+’	O
+s	O
+(	O
+ICE	B-Organization
+)	O
+plan	O
+for	O
+the	O
+exploitation	O
+of	O
+geothermal	O
+energy	O
+and	O
+instead	O
+supporting	O
+the	O
+idea	O
+of	O
+the	O
+conversion	O
+of	O
+the	O
+watersheds	O
+.	O
+Advocating	O
+for	O
+Corcovado	B-Location
+National	I-Location
+Park	I-Location
+was	O
+at	O
+the	O
+forefront	O
+of	O
+his	O
+focus	O
+with	O
+concerns	O
+of	O
+gold	O
+panners	O
+and	O
+impending	O
+developers	O
+,	O
+threatening	O
+the	O
+biological	O
+integrity	O
+of	O
+the	O
+park	O
+,	O
+a	O
+place	O
+known	O
+to	O
+be	O
+one	O
+of	O
+the	O
+most	O
+diverse	O
+places	O
+in	O
+the	O
+world	O
+.	O
+
+With	O
+passion	O
+,	O
+they	O
+persevered	O
+to	O
+prove	O
+that	O
+it	O
+was	O
+in	O
+their	O
+best	O
+interest	O
+to	O
+put	O
+forth	O
+conservation	O
+efforts	O
+leading	O
+to	O
+sustainable	O
+income	O
+for	O
+the	O
+economy	O
+.	O
+He	O
+dedicated	O
+his	O
+time	O
+to	O
+educating	O
+people	O
+about	O
+why	O
+preservation	O
+was	O
+so	O
+important	O
+for	O
+the	O
+land	O
+,	O
+country	O
+,	O
+and	O
+the	O
+impact	O
+on	O
+future	O
+generations	O
+.	O
+That	O
+exploiting	O
+the	O
+natural	O
+resource	O
+of	O
+Costa	B-Location
+Rica	I-Location
+’	O
+s	O
+remarkable	O
+beauty	O
+would	O
+only	O
+be	O
+detrimental	O
+in	O
+the	O
+long	O
+run	O
+and	O
+to	O
+the	O
+extensive	O
+wildlife	O
+species	O
+surviving	O
+within	O
+.	O
+
+In	O
+the	O
+end	O
+,	O
+the	O
+decision	O
+to	O
+continue	O
+to	O
+protect	O
+and	O
+preserve	O
+the	O
+diverse	O
+ecosystems	O
+as	O
+opposed	O
+to	O
+exhausting	O
+its	O
+natural	O
+resources	O
+proved	O
+to	O
+be	O
+beyond	O
+beneficial	O
+to	O
+Costa	B-Location
+Rica	I-Location
+.	O
+Considered	O
+to	O
+be	O
+the	O
+birthplace	O
+of	O
+eco	O
+-	O
+tourism	O
+the	O
+country	O
+has	O
+become	O
+world	O
+-	O
+renowned	O
+for	O
+its	O
+harmony	O
+with	O
+nature	O
+and	O
+as	O
+a	O
+leader	O
+in	O
+conservation	O
+.	O
+Over	O
+1	O
+million	O
+visitors	O
+traveled	O
+to	O
+Costa	B-Location
+Rica	I-Location
+in	O
+2021	B-Date
+according	O
+to	O
+Tourism	B-Organization
+Board	I-Organization
+(	O
+ICT	B-Organization
+)	O
+data	O
+attracting	O
+people	O
+from	O
+all	O
+over	O
+the	O
+world	O
+to	O
+marvel	O
+at	O
+its	O
+outstanding	O
+biodiversity	O
+.	O
+
+In	O
+1970	B-Date
+,	O
+it	O
+was	O
+Volcan	B-Location
+Poas	I-Location
+National	I-Location
+Park	I-Location
+that	O
+became	O
+Costa	B-Location
+Rica	I-Location
+’	O
+s	O
+first	O
+national	O
+park	O
+and	O
+led	O
+the	O
+way	O
+for	O
+more	O
+of	O
+its	O
+ecological	O
+zones	O
+to	O
+become	O
+established	O
+as	O
+national	O
+parks	O
+.	O
+Alongside	O
+Poas	B-Location
+in	O
+1970	B-Date
+by	O
+executive	O
+decree	O
+was	O
+Cahuita	B-Location
+in	O
+protecting	O
+its	O
+coral	O
+reef	O
+and	O
+Tortuguero	B-Location
+safeguarding	O
+the	O
+endangered	O
+nesting	O
+sea	O
+turtles	O
+and	O
+manatee	O
+’	O
+s	O
+marine	O
+habitat	O
+.	O
+
+In	O
+1994	B-Date
+,	O
+the	O
+National	B-Organization
+System	I-Organization
+of	I-Organization
+Conservation	I-Organization
+Areas	I-Organization
+known	O
+as	O
+SINAC	B-Organization
+was	O
+established	O
+,	O
+a	O
+department	O
+of	O
+Costa	B-Location
+Rica	I-Location
+’	O
+s	O
+Ministry	B-Organization
+of	I-Organization
+Environment	I-Organization
+and	I-Organization
+Energy	I-Organization
+(	O
+MINAE	B-Organization
+)	O
+,	O
+and	O
+governs	O
+the	O
+National	O
+Parks	O
+System	O
+.	O
+
+The	O
+national	O
+parks	O
+span	O
+the	O
+entire	O
+country	O
+encompassing	O
+a	O
+diversity	O
+of	O
+ecosystems	O
+with	O
+approximately	O
+28	O
+%	O
+of	O
+the	O
+country	O
+under	O
+preservation	O
+as	O
+a	O
+national	O
+park	O
+or	O
+reserve	O
+.	O
+The	O
+national	O
+parks	O
+play	O
+a	O
+very	O
+important	O
+role	O
+in	O
+reducing	O
+poaching	O
+and	O
+the	O
+potential	O
+loss	O
+of	O
+species	O
+,	O
+saving	O
+the	O
+forests	O
+from	O
+deforestation	O
+,	O
+maintaining	O
+wildlife	O
+and	O
+plant	O
+corridors	O
+,	O
+and	O
+educating	O
+visitors	O
+.	O
+
+Founded	O
+in	O
+1972	B-Date
+it	O
+is	O
+hard	O
+to	O
+believe	O
+that	O
+Manuel	B-Location	B-Person
+Antonio	I-Location	I-Person
+National	I-Location
+Park	I-Location
+is	O
+the	O
+country	O
+’	O
+s	O
+smallest	O
+national	O
+park	O
+with	O
+its	O
+world	O
+-	O
+famous	O
+beaches	O
+but	O
+surprisingly	O
+enough	O
+it	O
+is	O
+only	O
+7.66	O
+square	O
+miles	O
+.	O
+On	O
+the	O
+far	O
+end	O
+of	O
+the	O
+country	O
+,	O
+you	O
+will	O
+find	O
+the	O
+largest	O
+of	O
+the	O
+national	O
+parks	O
+,	O
+Corcovado	B-Location
+National	I-Location
+Park	I-Location
+holding	O
+2.5	O
+%	O
+of	O
+the	O
+world	O
+’	O
+s	O
+biodiversity	O
+.	O
+
+There	O
+is	O
+not	O
+one	O
+that	O
+stands	O
+out	O
+as	O
+the	O
+best	O
+national	O
+park	O
+in	O
+Costa	B-Location
+Rica	I-Location
+,	O
+it	O
+all	O
+depends	O
+on	O
+who	O
+you	O
+speak	O
+to	O
+,	O
+they	O
+are	O
+all	O
+biologically	O
+diverse	O
+treasures	O
+in	O
+their	O
+own	O
+right	O
+.	O
+For	O
+those	O
+that	O
+want	O
+one	O
+which	O
+is	O
+off	O
+the	O
+beaten	O
+path	O
+then	O
+Tortuguero	B-Location
+National	I-Location
+Park	I-Location
+may	O
+be	O
+the	O
+one	O
+for	O
+you	O
+having	O
+to	O
+adventure	O
+there	O
+by	O
+boat	O
+or	O
+plane	O
+.	O
+Or	O
+perhaps	O
+you	O
+want	O
+to	O
+spend	O
+time	O
+on	O
+Costa	B-Location
+Rica	I-Location
+’	O
+s	O
+golden	O
+coast	O
+and	O
+have	O
+sights	O
+of	O
+one	O
+of	O
+the	O
+country	O
+’	O
+s	O
+most	O
+active	O
+volcanoes	O
+at	O
+Rincón	B-Location
+de	I-Location
+la	I-Location
+Vieja	I-Location
+National	I-Location
+Park	I-Location
+or	O
+the	O
+ominous	O
+caves	O
+in	O
+Barra	B-Location
+Honda	I-Location
+National	I-Location
+Park	I-Location
+.	O
+
+When	O
+planning	O
+to	O
+explore	O
+one	O
+of	O
+Costa	B-Location
+Rica	I-Location
+’	O
+s	O
+national	O
+parks	O
+it	O
+is	O
+important	O
+to	O
+visit	O
+their	O
+site	O
+first	O
+as	O
+not	O
+all	O
+operate	O
+the	O
+same	O
+.	O
+Most	O
+now	O
+are	O
+operating	O
+seven	O
+days	O
+a	O
+week	O
+from	O
+8 am	O
+until	O
+4 pm	O
+,	O
+with	O
+the	O
+last	O
+entrance	O
+at	O
+3 pm.	O
+However	O
+,	O
+hours	O
+do	O
+change	O
+according	O
+to	O
+the	O
+rainy	O
+season	O
+in	O
+some	O
+locations	O
+and	O
+different	O
+sectors	O
+within	O
+the	O
+park	O
+can	O
+have	O
+differing	O
+hours	O
+.	O
+
+When	O
+referencing	O
+their	O
+sites	O
+,	O
+you	O
+can	O
+also	O
+find	O
+out	O
+if	O
+you	O
+can	O
+purchase	O
+your	O
+entry	O
+at	O
+the	O
+park	O
+or	O
+if	O
+online	O
+is	O
+required	O
+such	O
+as	O
+Volcan	B-Location
+Poas	I-Location
+National	I-Location
+Park	I-Location
+.	O
+
+Entrance	O
+fees	O
+will	O
+also	O
+differ	O
+whether	O
+you	O
+are	O
+a	O
+national	O
+or	O
+a	O
+foreigner	O
+.	O
+Prices	O
+for	O
+foreigners	O
+can	O
+vary	O
+from	O
+as	O
+low	O
+as	O
+$	B-Money
+5	I-Money
+to	O
+$	B-Money
+15	I-Money
+per	O
+person	O
+.	O
+Below	O
+is	O
+a	O
+list	O
+of	O
+the	O
+current	O
+National	O
+Parks	O
+in	O
+Costa	B-Location
+Rica	I-Location
+with	O
+their	O
+hours	O
+of	O
+operation	O
+and	O
+admission	O
+prices	O
+provided	O
+by	O
+the	O
+ICT	B-Organization
+.	O
+Do	O
+note	O
+that	O
+this	O
+is	O
+subject	O
+to	O
+change	O
+.	O
+
+Cartago	B-Misc
+
+Guayabo	B-Misc
+National	I-Misc
+Monument	I-Misc
+
+Hours	O
+of	O
+operation	O
+:	O
+
+Seven	O
+days	O
+a	O
+week	O
+from	O
+8:00 a.m.	O
+to	O
+3:30 p.m.	O
+
+Costa	B-NORP
+Ricans	I-NORP
+:	O
+₡	B-Money
+1000	I-Money
+Foreigners	O
+:	O
+$	B-Money
+5	I-Money
+
+Río	B-Location
+Macho	I-Location
+Forest	I-Location
+Reserve	I-Location
+
+Seven	O
+days	O
+a	O
+week	O
+from	O
+8:00 a.m.	O
+to	O
+4:00 p.m.	O
+
+Costa	B-NORP
+Ricans	I-NORP
+:	O
+₡	B-Money
+800	I-Money
+Foreigners	O
+:	O
+$	B-Money
+5	I-Money
+
+Barbilla	B-Location
+National	I-Location
+Park	I-Location
+
+Seven	O
+days	O
+a	O
+week	O
+from	O
+8:00 a.m.	O
+to	O
+4:00 p.m.	O
+
+Costa	B-NORP
+Ricans	I-NORP
+:	O
+₡	B-Money
+1000	I-Money
+Foreigners	O
+:	O
+$	B-Money
+5	I-Money
+
+Volcán	B-Location
+Irazú	I-Location
+National	I-Location
+Park	I-Location
+(	O
+Sector	B-Location
+Cráteres	I-Location
+)	O
+
+Seven	O
+days	O
+a	O
+week	O
+from	O
+8:00 a.m.	O
+to	O
+3:30 p.m.	O
+
+Costa	B-NORP
+Ricans	I-NORP
+:	O
+₡	B-Money
+1000	I-Money
+Foreigners	O
+:	O
+$	B-Money
+15	I-Money
+
+Irazú	B-Location
+Volcano	I-Location
+National	I-Location
+Park	I-Location
+(	O
+Sector	B-Location
+Prusia	I-Location
+)	O
+
+Seven	O
+days	O
+a	O
+week	O
+from	O
+8:00 a.m.	O
+to	O
+3:30 p.m.	O
+
+Costa	B-NORP
+Ricans	I-NORP
+:	O
+₡	B-Money
+1000	I-Money
+Foreigners	O
+:	O
+$	B-Money
+15	I-Money
+
+Volcán	B-Location
+Turrialba	I-Location
+National	I-Location
+Park	I-Location
+
+Closed	O
+to	O
+the	O
+public	O
+due	O
+to	O
+volcanic	O
+eruptions	O
+.	O
+
+Tapantí	B-Location
+-	I-Location
+Macizo	I-Location
+Cerro	I-Location
+de	I-Location
+la	I-Location
+Muerte	I-Location
+National	I-Location
+Park	I-Location
+
+Seven	O
+days	O
+a	O
+week	O
+from	O
+8:00 a.m.	O
+to	O
+4:00 p.m.	O
+
+Costa	B-NORP
+Ricans	I-NORP
+:	O
+₡	B-Money
+800	I-Money
+Foreigners	O
+:	O
+$	B-Money
+10	I-Money
+
+Limón	B-Location
+
+Hitoy	B-Location
+Cerere	I-Location
+Biological	I-Location
+Reserve	I-Location
+
+Seven	O
+days	O
+a	O
+week	O
+from	O
+8:00 a.m.	O
+to	O
+4:00 p.m.	O
+
+Costa	B-NORP
+Ricans	I-NORP
+:	O
+₡	B-Money
+1000	I-Money
+Foreigners	O
+:	O
+$	B-Money
+5	I-Money
+
+Limón	B-Location
+/	I-Location
+Panama	I-Location
+Border	I-Location
+
+La	B-Location
+Amistad	I-Location
+National	I-Location
+Park	I-Location
+
+Seven	O
+days	O
+a	O
+week	O
+from	O
+8:00 a.m.	O
+to	O
+4:00 p.m.	O
+
+Costa	B-NORP
+Ricans	I-NORP
+:	O
+₡	B-Money
+800	I-Money
+Foreigners	O
+:	O
+$	B-Money
+10	I-Money
+
+Gandoca	B-Location
+-	O
+Manzanillo	B-Location
+Wildlife	I-Location
+Refuge	I-Location
+
+Seven	O
+days	O
+a	O
+week	O
+.	O
+Free	O
+admission	O
+.	O
+
+Tortuguero	B-Location
+National	I-Location
+Park	I-Location
+–	O
+Sector	B-Location
+Cuatro	I-Location
+Esquinas	I-Location
+
+Seven	O
+days	O
+a	O
+week	O
+from	O
+6:00 a.m.	O
+to	O
+4:00 p.m.	O
+
+Costa	B-NORP
+Ricans	I-NORP
+:	O
+₡	B-Money
+1000	I-Money
+Foreigners	O
+:	O
+$	B-Money
+15	I-Money
+
+Tortuguero	B-Location
+National	I-Location
+Park	I-Location
+–	O
+Sector	B-Location
+Jalova	I-Location
+
+Seven	O
+days	O
+a	O
+week	O
+from	O
+6:00 a.m.	O
+to	O
+4:00 p.m.	O
+
+Costa	B-NORP
+Ricans	I-NORP
+:	O
+₡	B-Money
+1000	I-Money
+Foreigners	O
+:	O
+$	B-Money
+15	I-Money
+
+Cahuita	B-Location
+National	I-Location
+Park	I-Location
+–	O
+Sector	B-Location
+Puerto	I-Location
+Vargas	I-Location
+
+Seven	O
+days	O
+a	O
+week	O
+from	O
+8:00 a.m.	O
+to	O
+4:00 p.m.	O
+,	O
+closed	O
+on	O
+the	O
+first	O
+Monday	O
+of	O
+the	O
+month	O
+
+Costa	B-NORP
+Ricans	I-NORP
+:	O
+₡	B-Money
+1000	I-Money
+Foreigners	O
+:	O
+$	B-Money
+5	I-Money
+
+Cahuita	B-Location
+National	I-Location
+Park	I-Location
+–	O
+Sector	B-Location
+Playa	I-Location
+Blanca	I-Location
+
+Seven	O
+days	O
+a	O
+week	O
+from	O
+6:00 a.m.	O
+to	O
+5:00 p.m.	O
+
+Voluntary	O
+fee	O
+
+Puntarenas	B-Location
+
+Carara	B-Location
+National	I-Location
+Park	I-Location
+
+Seven	O
+days	O
+a	O
+week	O
+.	O
+7:00 a.m.	O
+to	O
+4:00 p.m.	O
+during	O
+the	O
+dry	O
+season	O
+(	O
+December	B-Date
+to	I-Date
+April	I-Date
+)	O
+and	O
+8:00 a.m.	O
+to	O
+4:00 p.m.	O
+during	O
+the	O
+rainy	O
+season	O
+(	O
+May	B-Date
+to	I-Date
+November	I-Date
+)	O
+.	O
+
+Costa	B-NORP
+Ricans	I-NORP
+:	O
+₡	B-Money
+1000	I-Money
+Foreigners	O
+:	O
+$	B-Money
+10	I-Money
+
+Cabo	B-Location
+Blanco	I-Location
+Absolute	I-Location
+Natural	I-Location
+Reserve	I-Location
+
+Wednesday	B-Date
+-	O
+Sunday	B-Date
+from	O
+8:00 a.m.	O
+to	O
+4:00 p.m.	O
+
+Costa	B-NORP
+Ricans	I-NORP
+:	O
+₡	B-Money
+1600	I-Money
+Foreigners	O
+:	O
+$	B-Money
+12	I-Money
+
+Golfito	B-Location
+Wildlife	I-Location
+Reserve	I-Location
+
+Seven	O
+days	O
+a	O
+week	O
+from	O
+8:00 a.m.	O
+to	O
+4:00 p.m.	O
+
+Costa	B-NORP
+Ricans	I-NORP
+:	O
+₡	B-Money
+800	I-Money
+Foreigners	O
+:	O
+$	B-Money
+10	I-Money
+
+Manuel	B-Location	B-Person
+Antonio	I-Location	I-Person
+National	I-Location
+Park	I-Location
+
+Open	O
+seven	O
+days	O
+a	O
+week	O
+during	O
+high	O
+period	O
+(	O
+December	B-Date
+to	I-Date
+April	I-Date
+)	O
+.	O
+
+Closed	O
+Mondays	B-Date
+during	O
+the	O
+low	O
+period	O
+(	O
+July	B-Date
+to	I-Date
+November	I-Date
+)	O
+.	O
+Open	O
+from	O
+7:00 a.m.	O
+to	O
+4:00 p.m.	O
+
+Costa	B-NORP
+Ricans	I-NORP
+:	O
+₡	B-Money
+1600	I-Money
+Foreigners	O
+:	O
+$	B-Money
+16	I-Money
+
+Corcovado	B-Location
+National	I-Location
+Park	I-Location
+–	O
+Sector	B-Location
+Leona	I-Location
+
+Seven	O
+days	O
+a	O
+week	O
+from	O
+7:00 a.m.	O
+to	O
+4:00 p.m.	O
+
+Costa	B-NORP
+Ricans	I-NORP
+:	O
+₡	B-Money
+1600	I-Money
+Foreigners	O
+:	O
+$	B-Money
+15	I-Money
+
+Corcovado	B-Location
+National	I-Location
+Park	I-Location
+–	O
+Sector	B-Location
+San	I-Location
+Pedrillo	I-Location
+
+Seven	O
+days	O
+a	O
+week	O
+from	O
+7:00 a.m.	O
+to	O
+4:00 p.m.	O
+
+Costa	B-NORP
+Ricans	I-NORP
+:	O
+₡	B-Money
+1600	I-Money
+Foreigners	O
+:	O
+$	B-Money
+15	I-Money
+
+Corcovado	B-Location
+National	I-Location
+Park	I-Location
+–	O
+Sector	B-Location
+Los	I-Location
+Patos	I-Location
+
+Seven	O
+days	O
+a	O
+week	O
+from	O
+7:00 a.m.	O
+to	O
+4:00 p.m.	O
+
+Costa	B-NORP
+Ricans	I-NORP
+:	O
+₡	B-Money
+1600	I-Money
+Foreigners	O
+:	O
+$	B-Money
+15	I-Money
+
+Corcovado	B-Location
+National	I-Location
+Park	I-Location
+–	O
+Sector	B-Location
+Sirena	I-Location
+
+Seven	O
+days	O
+a	O
+week	O
+from	O
+7:00 a.m.	O
+to	O
+4:00 p.m.	O
+Closed	O
+during	O
+the	O
+entire	O
+month	O
+of	O
+October	B-Date
+due	O
+to	O
+heavy	O
+rains	O
+and	O
+for	O
+maintenance	O
+.	O
+
+Costa	B-NORP
+Ricans	I-NORP
+:	O
+₡	B-Money
+1600	I-Money
+Foreigners	O
+:	O
+$	B-Money
+15	I-Money
+
+Marino	B-Location	B-Person
+Ballena	I-Location	I-Person
+National	I-Location
+Park	I-Location
+–	O
+Sector	B-Location
+Piñuelas	I-Location
+
+Seven	O
+days	O
+a	O
+week	O
+from	O
+7:00 a.m.	O
+to	O
+4:00 p.m.	O
+
+Costa	B-NORP
+Ricans	I-NORP
+:	O
+₡	B-Money
+1000	I-Money
+Foreigners	O
+:	O
+$	B-Money
+6	I-Money
+
+Marino	B-Location	B-Person
+Ballena	I-Location	I-Person
+National	I-Location
+Park	I-Location
+–	O
+Sector	B-Location
+Ballena	I-Location
+
+Seven	O
+days	O
+a	O
+week	O
+from	O
+7:00 a.m.	O
+to	O
+4:00 p.m.	O
+
+Costa	B-NORP
+Ricans	I-NORP
+:	O
+₡	B-Money
+1000	I-Money
+Foreigners	O
+:	O
+$	B-Money
+6	I-Money
+
+Marino	B-Location	B-Person
+Ballena	I-Location	I-Person
+National	I-Location
+Park	I-Location
+–	O
+Sector	B-Location
+Colonia	I-Location
+
+Seven	O
+days	O
+a	O
+week	O
+from	O
+7:00 a.m.	O
+to	O
+4:00 p.m.	O
+
+Costa	B-NORP
+Ricans	I-NORP
+:	O
+₡	B-Money
+1000	I-Money
+Foreigners	O
+:	O
+$	B-Money
+6	I-Money
+
+Marino	B-Location	B-Person
+Ballena	I-Location	I-Person
+National	I-Location
+Park	I-Location
+–	O
+Sector	B-Location
+Uvita	I-Location
+
+Seven	O
+days	O
+a	O
+week	O
+from	O
+7:00 a.m.	O
+to	O
+4:00 p.m.	O
+
+Costa	B-NORP
+Ricans	I-NORP
+:	O
+₡	B-Money
+1000	I-Money
+Foreigners	O
+:	O
+$	B-Money
+6	I-Money
+
+Piedras	B-Location
+Blancas	I-Location
+National	I-Location
+Park	I-Location
+–	O
+Sector	B-Location
+El	I-Location
+Bonito	I-Location
+
+Seven	O
+days	O
+a	O
+week	O
+from	O
+8:00 a.m.	O
+to	O
+4:00 p.m.	O
+
+Costa	B-NORP
+Ricans	I-NORP
+:	O
+₡	B-Money
+800	I-Money
+Foreigners	O
+:	O
+$	B-Money
+10	I-Money
+
+Isla	B-Location
+del	I-Location
+Coco	I-Location
+National	I-Location
+Park	I-Location
+
+Seven	O
+days	O
+a	O
+week	O
+from	O
+8:00 a.m.	O
+to	O
+5:00 p.m.	O
+
+Costa	B-NORP
+Ricans	I-NORP
+$	B-Money
+25	I-Money
+per	O
+day	O
+Foreigners	O
+:	O
+$	B-Money
+50	I-Money
+per	O
+day	O
+
+San	B-Location
+José	I-Location
+
+La	B-Location
+Cangreja	I-Location
+National	I-Location
+Park	I-Location
+
+Seven	O
+days	O
+a	O
+week	O
+from	O
+8:00 a.m.	O
+to	O
+4:00 p.m.	O
+
+Costa	B-NORP
+Ricans	I-NORP
+:	O
+₡	B-Money
+1000	I-Money
+Foreigners	O
+:	O
+$	B-Money
+10	I-Money
+
+Los	B-Location
+Quetzales	I-Location
+National	I-Location
+Park	I-Location
+
+Seven	O
+days	O
+a	O
+week	O
+from	O
+7:30 p.m.	O
+to	O
+3:30 p.m.	O
+
+Costa	B-NORP
+Ricans	I-NORP
+:	O
+₡	B-Money
+1000	I-Money
+Foreigners	O
+:	O
+$	B-Money
+10	I-Money
+
+Braulio	B-Location
+Carrillo	I-Location
+National	I-Location
+Park	I-Location
+–	O
+Sector	B-Location
+Quebrada	I-Location
+González	I-Location
+
+Seven	O
+days	O
+a	O
+week	O
+from	O
+8:00 a.m.	O
+to	O
+3:30 p.m.	O
+
+Costa	B-NORP
+Ricans	I-NORP
+:	O
+₡	B-Money
+1000	I-Money
+Foreigners	O
+:	O
+$	B-Money
+12	I-Money
+
+Braulio	B-Location
+Carrillo	I-Location
+National	I-Location
+Park	I-Location
+–	O
+Sector	B-Location
+Volcán	I-Location
+Barva	I-Location
+
+Seven	O
+days	O
+a	O
+week	O
+from	O
+8:00 a.m.	O
+to	O
+3:30 p.m.	O
+
+Costa	B-NORP
+Ricans	I-NORP
+:	O
+₡	B-Money
+1000	I-Money
+Foreigners	O
+:	O
+$	B-Money
+12	I-Money
+
+Chirripó	B-Location
+National	I-Location
+Park	I-Location
+
+Seven	O
+days	O
+a	O
+week	O
+from	O
+8:00 a.m.	O
+to	O
+4:00 p.m.	O
+
+Costa	B-NORP
+Ricans	I-NORP
+:	O
+₡	B-Money
+4000	I-Money
+Foreigners	O
+:	O
+$	B-Money
+18	I-Money
+(	O
+by	O
+bank	O
+deposit	O
+)	O
+.	O
+
+Guanacaste	B-Location
+
+Guanacaste	B-Location
+National	I-Location
+Park	I-Location
+
+All	O
+visits	O
+must	O
+be	O
+coordinated	O
+with	O
+the	O
+Santa	B-Organization
+Rosa	I-Organization
+Sector	I-Organization
+
+Costa	B-NORP
+Ricans	I-NORP
+:	O
+₡	B-Money
+1100	I-Money
+Foreigners	O
+:	O
+$	B-Money
+15	I-Money
+
+Rincón	B-Location
+de	I-Location
+la	I-Location
+Vieja	I-Location
+National	I-Location
+Park	I-Location
+–	O
+Sector	B-Location
+Pailas	I-Location
+
+Tuesday	B-Date
+to	O
+Sunday	B-Date
+from	O
+7:00 a.m.	O
+to	O
+3:00 p.m.	O
+
+Costa	B-NORP
+Ricans	I-NORP
+:	O
+₡	B-Money
+1000	I-Money
+Foreigners	O
+:	O
+$	B-Money
+15	I-Money
+
+Rincón	B-Location
+de	I-Location
+la	I-Location
+Vieja	I-Location
+National	I-Location
+Park	I-Location
+–	O
+Sector	B-Location
+Santa	I-Location
+María	I-Location
+
+Seven	O
+days	O
+a	O
+week	O
+from	O
+8:00 a.m.	O
+to	O
+4:00 p.m.	O
+
+Costa	B-NORP
+Ricans	I-NORP
+:	O
+₡	B-Money
+1000	I-Money
+Foreigners	O
+:	O
+$	B-Money
+15	I-Money
+
+Santa	B-Location
+Rosa	I-Location
+National	I-Location
+Park	I-Location
+
+Seven	O
+days	O
+a	O
+week	O
+from	O
+8:00 a.m.	O
+to	O
+4:00 p.m.	O
+
+Costa	B-NORP
+Ricans	I-NORP
+:	O
+₡	B-Money
+1100	I-Money
+Foreigners	O
+:	O
+$	B-Money
+15	I-Money
+
+Ostional	B-Location
+Wildlife	I-Location
+Refuge	I-Location
+
+Seven	O
+days	O
+a	O
+week	O
+from	O
+6:00 p.m.	O
+to	O
+12:00 a.m.	O
+,	O
+except	O
+during	O
+sea	O
+turtle	O
+nesting	O
+season	O
+,	O
+when	O
+the	O
+park	O
+is	O
+open	O
+from	O
+6:00 a.m.	O
+to	O
+12:00 a.m.	O
+
+Costa	B-NORP
+Ricans	I-NORP
+:	O
+₡	B-Money
+1600	I-Money
+Foreigners	O
+:	O
+$	B-Money
+12	I-Money
+
+Bahía	B-Location
+Junquillal	I-Location
+Wildlife	I-Location
+Refuge	I-Location
+
+Seven	O
+days	O
+a	O
+week	O
+from	O
+8:00 a.m.	O
+to	O
+4:00 p.m.	O
+
+Costa	B-NORP
+Ricans	I-NORP
+:	O
+₡	B-Money
+1500	I-Money
+Foreigners	O
+:	O
+$	B-Money
+13	I-Money
+
+Las	B-Location
+Baulas	I-Location
+de	I-Location
+Guanacaste	I-Location
+Marine	I-Location
+National	I-Location
+Park	I-Location
+
+Seven	O
+days	O
+a	O
+week	O
+from	O
+6:00 a.m.	O
+to	O
+6:00 p.m.	O
+
+Costa	B-NORP
+Ricans	I-NORP
+:	O
+₡	B-Money
+1600	I-Money
+Foreigners	O
+:	O
+$	B-Money
+12	I-Money
+
+Barra	B-Location
+Honda	I-Location
+National	I-Location
+Park	I-Location
+
+Seven	O
+days	O
+a	O
+week	O
+from	O
+8:00 a.m.	O
+to	O
+4:00 p.m.	O
+The	O
+caves	O
+can	O
+be	O
+entered	O
+between	O
+8:00 a.m.	O
+and	O
+2:00 p.m.	O
+Costa	B-NORP
+Ricans	I-NORP
+:	O
+₡	B-Money
+1000	I-Money
+Foreigners	O
+:	O
+$	B-Money
+12	I-Money
+
+Diriá	B-Location
+National	I-Location
+Park	I-Location
+
+Seven	O
+days	O
+a	O
+week	O
+from	O
+8:00 a.m.	O
+to	O
+3:00 p.m.	O
+
+Costa	B-NORP
+Ricans	I-NORP
+:	O
+₡	B-Money
+1000	I-Money
+Foreigners	O
+:	O
+$	B-Money
+5	I-Money
+
+Palo	B-Location
+Verde	I-Location
+National	I-Location
+Park	I-Location
+
+Seven	O
+days	O
+a	O
+week	O
+from	O
+8:00 a.m.	O
+to	O
+4:00 p.m.	O
+
+Costa	B-NORP
+Ricans	I-NORP
+:	O
+₡	B-Money
+1000	I-Money
+Foreigners	O
+:	O
+$	B-Money
+12	I-Money
+
+Alajuela	B-Location
+
+Grecia	B-Location
+Forest	I-Location
+Reserve	I-Location
+(	O
+Sector	B-Location
+Bosque	I-Location
+del	I-Location
+Niño	I-Location
+)	O
+
+Seven	O
+days	O
+a	O
+week	O
+from	O
+8:00 a.m.	O
+to	O
+3:30 p.m.	O
+
+Costa	B-NORP
+Ricans	I-NORP
+:	O
+₡	B-Money
+600	I-Money
+Foreigners	O
+:	O
+$	B-Money
+5	I-Money
+
+Alajuela	B-Location
+/	O
+Guanacaste	B-Location
+
+Volcán	B-Location
+Tenorio	I-Location
+National	I-Location
+Park	I-Location
+
+Seven	O
+days	O
+a	O
+week	O
+from	O
+8:00 a.m.	O
+to	O
+2:00 p.m.	O
+,	O
+exit	O
+remains	O
+open	O
+to	O
+4:00 p.m.	O
+
+Costa	B-NORP
+Ricans	I-NORP
+:	O
+₡	B-Money
+800	I-Money
+Foreigners	O
+:	O
+$	B-Money
+12	I-Money
+
+Juan	B-Location
+Castro	I-Location
+Blanco	I-Location
+National	I-Location
+Park	I-Location
+
+*	O
+The	O
+park	O
+is	O
+not	O
+currently	O
+admitting	O
+tourists	O
+.	O
+
+Volcán	B-Location
+Arenal	I-Location
+National	I-Location
+Park	I-Location
+
+Seven	O
+days	O
+a	O
+week	O
+from	O
+8:00 a.m.	O
+to	O
+4:00 p.m.	O
+
+Costa	B-NORP
+Ricans	I-NORP
+:	O
+₡	B-Money
+1000	I-Money
+Foreigners	O
+:	O
+$	B-Money
+15	I-Money
+
+Caño	B-Location
+Negro	I-Location
+Wildlife	I-Location
+Refuge	I-Location
+
+Seven	O
+days	O
+a	O
+week	O
+from	O
+8:00 a.m.	O
+to	O
+4:00 p.m.	O
+
+Costa	B-NORP
+Ricans	I-NORP
+:	O
+₡	B-Money
+800	I-Money
+Foreigners	O
+:	O
+$	B-Money
+5	I-Money
+
+Volcán	B-Location
+Poás	I-Location
+National	I-Location
+Park	I-Location
+
+Seven	O
+days	O
+a	O
+week	O
+from	O
+8:00 a.m.	O
+to	O
+3:30 p.m.	O
+
+Costa	B-NORP
+Ricans	I-NORP
+:	O
+₡	B-Money
+1000	I-Money
+Foreigners	O
+:	O
+$	B-Money
+15	I-Money
+
