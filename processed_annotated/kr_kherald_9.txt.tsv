@@ -1,15 +1,4 @@
-https://www.koreaherald.com/view.php?ud=20220720000323	O
-&	O
-np	O
-=	O
-6	O
-&	O
-mp	O
-=	O
-1	O
-
-Rep	O
-.	O
+Rep.	O
 Kweon	B-Person
 Seong	I-Person
 -	I-Person
@@ -67,8 +56,7 @@ he	O
 pressured	O
 "	O
 PPP	B-Organization
-Rep	O
-.	O
+Rep.	O
 Chang	B-Person
 Je	I-Person
 -	I-Person
@@ -177,6 +165,7 @@ yeol	I-Person
 's	O
 acquaintances	O
 .	O
+
 That	O
 sparked	O
 criticism	O
@@ -215,6 +204,7 @@ the	O
 presidential	O
 office	O
 .	O
+
 I	O
 especially	O
 want	O
@@ -402,7 +392,8 @@ expressions	O
 as	O
 '	O
 putting	O
-pressure'	O
+pressure	O
+'	O
 and	O
 '	O
 how	O
@@ -418,6 +409,7 @@ wage	O
 .	O
 '	O
 "	O
+
 (	O
 Yonhap	B-Organization
 )	O
