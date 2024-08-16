@@ -40,6 +40,7 @@ famous	O
 Bayreuth	B-Misc
 Festival	I-Misc
 .	O
+
 Not	O
 any	O
 more	O
@@ -74,6 +75,7 @@ a	O
 crazy	O
 dream	O
 .	O
+
 In	O
 1998	B-Date
 ,	O
@@ -97,6 +99,7 @@ using	O
 local	O
 materials	O
 .	O
+
 A	O
 dozen	O
 of	O
@@ -183,6 +186,7 @@ of	O
 the	O
 possible	O
 .	O
+
 Mr	O
 Schlingensief	B-Person
 was	O
@@ -254,6 +258,7 @@ his	O
 lasting	O
 legacy	O
 .	O
+
 Looking	O
 at	O
 possible	O
@@ -285,6 +290,7 @@ director	O
 and	O
 visionary	O
 .	O
+
 "	O
 When	O
 I	O
@@ -309,6 +315,7 @@ was	O
 a	O
 joke	O
 .	O
+
 Such	O
 a	O
 fantasy	O
@@ -381,6 +388,7 @@ the	O
 right	O
 place	O
 .	O
+
 After	O
 all	O
 ,	O
@@ -435,9 +443,11 @@ German	B-NORP
 magazine	O
 '	O
 Der	B-Organization
-Spiegel'	I-Organization
+Spiegel	I-Organization
+'	O
 reveals	O
 .	O
+
 A	O
 compromise	O
 was	O
@@ -466,6 +476,7 @@ to	O
 the	O
 community	O
 .	O
+
 Building	O
 schools	O
 and	O
@@ -493,6 +504,7 @@ choosing	O
 the	O
 location	O
 .	O
+
 In	O
 flat	O
 Ouagadougou	B-Location
@@ -556,6 +568,7 @@ vast	O
 savannah	O
 plain	O
 .	O
+
 Just	O
 like	O
 in	O
@@ -582,6 +595,7 @@ the	O
 massive	O
 project	O
 .	O
+
 His	O
 plans	O
 included	O
@@ -622,6 +636,7 @@ and	O
 film	O
 classes	O
 .	O
+
 The	O
 Opera	O
 village	O
@@ -678,6 +693,7 @@ and	O
 Burkina	B-Location
 Faso	I-Location
 .	O
+
 The	O
 Burkinabe	B-Organization	B-NORP
 Ministry	I-Organization
@@ -709,6 +725,7 @@ cultural	O
 tourism	O
 destination	O
 .	O
+
 Every	O
 possible	O
 support	O
@@ -737,6 +754,7 @@ for	O
 the	O
 project	O
 .	O
+
 Germany	B-Location
 's	O
 President	O
@@ -764,6 +782,7 @@ finance	O
 the	O
 opera	O
 .	O
+
 Money	O
 started	O
 flowing	O
@@ -778,6 +797,7 @@ the	O
 Goethe	B-Organization
 Institut	I-Organization
 .	O
+
 Media	O
 coverage	O
 in	O
@@ -800,6 +820,7 @@ at	O
 Laongo	B-Location
 started	O
 .	O
+
 Soon	O
 ,	O
 the	O
@@ -842,6 +863,7 @@ the	O
 same	O
 year	O
 .	O
+
 The	O
 great	O
 visionary	O
@@ -901,6 +923,7 @@ of	O
 Mr	O
 Schlingensief	B-Person
 .	O
+
 All	O
 partners	O
 had	O
@@ -912,6 +935,7 @@ the	O
 giant	O
 project	O
 .	O
+
 Mr	O
 Kèrè	B-Person
 still	O
@@ -949,6 +973,7 @@ course	O
 seemed	O
 overwhelming	O
 .	O
+
 The	O
 Laongo	B-Location
 opera	O
@@ -975,6 +1000,7 @@ to	O
 be	O
 viable	O
 .	O
+
 It	O
 would	O
 need	O
@@ -994,6 +1020,7 @@ and	O
 art	O
 quality	O
 .	O
+
 It	O
 would	O
 need	O
@@ -1005,6 +1032,7 @@ accommodate	O
 international	O
 tourists	O
 .	O
+
 The	O
 loss	O
 of	O
@@ -1034,6 +1062,7 @@ and	O
 new	O
 fame	O
 .	O
+
 For	O
 his	O
 Gando	B-Organization
@@ -1057,6 +1086,7 @@ Award	I-Misc
 for	I-Misc
 Architecture	I-Misc
 .	O
+
 This	O
 year	O
 ,	O
@@ -1072,6 +1102,7 @@ Swiss	B-Misc	B-NORP
 Architectural	I-Misc
 Award	I-Misc
 .	O
+
 Mr	O
 Kèrè	B-Person
 ,	O
@@ -1119,6 +1150,7 @@ of	O
 Mr	O
 Schlingensief	B-Person
 .	O
+
 The	O
 school	O
 at	O
@@ -1183,6 +1215,7 @@ in	O
 some	O
 years	O
 .	O
+
 At	O
 first	O
 ,	O
@@ -1215,6 +1248,7 @@ standard	O
 Burkinabe	B-NORP
 education	O
 .	O
+
 But	O
 the	O
 organisers	O
@@ -1270,6 +1304,7 @@ into	O
 life	O
 .	O
 "	O
+
 With	O
 this	O
 ,	O
@@ -1314,6 +1349,7 @@ just	O
 been	O
 accellerating	O
 .	O
+
 In	O
 December	B-Date
 2011	I-Date
@@ -1325,6 +1361,7 @@ apartments	O
 were	O
 finalised	O
 .	O
+
 The	O
 snail	O
 shell	O
@@ -1338,6 +1375,7 @@ buildings	O
 and	O
 content	O
 .	O
+
 The	O
 German	B-NORP
 press	O
@@ -1350,6 +1388,7 @@ to	O
 the	O
 project	O
 .	O
+
 Even	O
 the	O
 first	O
@@ -1389,6 +1428,7 @@ has	O
 a	O
 future	O
 .	O
+
 And	O
 that	O
 it	O
@@ -1405,6 +1445,7 @@ of	O
 West	B-Location
 Africa	I-Location
 .	O
+
 The	O
 dream	O
 is	O

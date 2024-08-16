@@ -239,8 +239,7 @@ security	O
 forces	O
 .	O
 
-`	O
-`	O
+``	O
 I	O
 'm	O
 a	O
@@ -254,8 +253,7 @@ I	O
 a	O
 revolutionary	O
 ,	O
-'	O
-'	O
+''	O
 Bouteflika	B-Person
 told	O
 The	B-Organization
@@ -298,8 +296,7 @@ office	O
 ,	O
 Bouteflika	B-Person
 promised	O
-`	O
-`	O
+``	O
 to	O
 definitively	O
 turn	O
@@ -316,8 +313,7 @@ a	O
 new	O
 era	O
 .	O
-'	O
-'	O
+''	O
 
 Born	O
 March	B-Date
@@ -411,6 +407,7 @@ the	O
 Soviet	B-Organization
 Union	I-Organization
 .	O
+
 Its	O
 capital	O
 ,	O
@@ -418,15 +415,13 @@ Algiers	B-Location
 ,	O
 was	O
 nicknamed	O
-`	O
-`	O
+``	O
 Moscow	B-Location
 on	I-Location
 the	I-Location
 Med	I-Location
 .	O
-'	O
-'	O
+''	O
 
 He	O
 kept	O

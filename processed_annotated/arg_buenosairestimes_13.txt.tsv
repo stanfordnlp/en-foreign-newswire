@@ -107,7 +107,7 @@ the	O
 difference	O
 .	O
 
-nguez	O
+Domínguez	O
 's	O
 toils	O
 neatly	O
@@ -130,9 +130,11 @@ Argentina	B-Location
 's	O
 '	O
 big	O
-five'	O
+five	O
+'	O
 face	O
 .	O
+
 Almost	O
 exactly	O
 a	O
@@ -210,6 +212,7 @@ have	O
 been	O
 completed	O
 .	O
+
 With	O
 Rubén	B-Person
 Darío	I-Person
@@ -300,6 +303,7 @@ are	O
 clear	O
 enough	O
 .	O
+
 For	O
 San	B-Organization
 Lorenzo	I-Organization
@@ -350,6 +354,7 @@ success	O
 almost	O
 impossible	O
 .	O
+
 At	O
 Boca	B-Organization
 the	O
@@ -419,6 +424,7 @@ clearly	O
 the	O
 outlier	O
 .	O
+
 With	O
 nine	O
 months	O
@@ -448,6 +454,7 @@ the	O
 top	O
 flight	O
 .	O
+
 The	O
 River	B-Organization
 coach	O
@@ -477,6 +484,7 @@ all	O
 his	O
 peers	O
 .	O
+
 But	O
 could	O
 time	O
@@ -507,6 +515,7 @@ El	B-Person
 Muñeco	I-Person
 .	O
 ’	O
+
 Sunday	B-Date
 's	O
 defeat	O
