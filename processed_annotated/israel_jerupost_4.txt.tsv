@@ -109,6 +109,7 @@ established	O
 she	O
 wrote	O
 .	O
+
 "	O
 Today	O
 ,	O
@@ -118,12 +119,14 @@ situation	O
 has	O
 arisen	O
 .	O
+
 The	O
 system	O
 is	O
 investigating	O
 itself	O
 .	O
+
 What	O
 interest	O
 does	O
@@ -352,6 +355,7 @@ to	O
 do	O
 so	O
 .	O
+
 Until	O
 earlier	O
 this	O
@@ -385,10 +389,12 @@ Court	I-Organization
 Everyone	O
 knew	O
 .	O
+
 Everyone	O
 was	O
 silent	O
 .	O
+
 Everyone	O
 was	O
 afraid	O
@@ -462,6 +468,7 @@ guards	O
 she	O
 writes	O
 .	O
+
 "	O
 I	O
 was	O
@@ -534,6 +541,7 @@ security	O
 she	O
 continues	O
 .	O
+
 "	O
 There	O
 I	O
@@ -546,7 +554,8 @@ there	O
 was	O
 one	O
 '	O
-commander'	O
+commander	O
+'	O
 who	O
 was	O
 a	O
@@ -608,13 +617,16 @@ without	O
 any	O
 obstruction	O
 .	O
+
 Everyone	O
 knew	O
 .	O
+
 Everyone	O
 was	O
 silent	O
 .	O
+
 Everyone	O
 was	O
 afraid	O
@@ -664,6 +676,7 @@ terrorist	O
 Atallah	B-Person
 )	O
 .	O
+
 They	O
 made	O
 sure	O
@@ -910,6 +923,7 @@ the	O
 gag	O
 order	O
 .	O
+
 "	O
 Maybe	O
 they	O
@@ -932,6 +946,7 @@ to	O
 be	O
 ashamed	O
 .	O
+
 But	O
 not	O
 anymore	O
@@ -963,6 +978,7 @@ to	O
 the	O
 state	O
 .	O
+
 The	O
 shame	O
 belongs	O
@@ -978,11 +994,13 @@ affair	O
 for	O
 years	O
 .	O
+
 Enough	O
 of	O
 the	O
 silence	O
 .	O
+
 I	O
 will	O
 not	O
@@ -1081,9 +1099,7 @@ life	O
 of	O
 that	O
 soldier	O
-.	O
-.	O
-.	O
+...	O
 this	O
 is	O
 a	O
@@ -1109,6 +1125,7 @@ for	O
 her	O
 country	O
 .	O
+
 We	O
 ,	O
 and	O
@@ -1230,6 +1247,7 @@ price	O
 for	O
 it	O
 .	O
+
 If	O
 the	O
 government	O
@@ -1301,6 +1319,7 @@ and	O
 tremendous	O
 rage	O
 .	O
+
 I	O
 ca	O
 n't	O
@@ -1312,6 +1331,7 @@ express	O
 my	O
 feelings	O
 .	O
+
 This	O
 is	O
 not	O
@@ -1322,6 +1342,7 @@ Right	B-Organization
 or	O
 Left	B-Organization
 .	O
+
 The	O
 soul	O
 searching	O
@@ -1372,8 +1393,11 @@ with	O
 a	O
 vote	O
 of	O
-46-41	O
+46	O
+-	O
+41	O
 .	O
+
 The	O
 vote	O
 fell	O
