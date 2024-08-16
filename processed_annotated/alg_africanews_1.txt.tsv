@@ -14,6 +14,7 @@ in	O
 the	O
 world	O
 .	O
+
 Known	O
 as	O
 the	O
@@ -120,6 +121,7 @@ second	O
 millennium	O
 BC	O
 .	O
+
 Its	O
 power	O
 extended	O
@@ -167,6 +169,7 @@ housing	O
 its	O
 urbanism	O
 .	O
+
 Everything	O
 is	O
 there	O
@@ -284,6 +287,7 @@ of	O
 Eastern	B-Location
 Algeria	I-Location
 .	O
+
 The	O
 architecture	O
 is	O
@@ -293,6 +297,7 @@ local	O
 Moorish	B-NORP
 style	O
 .	O
+
 It	O
 contains	O
 four	O
@@ -355,6 +360,7 @@ a	O
 15,000	O
 capacity	O
 .	O
+
 Its	O
 minarets	O
 are	O
@@ -442,6 +448,7 @@ stroll	O
 through	O
 time	O
 .	O
+
 They	O
 can	O
 go	O
@@ -458,6 +465,7 @@ at	O
 the	O
 forum	O
 .	O
+
 They	O
 literally	O
 experience	O
@@ -489,6 +497,7 @@ still	O
 beautifully	O
 preserved	O
 .	O
+
 Today	O
 ,	O
 these	O
@@ -544,14 +553,17 @@ Lavare	B-Misc
 ,	I-Misc
 Venari	I-Misc
 ,	I-Misc
-Ludere'	I-Misc
+Ludere	I-Misc
+'	O
 .	O
+
 Hunting	O
 ,	O
 bathing	O
 and	O
 playing	O
 .	O
+
 This	O
 was	O
 the	O

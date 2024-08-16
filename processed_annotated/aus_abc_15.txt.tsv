@@ -508,7 +508,8 @@ wow	O
 ,	O
 she	O
 gets	O
-it'	O
+it	O
+'	O
 and	O
 really	O
 ,	O
@@ -683,14 +684,14 @@ that	O
 Tiagarra	B-Location
 '	O
 keeping	O
-place'	O
+place	O
+'	O
 ,	O
 be	O
 established	O
 in	O
 the	O
-1970	B-Date
-s	O
+1970s	B-Date
 .	O
 
 Though	O

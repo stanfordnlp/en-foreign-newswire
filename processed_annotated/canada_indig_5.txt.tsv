@@ -69,10 +69,8 @@ been	O
 detained	O
 in	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 since	O
 .	O
 
@@ -97,10 +95,8 @@ Canada	B-Location
 ,	O
 along	O
 with	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 charges	O
 related	O
 to	O
@@ -146,10 +142,8 @@ on	O
 Sunday	B-Date
 .	O
 
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 prosecutors	O
 filed	O
 a	O
@@ -205,10 +199,8 @@ then	O
 fled	O
 to	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 as	O
 part	O
 of	O
@@ -282,10 +274,8 @@ an	O
 agent	O
 from	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 Department	B-Organization
 of	I-Organization
 Homeland	I-Organization
@@ -322,10 +312,8 @@ border	O
 
 Walker	B-Person
 's	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 public	O
 defender	O
 emphasized	O
@@ -339,10 +327,8 @@ unproven	O
 "	O
 In	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 criminal	O
 justice	O
 system	O
@@ -383,8 +369,7 @@ Hay	I-Person
 wrote	O
 .	O
 "	O
-Ms	O
-.	O
+Ms.	O
 Walker	B-Person
 is	O
 entitled	O
@@ -445,8 +430,10 @@ Checklist	O
 for	O
 staging	O
 '	O
-disappearance'	O
+disappearance	O
+'	O
 .	O
+
 The	O
 prosecutors	O
 '	O
@@ -551,10 +538,8 @@ capable	O
 of	O
 evading	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 justice	O
 system	O
 by	O
@@ -770,10 +755,8 @@ on	O
 Friday	B-Date
 in	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 and	O
 charged	O
 in	O
@@ -842,8 +825,7 @@ account	O
 from	O
 Butte	B-Location
 ,	I-Location
-Mont	I-Location
-.	O
+Mont.	I-Location
 ,	O
 near	O
 the	O
@@ -851,10 +833,8 @@ border	O
 ,	O
 through	O
 several	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 cities	O
 ,	O
 with	O
@@ -952,10 +932,8 @@ says	O
 According	O
 to	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 prosecutors	O
 '	O
 document	O
@@ -975,10 +953,8 @@ on	O
 one	O
 of	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 charges	O
 she	O
 faces	O

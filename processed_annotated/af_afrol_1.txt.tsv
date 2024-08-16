@@ -29,6 +29,7 @@ a	O
 mob	O
 today	O
 .	O
+
 Shocked	O
 Ugandan	B-NORP
 gay	O
@@ -68,7 +69,8 @@ Ugandan	B-NORP
 tabloid	O
 '	O
 Rolling	B-Organization
-Stone'	I-Organization
+Stone	I-Organization
+'	O
 under	O
 the	O
 title	O
@@ -77,6 +79,7 @@ Hang	O
 them	O
 "	O
 .	O
+
 The	O
 front	O
 page	O
@@ -100,6 +103,7 @@ Uganda	B-Location
 Until	O
 now	O
 .	O
+
 Today	O
 ,	O
 Mr	O
@@ -112,6 +116,7 @@ in	O
 his	O
 home	O
 .	O
+
 Preliminary	O
 reports	O
 from	O
@@ -155,6 +160,7 @@ minorities	O
 in	O
 Uganda	B-Location
 .	O
+
 Mr	O
 Kato	B-Person
 had	O
@@ -167,6 +173,7 @@ a	O
 hostile	O
 environment	O
 .	O
+
 Following	O
 his	O
 complaint	O
@@ -180,7 +187,8 @@ stopped	O
 the	O
 '	O
 Rolling	B-Organization
-Stone'	I-Organization
+Stone	I-Organization
+'	O
 tabloid	O
 from	O
 publishing	O
@@ -223,9 +231,7 @@ the	O
 activities	O
 of	O
 gays	O
-.	O
-.	O
-.	O
+...	O
 threaten	O
 the	O
 rights	O
@@ -290,7 +296,8 @@ propagated	O
 by	O
 '	O
 Rolling	B-Organization
-Stone'	I-Organization
+Stone	I-Organization
+'	O
 .	O
 
 The	O
@@ -316,6 +323,7 @@ minorities	O
 in	O
 Uganda	B-Location
 .	O
+
 While	O
 the	O
 country	O
@@ -358,6 +366,7 @@ a	O
 shock	O
 today	O
 .	O
+
 The	O
 mourning	O
 Uganda	B-Location
@@ -378,6 +387,7 @@ them	O
 further	O
 underground	O
 .	O
+
 Fear	O
 is	O
 spreading	O
@@ -394,6 +404,7 @@ on	O
 the	O
 fight	O
 .	O
+
 Speaking	O
 about	O
 what	O
@@ -426,6 +437,7 @@ stop	O
 our	O
 cause	O
 .	O
+
 The	O
 death	O
 of	O
@@ -444,6 +456,7 @@ equality	O
 is	O
 won	O
 .	O
+
 David	B-Person
 is	O
 gone	O
@@ -486,6 +499,7 @@ and	O
 religious	O
 groups	O
 .	O
+
 But	O
 even	O
 a	O
@@ -536,6 +550,7 @@ Evangelicals	B-NORP
 in	O
 2009	B-Date
 .	O
+
 The	O
 Ugandan	B-NORP
 government	O
@@ -591,6 +606,7 @@ gay	O
 persons	O
 .	O
 "	O
+
 The	O
 death	O
 of	O
@@ -641,6 +657,7 @@ put	O
 to	O
 trial	O
 .	O
+
 "	O
 The	O
 Ugandan	B-NORP
@@ -665,6 +682,7 @@ of	O
 Amnesty	B-Organization
 International	I-Organization
 .	O
+
 Mr	O
 Mugisha	B-Person
 added	O

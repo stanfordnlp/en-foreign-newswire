@@ -13,7 +13,8 @@ and	O
 son	O
 as	O
 '	O
-majestic'	O
+majestic	O
+'	O
 
 Katrina	B-Person
 Cockney	I-Person
@@ -83,9 +84,7 @@ it	O
 's	O
 an	O
 honour	O
-.	O
-.	O
-.	O
+...	O
 Being	O
 able	O
 to	O
@@ -177,8 +176,7 @@ Tuktoyaktuk	B-Location
 carver	O
 Roy	B-Person
 Cockney	I-Person
-Jr	I-Person
-.	I-Person
+Jr.	I-Person
 said	O
 this	O
 season	O
@@ -236,8 +234,7 @@ summer	O
 "	O
 
 Cockney	B-Person
-Jr	I-Person
-.	I-Person
+Jr.	I-Person
 says	O
 he	O
 used	O
@@ -423,6 +420,7 @@ with	O
 some	O
 bannock	O
 .	O
+
 He	O
 said	O
 if	O
@@ -470,6 +468,7 @@ off	O
 the	O
 land	O
 .	O
+
 And	O
 what	O
 it	O
@@ -513,6 +512,7 @@ sharing	O
 with	O
 others	O
 .	O
+
 He	O
 says	O
 that	O
@@ -597,6 +597,7 @@ from	O
 the	O
 land	O
 .	O
+
 He	O
 has	O
 since	O

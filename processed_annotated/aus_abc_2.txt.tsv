@@ -500,7 +500,8 @@ Generations	I-Misc
 '	O
 Songs	O
 outlive	O
-people'	O
+people	O
+'	O
 
 Archie	B-Person
 Roach	I-Person
@@ -718,7 +719,8 @@ They	B-Misc
 Took	I-Misc
 The	I-Misc
 Children	I-Misc
-Away'	I-Misc
+Away	I-Misc
+'	O
 ,	O
 it	O
 just	O
@@ -956,7 +958,8 @@ way	O
 our	O
 Uncle	O
 Archie	B-Person
-did'	O
+did	O
+'	O
 
 For	O
 Aboriginal	B-NORP
@@ -1171,7 +1174,8 @@ be	O
 a	O
 medicine	O
 to	O
-heal'	O
+heal	O
+'	O
 
 For	O
 opera	O
