@@ -199,6 +199,7 @@ about	O
 18	O
 leaves	O
 .	O
+
 I	O
 first	O
 saw	O
@@ -217,6 +218,7 @@ grown	O
 at	O
 all	O
 .	O
+
 It	O
 's	O
 sitting	O
@@ -456,6 +458,7 @@ listed	O
 as	O
 threatened	O
 .	O
+
 With	O
 permission	O
 ,	O
@@ -698,6 +701,7 @@ bred	O
 in	O
 Gympie	B-Location
 .	O
+
 I	O
 'm	O
 Gubbi	B-Misc
@@ -708,11 +712,13 @@ Wakka	I-Misc
 ,	O
 Kullilli	B-Misc
 .	O
+
 This	O
 is	O
 my	O
 country	O
 .	O
+
 I	O
 've	O
 been	O
