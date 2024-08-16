@@ -10,8 +10,9 @@ of	O
 Bubacar	B-Person
 Keita	I-Person
 alias	O
-'	O
-Bob'	B-Person
+'	B-Person
+Bob	I-Person
+'	I-Person
 Keita	I-Person
 ,	O
 has	O
@@ -29,8 +30,7 @@ July	I-Date
 ,	I-Date
 2022	I-Date
 .	O
-Ms	O
-.	O
+Ms.	O
 Mbye	B-Person
 is	O
 being	O
@@ -143,6 +143,7 @@ C	O
 159	O
 WL	O
 .	O
+
 The	O
 team	O
 was	O
@@ -161,8 +162,8 @@ BJl	O
 3036	O
 Q	O
 .	O
-Ms	O
-.	O
+
+Ms.	O
 Mbye	B-Person
 was	O
 onboard	O
@@ -374,6 +375,7 @@ as	O
 investigation	O
 intensifies	O
 .	O
+
 They	O
 are	O
 equally	O
@@ -413,6 +415,7 @@ for	O
 any	O
 reason	O
 .	O
+
 Such	O
 instances	O
 will	O
@@ -452,6 +455,7 @@ situations	O
 of	O
 unrest	O
 .	O
+
 All	O
 are	O
 urged	O

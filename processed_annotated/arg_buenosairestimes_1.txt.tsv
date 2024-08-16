@@ -1,208 +1,3 @@
-{	O
-\	O
-rtf	O
-1	O
-\	O
-ansi	O
-\	O
-ansicpg	O
-1252	O
-\	O
-cocoartf	O
-2638	O
-
-\	O
-cocoatextscaling	O
-0	O
-\	O
-cocoaplatform	O
-0	O
-{	O
-\	O
-fonttbl	O
-\	O
-f	O
-0	O
-\	O
-fswiss	O
-\	O
-fcharset	O
-0	O
-Helvetica	O
-;	O
-}	O
-
-{	O
-\	O
-colortbl	O
-;	O
-\	O
-red	O
-255	O
-\	O
-green	O
-255	O
-\	O
-blue	O
-255	O
-;	O
-\	O
-red	O
-26	O
-\	O
-green	O
-26	O
-\	O
-blue	O
-26	O
-;	O
-\	O
-red	O
-255	O
-\	O
-green	O
-255	O
-\	O
-blue	O
-255	O
-;	O
-}	O
-
-{	O
-\	O
-*	O
-\	O
-expandedcolortbl	O
-;	O
-;	O
-\	O
-cssrgb	O
-\	O
-c	O
-13333	O
-\	O
-c	O
-13333	O
-\	O
-c	O
-13333	O
-;	O
-\	O
-cssrgb	O
-\	O
-c	O
-100000	O
-\	O
-c	O
-100000	O
-\	O
-c	O
-100000	O
-;	O
-}	O
-
-\	O
-margl	O
-1440	O
-\	O
-margr	O
-1440	O
-\	O
-vieww	O
-11520	O
-\	O
-viewh	O
-8400	O
-\	O
-viewkind	O
-0	O
-
-\	O
-pard	O
-\	O
-tx	O
-720	O
-\	O
-tx	O
-1440	O
-\	O
-tx	O
-2160	O
-\	O
-tx	O
-2880	O
-\	O
-tx	O
-3600	O
-\	O
-tx	O
-4320	O
-\	O
-tx	O
-5040	O
-\	O
-tx	O
-5760	O
-\	O
-tx	O
-6480	O
-\	O
-tx	O
-7200	O
-\	O
-tx	O
-7920	O
-\	O
-tx	O
-8640	O
-\	O
-pardirnatural	O
-\	O
-partightenfactor	O
-0	O
-
-\	O
-f	O
-0	O
-\	O
-fs	O
-24	O
-\	O
-cf	O
-0	O
-https://buenosairesherald.com/news/customer-engagement-marketing-a-new-strategy-for-the-economy-2	O
-\	O
-
-\	O
-
-\	O
-pard	O
-\	O
-pardeftab	O
-720	O
-\	O
-sa	O
-520	O
-\	O
-partightenfactor	O
-0	O
-
-\	O
-cf	O
-2	O
-\	O
-cb	O
-3	O
-\	O
-expnd	O
-0	O
-\	O
-expndtw	O
-0	O
-\	O
-kerning	O
-0	O
-
 We	O
 woke	O
 reasonably	O
@@ -218,6 +13,7 @@ the	O
 night	O
 before	O
 .	O
+
 After	O
 gathering	O
 ourselves	O
@@ -232,10 +28,7 @@ to	O
 our	O
 homestay	O
 family	O
-\	O
-'	O
-92	O
-s	O
+'s	O
 small	O
 dining	O
 room	O
@@ -262,18 +55,8 @@ and	O
 peppermint	O
 tea	O
 .	O
-\	O
-cb	O
-1	O
-\	O
 
-\	O
-cb	O
-3	O
-\	O
-'	O
-a	O
-0	O
+
 We	O
 were	O
 making	O
@@ -292,14 +75,8 @@ the	O
 Rila	B-Location
 Monastery	I-Location
 .	O
-\	O
-cb	O
-1	O
-\	O
 
-\	O
-cb	O
-3	O
+
 We	O
 wandered	O
 the	O
@@ -319,11 +96,9 @@ not	O
 seem	O
 crowded	O
 .	O
+
 I	O
-\	O
-'	O
-92	O
-m	O
+'m	O
 not	O
 sure	O
 if	O
@@ -346,10 +121,7 @@ one	O
 area	O
 and	O
 didn	O
-\	O
-'	O
-92	O
-t	O
+'t	O
 venture	O
 far	O
 from	O
@@ -360,10 +132,7 @@ church	O
 but	O
 I	O
 didn	O
-\	O
-'	O
-92	O
-t	O
+'t	O
 feel	O
 overwhelmed	O
 by	O
@@ -372,7 +141,7 @@ in	O
 the	O
 monastery	O
 .	O
-\	O
+
 
 Headed	O
 over	O
@@ -409,14 +178,8 @@ afternoon	O
 rain	O
 passed	O
 .	O
-\	O
-cb	O
-1	O
-\	O
 
-\	O
-cb	O
-3	O
+
 Feeling	O
 refreshed	O
 after	O
@@ -445,14 +208,8 @@ ancient	O
 Serdica	B-Facility
 complex	I-Facility
 .	O
-\	O
-cb	O
-1	O
-\	O
 
-\	O
-cb	O
-3	O
+
 We	O
 were	O
 exhausted	O
@@ -473,6 +230,7 @@ hotel	O
 and	O
 crashed	O
 .	O
+
 I	O
 had	O
 low	O
@@ -494,6 +252,7 @@ loved	O
 the	O
 place	O
 .	O
+
 This	O
 was	O
 an	O
@@ -520,6 +279,7 @@ communist	O
 built	O
 surrounds	O
 .	O
+
 Sofia	B-Location
 has	O
 a	O
@@ -546,5 +306,4 @@ area	O
 everything	O
 changes	O
 .	O
-}	O
 
