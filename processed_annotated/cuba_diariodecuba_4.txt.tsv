@@ -105,6 +105,7 @@ that	O
 were	O
 ignored	O
 .	O
+
 There	O
 had	O
 to	O
@@ -191,6 +192,7 @@ right	O
 of	O
 Cubans	B-NORP
 .	O
+
 Hence	O
 ,	O
 González	B-Person
@@ -289,6 +291,7 @@ arbitrary	O
 arrests	O
 .	O
 "	O
+
 The	O
 authorities	O
 beat	O
@@ -309,6 +312,7 @@ law	O
 enforcement	O
 officials	O
 .	O
+
 There	O
 were	O
 clashes	O
@@ -424,6 +428,7 @@ spontaneous	O
 citizen	O
 protest	O
 .	O
+
 The	O
 fact	O
 that	O
@@ -545,6 +550,7 @@ of	O
 these	O
 protests	O
 .	O
+
 It	O
 was	O
 the	O
@@ -629,6 +635,7 @@ court	O
 is	O
 striking	O
 .	O
+
 After	O
 11	B-Misc
 July	I-Misc
@@ -657,6 +664,7 @@ of	O
 a	O
 crime	O
 .	O
+
 For	O
 these	O
 crimes	O
@@ -711,6 +719,7 @@ using	O
 institutional	O
 channels	O
 .	O
+
 They	O
 knew	O
 that	O
@@ -730,6 +739,7 @@ of	O
 the	O
 results	O
 .	O
+
 Therefore	O
 ,	O
 they	O
@@ -832,6 +842,7 @@ to	O
 the	O
 demonstrations	O
 .	O
+
 Personally	O
 ,	O
 as	O
@@ -851,6 +862,7 @@ those	O
 in	O
 power	O
 .	O
+
 "	O
 The	O
 values	O
@@ -870,6 +882,7 @@ have	O
 crumbled	O
 .	O
 "	O
+
 Much	O
 damage	O
 and	O
@@ -895,6 +908,7 @@ detainees	O
 '	O
 situations	O
 .	O
+
 Although	O
 the	O
 Cuban	B-NORP
@@ -935,6 +949,7 @@ mechanisms	O
 for	O
 this	O
 .	O
+
 However	O
 ,	O
 it	O
@@ -1078,6 +1093,7 @@ lack	O
 of	O
 evidence	O
 .	O
+
 He	O
 also	O
 pointed	O
@@ -1374,7 +1390,7 @@ watchdog	O
 of	O
 legality	O
 .	O
-?	O
+
 I	O
 am	O
 not	O
@@ -1476,6 +1492,7 @@ as	O
 vandalism	O
 .	O
 "	O
+
 He	O
 also	O
 recommends	O
@@ -1494,6 +1511,7 @@ may	O
 be	O
 .	O
 "	O
+
 He	O
 believes	O
 that	O
@@ -1518,7 +1536,7 @@ state	O
 employees	O
 too	O
 .	O
-?	O
+
 Changes	O
 must	O
 be	O
@@ -1656,6 +1674,7 @@ time	O
 he	O
 said	O
 .	O
+
 Therefore	O
 ,	O
 he	O
@@ -1729,6 +1748,7 @@ subverted	O
 he	O
 says	O
 .	O
+
 "	O
 People	O
 are	O

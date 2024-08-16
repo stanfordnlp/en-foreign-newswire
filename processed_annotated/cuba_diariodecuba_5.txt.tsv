@@ -46,6 +46,7 @@ July	B-Date
 ,	I-Date
 2021	I-Date
 .	O
+
 From	O
 there	O
 ,	O
@@ -68,6 +69,7 @@ about	O
 the	O
 wedding	O
 .	O
+
 A	O
 genuine	O
 penitentiary	O
@@ -76,6 +78,7 @@ affair	O
 ha	O
 ha	O
 .	O
+
 The	O
 day	O
 seemed	O
@@ -98,6 +101,7 @@ it	O
 came	O
 off	O
 .	O
+
 They	O
 came	O
 to	O
@@ -154,6 +158,7 @@ visit	O
 to	O
 Agüica	B-Location
 .	O
+
 She	O
 asked	O
 him	O
@@ -180,6 +185,7 @@ think	O
 it	O
 over	O
 .	O
+
 Then	O
 she	O
 accepted	O
@@ -209,6 +215,7 @@ the	O
 necessary	O
 arrangements	O
 .	O
+
 On	O
 February	B-Date
 11	I-Date
@@ -231,6 +238,7 @@ dressed	O
 in	O
 white	O
 .	O
+
 At	O
 the	O
 guard	O
@@ -243,6 +251,7 @@ she	O
 was	O
 going	O
 .	O
+
 Apparently	O
 Roxana	B-Person
 was	O
@@ -310,6 +319,7 @@ People	I-Facility
 's	I-Facility
 Court	I-Facility
 .	O
+
 The	O
 family	O
 changed	O
@@ -332,6 +342,7 @@ a	O
 crime	O
 before	O
 .	O
+
 Besides	O
 ,	O
 César	B-Person
@@ -388,6 +399,7 @@ for	O
 three	O
 years	O
 .	O
+
 I	O
 used	O
 to	O
@@ -408,6 +420,7 @@ in	O
 his	O
 chest	O
 .	O
+
 Every	O
 day	O
 I	O
@@ -450,6 +463,7 @@ he	O
 did	O
 smoke	O
 .	O
+
 When	O
 he	O
 woke	O
@@ -484,6 +498,7 @@ in	O
 his	O
 studies	O
 .	O
+
 Although	O
 he	O
 repeated	O
@@ -518,6 +533,7 @@ The	B-Misc
 Little	I-Misc
 Prince	I-Misc
 .	O
+
 It	O
 was	O
 very	O
@@ -564,6 +580,7 @@ saw	O
 César	B-Person
 again	O
 .	O
+
 We	O
 only	O
 spoke	O
@@ -574,6 +591,7 @@ times	O
 on	O
 Messenger	B-Organization
 .	O
+
 At	O
 that	O
 time	O
@@ -622,6 +640,7 @@ of	O
 my	O
 generation	O
 .	O
+
 Internet	O
 access	O
 has	O
@@ -647,7 +666,7 @@ structure	O
 
 Unfortunately	O
 ,	O
-sar	O
+César	B-Person
 's	O
 activity	O
 on	O
@@ -660,6 +679,7 @@ ravage	O
 his	O
 future	O
 .	O
+
 When	O
 he	O
 took	O
@@ -693,9 +713,7 @@ following	O
 him	O
 .	O
 
-.	O
-.	O
-.	O
+...	O
 
 Roxana	B-Person
 did	O
@@ -719,6 +737,7 @@ soon	O
 as	O
 possible	O
 .	O
+
 She	O
 was	O
 able	O
@@ -761,6 +780,7 @@ the	O
 wedding	O
 …	O
 .	O
+
 they	O
 took	O
 me	O
@@ -806,11 +826,13 @@ in	O
 his	O
 letter	O
 .	O
+
 The	O
 witnesses	O
 were	O
 officials	O
 .	O
+
 The	O
 tension	O
 distorted	O
@@ -823,6 +845,7 @@ it	O
 seemed	O
 unreal	O
 .	O
+
 The	O
 only	O
 time	O
@@ -873,6 +896,7 @@ of	O
 the	O
 wedding	O
 .	O
+
 He	O
 arrived	O
 at	O
@@ -896,6 +920,7 @@ chose	O
 the	O
 date	O
 .	O
+
 Nothing	O
 could	O
 've	O
@@ -906,6 +931,7 @@ than	O
 the	O
 11th	B-Date
 .	O
+
 And	O
 she	O
 came	O
@@ -920,6 +946,7 @@ Lady	B-Misc
 in	I-Misc
 White	I-Misc
 .	O
+
 '	O
 She	O
 wanted	O
@@ -966,6 +993,7 @@ be	O
 locked	O
 up	O
 .	O
+
 On	O
 that	O
 day	O
@@ -1021,6 +1049,7 @@ that	O
 was	O
 it	O
 .	O
+
 Forget	O
 any	O
 fantasies	O
@@ -1041,6 +1070,7 @@ tell	O
 me	O
 about	O
 .	O
+
 That	O
 part	O
 about	O
@@ -1065,6 +1095,7 @@ in	O
 the	O
 ceremony	O
 .	O
+
 NEGATIVE	O
 ,	O
 Pablo	B-Person
@@ -1144,6 +1175,7 @@ on	O
 a	O
 motorcycle	O
 .	O
+
 They	O
 never	O
 called	O
@@ -1196,6 +1228,7 @@ for	O
 downtown	O
 Colón	B-Location
 .	O
+
 On	O
 his	O
 Facebook	B-Organization
@@ -1294,6 +1327,7 @@ local	O
 government	O
 headquarters	O
 .	O
+
 He	O
 was	O
 there	O
@@ -1301,6 +1335,7 @@ for	O
 a	O
 while	O
 .	O
+
 When	O
 he	O
 saw	O
@@ -1342,6 +1377,7 @@ and	O
 public	O
 disorder	O
 .	O
+
 The	O
 prosecutor	O
 asked	O
@@ -1385,6 +1421,7 @@ of	O
 our	O
 country	O
 .	O
+
 It	O
 demonstrated	O
 how	O
@@ -1457,6 +1494,7 @@ picked	O
 up	O
 .	O
 "	O
+
 Thus	O
 ,	O
 they	O
@@ -1483,6 +1521,7 @@ see	O
 the	O
 incident	O
 .	O
+
 On	O
 July	B-Date
 15	I-Date
@@ -1514,6 +1553,7 @@ in	O
 his	O
 letter	O
 .	O
+
 "	O
 They	O
 did	O
@@ -1595,7 +1635,7 @@ defender	O
 "	O
 
 In	O
-sar	O
+César	B-Person
 's	O
 section	O
 in	O
@@ -1621,6 +1661,7 @@ common	O
 crimes	O
 .	O
 "	O
+
 That	O
 's	O
 a	O
@@ -1637,6 +1678,7 @@ with	O
 those	O
 people	O
 .	O
+
 César	B-Person
 is	O
 n't	O
@@ -1644,6 +1686,7 @@ a	O
 common	O
 prisoner	O
 .	O
+
 Even	O
 the	O
 guards	O
@@ -1685,6 +1728,7 @@ one	O
 university	O
 student	O
 .	O
+
 César	B-Person
 is	O
 one	O
@@ -1737,6 +1781,7 @@ transfer	O
 to	O
 Agüica	B-Location
 .	O
+
 In	O
 fact	O
 ,	O
@@ -1756,6 +1801,7 @@ kind	O
 of	O
 prison	O
 .	O
+
 And	O
 I	O
 certainly	O
@@ -1773,6 +1819,7 @@ serving	O
 year	O
 sentences	O
 .	O
+
 Rather	O
 ,	O
 I	O
@@ -1820,6 +1867,7 @@ every	O
 four	O
 days	O
 .	O
+
 Sometimes	O
 more	O
 than	O
@@ -1844,6 +1892,7 @@ lack	O
 of	O
 electricity	O
 .	O
+
 Despite	O
 the	O
 fact	O
@@ -1893,6 +1942,7 @@ that	O
 are	O
 committed	O
 .	O
+
 In	O
 the	O
 end	O
@@ -2003,7 +2053,7 @@ César	B-Person
 continues	O
 .	O
 
-sar	O
+César	B-Person
 's	O
 first	O
 prison	O
@@ -2018,6 +2068,7 @@ city	O
 of	O
 Matanzas	B-Location
 .	O
+
 He	O
 was	O
 there	O
@@ -2035,6 +2086,7 @@ eggs	O
 to	O
 eat	O
 .	O
+
 When	O
 he	O
 arrived	O
@@ -2093,6 +2145,7 @@ tiles	O
 just	O
 cement	O
 .	O
+
 César	B-Person
 describes	O
 the	O
@@ -2130,6 +2183,7 @@ officers	O
 ,	O
 indolent	O
 .	O
+
 There	O
 are	O
 no	O
@@ -2138,6 +2192,7 @@ needles	O
 for	O
 shots	O
 .	O
+
 I	O
 have	O
 friends	O
@@ -2195,6 +2250,7 @@ place	O
 without	O
 consequences	O
 .	O
+
 I	O
 think	O
 that	O
@@ -2211,7 +2267,8 @@ to	O
 be	O
 the	O
 '	O
-bogeyman'	O
+bogeyman	O
+'	O
 for	O
 Cuban	B-NORP
 prisoners	O
@@ -2286,6 +2343,7 @@ and	O
 Los	B-Location
 Arabos	I-Location
 .	O
+
 The	O
 road	O
 that	O
@@ -2364,6 +2422,7 @@ husband	O
 's	O
 change	O
 .	O
+
 "	O
 A	O
 monster	O
@@ -2374,6 +2433,7 @@ cause	O
 that	O
 is	O
 .	O
+
 Cesar	B-Person
 knows	O
 more	O
@@ -2386,12 +2446,14 @@ more	O
 about	O
 law	O
 .	O
+
 He	O
 has	O
 changed	O
 too	O
 much	O
 .	O
+
 The	O
 guards	O
 watch	O
@@ -2406,6 +2468,7 @@ knows	O
 his	O
 rights	O
 .	O
+
 He	O
 has	O
 had	O
@@ -2418,6 +2481,7 @@ think	O
 and	O
 read	O
 .	O
+
 He	O
 has	O
 also	O
@@ -2445,11 +2509,13 @@ playing	O
 video	O
 games	O
 .	O
+
 He	O
 really	O
 liked	O
 technology	O
 .	O
+
 We	O
 used	O
 to	O
@@ -2470,6 +2536,7 @@ was	O
 the	O
 computer	O
 .	O
+
 He	O
 used	O
 to	O
@@ -2503,6 +2570,7 @@ that	O
 I	O
 liked	O
 .	O
+
 He	O
 would	O
 do	O
@@ -2524,6 +2592,7 @@ very	O
 upstanding	O
 person	O
 .	O
+
 He	O
 seldom	O
 drank	O
@@ -2546,6 +2615,7 @@ a	O
 gesture	O
 .	O
 "	O
+
 It	O
 was	O
 only	O
@@ -2562,6 +2632,7 @@ to	O
 his	O
 house	O
 .	O
+
 She	O
 spent	O
 most	O
@@ -2591,6 +2662,7 @@ in	O
 his	O
 hand	O
 .	O
+
 He	O
 listens	O
 to	O
@@ -2598,6 +2670,7 @@ music	O
 in	O
 English	B-NORP
 .	O
+
 The	O
 only	O
 bad	O
@@ -2674,6 +2747,7 @@ massages	O
 at	O
 night	O
 .	O
+
 She	O
 misses	O
 tickling	O
@@ -2705,6 +2779,7 @@ he	O
 likes	O
 best	O
 .	O
+
 "	O
 He	O
 loves	O
@@ -2743,11 +2818,12 @@ Colón	I-Organization	I-Person
 elementary	I-Organization
 school	I-Organization
 .	O
+
 As	O
 a	O
 result	O
 of	O
-sar	O
+César	B-Person
 's	O
 arrest	O
 ,	O
@@ -2820,6 +2896,7 @@ Cesar	B-Person
 was	O
 arrested	O
 .	O
+
 There	O
 she	O
 checks	O
@@ -2832,6 +2909,7 @@ prepares	O
 their	O
 food	O
 .	O
+
 Sometimes	O
 some	O
 of	O
@@ -2872,6 +2950,7 @@ from	O
 being	O
 stolen	O
 .	O
+
 If	O
 any	O
 of	O
@@ -2888,6 +2967,7 @@ near	O
 the	O
 pigs	O
 .	O
+
 These	O
 animals	O
 are	O
@@ -2903,19 +2983,18 @@ Varadero	B-Location
 's	O
 hotels	O
 .	O
+
 They	O
 must	O
 be	O
 safe	O
 .	O
 
-.	O
-.	O
-.	O
+...	O
 
 Violeta	B-Person
 ,	O
-sar	B-Person
+César	B-Person
 's	O
 mother	O
 ,	O
@@ -2932,13 +3011,13 @@ praised	O
 doctor	O
 in	O
 Colón	B-Location
-’	O
-s	O
+’s	O
 Public	O
 Health	O
 system	O
 .	O
-sar	O
+
+César	B-Person
 's	O
 father	O
 participated	O
@@ -2984,9 +3063,10 @@ the	O
 local	O
 government	O
 .	O
+
 One	O
 of	O
-sar	O
+César	B-Person
 's	O
 grandfathers	O
 participated	O
@@ -3025,6 +3105,7 @@ since	O
 July	B-Date
 15	I-Date
 .	O
+
 The	O
 appeal	O
 trial	O
@@ -3033,6 +3114,7 @@ a	O
 real	O
 ordeal	O
 .	O
+
 At	O
 that	O
 point	O
@@ -3051,6 +3133,7 @@ would	O
 bear	O
 fruit	O
 .	O
+
 State	B-Organization
 Security	I-Organization
 always	O
@@ -3083,6 +3166,7 @@ jail	O
 Roxana	B-Person
 reflects	O
 .	O
+
 "	O
 Because	O
 he	O
@@ -3094,6 +3178,7 @@ in	O
 this	O
 country	O
 .	O
+
 All	O
 the	O
 meanings	O
@@ -3101,13 +3186,15 @@ of	O
 the	O
 word	O
 '	O
-freedom'	O
+freedom	O
+'	O
 are	O
 violated	O
 in	O
 this	O
 country	O
 .	O
+
 He	O
 was	O
 always	O
@@ -3122,7 +3209,8 @@ through	O
 the	O
 networks	O
 .	O
-sar	O
+
+César	B-Person
 's	O
 greatest	O
 desire	O
@@ -3190,6 +3278,7 @@ paradise	O
 they	O
 promote	O
 .	O
+
 It	O
 is	O
 something	O
@@ -3203,6 +3292,7 @@ that	O
 inhabits	O
 it	O
 .	O
+
 The	O
 machinery	O
 of	O
@@ -3222,6 +3312,7 @@ of	O
 many	O
 Cubans	B-NORP
 .	O
+
 I	O
 love	O
 you	O
@@ -3239,6 +3330,7 @@ and	O
 Life	O
 )	O
 .	O
+
 Yes	O
 there	O
 are	O

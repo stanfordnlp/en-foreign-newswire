@@ -8,8 +8,7 @@ The	O
 construction	O
 of	O
 Indonesia	B-Location
-’	O
-s	O
+’s	O
 US	B-Money	B-Location
 $	I-Money
 34	I-Money
@@ -61,8 +60,7 @@ to	O
 underline	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 motto	O
 of	O
 “	O
@@ -98,8 +96,7 @@ Indonesia	B-Location
 –	O
 the	O
 world	O
-’	O
-s	O
+’s	O
 largest	O
 archipelago	O
 –	O
@@ -170,6 +167,7 @@ and	O
 language	O
 experts	O
 .	O
+
 These	O
 ranged	O
 from	O
@@ -272,6 +270,7 @@ the	O
 14th	O
 century	O
 .	O
+
 He	O
 made	O
 an	O
@@ -353,6 +352,7 @@ the	O
 southwestern	B-Location
 Philippines	I-Location
 .	O
+
 Majapahit	B-Location
 also	O
 claimed	O
@@ -390,8 +390,7 @@ the	O
 naming	O
 of	O
 Indonesia	B-Location
-’	O
-s	O
+’s	O
 new	O
 capital	O
 has	O
@@ -405,8 +404,7 @@ bewilderment	O
 “	O
 So	O
 Indonesia	B-Location
-’	O
-s	O
+’s	O
 future	O
 capital	O
 is	O
@@ -432,6 +430,7 @@ maritime	O
 Southeast	B-Location
 Asia	I-Location
 .	O
+
 In	O
 a	O
 country	O
@@ -487,6 +486,7 @@ of	O
 maritime	O
 SEA	B-Location
 .	O
+
 In	O
 a	O
 country	O
@@ -535,8 +535,7 @@ said	O
 :	O
 “	O
 It	O
-’	O
-d	O
+’d	O
 be	O
 a	O
 [	O
@@ -563,6 +562,7 @@ City	I-Location
 or	O
 something	O
 .	O
+
 As	O
 it	O
 is	O
@@ -589,6 +589,7 @@ its	O
 older	O
 meanings	O
 .	O
+
 Hard	O
 to	O
 see	O
@@ -620,10 +621,12 @@ foreigners	O
 as	O
 '	O
 Archipelago	B-Location
-City'	I-Location
+City	I-Location
+'	O
 or	O
 something	O
 .	O
+
 As	O
 it	O
 is	O
@@ -650,6 +653,7 @@ its	O
 older	O
 meanings	O
 .	O
+
 Hard	O
 to	O
 see	O
@@ -703,16 +707,15 @@ Cambodia	B-Location
 and	O
 Vietnam	B-Location
 .	O
+
 Hope	O
 the	O
 new	O
 capital	O
-’	O
-s	O
+’s	O
 name	O
 won	O
-’	O
-t	O
+’t	O
 cause	O
 a	O
 historical	O
@@ -777,8 +780,7 @@ in	O
 when	O
 Southeast	B-Location
 Asia	I-Location
-’	O
-s	O
+’s	O
 biggest	O
 economy	O
 celebrates	O
@@ -791,20 +793,19 @@ independence	O
 
 This	O
 isn	O
-’	O
-t	O
+’t	O
 the	O
 first	O
 time	O
 Indonesia	B-Location
-’	O
-s	O
+’s	O
 new	O
 capital	O
 has	O
 sparked	O
 controversy	O
 .	O
+
 When	O
 Widodo	B-Person
 announced	O
@@ -844,6 +845,7 @@ to	O
 the	O
 government	O
 .	O
+
 These	O
 included	O
 bizarre	O
@@ -877,6 +879,7 @@ to	O
 the	O
 public	O
 .	O
+
 Based	O
 on	O
 a	O
@@ -927,6 +930,7 @@ Nuarta	I-Person
 this	O
 month	O
 .	O
+
 The	O
 design	O
 still	O
@@ -938,8 +942,7 @@ by	O
 a	O
 massive	O
 bird	O
-’	O
-s	O
+’s	O
 wingspan	O
 ,	O
 though	O
@@ -1032,6 +1035,7 @@ from	O
 the	O
 parliament	O
 .	O
+
 It	O
 envisioned	O
 Nusantara	B-Location
@@ -1079,8 +1083,7 @@ up	O
 from	O
 the	O
 government	O
-’	O
-s	O
+’s	O
 initial	O
 target	O
 of	O
@@ -1088,6 +1091,7 @@ of	O
 per	O
 cent	O
 .	O
+
 The	O
 government	O
 will	O
@@ -1132,6 +1136,7 @@ the	O
 new	O
 bill	O
 .	O
+
 It	O
 did	O
 so	O
@@ -1297,6 +1302,7 @@ a	O
 new	O
 place	O
 .	O
+
 The	O
 government	O
 has	O
@@ -1305,8 +1311,7 @@ empathy	O
 for	O
 the	O
 people	O
-’	O
-s	O
+’s	O
 condition	O
 and	O
 situations	O
