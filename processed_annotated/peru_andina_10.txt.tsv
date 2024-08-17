@@ -234,8 +234,7 @@ Restaurants	I-Misc
 ,	O
 sponsored	O
 by	O
-S	B-Organization
-.	I-Organization
+S.	B-Organization
 Pellegrino	I-Organization
 &	O
 Acqua	B-Organization

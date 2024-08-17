@@ -111,10 +111,8 @@ to	O
 the	O
 Indian	B-NORP
 historian	O
-M	B-Person
-.	I-Person
-S	I-Person
-.	I-Person
+M.	B-Person
+S.	I-Person
 Commissariat	I-Person
 ,	O
 “	O

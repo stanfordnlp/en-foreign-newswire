@@ -12,10 +12,8 @@ lord	O
 was	O
 released	O
 from	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 prison	O
 on	O
 Thursday	B-Date
@@ -264,10 +262,8 @@ be	O
 imprisoned	O
 in	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 Vicente	B-Person
 Zambada	I-Person
 Niebla	I-Person
@@ -281,10 +277,8 @@ and	O
 extradited	O
 to	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	O
+U.	B-Location
+S.	I-Location
 a	O
 year	O
 later	O
@@ -307,10 +301,8 @@ no	O
 longer	O
 in	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 prison	O
 system	O
 and	O
@@ -337,12 +329,11 @@ second	O
 son	O
 to	O
 face	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 prison	O
 .	O
+
 He	O
 was	O
 arrested	O
@@ -355,10 +346,8 @@ to	O
 cross	O
 into	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 on	O
 foot	O
 from	O
@@ -383,10 +372,8 @@ September	B-Date
 2018	I-Date
 .	O
 
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 officials	O
 increased	O
 their	O

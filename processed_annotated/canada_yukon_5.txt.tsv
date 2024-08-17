@@ -152,10 +152,8 @@ across	O
 Canada	B-Location
 and	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 
 Last	O
 month	O

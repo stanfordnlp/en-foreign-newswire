@@ -72,10 +72,8 @@ strong	O
 fiscal	O
 consolidation	O
 and	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 sanctions	O
 against	O
 members	O

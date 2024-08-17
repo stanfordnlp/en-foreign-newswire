@@ -611,10 +611,8 @@ not	O
 far	O
 behind	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 figure	O
 of	O
 26	O

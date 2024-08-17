@@ -1463,10 +1463,8 @@ been	O
 occurring	O
 in	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 can	O
 make	O
 a	O

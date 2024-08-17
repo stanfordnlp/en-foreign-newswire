@@ -36,10 +36,8 @@ to	O
 Japanese	B-NORP
 sovereignty	O
 from	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 military	O
 rule	O
 .	O
@@ -63,10 +61,8 @@ issue	O
 of	O
 relocating	O
 the	O
-U	B-Facility	B-Location
-.	I-Facility	I-Location
-S	I-Facility	I-Location
-.	I-Facility
+U.	B-Facility	B-Location
+S.	I-Facility	I-Location
 Marine	I-Facility
 Corps	I-Facility
 Air	I-Facility
@@ -173,10 +169,8 @@ hosting	O
 the	O
 bulk	O
 of	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 military	O
 facilities	O
 in	O
@@ -200,10 +194,8 @@ battle	O
 to	O
 reduce	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 military	O
 presence	O
 has	O
@@ -260,10 +252,8 @@ percent	O
 who	O
 picked	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 base	O
 issue	O
 ,	O
@@ -318,10 +308,8 @@ his	O
 opposition	O
 to	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 base	O
 relocation	O
 plan	O
@@ -336,8 +324,7 @@ heightened	O
 Japanese	B-NORP
 feelings	O
 that	O
-U	B-Location
-.	I-Location
+U.	B-Location
 S	I-Location
 .	O
 military	O
@@ -427,10 +414,8 @@ Nobuo	B-Person
 Kishi	I-Person
 and	O
 his	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 counterpart	O
 ,	O
 Lloyd	B-Person
@@ -549,10 +534,8 @@ Okinawa	B-Location
 burden	O
 of	O
 hosting	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 military	O
 bases	O
 .	O
@@ -889,10 +872,8 @@ to	O
 build	O
 the	O
 new	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 base	O
 off	O
 the	O
@@ -941,10 +922,8 @@ between	O
 the	O
 Japanese	B-NORP
 and	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 governments	O
 over	O
 the	O
@@ -1093,10 +1072,8 @@ of	O
 the	O
 Japan	B-Location
 -	O
-U	B-Misc	B-Location
-.	I-Misc	I-Location
-S	I-Misc	I-Location
-.	I-Misc
+U.	B-Misc	B-Location
+S.	I-Misc	I-Location
 Status	I-Misc
 of	I-Misc
 Forces	I-Misc
@@ -1128,10 +1105,8 @@ legal	O
 standing	O
 of	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 military	O
 in	O
 Japan	B-Location
@@ -1155,10 +1130,8 @@ that	O
 the	O
 pact	O
 gives	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 military	O
 personnel	O
 preferential	O

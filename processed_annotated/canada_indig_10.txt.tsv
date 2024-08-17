@@ -40,10 +40,8 @@ Paqtnkek	B-Organization
 Mi'kmaw	I-Organization
 Nation	I-Organization
 ,	O
-N	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+N.	B-Location
+S.	I-Location
 ,	O
 has	O
 gotten	O

@@ -274,10 +274,8 @@ the	O
 airline	O
 ’s	O
 fourth	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	O
+U.	B-Location
+S.	I-Location
 destination	O
 from	O
 Costa	B-Location

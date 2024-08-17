@@ -119,10 +119,8 @@ Rights	O
 
 “	O
 The	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 and	O
 Namibia	B-Location
 have	O
@@ -275,10 +273,8 @@ see	O
 first	O
 -	O
 hand	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 Namibia	B-Location
 cooperation	O
 to	O

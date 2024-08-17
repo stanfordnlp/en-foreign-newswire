@@ -135,10 +135,8 @@ hit	O
 200	B-Money
 shillings	I-Money
 (	O
-U	B-Money	B-Location
-.	I-Money	I-Location
-S	I-Money	I-Location
-.	I-Money	I-Location
+U.	B-Money	B-Location
+S.	I-Money	I-Location
 $	I-Money
 2	I-Money
 )	O

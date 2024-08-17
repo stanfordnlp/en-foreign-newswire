@@ -1101,10 +1101,8 @@ with	O
 members	O
 of	O
 the	O
-U	B-Organization	B-Location
-.	I-Organization	I-Location
-S	I-Organization	I-Location
-.	I-Organization	I-Location
+U.	B-Organization	B-Location
+S.	I-Organization	I-Location
 Congress	I-Organization
 without	O
 informing	O
@@ -1392,10 +1390,8 @@ anything	O
 he	O
 wants	O
 with	O
-U	B-Organization	B-Location
-.	I-Organization	I-Location
-S	I-Organization	I-Location
-.	I-Organization	I-Location
+U.	B-Organization	B-Location
+S.	I-Organization	I-Location
 Congress	I-Organization
 members	O
 .	O
@@ -1422,10 +1418,8 @@ issue	O
 with	O
 the	O
 [	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 ]	O
 administration	O
 wisely	O

@@ -26,10 +26,8 @@ CAIRO	B-Location
 July	I-Date
 2022	I-Date
 :	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 Special	O
 Envoy	O
 to	O
@@ -369,10 +367,8 @@ record	O
 and	O
 history	O
 of	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	O
+U.	B-Location
+S.	I-Location
 partnership	O
 with	O
 Egypt	B-Location
@@ -404,10 +400,8 @@ Sisi	I-Person
 to	O
 attend	O
 the	O
-U	B-Misc	B-Location
-.	I-Misc	I-Location
-S	I-Misc	I-Location
-.	I-Misc	I-Location
+U.	B-Misc	B-Location
+S.	I-Misc	I-Location
 -	I-Misc
 Africa	I-Misc	B-Location
 Leaders	I-Misc
@@ -431,17 +425,13 @@ the	O
 region	O
 and	O
 bolster	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 -	O
 Egypt	B-Location
 and	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 -	O
 Africa	B-Location
 relations	O

@@ -806,10 +806,8 @@ local	O
 organization	O
 founded	O
 by	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 immigrants	O
 to	O
 identify	O
@@ -1420,10 +1418,8 @@ registry	O
 comparable	O
 to	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 ’	O
 Megan	B-Person
 ’s	O

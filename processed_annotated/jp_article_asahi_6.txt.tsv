@@ -341,10 +341,8 @@ world	O
 famous	O
 when	O
 then	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	O
+U.	B-Location
+S.	I-Location
 President	O
 Barack	B-Person
 Obama	I-Person
@@ -507,10 +505,8 @@ Hiroshima	B-Location
 by	O
 a	O
 sitting	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	O
+U.	B-Location
+S.	I-Location
 president	O
 .	O
 

@@ -69,8 +69,7 @@ Welfare	I-Organization
 Committee	I-Organization
 ,	O
 Mr	O
-S	B-Person
-.	I-Person
+S.	B-Person
 Bholah	I-Person
 ,	O
 were	O

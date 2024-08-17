@@ -40,8 +40,7 @@ deputy	O
 police	O
 chief	O
 Datuk	B-Person
-S	I-Person
-.	I-Person
+S.	I-Person
 Sasikala	I-Person
 Devi	I-Person
 said	O

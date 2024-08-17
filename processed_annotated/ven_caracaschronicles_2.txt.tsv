@@ -1262,10 +1262,8 @@ billion	I-Money
 according	O
 to	O
 the	O
-U	B-Organization	B-Location
-.	I-Organization	I-Location
-S	I-Organization	I-Location
-.	I-Organization	I-Location
+U.	B-Organization	B-Location
+S.	I-Organization	I-Location
 Energy	I-Organization
 Information	I-Organization
 Administration	I-Organization

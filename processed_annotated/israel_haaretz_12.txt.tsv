@@ -958,10 +958,8 @@ says	O
 “	O
 And	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 Registry	O
 is	O
 powerless	O
@@ -1092,10 +1090,8 @@ Interpol	B-Organization
 he	O
 has	O
 both	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 and	O
 Israeli	B-NORP
 nationality	O

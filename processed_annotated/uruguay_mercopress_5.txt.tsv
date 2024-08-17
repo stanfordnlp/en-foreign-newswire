@@ -141,10 +141,8 @@ the	O
 vaccine	O
 from	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 laboratory	O
 Pfizer	B-Organization
 ,	O

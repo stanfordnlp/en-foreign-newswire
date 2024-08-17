@@ -267,10 +267,8 @@ reelection	O
 .	O
 
 The	O
-U	B-Organization
-.	I-Organization
-N	I-Organization
-.	I-Organization
+U.	B-Organization
+N.	I-Organization
 body	O
 in	O
 neighboring	O

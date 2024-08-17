@@ -178,10 +178,8 @@ five	O
 years	O
 of	O
 the	O
-U	B-Misc	B-Location
-.	I-Misc	I-Location
-S	I-Misc	I-Location
-.	I-Misc
+U.	B-Misc	B-Location
+S.	I-Misc	I-Location
 -	I-Misc
 Korea	I-Misc	B-Location
 Free	I-Misc
@@ -247,10 +245,8 @@ The	O
 agreement	O
 has	O
 benefited	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	O
+U.	B-Location
+S.	I-Location
 exporters	O
 of	O
 manufactured	O
@@ -270,10 +266,8 @@ a	O
 long	O
 -	O
 time	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	O
+U.	B-Location
+S.	I-Location
 ally	O
 and	O
 key	O
@@ -292,10 +286,8 @@ added	O
 jobs	O
 to	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	O
+U.	B-Location
+S.	I-Location
 economy	O
 ,	O
 paved	O
@@ -320,10 +312,8 @@ rules	O
 that	O
 all	O
 future	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	O
+U.	B-Location
+S.	I-Location
 free	O
 trade	O
 agreements	O
@@ -357,10 +347,8 @@ acknowledgment	O
 that	O
 “	O
 through	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	O
+U.	B-Location
+S.	I-Location
 engagement	O
 with	O
 Korea	B-Location
@@ -388,10 +376,8 @@ areas	O
 Here	O
 at	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	O
+U.	B-Location
+S.	I-Location
 -	O
 Korea	B-Organization
 Business	I-Organization
@@ -560,10 +546,8 @@ to	O
 a	O
 surge	O
 in	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	O
+U.	B-Location
+S.	I-Location
 service	O
 exports	O
 to	O
@@ -572,10 +556,8 @@ Korea	B-Location
 and	O
 a	O
 growing	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	O
+U.	B-Location
+S.	I-Location
 surplus	O
 in	O
 services	O
@@ -591,10 +573,8 @@ relative	O
 strengths	O
 of	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	O
+U.	B-Location
+S.	I-Location
 and	O
 Korean	B-NORP
 economies	O
@@ -610,10 +590,8 @@ Labor	I-Organization
 %	O
 of	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	O
+U.	B-Location
+S.	I-Location
 work	O
 -	O
 force	O
@@ -656,10 +634,8 @@ and	O
 many	O
 highly	O
 competitive	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	O
+U.	B-Location
+S.	I-Location
 services	O
 firms	O
 across	O
@@ -895,10 +871,8 @@ companies	O
 operating	O
 in	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	O
+U.	B-Location
+S.	I-Location
 is	O
 $	B-Money
 91,000	I-Money
@@ -973,10 +947,8 @@ defense	O
 exports	O
 from	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	O
+U.	B-Location
+S.	I-Location
 to	O
 Korea	B-Location
 over	O

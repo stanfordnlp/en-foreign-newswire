@@ -691,10 +691,8 @@ they	O
 cooperate	O
 with	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 military	O
 ,	O
 but	O
@@ -1131,10 +1129,8 @@ Faluja	B-Organization	B-Location
 Protection	I-Organization
 Brigade	I-Organization
 in	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 -	O
 issued	O
 fatigues	O
@@ -1156,10 +1152,8 @@ patrols	O
 .	O
 
 The	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 military	O
 was	O
 unwilling	O

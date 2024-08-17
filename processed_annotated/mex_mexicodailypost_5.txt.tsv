@@ -573,10 +573,8 @@ international	O
 colleagues	O
 ,	O
 the	O
-U	B-Organization
-.	I-Organization
-S	I-Organization
-.	I-Organization
+U.	B-Organization
+S.	I-Organization
 Embassy	I-Organization
 in	O
 Mexico	B-Location

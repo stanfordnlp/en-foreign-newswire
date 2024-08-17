@@ -591,10 +591,8 @@ GDP	B-Misc
 of	O
 26.2	B-Money
 trillion	I-Money
-U	I-Money	B-Location
-.	I-Money	I-Location
-S	I-Money	I-Location
-.	I-Money	I-Location
+U.	I-Money	B-Location
+S.	I-Money	I-Location
 dollars	I-Money
 ,	O
 which	O

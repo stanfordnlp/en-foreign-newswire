@@ -282,10 +282,8 @@ yuan	I-Money
 about	O
 1.39	B-Money
 billion	I-Money
-U	I-Money	B-Location
-.	I-Money	I-Location
-S	I-Money	I-Location
-.	I-Money
+U.	I-Money	B-Location
+S.	I-Money	I-Location
 dollars	I-Money
 )	O
 recovered	O

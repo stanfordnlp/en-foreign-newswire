@@ -10,8 +10,7 @@ Prime	O
 Minister	O
 of	O
 Mongolia	B-Location
-S	B-Person
-.	I-Person
+S.	B-Person
 Amarsaikhan	I-Person
 received	O
 Ambassador	O

@@ -86,10 +86,8 @@ moving	O
 out	O
 of	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 after	O
 the	O
 overturn	O
@@ -100,10 +98,8 @@ v	I-Misc
 Wade	I-Misc	B-Person
 .	O
 One	O
-U	B-Location
-.	I-Location
-K	I-Location
-.	I-Location
+U.	B-Location
+K.	I-Location
 company	O
 that	O
 helps	O
@@ -419,10 +415,8 @@ over	O
 36	O
 %	O
 of	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 employees	O
 who	O
 make	O

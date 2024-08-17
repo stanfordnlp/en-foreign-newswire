@@ -114,10 +114,8 @@ charge	O
 of	O
 Fredo	B-Location
 Fresas	I-Location
-S	I-Location
-.	I-Location
-A	I-Location
-.	I-Location
+S.	I-Location
+A.	I-Location
 
 In	O
 addition	O

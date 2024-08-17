@@ -66,8 +66,7 @@ Prime	O
 Minister	O
 of	O
 Mongolia	B-Location
-S	B-Person
-.	I-Person
+S.	B-Person
 Amarsaikhan	I-Person
 received	O
 Dr	O
@@ -232,8 +231,7 @@ turn	O
 Deputy	O
 Prime	O
 Minister	O
-S	B-Person
-.	I-Person
+S.	B-Person
 Amarsaikhan	I-Person
 said	O
 ,	O
@@ -284,8 +282,7 @@ all	O
 possible	O
 support	O
 ,	O
-S	B-Person
-.	I-Person
+S.	B-Person
 Amarsaikhan	I-Person
 congratulated	O
 the	O

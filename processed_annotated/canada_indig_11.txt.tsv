@@ -152,8 +152,7 @@ crew	O
 in	O
 Nain	B-Location
 ,	I-Location
-N	I-Location
-.	I-Location
+N.	I-Location
 L	I-Location
 .	I-Location
 for	O

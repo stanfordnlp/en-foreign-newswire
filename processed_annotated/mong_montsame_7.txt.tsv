@@ -7,8 +7,7 @@ MONTSAME	B-Organization
 President	O
 of	O
 Mongolia	B-Location
-U	B-Person
-.	I-Person
+U.	B-Person
 Khurelsukh	I-Person
 received	O
 UNESCO	B-Organization

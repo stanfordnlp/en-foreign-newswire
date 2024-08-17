@@ -6,10 +6,8 @@ Oct	B-Date
 1	I-Date
 ,	O
 the	O
-U	B-Organization
-.	I-Organization
-N	I-Organization
-.	I-Organization
+U.	B-Organization
+N.	I-Organization
 ’s	O
 International	B-Organization
 Court	I-Organization
@@ -274,10 +272,8 @@ off	O
 vessels	O
 from	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 and	O
 China	B-Location
 .	O

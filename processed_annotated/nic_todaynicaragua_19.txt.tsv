@@ -257,10 +257,8 @@ violent	O
 oppressive	O
 ,	O
 and	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 -	O
 allied	O
 Somoza	B-Person

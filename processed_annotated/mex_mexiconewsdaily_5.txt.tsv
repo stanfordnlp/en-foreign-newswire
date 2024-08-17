@@ -135,10 +135,8 @@ with	O
 visas	O
 due	O
 to	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 pressure	O
 .	O
 
@@ -199,10 +197,8 @@ Because	O
 for	O
 [	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 government	O
 ]	O
 ,	O
@@ -505,10 +501,8 @@ It	O
 argues	O
 that	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 government	O
 should	O
 prioritize	O

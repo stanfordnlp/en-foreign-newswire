@@ -719,10 +719,8 @@ ally	O
 ,	O
 America	B-Location
 .	I-Location
-U	I-Location
-.	I-Location
-S	I-Location
-.	O
+U.	I-Location
+S.	I-Location
 President	O
 Joe	B-Person
 Biden	I-Person

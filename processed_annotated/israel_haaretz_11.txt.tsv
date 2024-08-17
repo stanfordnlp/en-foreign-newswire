@@ -688,10 +688,8 @@ Lanner	B-Person
 is	O
 on	O
 the	O
-U	B-Organization	B-Location
-.	I-Organization	I-Location
-S	I-Organization	I-Location
-.	I-Organization	I-Location
+U.	B-Organization	B-Location
+S.	I-Organization	I-Location
 Sex	I-Organization
 Offender	I-Organization
 Registry	I-Organization

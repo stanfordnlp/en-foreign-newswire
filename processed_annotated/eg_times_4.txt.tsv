@@ -553,10 +553,8 @@ alliances	O
 that	O
 can	O
 challenge	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 -	O
 Israeli	B-NORP
 domination	O
@@ -954,10 +952,8 @@ desire	O
 to	O
 sever	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 -	O
 Saudi	B-Location
 relationship	O

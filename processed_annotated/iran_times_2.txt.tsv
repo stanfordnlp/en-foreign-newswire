@@ -347,10 +347,8 @@ drones	O
 had	O
 rendered	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 operating	O
 without	O
 the	O

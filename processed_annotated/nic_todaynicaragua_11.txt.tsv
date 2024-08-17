@@ -959,10 +959,8 @@ British	B-NORP
 empire	O
 and	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 during	O
 the	O
 Democrat	B-NORP

@@ -24,6 +24,7 @@ Wednesday	B-Date
 July	I-Date
 6	I-Date
 .	O
+
 The	O
 event	O
 took	O
@@ -89,12 +90,9 @@ Professor	O
 Theesan	B-Person
 Bahorun	I-Person
 ,	O
-G	O
-.	O
-O	O
-.	O
-S	O
-.	O
+G.	O
+O.	O
+S.	O
 K	O
 ,	O
 Executive	O
@@ -110,8 +108,7 @@ Council	I-Organization
 MRIC	B-Organization
 )	O
 ,	O
-Mrs	O
-.	O
+Mrs.	O
 Micheline	B-Person
 Seeneevassen	I-Person
 Pillay	I-Person
@@ -146,12 +143,9 @@ Mrs	O
 Jacqueline	B-Person
 Sauzier	I-Person
 ,	O
-C	O
-.	O
-S	O
-.	O
-K	O
-.	O
+C.	O
+S.	O
+K.	O
 ,	O
 Mr.	O
 Gregory	B-Person
