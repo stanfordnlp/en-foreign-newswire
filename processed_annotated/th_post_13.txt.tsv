@@ -91,6 +91,7 @@ n't	O
 know	O
 everything	O
 .	O
+
 I	O
 am	O
 not	O
@@ -98,6 +99,7 @@ good	O
 at	O
 everything	O
 .	O
+
 I	O
 am	O
 not	O
@@ -110,14 +112,14 @@ the	O
 cleverest	O
 person	O
 .	O
+
 But	O
 where	O
 is	O
 he	O
 now	O
 ?	O
-'	O
-'	O
+''	O
 Gen	O
 Prayut	B-Person
 said	O
@@ -163,10 +165,12 @@ job	O
 than	O
 me	O
 .	O
+
 That	O
 's	O
 fine	O
 .	O
+
 Just	O
 bring	O
 them	O
@@ -296,6 +300,7 @@ facts	O
 and	O
 figures	O
 .	O
+
 More	O
 than	O
 2.2	O
@@ -320,6 +325,7 @@ government	O
 's	O
 performance	O
 .	O
+
 Is	O
 n't	O
 it	O
@@ -367,6 +373,7 @@ two	O
 more	O
 years	O
 .	O
+
 I	O
 mean	O
 they	O
@@ -431,9 +438,8 @@ n't	O
 trust	O
 the	O
 military	O
-.	O
-.	O
-.	O
+...	O
+
 The	O
 NSC	B-Organization
 is	O
@@ -641,6 +647,7 @@ economy	O
 has	O
 collapsed	O
 .	O
+
 People	O
 have	O
 become	O
@@ -649,10 +656,12 @@ across	O
 the	O
 country	O
 .	O
+
 Prices	O
 have	O
 increased	O
 .	O
+
 People	O
 have	O
 lost	O
@@ -680,6 +689,7 @@ ceiling	O
 every	O
 year	O
 .	O
+
 Large	O
 businesses	O
 have	O
@@ -778,6 +788,7 @@ legislative	O
 branches	O
 ]	O
 .	O
+
 You	O
 have	O
 no	O
@@ -785,6 +796,7 @@ right	O
 to	O
 interfere	O
 .	O
+
 You	O
 destroyed	O
 the	O
