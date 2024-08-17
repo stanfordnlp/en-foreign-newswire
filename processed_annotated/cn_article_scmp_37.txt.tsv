@@ -453,8 +453,7 @@ preferred	O
 option	O
 for	O
 China	B-Location
-’	O
-s	O
+’s	O
 LGBT	B-NORP
 community	O
 .	O
@@ -615,8 +614,7 @@ progress	O
 
 “	O
 It	O
-’	O
-s	O
+’s	O
 about	O
 the	O
 atmosphere	O
@@ -728,8 +726,7 @@ deleted	O
 some	O
 in	O
 China	B-Location
-’	O
-s	O
+’s	O
 LGBT	B-NORP
 community	O
 worry	O
@@ -792,8 +789,7 @@ economics	O
 student	O
 at	O
 Shanghai	B-Location
-’	O
-s	O
+’s	O
 Fudan	B-Organization
 University	I-Organization
 who	O
@@ -833,8 +829,7 @@ to	O
 the	O
 National	B-Organization
 People	I-Organization
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Congress	I-Organization
 (	O
 NPC	B-Organization
@@ -971,8 +966,7 @@ which	O
 purports	O
 that	O
 one	O
-’	O
-s	O
+’s	O
 LGBT	B-NORP
 identity	O
 is	O
@@ -1397,8 +1391,7 @@ location	O
 and	O
 their	O
 family	O
-’	O
-s	O
+’s	O
 open	O
 -	O
 mindedness	O
@@ -1518,8 +1511,7 @@ about	O
 politics	O
 ,	O
 there	O
-’	O
-s	O
+’s	O
 also	O
 the	O
 consideration	O
@@ -1550,8 +1542,7 @@ influence	O
 in	O
 a	O
 decade	O
-’	O
-s	O
+’s	O
 time	O
 ,	O
 things	O
@@ -1713,8 +1704,7 @@ most	O
 outstanding	O
 ,	O
 that	O
-’	O
-s	O
+’s	O
 the	O
 only	O
 way	O

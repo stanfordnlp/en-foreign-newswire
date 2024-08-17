@@ -34,8 +34,7 @@ the	O
 state	O
 capture	O
 commission	O
-’	O
-s	O
+’s	O
 recommendations	O
 .	O
 
@@ -48,8 +47,7 @@ eve	O
 of	O
 the	O
 party	O
-’	O
-s	O
+’s	O
 ANC	B-Organization
 policy	O
 conference	O

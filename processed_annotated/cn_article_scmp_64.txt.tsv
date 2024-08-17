@@ -1,8 +1,7 @@
 https://www.scmp.com/news/asia/south-asia/article/3183079/chinese-engineering-firm-builds-bangladesh-longest-bridge-paid	O
 
 Bangladesh	B-Location
-’	O
-s	O
+’s	O
 Prime	O
 Minister	O
 Sheikh	B-Person
@@ -15,8 +14,7 @@ opening	O
 of	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 longest	O
 bridge	O
 ,	O
@@ -112,8 +110,7 @@ Dhaka	B-Location
 ,	O
 and	O
 Bangladesh	B-Location
-’	O
-s	O
+’s	O
 second	O
 largest	O
 seaport	O
@@ -175,8 +172,7 @@ directly	O
 part	O
 of	O
 China	B-Location
-’	O
-s	O
+’s	O
 Belt	B-Misc
 and	I-Misc
 Road	I-Misc
@@ -215,8 +211,7 @@ a	O
 statement	O
 by	O
 China	B-Location
-’	O
-s	O
+’s	O
 Ambassador	O
 Li	B-Person
 Jiming	I-Person
@@ -270,8 +265,7 @@ bridge	O
 will	O
 increase	O
 Bangladesh	B-Location
-’	O
-s	O
+’s	O
 gross	O
 domestic	O
 product	O
@@ -297,8 +291,7 @@ Bank	I-Organization
 that	O
 predict	O
 Bangladesh	B-Location
-’	O
-s	O
+’s	O
 US	B-Money	B-Location
 $	I-Money
 465	I-Money
@@ -512,8 +505,7 @@ linked	O
 to	O
 the	O
 bridge	O
-’	O
-s	O
+’s	O
 construction	O
 in	O
 2017	B-Date
@@ -534,16 +526,14 @@ Zia	I-Person
 during	O
 the	O
 bridge	O
-’	O
-s	O
+’s	O
 construction	O
 .	O
 The	O
 opposition	O
 said	O
 Hasina	B-Person
-’	O
-s	O
+’s	O
 government	O
 had	O
 increased	O

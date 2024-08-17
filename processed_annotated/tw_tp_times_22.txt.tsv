@@ -31,8 +31,7 @@ in	O
 New	B-Location
 Taipei	I-Location
 City	I-Location
-’	O
-s	O
+’s	O
 Wanli	B-Location
 District	I-Location
 (	O
@@ -62,8 +61,7 @@ in	O
 New	B-Location
 Taipei	I-Location
 City	I-Location
-’	O
-s	O
+’s	O
 Gongliao	B-Location
 Dictrict	I-Location
 (	O
@@ -140,8 +138,7 @@ should	O
 follow	O
 the	O
 EU	B-Organization
-’	O
-s	O
+’s	O
 example	O
 .	O
 
@@ -277,8 +274,7 @@ questioned	O
 whether	O
 the	O
 government	O
-’	O
-s	O
+’s	O
 plan	O
 to	O
 build	O
@@ -293,8 +289,7 @@ Keelung	B-Location
 near	O
 the	O
 city	O
-’	O
-s	O
+’s	O
 Hsieh	B-Person
 -	I-Person
 ho	I-Person
@@ -326,8 +321,7 @@ to	O
 review	O
 the	O
 terminal	O
-’	O
-s	O
+’s	O
 environmental	O
 impact	O
 assessment	O

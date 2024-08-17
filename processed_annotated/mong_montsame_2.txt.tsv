@@ -20,8 +20,7 @@ received	O
 World	B-Organization
 Health	I-Organization
 Organization	I-Organization
-’	O
-s	O
+’s	O
 Representative	O
 to	O
 Mongolia	B-Location
@@ -34,8 +33,7 @@ connection	O
 with	O
 the	O
 latter	O
-’	O
-s	O
+’s	O
 completion	O
 of	O
 mission	O

@@ -4,8 +4,7 @@ Sun	B-Person
 Lijun	I-Person
 ,	O
 China	B-Location
-’	O
-s	O
+’s	O
 former	O
 police	O
 vice	O
@@ -68,8 +67,7 @@ the	O
 Changchun	B-Organization	B-Location
 Intermediate	I-Organization
 People	I-Organization
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Court	I-Organization
 in	O
 northeastern	B-Location
@@ -139,8 +137,7 @@ of	O
 the	O
 Shanghai	B-Location
 government	O
-’	O
-s	O
+’s	O
 Foreign	B-Organization
 Affairs	I-Organization
 Office	I-Organization
@@ -182,8 +179,7 @@ April	B-Date
 the	O
 Communist	B-Organization	B-NORP
 Party	I-Organization
-’	O
-s	O
+’s	O
 disciplinary	O
 watchdog	O
 announced	O
@@ -391,8 +387,7 @@ profile	O
 figures	O
 from	O
 China	B-Location
-’	O
-s	O
+’s	O
 security	O
 apparatus	O
 to	O
@@ -405,8 +400,7 @@ under	O
 President	O
 Xi	B-Person
 Jinping	I-Person
-’	O
-s	O
+’s	O
 decade	O
 -	O
 long	O
@@ -550,8 +544,7 @@ ahead	O
 of	O
 the	O
 party	O
-’	O
-s	O
+’s	O
 national	O
 congress	O
 ,	O
@@ -607,8 +600,7 @@ previously	O
 headed	O
 the	O
 ministry	O
-’	O
-s	O
+’s	O
 Hong	B-Location
 Kong	I-Location
 ,	O

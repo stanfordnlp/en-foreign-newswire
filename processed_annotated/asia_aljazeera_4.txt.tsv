@@ -24,8 +24,7 @@ and	O
 elders	O
 in	O
 Afghanistan	B-Location
-’	O
-s	O
+’s	O
 capital	O
 ,	O
 Kabul	B-Location
@@ -50,8 +49,7 @@ on	O
 Thursday	B-Date
 in	O
 Kabul	B-Location
-’	O
-s	O
+’s	O
 Polytechnic	B-Organization
 University	I-Organization
 and	O
@@ -63,8 +61,7 @@ rubber	O
 stamp	O
 the	O
 Taliban	B-Organization
-’	O
-s	O
+’s	O
 rule	O
 over	O
 Afghanistan	B-Location
@@ -120,8 +117,7 @@ Afghanistan	I-Organization	B-Location
 ,	O
 the	O
 Taliban	B-Organization
-’	O
-s	O
+’s	O
 name	O
 for	O
 the	O
@@ -271,8 +267,7 @@ people	O
 in	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 east	O
 .	O
 
@@ -324,8 +319,7 @@ Kandahar	B-Location
 ,	O
 the	O
 Taliban	B-Organization
-’	O
-s	O
+’s	O
 birthplace	O
 and	O
 spiritual	O
@@ -353,8 +347,7 @@ footprint	O
 
 The	O
 leader	O
-’	O
-s	O
+’s	O
 presence	O
 raised	O
 the	O
@@ -489,8 +482,7 @@ Al	B-Organization
 Jazeera	I-Organization
 the	O
 Taliban	B-Organization
-’	O
-s	O
+’s	O
 “	O
 mindset	O
 is	O
@@ -514,8 +506,7 @@ human	O
 rights	O
 and	O
 that	O
-’	O
-s	O
+’s	O
 why	O
 no	O
 woman	O
@@ -816,15 +807,13 @@ cut	O
 off	O
 of	O
 Afghanistan	B-Location
-’	O
-s	O
+’s	O
 financing	O
 has	O
 deepened	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 economic	O
 collapse	O
 and	O
@@ -928,8 +917,7 @@ leader	O
 ,	O
 the	O
 group	O
-’	O
-s	O
+’s	O
 ultimate	O
 authority	O
 .	O
@@ -940,8 +928,7 @@ year	O
 ,	O
 the	O
 Taliban	B-Organization
-’	O
-s	O
+’s	O
 supreme	O
 leader	O
 banned	O

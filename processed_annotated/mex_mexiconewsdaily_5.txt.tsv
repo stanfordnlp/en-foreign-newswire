@@ -88,8 +88,7 @@ Tapachula	B-Location
 according	O
 to	O
 WOLA	B-Organization
-’	O
-s	O
+’s	O
 data	O
 .	O
 
@@ -118,8 +117,7 @@ reported	O
 .	O
 
 WOLA	B-Organization
-’	O
-s	O
+’s	O
 Mexico	B-Location
 director	O
 Stephanie	B-Person
@@ -167,8 +165,7 @@ be	O
 avoided	O
 …	O
 it	O
-’	O
-s	O
+’s	O
 understood	O
 that	O
 the	O
@@ -271,8 +268,7 @@ to	O
 demand	O
 .	O
 It	O
-’	O
-s	O
+’s	O
 a	O
 big	O
 country	O
@@ -293,8 +289,7 @@ can	O
 t	O
 .	O
 It	O
-’	O
-s	O
+’s	O
 not	O
 logical	O
 to	O
@@ -504,8 +499,7 @@ visas	O
 and	O
 increase	O
 COMAR	B-Organization
-’	O
-s	O
+’s	O
 budget	O
 .	O
 It	O

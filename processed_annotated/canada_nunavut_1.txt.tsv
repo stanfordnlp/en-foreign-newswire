@@ -202,8 +202,7 @@ complicated	O
 by	O
 the	O
 island	O
-’	O
-s	O
+’s	O
 rough	O
 ,	O
 overgrown	O
@@ -315,8 +314,7 @@ CCCB	B-Organization
 )	O
 announced	O
 it	O
-’	O
-s	O
+’s	O
 collected	O
 $	B-Money
 4.6	I-Money
@@ -429,8 +427,7 @@ be	O
 repeated	O
 during	O
 Thursday	B-Date
-’	O
-s	O
+’s	O
 Papal	O
 address	O
 in	O
@@ -440,8 +437,7 @@ City	I-Location
 
 The	O
 AFNQL	B-Organization
-’	O
-s	O
+’s	O
 remarks	O
 come	O
 in	O
@@ -482,8 +478,7 @@ Vatican	B-Location
 while	O
 qualifying	O
 Pope	O
-’	O
-s	O
+’s	O
 trip	O
 to	O
 Canada	B-Location

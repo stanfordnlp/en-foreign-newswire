@@ -35,8 +35,7 @@ Mexico	B-Location
 ,	O
 Gerardo	B-Person
 Martino	I-Person
-’	O
-s	O
+’s	O
 process	O
 continues	O
 to	O
@@ -148,8 +147,7 @@ coach	O
 in	O
 the	O
 Newell	B-Facility
-’	I-Facility
-s	I-Facility
+’s	I-Facility
 stadium	I-Facility
 and	O
 his	O
@@ -203,8 +201,7 @@ the	O
 resignation	O
 of	O
 Mexico	B-Location
-’	O
-s	O
+’s	O
 current	O
 coach	O
 is	O
@@ -266,8 +263,7 @@ Who	O
 will	O
 be	O
 Martino	B-Person
-’	O
-s	O
+’s	O
 replacement	O
 ?	O
 

@@ -61,8 +61,7 @@ Central	B-Location
 America	I-Location
 about	O
 Russia	B-Location
-’	O
-s	O
+’s	O
 invasion	O
 of	O
 Ukraine	B-Location
@@ -113,14 +112,12 @@ Chaves	I-Person
 for	O
 Costa	B-Location
 Rica	I-Location
-’	O
-s	O
+’s	O
 support	O
 to	O
 achieve	O
 Ukraine	B-Location
-’	O
-s	O
+’s	O
 admission	O
 to	O
 the	O
@@ -272,8 +269,7 @@ Chaves	B-Person
 confirmed	O
 Costa	B-Location
 Rica	I-Location
-’	O
-s	O
+’s	O
 support	O
 for	O
 the	O
@@ -294,8 +290,7 @@ to	O
 the	O
 Ukrainian	B-NORP
 president	O
-’	O
-s	O
+’s	O
 requests	O
 .	O
 

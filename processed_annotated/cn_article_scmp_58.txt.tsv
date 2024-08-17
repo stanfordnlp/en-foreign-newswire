@@ -57,8 +57,7 @@ week	O
 .	O
 
 China	B-Location
-’	O
-s	O
+’s	O
 Eastern	B-Organization
 Theatre	I-Organization
 Command	I-Organization
@@ -72,8 +71,7 @@ defence	O
 in	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 eastern	O
 waters	O
 ,	O
@@ -198,8 +196,7 @@ Wednesday	B-Date
 “	O
 The	O
 ship	O
-’	O
-s	O
+’s	O
 transit	O
 through	O
 the	O
@@ -359,8 +356,7 @@ statement	O
 after	O
 the	O
 Benfold	B-Misc
-’	O
-s	O
+’s	O
 trip	O
 .	O
 
@@ -388,8 +384,7 @@ integrity	O
 ”	O
 
 Taiwan	B-Location
-’	O
-s	O
+’s	O
 defence	O
 ministry	O
 said	O
@@ -472,8 +467,7 @@ ruling	O
 that	O
 invalidated	O
 Beijing	B-Location
-’	O
-s	O
+’s	O
 nine	O
 -	O
 dash	O
@@ -523,8 +517,7 @@ after	O
 reports	O
 of	O
 Pelosi	B-Person
-’	O
-s	O
+’s	O
 potential	O
 trip	O
 and	O
@@ -564,8 +557,7 @@ China	I-Organization	B-Location
 said	O
 the	O
 mainland	O
-’	O
-s	O
+’s	O
 stern	O
 warning	O
 was	O
@@ -603,8 +595,7 @@ are	O
 determined	O
 by	O
 China	B-Location
-’	O
-s	O
+’s	O
 strategic	O
 considerations	O
 ,	O
@@ -733,8 +724,7 @@ response	O
 ,	O
 and	O
 Pelosi	B-Person
-’	O
-s	O
+’s	O
 potential	O
 visit	O
 was	O
@@ -769,8 +759,7 @@ Teng	I-Person
 hui	I-Person
 ,	O
 Taiwan	B-Location
-’	O
-s	O
+’s	O
 president	O
 at	O
 the	O

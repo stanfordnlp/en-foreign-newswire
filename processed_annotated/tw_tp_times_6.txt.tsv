@@ -60,8 +60,7 @@ the	O
 Taiwan	B-Organization	B-Location
 Railways	I-Organization
 Administration	I-Organization
-’	O
-s	O
+’s	O
 (	O
 TRA	B-Organization
 )	O
@@ -88,8 +87,7 @@ the	O
 Ministry	B-Organization
 of	I-Organization
 Culture	I-Organization
-’	O
-s	O
+’s	O
 Bureau	B-Organization
 of	I-Organization
 Cultural	I-Organization
@@ -162,8 +160,7 @@ locomotive	I-Product
 is	O
 the	O
 TRA	B-Organization
-’	O
-s	O
+’s	O
 heaviest	O
 steam	O
 locomotive	O
@@ -213,8 +210,7 @@ To	O
 celebrate	O
 the	O
 depot	O
-’	O
-s	O
+’s	O
 100th	O
 anniversary	O
 ,	O

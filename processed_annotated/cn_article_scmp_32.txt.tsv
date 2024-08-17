@@ -5,8 +5,7 @@ pgtype	O
 article	O
 
 Henan	B-Location
-’	O
-s	O
+’s	O
 local	O
 authorities	O
 assigned	O
@@ -28,8 +27,7 @@ clean	O
 up	O
 the	O
 province	O
-’	O
-s	O
+’s	O
 property	O
 mess	O
 ,	O
@@ -43,8 +41,7 @@ crisis	O
 ahead	O
 of	O
 China	B-Location
-’	O
-s	O
+’s	O
 twice	O
 -	O
 a	O
@@ -92,8 +89,7 @@ the	O
 asset	O
 management	O
 firm	O
-’	O
-s	O
+’s	O
 website	O
 .	O
 The	O
@@ -162,8 +158,7 @@ to	O
 Premier	O
 Li	B-Person
 Keqiang	I-Person
-’	O
-s	O
+’s	O
 instructions	O
 to	O
 fix	O
@@ -182,8 +177,7 @@ country	O
 .	O
 
 Henan	B-Location
-’	O
-s	O
+’s	O
 provincial	O
 capital	O
 Zhengzhou	B-Location
@@ -250,8 +244,7 @@ of	O
 China	B-Organization	B-Location
 Evergrande	I-Organization
 Group	I-Organization
-’	O
-s	O
+’s	O
 founder	O
 Xu	B-Person
 Jiayin	I-Person
@@ -277,8 +270,7 @@ media	O
 
 Henan	B-Organization	B-Location
 AMC	I-Organization
-’	O
-s	O
+’s	O
 involvement	O
 mirrors	O
 the	O
@@ -295,8 +287,7 @@ level	O
 to	O
 help	O
 China	B-Location
-’	O
-s	O
+’s	O
 largest	O
 banks	O
 work	O
@@ -353,8 +344,7 @@ Investment	I-Organization
 in	O
 southern	B-Location
 China	I-Location
-’	O
-s	O
+’s	O
 economic	O
 powerhouse	O
 Guangdong	B-Location
@@ -525,8 +515,7 @@ in	O
 cleaning	O
 up	O
 China	B-Location
-’	O
-s	O
+’s	O
 property	O
 mess	O
 .	O

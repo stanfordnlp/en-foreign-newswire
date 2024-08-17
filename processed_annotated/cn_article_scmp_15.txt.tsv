@@ -124,8 +124,7 @@ scenic	O
 area	O
 in	O
 China	B-Location
-’	O
-s	O
+’s	O
 southeastern	O
 Anhui	B-Location
 province	O
@@ -326,8 +325,7 @@ on	O
 Douyin	B-Organization
 ,	O
 TikTok	B-Organization
-’	O
-s	O
+’s	O
 sister	O
 app	O
 in	O
@@ -617,8 +615,7 @@ park	I-Facility
 in	O
 eastern	B-Location
 China	I-Location
-’	I-Location
-s	I-Location
+’s	I-Location
 Jiangxi	I-Location
 province	I-Location
 .	O
@@ -1053,8 +1050,7 @@ guide	O
 duties	O
 .	O
 It	O
-’	O
-s	O
+’s	O
 a	O
 wish	O
 he	O

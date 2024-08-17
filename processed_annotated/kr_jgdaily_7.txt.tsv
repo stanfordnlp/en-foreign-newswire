@@ -73,8 +73,7 @@ years	O
 ,	O
 ”	O
 Korea	B-Location
-’	O
-s	O
+’s	O
 National	B-Organization
 Police	I-Organization
 Agency	I-Organization
@@ -242,8 +241,7 @@ D	O
 day	O
 for	O
 Kim	B-Person
-’	O
-s	O
+’s	O
 arrest	O
 .	O
 
@@ -260,8 +258,7 @@ and	O
 it	O
 raided	O
 Kim	B-Person
-’	O
-s	O
+’s	O
 residence	O
 in	O
 Ho	B-Location
@@ -429,8 +426,7 @@ dealing	O
 
 When	O
 Park	B-Person
-’	O
-s	O
+’s	O
 Korean	B-NORP
 dealer	O
 ,	O

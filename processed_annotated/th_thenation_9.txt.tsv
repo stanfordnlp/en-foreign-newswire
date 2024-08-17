@@ -43,8 +43,7 @@ The	O
 Thai	B-Organization	B-NORP
 Meteorological	I-Organization
 Department	I-Organization
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Earthquake	I-Organization
 Observation	I-Organization
 Division	I-Organization
@@ -88,8 +87,7 @@ Northeast	B-Location
 of	O
 Chiang	B-Location
 Rai	I-Location
-’	O
-s	O
+’s	O
 Mae	B-Location
 Sai	I-Location
 district	O
@@ -127,8 +125,7 @@ felt	O
 in	O
 Chiang	B-Location
 Rai	I-Location
-’	O
-s	O
+’s	O
 Muang	B-Location
 ,	O
 Mae	B-Location
@@ -144,8 +141,7 @@ and	O
 in	O
 Chiang	B-Location
 Mai	I-Location
-’	O
-s	O
+’s	O
 Muang	B-Location
 district	O
 .	O

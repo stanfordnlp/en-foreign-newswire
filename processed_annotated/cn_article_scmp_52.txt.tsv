@@ -7,8 +7,7 @@ of	O
 internet	O
 giant	O
 Baidu	B-Organization
-’	O
-s	O
+’s	O
 annual	O
 flagship	O
 technology	O
@@ -62,8 +61,7 @@ interrupted	O
 because	O
 the	O
 event	O
-’	O
-s	O
+’s	O
 organiser	O
 failed	O
 to	O
@@ -118,8 +116,7 @@ added	O
 that	O
 Baidu	B-Misc	B-Organization
 World	I-Misc
-’	O
-s	O
+’s	O
 live	O
 stream	O
 resumed	O
@@ -133,8 +130,7 @@ coordination	O
 .	O
 
 Baidu	B-Organization
-’	O
-s	O
+’s	O
 live	O
 -	O
 streamed	O
@@ -184,8 +180,7 @@ are	O
 deferring	O
 to	O
 Beijing	B-Location
-’	O
-s	O
+’s	O
 tightened	O
 grip	O
 on	O
@@ -239,8 +234,7 @@ conference	O
 revealed	O
 the	O
 company	O
-’	O
-s	O
+’s	O
 latest	O
 developments	O
 including	O
@@ -297,8 +291,7 @@ sudden	O
 interruption	O
 of	O
 Baidu	B-Organization
-’	O
-s	O
+’s	O
 live	O
 -	O
 streamed	O
@@ -311,8 +304,7 @@ eyebrows	O
 among	O
 the	O
 event	O
-’	O
-s	O
+’s	O
 online	O
 audience	O
 ,	O
@@ -393,8 +385,7 @@ asking	O
 :	O
 “	O
 What	O
-’	O
-s	O
+’s	O
 your	O
 problem	O
 ?	O

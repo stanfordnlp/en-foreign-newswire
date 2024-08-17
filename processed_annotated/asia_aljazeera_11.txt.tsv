@@ -77,8 +77,7 @@ are	O
 evidence	O
 of	O
 Iran	B-Location
-’	O
-s	O
+’s	O
 “	O
 look	O
 to	O
@@ -149,8 +148,7 @@ country	O
 and	O
 highlights	O
 Tehran	B-Location
-’	O
-s	O
+’s	O
 ability	O
 to	O
 “	O
@@ -195,8 +193,7 @@ May	B-Date
 .	O
 
 Iran	B-Location
-’	O
-s	O
+’s	O
 drones	O
 have	O
 been	O
@@ -220,8 +217,7 @@ been	O
 critical	O
 to	O
 Tehran	B-Location
-’	O
-s	O
+’s	O
 efforts	O
 to	O
 strengthen	O
@@ -278,8 +274,7 @@ Yet	O
 ,	O
 since	O
 Tajikistan	B-Location
-’	O
-s	O
+’s	O
 1991	B-Date
 independence	O
 ,	O
@@ -503,8 +498,7 @@ nation	O
 Tajikistan	B-Location
 sees	O
 Iran	B-Location
-’	O
-s	O
+’s	O
 Chabahar	B-Location
 and	O
 Bandar	B-Location
@@ -830,8 +824,7 @@ shift	O
 closer	O
 to	O
 Tajikistan	B-Location
-’	O
-s	O
+’s	O
 position	O
 .	O
 
@@ -849,8 +842,7 @@ to	O
 Afghanistan	B-Location
 given	O
 Iran	B-Location
-’	O
-s	O
+’s	O
 border	O
 security	O
 concerns	O
@@ -979,8 +971,7 @@ Taliban	B-Organization
 ”	O
 
 Iran	B-Location
-’	O
-s	O
+’s	O
 regional	O
 competition	O
 
@@ -1042,8 +1033,7 @@ Mamedov	B-Person
 Currently	O
 ,	O
 Tajikistan	B-Location
-’	O
-s	O
+’s	O
 relations	O
 with	O
 Iran	B-Location
@@ -1167,8 +1157,7 @@ aim	O
 of	O
 deprivileging	O
 Iran	B-Location
-’	O
-s	O
+’s	O
 position	O
 as	O
 a	O
@@ -1278,8 +1267,7 @@ Bayraktars	B-Product
 
 Considering	O
 Tajikistan	B-Location
-’	O
-s	O
+’s	O
 April	B-Date
 2021	I-Date
 border	O
@@ -1296,8 +1284,7 @@ perhaps	O
 capitalise	O
 on	O
 Iran	B-Location
-’	O
-s	O
+’s	O
 competition	O
 with	O
 regional	O

@@ -104,8 +104,7 @@ and	O
 broadcast	O
 by	O
 Nicaragua	B-Location
-’	O
-s	O
+’s	O
 state	O
 television	O
 channel	O
@@ -120,8 +119,7 @@ way	O
 to	O
 the	O
 interviewer	O
-’	O
-s	O
+’s	O
 question	O
 ,	O
 who	O
@@ -416,8 +414,7 @@ States	I-Location
 has	O
 sanctioned	O
 Ortega	B-Person
-’	O
-s	O
+’s	O
 relatives	O
 and	O
 associates	O

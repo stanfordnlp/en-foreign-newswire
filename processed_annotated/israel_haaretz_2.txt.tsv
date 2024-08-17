@@ -12,8 +12,7 @@ dead	O
 at	O
 his	O
 family	O
-’	O
-s	O
+’s	O
 grocery	O
 store	O
 in	O
@@ -30,8 +29,7 @@ Watfa	B-Person
 witnessed	O
 her	O
 son	O
-’	O
-s	O
+’s	O
 death	O
 from	O
 her	O
@@ -43,8 +41,7 @@ feed	O
 from	O
 the	O
 store	O
-’	O
-s	O
+’s	O
 security	O
 cameras	O
 .	O
@@ -132,8 +129,7 @@ that	O
 penetrated	O
 my	O
 son	O
-’	O
-s	O
+’s	O
 heart	O
 .	O
 How	O
@@ -249,8 +245,7 @@ go	O
 ”	O
 
 Yousef	B-Person
-’	O
-s	O
+’s	O
 film	O
 ,	O
 which	O
@@ -261,8 +256,7 @@ the	O
 Jerusalem	B-Misc	B-Location
 Film	I-Misc
 Festival	I-Misc
-’	O
-s	O
+’s	O
 documentary	O
 competition	O
 this	O
@@ -299,8 +293,7 @@ violence	O
 .	O
 
 Jabali	B-Person
-’	O
-s	O
+’s	O
 loss	O
 is	O
 just	O
@@ -571,8 +564,7 @@ film	O
 Back	B-Misc
 to	I-Misc
 One	I-Misc
-’	I-Misc
-s	I-Misc
+’s	I-Misc
 Roots	I-Misc
 ,	O
 ”	O
@@ -709,8 +701,7 @@ singer	O
 When	O
 Shafik	B-Person
 Kabha	I-Person
-’	O
-s	O
+’s	O
 name	O
 was	O
 published	O
@@ -778,8 +769,7 @@ thought	O
 perhaps	O
 that	O
 Shafik	B-Person
-’	O
-s	O
+’s	O
 murder	O
 would	O
 lead	O
@@ -875,8 +865,7 @@ for	O
 nothing	O
 .	O
 It	O
-’	O
-s	O
+’s	O
 frustrating	O
 ,	O
 how	O
@@ -1073,8 +1062,7 @@ you	O
 live	O
 .	O
 It	O
-’	O
-s	O
+’s	O
 a	O
 terrible	O
 feeling	O
@@ -1610,8 +1598,7 @@ critical	O
 of	O
 the	O
 state	O
-’	O
-s	O
+’s	O
 laxity	O
 in	O
 dealing	O
@@ -1708,8 +1695,7 @@ desire	O
 here	O
 .	O
 It	O
-’	O
-s	O
+’s	O
 not	O
 just	O
 the	O
@@ -1800,8 +1786,7 @@ science	O
 researcher	O
 from	O
 Jerusalem	B-Location
-’	O
-s	O
+’s	O
 Hebrew	B-Organization
 University	I-Organization
 ,	O
@@ -1923,8 +1908,7 @@ to	O
 Israel	B-Location
 ,	O
 that	O
-’	O
-s	O
+’s	O
 what	O
 they	O
 know	O
@@ -1933,8 +1917,7 @@ to	O
 do	O
 and	O
 that	O
-’	O
-s	O
+’s	O
 how	O
 they	O
 know	O
@@ -1986,8 +1969,7 @@ in	O
 communities	O
 in	O
 Israel	B-Location
-’	O
-s	O
+’s	O
 so	O
 -	O
 called	O
@@ -2128,8 +2110,7 @@ the	O
 mosque	O
 ?	O
 That	O
-’	O
-s	O
+’s	O
 where	O
 my	O
 son	O
@@ -2138,8 +2119,7 @@ murdered	O
 .	O
 And	O
 here	O
-’	O
-s	O
+’s	O
 the	O
 police	O
 station	O
@@ -2273,8 +2253,7 @@ mother	O
 While	O
 my	O
 mother	O
-’	O
-s	O
+’s	O
 death	O
 may	O
 have	O

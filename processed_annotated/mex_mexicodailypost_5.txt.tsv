@@ -106,8 +106,7 @@ abided	O
 by	O
 the	O
 man	O
-’	O
-s	O
+’s	O
 requests	O
 or	O
 dealt	O
@@ -127,8 +126,7 @@ line	O
 had	O
 García	B-Person
 Davish	I-Person
-’	O
-s	O
+’s	O
 home	O
 ,	O
 work	O
@@ -311,8 +309,7 @@ with	O
 the	O
 general	O
 attorney	O
-’	O
-s	O
+’s	O
 office	O
 .	O
 ”	O
@@ -324,8 +321,7 @@ the	O
 Specialized	B-Organization
 General	I-Organization
 Attorney	I-Organization
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Office	I-Organization
 for	I-Organization
 the	I-Organization
@@ -630,8 +626,7 @@ that	O
 safeguard	O
 their	O
 life	O
-’	O
-s	O
+’s	O
 work	O
 —	O
 the	O
@@ -673,8 +668,7 @@ local	O
 specialized	O
 general	O
 attorney	O
-’	O
-s	O
+’s	O
 office	O
 never	O
 came	O
@@ -692,8 +686,7 @@ The	O
 Specialized	B-Organization
 General	I-Organization
 Attorney	I-Organization
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Office	I-Organization
 for	I-Organization
 the	I-Organization

@@ -27,8 +27,7 @@ up	O
 to	O
 the	O
 ANC	B-Organization
-’	O
-s	O
+’s	O
 policy	O
 conference	O
 ,	O
@@ -98,8 +97,7 @@ good	O
 authority	O
 that	O
 Ramaphosa	B-Person
-’	O
-s	O
+’s	O
 allies	O
 ,	O
 known	O
@@ -332,8 +330,7 @@ figure	O
 responsible	O
 for	O
 Zuma	B-Person
-’	O
-s	O
+’s	O
 downfall	O
 ,	O
 would	O
@@ -363,8 +360,7 @@ little	O
 drama	O
 ,	O
 Zuma	B-Person
-’	O
-s	O
+’s	O
 ghost	O
 reverberated	O
 as	O
@@ -376,15 +372,13 @@ frustrations	O
 over	O
 the	O
 ANC	B-Organization
-’	O
-s	O
+’s	O
 handling	O
 of	O
 the	O
 former	O
 statesman	O
-’	O
-s	O
+’s	O
 incarceration	O
 and	O
 other	O
@@ -499,8 +493,7 @@ Cape	I-Location
 leaders	O
 was	O
 Mashatile	B-Person
-’	O
-s	O
+’s	O
 sudden	O
 backtrack	O
 at	O
@@ -850,8 +843,7 @@ when	O
 Duma	B-Person
 sang	O
 Zuma	B-Person
-’	O
-s	O
+’s	O
 praises	O
 and	O
 called	O

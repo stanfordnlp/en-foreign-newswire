@@ -73,8 +73,7 @@ twist	O
 to	O
 this	O
 year	O
-’	O
-s	O
+’s	O
 commemoration	O
 .	O
 
@@ -87,8 +86,7 @@ plane	O
 shows	O
 that	O
 Argentina	B-Location
-’	O
-s	O
+’s	O
 frontiers	O
 continue	O
 to	O
@@ -261,8 +259,7 @@ inauguration	O
 of	O
 Daniel	B-Person
 Ortega	I-Person
-’	O
-s	O
+’s	O
 new	O
 presidential	O
 term	O
@@ -328,8 +325,7 @@ laid	O
 Unlike	O
 last	O
 March	B-Date
-’	O
-s	O
+’s	O
 30th	O
 anniversary	O
 of	O
@@ -350,8 +346,7 @@ unpunished	O
 )	O
 ,	O
 Monday	B-Date
-’	O
-s	O
+’s	O
 ceremony	O
 was	O
 not	O
@@ -458,8 +453,7 @@ and	O
 the	O
 Foreign	B-Organization
 Ministry	I-Organization
-’	O
-s	O
+’s	O
 Cults	B-Organization
 Secretary	O
 Guillermo	B-Person
@@ -483,8 +477,7 @@ which	O
 also	O
 included	O
 Nisman	B-Person
-’	O
-s	O
+’s	O
 ex	O
 -	O
 wife	O
@@ -543,8 +536,7 @@ Lipstadt	I-Person
 the	O
 State	B-Organization
 Department	I-Organization
-’	O
-s	O
+’s	O
 Special	B-Misc
 Envoy	I-Misc
 to	I-Misc

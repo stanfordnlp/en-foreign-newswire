@@ -203,8 +203,7 @@ bronze	O
 .	O
 
 Thailand	B-Location
-’	O
-s	O
+’s	O
 Badeng	B-Person
 Khonatep	I-Person
 won	O
@@ -220,8 +219,7 @@ category	O
 followed	O
 by	O
 Iran	B-Location
-’	O
-s	O
+’s	O
 Bagherraji	B-Person
 ,	O
 who	O
@@ -233,8 +231,7 @@ Lazizbek	B-Person
 Fatiyov	I-Person
 and	O
 Iraq	B-Location
-’	O
-s	O
+’s	O
 Yahya	B-Person
 Sami	I-Person
 shared	O
@@ -257,8 +254,7 @@ gold	O
 medal	O
 ,	O
 Thailand	B-Location
-’	O
-s	O
+’s	O
 Sthisak	B-Person
 Chukomarn	I-Person
 won	O
@@ -274,8 +270,7 @@ Al	I-Person
 Berberi	I-Person
 and	O
 Kazakhstan	B-Location
-’	O
-s	O
+’s	O
 Zakchilik	B-Person
 Talibekov	I-Person
 winning	O
@@ -300,8 +295,7 @@ gold	O
 medal	O
 ,	O
 Kazakhstan	B-Location
-’	O
-s	O
+’s	O
 Erkin	B-Person
 Adelbek	I-Person
 won	O
@@ -310,8 +304,7 @@ silver	O
 ,	O
 and	O
 Iran	B-Location
-’	O
-s	O
+’s	O
 Seyed	B-Person
 Mousavi	I-Person
 and	O
@@ -343,8 +336,7 @@ category	O
 followed	O
 by	O
 Ukraine	B-Location
-’	O
-s	O
+’s	O
 Maykaita	B-Person
 Gorbatenko	I-Person
 ,	O
@@ -356,14 +348,12 @@ medal	O
 ,	O
 then	O
 Kuwait	B-Location
-’	O
-s	O
+’s	O
 Al	B-Person
 Shammari	I-Person
 and	O
 Iran	B-Location
-’	O
-s	O
+’s	O
 Tofan	B-Person
 Sharifi	I-Person
 ,	O

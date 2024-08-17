@@ -64,8 +64,7 @@ the	O
 International	B-Organization
 Monetary	I-Organization
 Fund	I-Organization
-’	O
-s	O
+’s	O
 prediction	O
 for	O
 the	O
@@ -144,8 +143,7 @@ to	O
 manage	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 finances	O
 prudently	O
 and	O
@@ -178,8 +176,7 @@ compared	O
 to	O
 Sri	B-Location
 Lanka	I-Location
-’	O
-s	O
+’s	O
 19.4	O
 per	O
 cent	O
@@ -345,8 +342,7 @@ said	O
 Meanwhile	O
 ,	O
 Malaysia	B-Location
-’	O
-s	O
+’s	O
 commodities	O
 minister	O
 on	O
@@ -374,8 +370,7 @@ imports	O
 in	O
 the	O
 world	O
-’	O
-s	O
+’s	O
 second	O
 -	O
 largest	O
@@ -387,8 +382,7 @@ decline	O
 .	O
 
 Malaysia	B-Location
-’	O
-s	O
+’s	O
 exports	O
 to	O
 China	B-Location
@@ -436,8 +430,7 @@ data	O
 .	O
 
 China	B-Location
-’	O
-s	O
+’s	O
 Foreign	O
 Minister	O
 Wang	B-Person
@@ -471,8 +464,7 @@ on	O
 Tuesday	B-Date
 ,	O
 Malaysia	B-Location
-’	O
-s	O
+’s	O
 Commodities	O
 Minister	O
 Zuraida	B-Person
@@ -504,8 +496,7 @@ is	O
 unlikely	O
 that	O
 China	B-Location
-’	O
-s	O
+’s	O
 total	O
 global	O
 imports	O
@@ -540,8 +531,7 @@ concerns	O
 Zuraida	B-Person
 estimated	O
 China	B-Location
-’	O
-s	O
+’s	O
 total	O
 palm	O
 oil	O
@@ -602,8 +592,7 @@ in	O
 China	B-Location
 ,	O
 Indonesia	B-Location
-’	O
-s	O
+’s	O
 policies	O
 to	O
 curb	O
@@ -631,8 +620,7 @@ the	O
 prospects	O
 of	O
 China	B-Location
-’	O
-s	O
+’s	O
 palm	O
 oil	O
 imports	O
@@ -645,8 +633,7 @@ said	O
 .	O
 
 Malaysia	B-Location
-’	O
-s	O
+’s	O
 benchmark	O
 crude	O
 palm	O

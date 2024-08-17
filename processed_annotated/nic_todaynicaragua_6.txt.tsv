@@ -28,8 +28,7 @@ Confidencial	B-Organization
 son	O
 of	O
 Nicaragua	B-Location
-’	O
-s	O
+’s	O
 former	O
 president	O
 ,	O
@@ -147,8 +146,7 @@ August	B-Date
 the	O
 Nicaraguan	B-Organization	B-NORP
 Prosecutor	I-Organization
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Office	I-Organization
 charged	O
 him	O

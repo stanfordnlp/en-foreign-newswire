@@ -17,8 +17,7 @@ Ulugh	O
 Khan	O
 was	O
 Yaqut	B-Person
-’	O
-s	O
+’s	O
 son	O
 Muhammad	B-Person
 ,	O
@@ -171,8 +170,7 @@ Arslan	I-Person
 but	O
 after	O
 Akbar	B-Location
-’	O
-s	O
+’s	O
 conquest	O
 of	O
 Gujarat	B-Location
@@ -305,8 +303,7 @@ Khan	O
 was	O
 Bilal	B-Person
 Habshi	B-NORP
-’	O
-s	O
+’s	O
 son	O
 Marjan	B-Person
 Sultani	I-Person
@@ -366,8 +363,7 @@ who	O
 ,	O
 after	O
 Bahadur	B-Person
-’	O
-s	O
+’s	O
 death	O
 in	O
 1537	B-Date
@@ -464,8 +460,7 @@ III	I-Person
 On	O
 the	O
 latter	O
-’	O
-s	O
+’s	O
 death	O
 in	O
 1554	B-Date
@@ -545,8 +540,7 @@ camels	O
 Until	O
 Emperor	O
 Akbar	B-Person
-’	O
-s	O
+’s	O
 conquest	O
 of	O
 Ahmadabad	B-Location
@@ -609,13 +603,11 @@ Ahmadabad	B-Location
 
 Emperor	O
 Akbar	B-Person
-’	O
-s	O
+’s	O
 Conquest	O
 
 Akbar	B-Person
-’	O
-s	O
+’s	O
 conquest	O
 of	O
 Gujarat	B-Location
@@ -663,8 +655,7 @@ command	O
 in	O
 the	O
 Akbar	B-Person
-’	O
-s	O
+’s	O
 Gujarat	B-Location
 army	O
 .	O
@@ -729,8 +720,7 @@ Haji	B-Location
 ad	I-Location
 -	I-Location
 Dabir	I-Location
-’	O
-s	O
+’s	O
 second	O
 patron	O
 .	O

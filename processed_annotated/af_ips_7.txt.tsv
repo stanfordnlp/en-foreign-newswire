@@ -68,8 +68,7 @@ one	O
 with	O
 a	O
 lion	O
-’	O
-s	O
+’s	O
 heart	O
 to	O
 embark	O
@@ -112,8 +111,7 @@ I	O
 also	O
 followed	O
 Adeyanju	B-Person
-’	O
-s	O
+’s	O
 journey	O
 on	O
 Twitter	B-Organization
@@ -147,8 +145,7 @@ Johnson	I-Person
 Sirleaf	I-Person
 ,	O
 Africa	B-Location
-’	O
-s	O
+’s	O
 first	O
 female	O
 President	O
@@ -293,8 +290,7 @@ surveillance	O
 officer	O
 at	O
 Nigeria	B-Location
-’	O
-s	O
+’s	O
 National	B-Organization
 Programme	I-Organization
 on	I-Organization
@@ -681,8 +677,7 @@ in	O
 stool	O
 .	O
 That	O
-’	O
-s	O
+’s	O
 why	O
 polio	O
 transmission	O
@@ -854,8 +849,7 @@ on	O
 the	O
 African	B-Organization	B-NORP
 Union	I-Organization
-’	O
-s	O
+’s	O
 “	O
 Africa	B-Facility	B-Location
 Medical	I-Facility
@@ -987,8 +981,7 @@ his	O
 dream	O
 
 Adeyanju	B-Person
-’	O
-s	O
+’s	O
 bold	O
 ride	O
 from	O
@@ -1028,8 +1021,7 @@ the	O
 affirmative	O
 Rotary	B-Organization
 International	I-Organization
-’	O
-s	O
+’s	O
 four	O
 -	O
 way	O

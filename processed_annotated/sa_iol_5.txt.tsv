@@ -46,8 +46,7 @@ finding	O
 which	O
 recommended	O
 Hlophe	B-Person
-’	O
-s	O
+’s	O
 suspension	O
 .	O
 
@@ -194,8 +193,7 @@ Winde	I-Person
 .	O
 
 Hlophe	B-Person
-’	O
-s	O
+’s	O
 lawyer	O
 ,	O
 Barnabas	B-Person
@@ -212,13 +210,11 @@ might	O
 be	O
 in	O
 Ramaphosa	B-Person
-’	O
-s	O
+’s	O
 court	O
 on	O
 Hlophe	B-Person
-’	O
-s	O
+’s	O
 suspension	O
 ,	O
 this	O
@@ -275,8 +271,7 @@ for	O
 the	O
 Judge	O
 President	O
-’	O
-s	O
+’s	O
 suspension	O
 by	O
 the	O
@@ -309,8 +304,7 @@ independence	O
 ,	O
 the	O
 public	O
-’	O
-s	O
+’s	O
 confidence	O
 in	O
 the	O
@@ -364,8 +358,7 @@ JSC	B-Organization
 Freedom	B-Organization
 Under	I-Organization
 Law	I-Organization
-’	O
-s	O
+’s	O
 Judge	O
 Johann	B-Person
 Kriegler	I-Person
@@ -376,14 +369,12 @@ been	O
 calling	O
 for	O
 Hlophe	B-Person
-’	O
-s	O
+’s	O
 suspension	O
 since	O
 the	O
 JSC	B-Organization
-’	O
-s	O
+’s	O
 referral	O
 to	O
 Parliament	B-Organization
@@ -565,8 +556,7 @@ right	O
 to	O
 recommend	O
 Hlophe	B-Person
-’	O
-s	O
+’s	O
 suspension	O
 by	O
 the	O
@@ -747,8 +737,7 @@ politicians	O
 opposed	O
 to	O
 Ramaphosa	B-Person
-’	O
-s	O
+’s	O
 second	O
 term	O
 is	O

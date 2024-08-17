@@ -109,8 +109,7 @@ back	O
 ”	O
 says	O
 Akena	B-Person
-’	O
-s	O
+’s	O
 mother	O
 ,	O
 Lili	B-Person
@@ -118,8 +117,7 @@ Iram	I-Person
 .	O
 
 Akena	B-Person
-’	O
-s	O
+’s	O
 condition	O
 ,	O
 microcephaly	O
@@ -272,8 +270,7 @@ to	O
 ensure	O
 that	O
 Graduation	O
-’	O
-s	O
+’s	O
 four	O
 key	O
 elements	O
@@ -281,8 +278,7 @@ elements	O
 including	O
 meeting	O
 people	O
-’	O
-s	O
+’s	O
 basic	O
 needs	O
 ,	O
@@ -343,8 +339,7 @@ NUWODU	B-Organization
 ensured	O
 that	O
 DIG	B-Misc	B-Organization
-’	O
-s	O
+’s	O
 services	O
 ,	O
 including	O
@@ -441,8 +436,7 @@ Iran	B-Location
 describes	O
 her	O
 son	O
-’	O
-s	O
+’s	O
 transformation	O
 ,	O
 Akena	B-Person
@@ -566,8 +560,7 @@ other	O
 villages	O
 in	O
 Oyam	B-Location
-’	O
-s	O
+’s	O
 Kamdini	B-Location	B-Location
 sub	I-Location
 -	I-Location
@@ -690,8 +683,7 @@ invest	O
 for	O
 her	O
 son	O
-’	O
-s	O
+’s	O
 future	O
 survival	O
 .	O
@@ -903,8 +895,7 @@ said	O
 .	O
 
 Uganda	B-Location
-’	O
-s	O
+’s	O
 Ministry	B-Organization
 of	I-Organization
 Gender	I-Organization
@@ -1032,8 +1023,7 @@ village	O
 next	O
 to	O
 Akuna	B-Person
-’	O
-s	O
+’s	O
 .	O
 Aboke	B-Person
 ,	O
@@ -1065,8 +1055,7 @@ IPS	B-Organization
 that	O
 without	O
 DIG	B-Misc
-’	O
-s	O
+’s	O
 intervention	O
 ,	O
 he	O
@@ -1218,8 +1207,7 @@ Aboke	B-Person
 .	O
 
 Aboke	B-Person
-’	O
-s	O
+’s	O
 rehabilitation	O
 was	O
 performed	O
@@ -1238,8 +1226,7 @@ village	O
 .	O
 The	O
 hospital	O
-’	O
-s	O
+’s	O
 orthopaedic	O
 workshop	O
 serves	O
@@ -1435,8 +1422,7 @@ it	O
 considers	O
 the	O
 recipient	O
-’	O
-s	O
+’s	O
 needs	O
 and	O
 what	O

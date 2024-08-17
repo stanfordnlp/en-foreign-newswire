@@ -22,8 +22,7 @@ Prince	O
 Mohammed	B-Person
 bin	I-Person
 Salman	I-Person
-’	O
-s	O
+’s	O
 ongoing	O
 visit	O
 to	O
@@ -47,8 +46,7 @@ with	O
 the	O
 European	B-NORP
 country	O
-’	O
-s	O
+’s	O
 national	O
 flag	O
 carrier	O
@@ -128,8 +126,7 @@ part	O
 of	O
 the	O
 Kingdom	O
-’	O
-s	O
+’s	O
 National	O
 Tourism	O
 Strategy	O
@@ -202,8 +199,7 @@ sites	O
 listed	O
 on	O
 UNESCO	B-Organization
-’	O
-s	O
+’s	O
 World	B-Misc
 Heritage	I-Misc
 list	O
@@ -226,8 +222,7 @@ Dr	O
 Ezzat	B-Person
 ,	O
 Elaf	B-Organization
-’	O
-s	O
+’s	O
 CEO	O
 .	O
 “	O
@@ -293,8 +288,7 @@ one	O
 of	O
 the	O
 Kingdom	O
-’	O
-s	O
+’s	O
 biggest	O
 sources	O
 of	O
@@ -320,8 +314,7 @@ targets	O
 of	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 ambitious	O
 long	O
 -	O
@@ -339,8 +332,7 @@ leader	O
 in	O
 the	O
 Kingdom	O
-’	O
-s	O
+’s	O
 tourism	O
 and	O
 hospitality	O
@@ -356,8 +348,7 @@ part	O
 of	O
 the	O
 group	O
-’	O
-s	O
+’s	O
 strategy	O
 of	O
 expanding	O
@@ -369,8 +360,7 @@ industries	O
 
 As	O
 Greece	B-Location
-’	O
-s	O
+’s	O
 national	O
 carrier	O
 ,	O
@@ -459,8 +449,7 @@ travel	O
 to	O
 each	O
 other	O
-’	O
-s	O
+’s	O
 popular	O
 destinations	O
 and	O

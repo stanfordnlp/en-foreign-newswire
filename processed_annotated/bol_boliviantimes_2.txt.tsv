@@ -53,8 +53,7 @@ era	O
 for	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 far	O
 left	O
 .	O
@@ -62,8 +61,7 @@ left	O
 Movement	B-Organization
 for	I-Organization
 Socialism	I-Organization
-’	O
-s	O
+’s	O
 new	O
 leader	O
 Luis	B-Person
@@ -211,8 +209,7 @@ provocative	O
 changes	O
 to	O
 Bolivia	B-Location
-’	O
-s	O
+’s	O
 foreign	O
 policy	O
 and	O
@@ -225,8 +222,7 @@ interim	O
 president	O
 Jeanine	B-Person
 Añez	I-Person
-’	O
-s	O
+’s	O
 decision	O
 to	O
 run	O
@@ -318,8 +314,7 @@ a	O
 sign	O
 that	O
 Bolivia	B-Location
-’	O
-s	O
+’s	O
 democracy	O
 is	O
 strong	O
@@ -351,8 +346,7 @@ the	O
 fact	O
 that	O
 Bolivia	B-Location
-’	O
-s	O
+’s	O
 people	O
 make	O
 choices	O
@@ -370,15 +364,13 @@ lines	O
 ”	O
 
 Here	O
-’	O
-s	O
+’s	O
 what	O
 to	O
 know	O
 about	O
 Bolivia	B-Location
-’	O
-s	O
+’s	O
 election	O
 results	O
 .	O
@@ -396,8 +388,7 @@ to	O
 belong	O
 to	O
 Bolivia	B-Location
-’	O
-s	O
+’s	O
 large	O
 Indigenous	O
 population	O
@@ -718,8 +709,7 @@ to	O
 power	O
 the	O
 administration	O
-’	O
-s	O
+’s	O
 economic	O
 success	O
 as	O
@@ -743,8 +733,7 @@ U	B-Location
 .	I-Location
 K	I-Location
 .	I-Location
-’	O
-s	O
+’s	O
 Warwick	B-Organization
 University	I-Organization
 ,	O
@@ -765,8 +754,7 @@ says	O
 .	O
 “	O
 He	O
-’	O
-s	O
+’s	O
 level	O
 headed	O
 and	O
@@ -841,8 +829,7 @@ did	O
 not	O
 abandon	O
 Bolivia	B-Location
-’	O
-s	O
+’s	O
 political	O
 stage	O
 after	O
@@ -947,14 +934,12 @@ Bolivia	I-Organization	B-Location
 ,	O
 says	O
 MAS	B-Organization
-’	O
-s	O
+’s	O
 campaign	O
 overcame	O
 last	O
 year	O
-’	O
-s	O
+’s	O
 controversy	O
 for	O
 two	O
@@ -1013,8 +998,7 @@ from	O
 his	O
 former	O
 boss	O
-’	O
-s	O
+’s	O
 more	O
 inflammatory	O
 statements	O
@@ -1023,8 +1007,7 @@ the	O
 campaign	O
 .	O
 Arce	B-Person
-’	O
-s	O
+’s	O
 chosen	O
 vice	O
 -	O
@@ -1083,8 +1066,7 @@ years	O
 –	O
 and	O
 Arce	B-Person
-’	O
-s	O
+’s	O
 role	O
 in	O
 it	O
@@ -1101,8 +1083,7 @@ by	O
 the	O
 former	O
 president	O
-’	O
-s	O
+’s	O
 power	O
 grab	O
 .	O
@@ -1117,8 +1098,7 @@ parties	O
 ,	O
 including	O
 Mesa	B-Person
-’	O
-s	O
+’s	O
 centrist	O
 Citizen	B-Organization
 Community	I-Organization
@@ -1182,8 +1162,7 @@ break	O
 through	O
 in	O
 Bolivia	B-Location
-’	O
-s	O
+’s	O
 modern	O
 politics	O
 .	O
@@ -1286,8 +1265,7 @@ Sabatini	B-Organization
 says	O
 
 Arce	B-Person
-’	O
-s	O
+’s	O
 first	O
 priority	O
 will	O
@@ -1345,8 +1323,7 @@ countries	O
 .	O
 But	O
 Bolivia	B-Location
-’	O
-s	O
+’s	O
 largely	O
 informal	O
 economy	O
@@ -1375,8 +1352,7 @@ of	O
 .	O
 The	O
 government	O
-’	O
-s	O
+’s	O
 ability	O
 to	O
 revive	O
@@ -1391,8 +1367,7 @@ key	O
 motors	O
 of	O
 MAS	B-Organization
-’	O
-s	O
+’s	O
 popularity	O
 during	O
 the	O
@@ -1403,8 +1378,7 @@ will	O
 likely	O
 determine	O
 Arce	B-Person
-’	O
-s	O
+’s	O
 own	O
 success	O
 in	O
@@ -1498,8 +1472,7 @@ to	O
 recover	O
 .	O
 That	O
-’	O
-s	O
+’s	O
 going	O
 to	O
 mark	O

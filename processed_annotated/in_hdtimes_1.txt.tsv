@@ -37,8 +37,7 @@ Kallakurichi	B-Location
 .	O
 The	O
 girl	O
-’	O
-s	O
+’s	O
 parents	O
 suspected	O
 foul	O
@@ -91,8 +90,7 @@ girl	O
 in	O
 Tamil	B-Location
 Nadu	I-Location
-’	O
-s	O
+’s	O
 Cuddalore	B-Location
 was	O
 found	O
@@ -189,8 +187,7 @@ Kallakurichi	B-Location
 .	O
 The	O
 girl	O
-’	O
-s	O
+’s	O
 parents	O
 suspected	O
 foul	O
@@ -333,8 +330,7 @@ police	O
 sent	O
 the	O
 deceased	O
-’	O
-s	O
+’s	O
 body	O
 for	O
 autopsy	O
@@ -423,8 +419,7 @@ district	O
 ,	O
 the	O
 girl	O
-’	O
-s	O
+’s	O
 body	O
 was	O
 taken	O
@@ -531,8 +526,7 @@ Kallakurichi	B-Location
 
 The	O
 girl	O
-’	O
-s	O
+’s	O
 parents	O
 suspected	O
 foul	O
@@ -552,8 +546,7 @@ protests	O
 over	O
 the	O
 girl	O
-’	O
-s	O
+’s	O
 death	O
 reportedly	O
 turned	O

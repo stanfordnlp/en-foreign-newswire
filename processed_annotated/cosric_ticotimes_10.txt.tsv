@@ -4,8 +4,7 @@ It	O
 was	O
 my	O
 husband	O
-’	O
-s	O
+’s	O
 birthday	O
 ,	O
 and	O
@@ -188,8 +187,7 @@ off	O
 at	O
 Panaderia	B-Organization
 Tico	I-Organization
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Bakery	I-Organization
 .	O
 
@@ -963,8 +961,7 @@ Liberia	I-Location	B-Location
 from	O
 Panaderia	B-Organization
 Tico	I-Organization
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Bakery	I-Organization
 .	O
 The	O

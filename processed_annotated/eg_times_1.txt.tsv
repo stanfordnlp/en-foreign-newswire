@@ -14,8 +14,7 @@ to	O
 Ministry	B-Organization
 of	I-Organization
 Interior	I-Organization
-’	O
-s	O
+’s	O
 letter	O
 
 A	O
@@ -160,8 +159,7 @@ abroad	O
 “	O
 With	O
 Egypt	B-Location
-’	O
-s	O
+’s	O
 public	O
 image	O
 at	O
@@ -169,8 +167,7 @@ stake	O
 ,	O
 the	O
 ministry	O
-’	O
-s	O
+’s	O
 reaction	O
 is	O
 a	O
@@ -252,8 +249,7 @@ threatened	O
 by	O
 the	O
 ministry	O
-’	O
-s	O
+’s	O
 letter	O
 ,	O
 which	O
@@ -334,8 +330,7 @@ Dawla	I-Person
 
 The	O
 EAAT	B-Organization
-’	O
-s	O
+’s	O
 most	O
 recent	O
 accusation	O
@@ -478,8 +473,7 @@ cigarette	O
 out	O
 on	O
 someone	O
-’	O
-s	O
+’s	O
 chest	O
 just	O
 because	O

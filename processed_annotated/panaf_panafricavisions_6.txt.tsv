@@ -34,8 +34,7 @@ See	I-Location
 ,	O
 the	O
 president	O
-’	O
-s	O
+’s	O
 office	O
 has	O
 announced	O
@@ -44,8 +43,7 @@ announced	O
 Domingos	B-Person
 led	O
 Renamo	B-Organization
-’	O
-s	O
+’s	O
 team	O
 in	O
 peace	O
@@ -86,14 +84,12 @@ organisation	O
 Domingos	B-Person
 led	O
 Renamo	B-Organization
-’	O
-s	O
+’s	O
 parliamentary	O
 group	O
 after	O
 Mozambique	B-NORP
-’	O
-s	O
+’s	O
 first	O
 multi	O
 -	O

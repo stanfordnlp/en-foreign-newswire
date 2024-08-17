@@ -136,8 +136,7 @@ and	O
 This	O
 was	O
 Baumel	B-Person
-’	O
-s	O
+’s	O
 fourth	O
 success	O
 with	O
@@ -380,8 +379,7 @@ us	O
 ”	O
 
 Brazil	B-Location
-’	O
-s	O
+’s	O
 Lucas	B-Person
 Moreas	I-Person
 teamed	O
@@ -568,8 +566,7 @@ he	O
 flooded	O
 the	O
 Hiluxes	B-Product
-’	O
-s	O
+’s	O
 engine	O
 in	O
 a	O
@@ -697,8 +694,7 @@ Qatari	B-NORP
 caught	O
 the	O
 Saudi	B-NORP
-’	O
-s	O
+’s	O
 dust	O
 ,	O
 shadowed	O
@@ -837,8 +833,7 @@ water	O
 entered	O
 the	O
 Toyota	B-Product
-’	O
-s	O
+’s	O
 engine	O
 at	O
 a	O
@@ -895,8 +890,7 @@ day	O
 Al	B-Person
 -	I-Person
 Rajhi	I-Person
-’	O
-s	O
+’s	O
 co	O
 -	O
 driver	O
@@ -1071,8 +1065,7 @@ reduced	O
 al	B-Person
 -	I-Person
 Attiyah	I-Person
-’	O
-s	O
+’s	O
 overall	O
 lead	O
 to	O

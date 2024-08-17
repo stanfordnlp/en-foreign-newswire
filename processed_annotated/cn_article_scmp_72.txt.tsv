@@ -123,8 +123,7 @@ complied	O
 with	O
 the	O
 theatre	O
-’	O
-s	O
+’s	O
 requirements	O
 .	O
 
@@ -376,8 +375,7 @@ and	O
 hashtags	O
 about	O
 Yee	B-Person
-’	O
-s	O
+’s	O
 announcement	O
 on	O
 Sunday	B-Date
@@ -424,8 +422,7 @@ Weibo	B-Product
 
 Even	O
 Yee	B-Person
-’	O
-s	O
+’s	O
 announcement	O
 did	O
 not	O
@@ -537,8 +534,7 @@ slowdown	O
 .	O
 
 China	B-Location
-’	O
-s	O
+’s	O
 youth	O
 unemployment	O
 rate	O
@@ -672,8 +668,7 @@ is	O
 one	O
 of	O
 China	B-Location
-’	O
-s	O
+’s	O
 most	O
 famous	O
 young	O

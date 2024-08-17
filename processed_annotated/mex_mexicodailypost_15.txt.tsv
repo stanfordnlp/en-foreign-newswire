@@ -274,8 +274,7 @@ plays	O
 Namora	B-Person
 in	O
 Marvel	B-Organization
-’	O
-s	O
+’s	O
 ‘	O
 Black	B-Misc
 Panther	I-Misc
@@ -648,8 +647,7 @@ role	O
 as	O
 Porfirio	B-Person
 Díaz	I-Person
-’	O
-s	O
+’s	O
 stepdaughter	O
 in	O
 El	B-Misc

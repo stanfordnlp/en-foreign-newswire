@@ -16,8 +16,7 @@ appear	O
 before	O
 Joburg	B-Organization	B-Location
 Magistrate	I-Organization
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Court	I-Organization
 after	O
 he	O
@@ -162,8 +161,7 @@ her	O
 .	O
 The	O
 victim	O
-’	O
-s	O
+’s	O
 body	O
 was	O
 discovered	O
@@ -237,8 +235,7 @@ Joburg	B-Location
 Central	I-Location
 police	O
 station	O
-’	O
-s	O
+’s	O
 commander	O
 ,	O
 Brigadier	O
@@ -282,8 +279,7 @@ week	O
 the	O
 Booysens	B-Organization	B-Location
 Magistrate	I-Organization
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Court	I-Organization
 sentenced	O
 30	O
@@ -344,8 +340,7 @@ in	O
 the	O
 Booysens	B-Organization	B-Location
 Magistrate	I-Organization
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Court	I-Organization
 on	O
 (	O

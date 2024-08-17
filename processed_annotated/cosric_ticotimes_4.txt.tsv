@@ -160,8 +160,7 @@ S	I-Organization	I-Location
 Department	I-Organization
 of	I-Organization
 State	I-Organization
-’	O
-s	O
+’s	O
 Opportunity	B-Organization
 Funds	I-Organization
 scholarship	O

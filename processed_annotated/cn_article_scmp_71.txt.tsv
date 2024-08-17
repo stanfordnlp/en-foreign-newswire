@@ -109,8 +109,7 @@ one	O
 third	O
 of	O
 China	B-Location
-’	O
-s	O
+’s	O
 overall	O
 economic	O
 output	O
@@ -312,8 +311,7 @@ per	O
 cent	O
 of	O
 China	B-Location
-’	O
-s	O
+’s	O
 total	O
 fiscal	O
 income	O
@@ -438,8 +436,7 @@ Delta	I-Location
 .	O
 
 Shanghai	B-Location
-’	O
-s	O
+’s	O
 fiscal	O
 income	O
 fell	O
@@ -508,8 +505,7 @@ state	O
 -	O
 owned	O
 People	B-Organization
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Daily	I-Organization
 .	O
 
@@ -520,8 +516,7 @@ Guangdong	B-Location
 ,	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 largest	O
 provincial	O
 economy	O
@@ -719,8 +714,7 @@ per	O
 cent	O
 of	O
 China	B-Location
-’	O
-s	O
+’s	O
 292	O
 million	O
 -	O
@@ -737,8 +731,7 @@ the	O
 heart	O
 of	O
 Beijing	B-Location
-’	O
-s	O
+’s	O
 economic	O
 policies	O
 in	O

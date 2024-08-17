@@ -130,8 +130,7 @@ the	O
 Bureau	B-Organization
 of	I-Organization
 Meteorology	I-Organization
-’	O
-s	O
+’s	O
 Johnathan	B-Person
 How	I-Person
 .	O
@@ -155,8 +154,7 @@ Ocean	I-Location
 .	O
 And	O
 it	O
-’	O
-s	O
+’s	O
 this	O
 entire	O
 complex	O
@@ -202,8 +200,7 @@ system	O
 Firstly	O
 ,	O
 it	O
-’	O
-s	O
+’s	O
 slow	O
 moving	O
 so	O
@@ -238,8 +235,7 @@ the	O
 system	O
 ,	O
 it	O
-’	O
-s	O
+’s	O
 not	O
 just	O
 a	O
@@ -253,8 +249,7 @@ Western	B-Location
 Australia	I-Location
 –	O
 it	O
-’	O
-s	O
+’s	O
 three	O
 days	O
 .	O
@@ -263,8 +258,7 @@ days	O
 Secondly	O
 ,	O
 it	O
-’	O
-s	O
+’s	O
 a	O
 strong	O
 system	O
@@ -480,8 +474,7 @@ swells	O
 ”	O
 said	O
 Sky	B-Organization
-’	O
-s	O
+’s	O
 Mr	O
 Saunders	B-Person
 .	O
@@ -666,8 +659,7 @@ aside	O
 from	O
 the	O
 state	O
-’	O
-s	O
+’s	O
 north	O
 and	O
 extreme	O
@@ -829,8 +821,7 @@ Thursday	B-Date
 or	O
 Friday	B-Date
 it	O
-’	O
-s	O
+’s	O
 also	O
 pushing	O
 up	O

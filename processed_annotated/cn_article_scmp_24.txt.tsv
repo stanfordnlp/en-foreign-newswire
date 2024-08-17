@@ -11,8 +11,7 @@ additions	O
 to	O
 SM	B-Organization
 Entertainment	I-Organization
-’	O
-s	O
+’s	O
 roster	O
 ,	O
 with	O
@@ -49,8 +48,7 @@ and	O
 interviews	O
 with	O
 Women	B-Organization
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Wear	I-Organization
 Daily	I-Organization
 Korea	I-Organization	B-Location
@@ -79,8 +77,7 @@ group	O
 .	O
 
 It	O
-’	O
-s	O
+’s	O
 rumoured	O
 that	O
 they	O
@@ -90,8 +87,7 @@ become	O
 part	O
 of	O
 SM	B-Organization
-’	O
-s	O
+’s	O
 NCT	B-Organization
 boy	O
 -	O
@@ -328,8 +324,7 @@ NCT	B-Organization
 apparatus	O
 ,	O
 it	O
-’	O
-s	O
+’s	O
 going	O
 to	O
 be	O
@@ -466,15 +461,13 @@ and	O
 time	O
 ,	O
 it	O
-’	O
-s	O
+’s	O
 hard	O
 to	O
 see	O
 how	O
 NCT	B-Organization
-’	O
-s	O
+’s	O
 continued	O
 growth	O
 won	O
@@ -519,8 +512,7 @@ that	O
 break	O
 the	O
 camel	O
-’	O
-s	O
+’s	O
 back	O
 ;	O
 as	O
@@ -659,8 +651,7 @@ singular	O
 act	O
 ,	O
 it	O
-’	O
-s	O
+’s	O
 definitely	O
 an	O
 experiment	O
@@ -749,8 +740,7 @@ can	O
 work	O
 –	O
 Japan	B-Location
-’	O
-s	O
+’s	O
 AKB	B-Organization
 48	I-Organization
 and	O
@@ -790,8 +780,7 @@ star	O
 .	O
 
 NCT	B-Organization
-’	O
-s	O
+’s	O
 sense	O
 of	O
 limitless	O
@@ -809,8 +798,7 @@ to	O
 expand	O
 the	O
 group	O
-’	O
-s	O
+’s	O
 roster	O
 ,	O
 how	O
@@ -854,8 +842,7 @@ modular	O
 .	O
 NCT	B-Organization
 Dream	I-Organization
-’	O
-s	O
+’s	O
 entire	O
 concept	O
 was	O

@@ -56,8 +56,7 @@ is	O
 angry	O
 of	O
 Washington	B-Location
-’	O
-s	O
+’s	O
 unwavering	O
 support	O
 for	O
@@ -110,8 +109,7 @@ also	O
 believes	O
 that	O
 Biden	B-Person
-’	O
-s	O
+’s	O
 visit	O
 to	O
 West	B-Location
@@ -124,8 +122,7 @@ halted	O
 negotiations	O
 on	O
 Iran	B-Location
-’	O
-s	O
+’s	O
 nuclear	O
 program	O
 into	O
@@ -393,8 +390,7 @@ and	O
 vulnerable	O
 .	O
 Biden	B-Person
-’	O
-s	O
+’s	O
 visit	O
 has	O
 put	O
@@ -403,8 +399,7 @@ halted	O
 negotiations	O
 on	O
 Iran	B-Location
-’	O
-s	O
+’s	O
 nuclear	O
 program	O
 into	O
@@ -495,8 +490,7 @@ take	O
 A	O
 :	O
 Trump	B-Person
-’	O
-s	O
+’s	O
 decision	O
 to	O
 withdraw	O
@@ -743,8 +737,7 @@ Israel	B-Location
 A	O
 :	O
 Biden	B-Person
-’	O
-s	O
+’s	O
 efforts	O
 to	O
 make	O
@@ -1150,8 +1143,7 @@ Iran	B-Location
 A	O
 :	O
 Iran	B-Location
-’	O
-s	O
+’s	O
 alliance	O
 with	O
 both	O
@@ -1176,8 +1168,7 @@ This	O
 is	O
 because	O
 Iran	B-Location
-’	O
-s	O
+’s	O
 alliances	O
 in	O
 the	O

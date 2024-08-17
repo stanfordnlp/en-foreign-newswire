@@ -9,16 +9,14 @@ light	O
 of	O
 Cyril	B-Person
 Ramaphosa	I-Person
-’	O
-s	O
+’s	O
 new	O
 measures	O
 to	O
 combat	O
 South	B-Location
 Africa	I-Location
-’	O
-s	O
+’s	O
 energy	O
 crisis	O
 ,	O
@@ -120,8 +118,7 @@ Meanwhile	O
 ,	O
 the	O
 HSRC	B-Organization
-’	O
-s	O
+’s	O
 Krish	B-Person
 Chetty	I-Person
 ,	O
@@ -337,8 +334,7 @@ billion	I-Money
 
 “	O
 It	O
-’	O
-s	O
+’s	O
 important	O
 to	O
 note	O
@@ -365,8 +361,7 @@ Chetty	B-Person
 
 “	O
 China	B-Location
-’	O
-s	O
+’s	O
 big	O
 projects	O
 have	O

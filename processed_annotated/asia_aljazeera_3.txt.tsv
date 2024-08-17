@@ -15,8 +15,7 @@ for	O
 the	O
 Rajapaksa	B-Person
 dynasty	O
-’	O
-s	O
+’s	O
 dominance	O
 over	O
 Sri	B-NORP
@@ -64,8 +63,7 @@ blame	O
 for	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 worst	O
 economic	O
 crisis	O
@@ -84,8 +82,7 @@ nation	O
 .	O
 
 Mahinda	B-Person
-’	O
-s	O
+’s	O
 younger	O
 brother	O
 ,	O
@@ -186,8 +183,7 @@ such	O
 plans	O
 .	O
 Mahinda	B-Person
-’	O
-s	O
+’s	O
 eldest	O
 son	O
 ,	O
@@ -235,8 +231,7 @@ Jazeera	I-Organization
 .	O
 
 Mahinda	B-Person
-’	O
-s	O
+’s	O
 aide	O
 also	O
 indicated	O
@@ -319,8 +314,7 @@ never	O
 listened	O
 to	O
 Mahinda	B-Person
-’	O
-s	O
+’s	O
 advice	O
 .	O
 ”	O
@@ -335,8 +329,7 @@ in	O
 May	B-Date
 ,	O
 Gotabaya	B-Person
-’	O
-s	O
+’s	O
 cousin	O
 Udayanga	B-Person
 Weeratunga	I-Person
@@ -422,8 +415,7 @@ carry	O
 forward	O
 the	O
 family	O
-’	O
-s	O
+’s	O
 legacy	O
 in	O
 politics	O
@@ -432,15 +424,13 @@ politics	O
 Protesters	O
 reject	O
 aide	O
-’	O
-s	O
+’s	O
 claims	O
 
 But	O
 Sri	B-Location
 Lanka	I-Location
-’	O
-s	O
+’s	O
 protesters	O
 denounced	O
 the	O
@@ -449,8 +439,7 @@ made	O
 by	O
 Mahinda	B-Person
 Rajapaksa	I-Person
-’	O
-s	O
+’s	O
 aide	O
 ,	O
 describing	O
@@ -549,8 +538,7 @@ claims	O
 made	O
 by	O
 Mahinda	B-Person
-’	O
-s	O
+’s	O
 aide	O
 that	O
 the	O
@@ -579,8 +567,7 @@ Rajapaksa	I-Person
 was	O
 Gotabaya	B-Person
 Rajapaksa	I-Person
-’	O
-s	O
+’s	O
 prime	O
 minister	O
 ,	O
@@ -675,8 +662,7 @@ in	O
 became	O
 Sri	B-Location
 Lanka	I-Location
-’	O
-s	O
+’s	O
 fifth	O
 executive	O
 president	O
@@ -700,8 +686,7 @@ Wickremesinghe	I-Person
 .	O
 
 Mahinda	B-Person
-’	O
-s	O
+’s	O
 presidency	O
 paved	O
 the	O
@@ -787,8 +772,7 @@ in	O
 2009	B-Date
 ,	O
 Mahinda	B-Person
-’	O
-s	O
+’s	O
 government	O
 was	O
 accused	O
@@ -970,8 +954,7 @@ fortunes	O
 for	O
 the	O
 island	O
-’	O
-s	O
+’s	O
 most	O
 powerful	O
 clan	O

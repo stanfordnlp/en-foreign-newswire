@@ -197,8 +197,7 @@ statement	O
 ,	O
 the	O
 conference	O
-’	O
-s	O
+’s	O
 participants	O
 cited	O
 the	O
@@ -206,16 +205,14 @@ risk	O
 that	O
 the	O
 ministry	O
-’	O
-s	O
+’s	O
 bureau	O
 could	O
 undermine	O
 the	O
 police	O
 agency	O
-’	O
-s	O
+’s	O
 political	O
 neutrality	O
 and	O
@@ -280,8 +277,7 @@ the	O
 state	O
 prosecution	O
 service	O
-’	O
-s	O
+’s	O
 investigative	O
 powers	O
 in	O
@@ -340,8 +336,7 @@ general	O
 Police	O
 at	O
 Saturday	B-Date
-’	O
-s	O
+’s	O
 conference	O
 called	O
 it	O
@@ -435,8 +430,7 @@ said	O
 News	O
 of	O
 Ryu	B-Person
-’	O
-s	O
+’s	O
 discharge	O
 appeared	O
 to	O
@@ -452,8 +446,7 @@ weekend	O
 on	O
 the	O
 agency	O
-’	O
-s	O
+’s	O
 internal	O
 communications	O
 portal	O
@@ -523,8 +516,7 @@ Lee	B-Person
 Sang	I-Person
 -	I-Person
 min	I-Person
-’	O
-s	O
+’s	O
 choice	O
 to	O
 head	O
@@ -582,16 +574,14 @@ anonymity	O
 said	O
 the	O
 agency	O
-’	O
-s	O
+’s	O
 punitive	O
 measures	O
 against	O
 participants	O
 in	O
 Saturday	B-Date
-’	O
-s	O
+’s	O
 conference	O
 showed	O
 its	O
@@ -605,8 +595,7 @@ heel	O
 
 “	O
 Ryu	B-Person
-’	O
-s	O
+’s	O
 reassignment	O
 is	O
 just	O
@@ -642,8 +631,7 @@ discrepancies	O
 between	O
 the	O
 government	O
-’	O
-s	O
+’s	O
 treatment	O
 of	O
 dissenting	O

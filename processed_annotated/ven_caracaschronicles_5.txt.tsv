@@ -130,8 +130,7 @@ called	O
 Grenoble	B-Location
 .	O
 There	O
-’	O
-s	O
+’s	O
 plenty	O
 of	O
 life	O
@@ -209,8 +208,7 @@ River	I-Location
 here	O
 (	O
 let	O
-’	O
-s	O
+’s	O
 not	O
 compare	O
 )	O
@@ -281,8 +279,7 @@ walk	O
 
 But	O
 something	O
-’	O
-s	O
+’s	O
 not	O
 right	O
 .	O
@@ -441,8 +438,7 @@ depending	O
 on	O
 each	O
 person	O
-’	O
-s	O
+’s	O
 opportunities	O
 ,	O
 but	O
@@ -704,8 +700,7 @@ behave	O
 .	O
 And	O
 that	O
-’	O
-s	O
+’s	O
 a	O
 shock	O
 ,	O
@@ -838,8 +833,7 @@ of	O
 stories	O
 of	O
 people	O
-’	O
-s	O
+’s	O
 struggles	O
 ,	O
 thieves	O
@@ -917,14 +911,12 @@ camionetica	O
 .	O
 In	O
 France	B-Location
-’	O
-s	O
+’s	O
 public	O
 transport	O
 ,	O
 everybody	O
-’	O
-s	O
+’s	O
 on	O
 their	O
 phones	O
@@ -936,8 +928,7 @@ business	O
 .	O
 
 There	O
-’	O
-s	O
+’s	O
 not	O
 a	O
 single	O
@@ -990,8 +981,7 @@ chip	O
 On	O
 New	B-Misc
 Year	I-Misc
-’	I-Misc
-s	I-Misc
+’s	I-Misc
 Eve	I-Misc
 ,	O
 we	O
@@ -1025,8 +1015,7 @@ to	O
 try	O
 our	O
 abuela	O
-’	O
-s	O
+’s	O
 hallacas	O
 .	O
 
@@ -1572,8 +1561,7 @@ challenges	O
 
 “	O
 It	O
-’	O
-s	O
+’s	O
 the	O
 most	O
 gentle	O
@@ -1620,8 +1608,7 @@ in	O
 French	B-NORP
 ,	O
 it	O
-’	O
-s	O
+’s	O
 called	O
 mal	O
 du	O
@@ -1636,8 +1623,7 @@ Gallego	B-NORP
 -	I-NORP
 Portuguese	I-NORP
 it	O
-’	O
-s	O
+’s	O
 morrinha	O
 but	O
 I	O
@@ -1928,8 +1914,7 @@ that	O
 stands	O
 is	O
 Murphy	B-Misc	B-Person
-’	I-Misc
-s	I-Misc
+’s	I-Misc
 Law	I-Misc
 ,	O
 the	O

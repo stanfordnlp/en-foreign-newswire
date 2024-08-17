@@ -5,8 +5,7 @@ many	O
 they	O
 are	O
 art	O
-’	O
-s	O
+’s	O
 next	O
 big	O
 thing	O
@@ -132,8 +131,7 @@ Frame	I-Misc
 ”	O
 at	O
 Sotheby	B-Organization
-’	O
-s	O
+’s	O
 in	O
 March	B-Date
 for	O
@@ -159,8 +157,7 @@ a	O
 work	O
 at	O
 Christie	B-Organization	B-Person
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 titled	O
 “	O
 Edmond	B-Misc
@@ -172,8 +169,7 @@ largely	O
 based	O
 on	O
 Barrat	B-Person
-’	O
-s	O
+’s	O
 code	O
 —	O
 for	O
@@ -598,8 +594,7 @@ images	O
 
 Google	B-Product
 Imagen	I-Product
-’	O
-s	O
+’s	O
 webpage	O
 is	O
 filled	O
@@ -764,14 +759,12 @@ Camille	B-Person
 Lenglois	I-Person
 of	O
 Paris	B-Location
-’	O
-s	O
+’s	O
 Pompidou	B-Location	B-Person
 Centre	I-Location
 —	O
 Europe	B-Location
-’	O
-s	O
+’s	O
 largest	O
 collection	O
 of	O

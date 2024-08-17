@@ -11,8 +11,7 @@ position	O
 of	O
 the	O
 world	O
-’	O
-s	O
+’s	O
 highest	O
 confidence	O
 in	O
@@ -38,8 +37,7 @@ positive	O
 on	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 economic	O
 outlook	O
 with	O
@@ -265,8 +263,7 @@ Saudis	B-NORP
 in	O
 the	O
 Kingdom	O
-’	O
-s	O
+’s	O
 Vision	B-Misc
 2030	I-Misc
 ,	O
@@ -526,8 +523,7 @@ confidence	O
 in	O
 the	O
 Kingdom	O
-’	O
-s	O
+’s	O
 economic	O
 policies	O
 are	O
@@ -597,8 +593,7 @@ performance	O
 of	O
 the	O
 Kingdom	O
-’	O
-s	O
+’s	O
 government	O
 from	O
 78	O

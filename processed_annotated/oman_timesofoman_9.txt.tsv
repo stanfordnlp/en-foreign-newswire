@@ -220,8 +220,7 @@ Staff	O
 of	O
 the	O
 Sultan	B-Organization
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Armed	I-Organization
 Forces	I-Organization
 (	O
@@ -346,8 +345,7 @@ care	O
 of	O
 the	O
 Sultan	B-Organization
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Armed	I-Organization
 Forces	I-Organization
 for	O
@@ -385,8 +383,7 @@ added	O
 to	O
 the	O
 Sultanate	B-Location
-’	O
-s	O
+’s	O
 status	O
 in	O
 the	O
@@ -541,8 +538,7 @@ aspirations	O
 of	O
 the	O
 Sultanate	B-Location
-’	O
-s	O
+’s	O
 shooters	O
 at	O
 the	O

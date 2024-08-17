@@ -95,8 +95,7 @@ delegates	O
 of	O
 his	O
 country	O
-’	O
-s	O
+’s	O
 soccer	O
 federation	O
 to	O
@@ -143,8 +142,7 @@ the	O
 United	B-Location
 States	I-Location
 government	O
-’	O
-s	O
+’s	O
 continuing	O
 case	O
 .	O
@@ -258,14 +256,12 @@ FIFA	B-Organization
 ,	O
 global	O
 soccer	O
-’	O
-s	O
+’s	O
 governing	O
 body	O
 .	O
 FIFA	B-Organization
-’	O
-s	O
+’s	O
 leadership	O
 has	O
 been	O
@@ -509,8 +505,7 @@ December	B-Date
 The	O
 Justice	B-Organization
 Department	I-Organization
-’	O
-s	O
+’s	O
 case	O
 was	O
 announced	O
@@ -577,8 +572,7 @@ charges	O
 Mr	O
 .	O
 Callejas	B-Person
-’	O
-s	O
+’s	O
 plea	O
 may	O
 signal	O
@@ -668,8 +662,7 @@ months	O
 after	O
 the	O
 government	O
-’	O
-s	O
+’s	O
 FIFA	B-Organization
 case	O
 was	O

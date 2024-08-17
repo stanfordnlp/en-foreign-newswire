@@ -3,8 +3,7 @@ https://nation.africa/kenya/news/lt-gen-peter-njiru-sworn-in-as-new-kenya-army-c
 President	O
 Uhuru	B-Person
 Kenyatta	I-Person
-’	O
-s	O
+’s	O
 former	O
 aide	B-Misc
 -	I-Misc
@@ -310,8 +309,7 @@ was	O
 on	O
 this	O
 year	O
-’	O
-s	O
+’s	O
 Madaraka	B-Date
 Day	I-Date
 celebrations	O

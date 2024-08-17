@@ -112,8 +112,7 @@ in	O
 .	O
 
 Iran	B-Location
-’	O
-s	O
+’s	O
 hostility	O
 toward	O
 Saudi	B-Location
@@ -210,8 +209,7 @@ of	O
 the	O
 Persian	B-NORP
 Iran	B-Location
-’	O
-s	O
+’s	O
 relations	O
 with	O
 the	O
@@ -280,8 +278,7 @@ in	O
 terms	O
 of	O
 Iran	B-Location
-’	O
-s	O
+’s	O
 expansionist	O
 policies	O
 aimed	O
@@ -641,8 +638,7 @@ death	O
 on	O
 the	O
 Kingdom	O
-’	O
-s	O
+’s	O
 citizens	O
 and	O
 residents	O

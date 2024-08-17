@@ -86,8 +86,7 @@ nation	O
 ,	O
 stressing	O
 Iran	B-Location
-’	O
-s	O
+’s	O
 firm	O
 support	O
 for	O
@@ -503,8 +502,7 @@ cautioned	O
 .	O
 
 Iraq	B-Location
-’	O
-s	O
+’s	O
 Prime	O
 Minister	O
 Mustafa	B-Person
@@ -535,8 +533,7 @@ troops	O
 have	O
 violated	O
 Iraq	B-Location
-’	O
-s	O
+’s	O
 sovereignty	O
 and	O
 territorial	O

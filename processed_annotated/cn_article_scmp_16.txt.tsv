@@ -34,8 +34,7 @@ he	O
 openly	O
 questioned	O
 China	B-Location
-’	O
-s	O
+’s	O
 state	O
 -	O
 sanctioned	O
@@ -48,8 +47,7 @@ Covid	B-Date
 and	O
 the	O
 government	O
-’	O
-s	O
+’s	O
 mandatory	O
 testing	O
 policy	O
@@ -58,8 +56,7 @@ Shanghai	B-Location
 .	O
 
 Wang	B-Person
-’	O
-s	O
+’s	O
 Weibo	B-Organization
 account	O
 was	O
@@ -118,8 +115,7 @@ posts	O
 .	O
 
 Weibo	B-Organization
-’	O
-s	O
+’s	O
 moves	O
 came	O
 after	O
@@ -155,8 +151,7 @@ cities	O
 during	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 battle	O
 against	O
 the	O
@@ -184,8 +179,7 @@ Weibo	B-Organization
 known	O
 as	O
 China	B-Location
-’	O
-s	O
+’s	O
 answer	O
 to	O
 Twitter	B-Organization
@@ -213,8 +207,7 @@ buying	O
 two	O
 Apple	B-Product	B-Organization
 Watch	I-Product
-’	O
-s	O
+’s	O
 for	O
 his	O
 pet	O
@@ -259,8 +252,7 @@ has	O
 been	O
 dubbed	O
 China	B-Location
-’	O
-s	O
+’s	O
 “	O
 national	O
 husband	O
@@ -298,8 +290,7 @@ a	O
 target	O
 for	O
 China	B-Location
-’	O
-s	O
+’s	O
 paparazzi	O
 .	O
 
@@ -475,8 +466,7 @@ The	O
 state	O
 chooses	O
 what	O
-’	O
-s	O
+’s	O
 mainstream	O
 and	O
 you	O
@@ -585,8 +575,7 @@ a	O
 test	O
 of	O
 people	O
-’	O
-s	O
+’s	O
 “	O
 submissiveness	O
 ”	O
@@ -612,16 +601,14 @@ widespread	O
 frustration	O
 about	O
 Shanghai	B-Location
-’	O
-s	O
+’s	O
 draconian	O
 lockdown	O
 measures	O
 .	O
 
 Wang	B-Person
-’	O
-s	O
+’s	O
 last	O
 Weibo	B-Organization
 post	O
@@ -686,8 +673,7 @@ of	O
 discontent	O
 over	O
 China	B-Location
-’	O
-s	O
+’s	O
 strict	O
 dynamic	O
 zero	O

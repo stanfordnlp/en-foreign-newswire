@@ -97,8 +97,7 @@ students	O
 enrolled	O
 across	O
 HBKU	B-Organization
-’	O
-s	O
+’s	O
 36	O
 multidisciplinary	O
 programmes	O
@@ -113,8 +112,7 @@ intake	O
 in	O
 the	O
 Master	O
-’	O
-s	O
+’s	O
 in	O
 Social	B-Misc
 Policy	I-Misc
@@ -244,14 +242,12 @@ messages	O
 touched	O
 on	O
 HBKU	B-Organization
-’	O
-s	O
+’s	O
 commitment	O
 to	O
 advancing	O
 Qatar	B-Location
-’	O
-s	O
+’s	O
 national	O
 development	O
 by	O

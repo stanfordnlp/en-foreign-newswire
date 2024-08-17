@@ -75,8 +75,7 @@ the	O
 State	B-Location
 of	I-Location
 Qatar	I-Location
-’	O
-s	O
+’s	O
 efforts	O
 to	O
 prevent	O
@@ -143,8 +142,7 @@ Hamad	B-Organization	B-Person
 Bin	I-Organization	I-Person
 Khalifa	I-Organization	I-Person
 University	I-Organization
-’	O
-s	O
+’s	O
 Qatar	B-Organization	B-Location
 Computing	I-Organization
 Research	I-Organization
@@ -203,8 +201,7 @@ between	O
 QCRI	B-Organization
 ,	O
 Qatar	B-Location
-’	O
-s	O
+’s	O
 Ministry	B-Organization
 of	I-Organization
 Interior	I-Organization
@@ -219,8 +216,7 @@ Legacy	I-Organization
 ,	O
 and	O
 Turkey	B-Location
-’	O
-s	O
+’s	O
 TOBB	B-Organization
 University	I-Organization
 of	I-Organization

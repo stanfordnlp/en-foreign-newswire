@@ -210,8 +210,7 @@ the	O
 introduction	O
 to	O
 Golwalkar	B-Person
-’	O
-s	O
+’s	O
 highly	O
 controversial	O
 book	O
@@ -260,8 +259,7 @@ laws	O
 that	O
 limited	O
 people	O
-’	O
-s	O
+’s	O
 access	O
 to	O
 forests	O
@@ -431,8 +429,7 @@ in	O
 solidarity	O
 with	O
 Gandhi	B-Person
-’	O
-s	O
+’s	O
 Salt	B-Misc
 Satyagraha	I-Misc
 ?	O
@@ -707,8 +704,7 @@ Palkar	I-Person
 who	O
 wrote	O
 Hedgewar	B-Person
-’	O
-s	O
+’s	O
 biography	O
 in	O
 Marathi	B-Location
@@ -722,8 +718,7 @@ Golwalkar	I-Person
 ,	O
 the	O
 Sangh	B-Organization
-’	O
-s	O
+’s	O
 second	O
 supremo	O
 ,	O
@@ -789,8 +784,7 @@ much	O
 time	O
 for	O
 Sangh	B-Organization
-’	O
-s	O
+’s	O
 work	O
 considering	O
 that	O
@@ -981,8 +975,7 @@ unity	O
 .	O
 
 Hedgewar	B-Person
-’	O
-s	O
+’s	O
 involvement	O
 in	O
 the	O
@@ -1079,8 +1072,7 @@ fighting	O
 for	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 freedom	O
 .	O
 “	O

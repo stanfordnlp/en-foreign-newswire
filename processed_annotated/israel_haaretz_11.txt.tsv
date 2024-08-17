@@ -88,8 +88,7 @@ her	O
 to	O
 deny	O
 Lanner	B-Person
-’	O
-s	O
+’s	O
 application	O
 .	O
 
@@ -105,8 +104,7 @@ the	O
 cancellation	O
 of	O
 Lanner	B-Person
-’	O
-s	O
+’s	O
 A	O
 -	O
 5	O
@@ -181,8 +179,7 @@ basis	O
 “	O
 With	O
 Lanner	B-Person
-’	O
-s	O
+’s	O
 wife	O
 being	O
 an	O
@@ -484,8 +481,7 @@ Dery	I-Person
 
 In	O
 Tuesday	B-Date
-’	O
-s	O
+’s	O
 announcement	O
 ,	O
 they	O
@@ -655,8 +651,7 @@ a	O
 clause	O
 in	O
 Israel	B-Location
-’	O
-s	O
+’s	O
 Law	B-Misc
 of	I-Misc
 Return	I-Misc
@@ -776,8 +771,7 @@ decades	O
 for	O
 the	O
 movement	O
-’	O
-s	O
+’s	O
 National	B-Organization
 Conference	I-Organization
 of	I-Organization
@@ -945,8 +939,7 @@ the	O
 organizations	O
 allowed	O
 Lanner	B-Person
-’	O
-s	O
+’s	O
 “	O
 willful	O
 ,	O

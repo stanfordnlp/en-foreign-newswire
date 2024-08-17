@@ -120,8 +120,7 @@ story	O
 related	O
 to	O
 children	O
-’	O
-s	O
+’s	O
 fiction	O
 .	O
 The	O
@@ -273,8 +272,7 @@ prominent	O
 personalities	O
 ,	O
 Laiba	B-Person
-’	O
-s	O
+’s	O
 favourite	O
 authors	O
 include	O
@@ -331,8 +329,7 @@ Mohammed	I-Person
 has	O
 encouraged	O
 Laiba	B-Person
-’	O
-s	O
+’s	O
 literary	O
 skills	O
 .	O

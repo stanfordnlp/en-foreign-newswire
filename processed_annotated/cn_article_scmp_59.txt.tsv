@@ -30,8 +30,7 @@ such	O
 loans	O
 under	O
 Beijing	B-Location
-’	O
-s	O
+’s	O
 Belt	B-Misc
 and	I-Misc
 Road	I-Misc
@@ -102,8 +101,7 @@ former	O
 president	O
 Rodrigo	B-Person
 Duterte	I-Person
-’	O
-s	O
+’s	O
 policy	O
 of	O
 having	O
@@ -333,8 +331,7 @@ a	O
 priority	O
 in	O
 China	B-Location
-’	O
-s	O
+’s	O
 regional	O
 diplomacy	O
 ,	O
@@ -352,8 +349,7 @@ start	O
 .	O
 
 China	B-Organization	B-Location
-’	O
-s	O
+’s	O
 embassy	O
 in	O
 Manila	B-Location
@@ -488,8 +484,7 @@ That	O
 compared	O
 to	O
 Japan	B-Location
-’	O
-s	O
+’s	O
 concessional	O
 rate	O
 of	O
@@ -505,8 +500,7 @@ projects	O
 However	O
 in	O
 Saturday	B-Date
-’	O
-s	O
+’s	O
 statement	O
 ,	O
 Chavez	B-Person
@@ -574,8 +568,7 @@ to	O
 build	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 high	O
 -	O
 profile	O
@@ -600,8 +593,7 @@ uncertain	O
 given	O
 Sri	B-Location
 Lanka	I-Location
-’	O
-s	O
+’s	O
 financial	O
 and	O
 political	O
@@ -697,8 +689,7 @@ do	O
 with	O
 Sri	B-Location
 Lanka	I-Location
-’	O
-s	O
+’s	O
 bankruptcy	O
 ,	O
 which	O

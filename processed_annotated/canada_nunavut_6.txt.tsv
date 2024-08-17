@@ -180,8 +180,7 @@ Superior	I-Organization
 Court	I-Organization
 rejected	O
 Sharma	B-Person
-’	O
-s	O
+’s	O
 application	O
 for	O
 a	O
@@ -295,8 +294,7 @@ Green	I-Person
 notes	O
 that	O
 Nunavut	B-Location
-’	O
-s	O
+’s	O
 legal	O
 order	O
 is	O
@@ -394,16 +392,14 @@ Redfern	I-Person
 chairwoman	O
 of	O
 Nunavut	B-Organization	B-Location
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Legal	I-Organization
 Services	I-Organization
 Board	I-Organization
 ,	O
 said	O
 it	O
-’	O
-s	O
+’s	O
 important	O
 that	O
 Indigenous	O
@@ -461,8 +457,7 @@ the	O
 youngest	O
 of	O
 Canada	B-Location
-’	O
-s	O
+’s	O
 three	O
 territories	O
 ,	O
@@ -566,8 +561,7 @@ incident	O
 ”	O
 
 Nunavut	B-Location
-’	O
-s	O
+’s	O
 25	O
 communities	O
 are	O
@@ -626,8 +620,7 @@ also	O
 argues	O
 the	O
 territory	O
-’	O
-s	O
+’s	O
 high	O
 prison	O
 rate	O
@@ -715,8 +708,7 @@ population	O
 growth	O
 :	O
 Nunavut	B-Location
-’	O
-s	O
+’s	O
 population	O
 has	O
 grown	O
@@ -759,8 +751,7 @@ the	O
 Ontario	B-Organization	B-Location
 Native	I-Organization
 Women	I-Organization
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Association	I-Organization
 ,	O
 the	O

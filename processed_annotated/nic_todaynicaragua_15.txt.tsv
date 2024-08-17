@@ -6,8 +6,7 @@ the	O
 success	O
 of	O
 Nicaragua	B-Location
-’	O
-s	O
+’s	O
 thriving	O
 cigar	O
 industry	O
@@ -133,8 +132,7 @@ charge	O
 
 “	O
 It	O
-’	O
-s	O
+’s	O
 a	O
 family	O
 business	O
@@ -253,8 +251,7 @@ At	O
 the	O
 My	B-Organization
 Father	I-Organization
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Cigars	I-Organization
 factory	O
 ,	O
@@ -356,8 +353,7 @@ founding	O
 fathers	O
 of	O
 Nicaragua	B-Location
-’	O
-s	O
+’s	O
 cigar	O
 dynasties	O
 ,	O
@@ -530,8 +526,7 @@ the	O
 attention	O
 of	O
 Nicaragua	B-Location
-’	O
-s	O
+’s	O
 right	O
 -	O
 wing	O
@@ -580,8 +575,7 @@ the	O
 rest	O
 of	O
 America	B-Location
-’	O
-s	O
+’s	O
 cigar	O
 smokers	O
 ,	O
@@ -589,8 +583,7 @@ was	O
 deprived	O
 of	O
 Cuba	B-Location
-’	O
-s	O
+’s	O
 high	O
 -	O
 quality	O

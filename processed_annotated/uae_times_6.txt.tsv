@@ -109,8 +109,7 @@ Technology	I-Organization
 RIT	B-Organization
 )	O
 Dubai	B-Location
-’	O
-s	O
+’s	O
 engineering	O
 faculty	O
 and	O
@@ -344,8 +343,7 @@ pillars	O
 on	O
 which	O
 RIT	B-Organization
-’	O
-s	O
+’s	O
 new	O
 campus	O
 was	O
@@ -383,8 +381,7 @@ country	O
 
 The	O
 University	O
-’	O
-s	O
+’s	O
 Sustainability	B-Organization
 and	I-Organization
 Energy	I-Organization
@@ -551,8 +548,7 @@ of	O
 the	O
 UAE	B-Organization	B-Location
 Government	I-Organization
-’	O
-s	O
+’s	O
 green	O
 initiatives	O
 .	O

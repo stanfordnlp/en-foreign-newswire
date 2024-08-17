@@ -10,8 +10,7 @@ scenes	O
 at	O
 the	O
 UN	B-Organization
-’	O
-s	O
+’s	O
 top	O
 human	O
 rights	O
@@ -36,8 +35,7 @@ minority	O
 groups	O
 in	O
 China	B-Location
-’	O
-s	O
+’s	O
 Xinjiang	B-Location
 region	O
 ,	O
@@ -59,8 +57,7 @@ weeks	O
 after	O
 the	O
 UN	B-Organization
-’	O
-s	O
+’s	O
 human	O
 rights	O
 chief	O
@@ -198,8 +195,7 @@ UN	B-Organization	B-Organization	B-Location
 Human	I-Organization
 Rights	I-Organization
 Council	I-Organization
-’	O
-s	O
+’s	O
 report	O
 on	O
 Xinjiang	B-Location
@@ -528,8 +524,7 @@ to	O
 suppress	O
 the	O
 report	O
-’	O
-s	O
+’s	O
 release	O
 .	O
 ”	O
@@ -606,8 +601,7 @@ the	O
 end	O
 of	O
 Bachelet	B-Person
-’	O
-s	O
+’s	O
 term	O
 ,	O
 which	O
@@ -817,8 +811,7 @@ fifth	O
 of	O
 the	O
 world	O
-’	O
-s	O
+’s	O
 cotton	O
 .	O
 
@@ -871,8 +864,7 @@ the	O
 University	B-Organization	B-Facility
 of	I-Organization	I-Facility
 Delaware	I-Organization	I-Facility	B-Location
-’	O
-s	O
+’s	O
 department	O
 of	O
 fashion	O
@@ -910,8 +902,7 @@ be	O
 removed	O
 from	O
 Washington	B-Location
-’	O
-s	O
+’s	O
 so	O
 -	O
 called	O
@@ -967,8 +958,7 @@ acronym	O
 for	O
 the	O
 region	O
-’	O
-s	O
+’s	O
 official	O
 name	O
 ,	O
@@ -989,8 +979,7 @@ criticised	O
 the	O
 US	B-Location
 government	O
-’	O
-s	O
+’s	O
 “	O
 shoddy	O
 enforcement	O

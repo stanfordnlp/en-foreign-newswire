@@ -367,8 +367,7 @@ Qi	B-Person
 Zhenhong	I-Person
 ,	O
 China	B-Location
-’	O
-s	O
+’s	O
 ambassador	O
 Colombo	B-Person
 ,	O
@@ -628,8 +627,7 @@ the	O
 debates	O
 over	O
 China	B-Location
-’	O
-s	O
+’s	O
 lending	O
 to	O
 Sri	B-Location
@@ -786,8 +784,7 @@ cent	O
 of	O
 Sri	B-Location
 Lanka	I-Location
-’	O
-s	O
+’s	O
 debt	O
 and	O
 the	O
@@ -853,15 +850,13 @@ growing	O
 suspicion	O
 about	O
 Beijing	B-Location
-’	O
-s	O
+’s	O
 intentions	O
 .	O
 
 “	O
 It	O
-’	O
-s	O
+’s	O
 impossible	O
 for	O
 Chinese	B-NORP

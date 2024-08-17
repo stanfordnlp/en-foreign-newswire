@@ -13,8 +13,7 @@ Baker	I-Person
 says	O
 the	O
 airline	O
-’	O
-s	O
+’s	O
 increased	O
 patronage	O
 is	O
@@ -42,15 +41,13 @@ an	O
 interview	O
 with	O
 CNBC	B-Organization
-’	O
-s	O
+’s	O
 Phil	B-Person
 LeBeau	I-Person
 onboard	O
 the	O
 QA	O
-’	O
-s	O
+’s	O
 Boeing	B-Product
 777	I-Product
 300	I-Product
@@ -69,8 +66,7 @@ Baker	I-Person
 said	O
 the	O
 airline	O
-’	O
-s	O
+’s	O
 passenger	O
 -	O
 friendly	O
@@ -119,8 +115,7 @@ posted	O
 on	O
 the	O
 airline	O
-’	O
-s	O
+’s	O
 Twitter	B-Organization
 handle	O
 .	O

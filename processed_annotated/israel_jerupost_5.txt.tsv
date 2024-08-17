@@ -2,8 +2,7 @@ https://www.jpost.com/israel-news/article-713351	O
 
 Tel	B-Facility	B-Location
 Aviv	I-Facility	I-Location
-’	I-Facility
-s	I-Facility
+’s	I-Facility
 Ichilov	I-Facility
 Hospital	I-Facility
 inaugurated	O
@@ -184,8 +183,7 @@ determined	O
 by	O
 the	O
 patient	O
-’	O
-s	O
+’s	O
 condition	O
 and	O
 psychiatric	O
@@ -361,8 +359,7 @@ generosity	O
 has	O
 fulfilled	O
 Ichilov	B-Organization
-’	O
-s	O
+’s	O
 dream	O
 on	O
 behalf	O
@@ -375,8 +372,7 @@ Israelis	B-NORP
 who	O
 visit	O
 Ichilov	B-Facility
-’	O
-s	O
+’s	O
 emergency	O
 care	O
 wing	O

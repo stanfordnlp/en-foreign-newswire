@@ -105,8 +105,7 @@ Long	O
 overlooked	O
 ,	O
 Brazil	B-Location
-’	O
-s	O
+’s	O
 native	O
 bees	O
 are	O
@@ -172,8 +171,7 @@ Cristiano	B-Person
 Menezes	I-Person
 of	O
 Brazil	B-Location
-’	O
-s	O
+’s	O
 Embrapa	B-Organization
 Agricultural	I-Organization
 Research	I-Organization
@@ -226,8 +224,7 @@ skills	O
 Most	O
 of	O
 Brazil	B-Location
-’	O
-s	O
+’s	O
 honey	O
 today	O
 comes	O
@@ -320,8 +317,7 @@ AFP	B-Organization
 at	O
 the	O
 institute	O
-’	O
-s	O
+’s	O
 premises	O
 in	O
 Brasilia	B-Location
@@ -398,8 +394,7 @@ immigrant	O
 counterparts	O
 ,	O
 Brazil	B-Location
-’	O
-s	O
+’s	O
 native	O
 bees	O
 are	O
@@ -602,8 +597,7 @@ of	O
 Villas	B-Person
 -	I-Person
 Boas	I-Person
-’	O
-s	O
+’s	O
 clients	O
 is	O
 Brazilian	B-NORP
@@ -647,8 +641,7 @@ in	O
 one	O
 of	O
 Atala	B-Person
-’	O
-s	O
+’s	O
 award	O
 -	O
 winning	O

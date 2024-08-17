@@ -122,8 +122,7 @@ in	O
 support	O
 of	O
 Morocco	B-Location
-’	O
-s	O
+’s	O
 attempts	O
 to	O
 keep	O
@@ -137,8 +136,7 @@ Algeria	B-Location
 supports	O
 the	O
 territory	O
-’	O
-s	O
+’s	O
 independence	O
 movement	O
 .	O
@@ -310,8 +308,7 @@ soon	O
 .	O
 
 Spain	B-Location
-’	O
-s	O
+’s	O
 chief	O
 worry	O
 has	O
@@ -348,8 +345,7 @@ supplies	O
 %	O
 of	O
 Spain	B-Location
-’	O
-s	O
+’s	O
 gas	O
 needs	O
 .	O
@@ -376,8 +372,7 @@ imports	O
 to	O
 protest	O
 Russia	B-Location
-’	O
-s	O
+’s	O
 war	O
 in	O
 Ukraine	B-Location

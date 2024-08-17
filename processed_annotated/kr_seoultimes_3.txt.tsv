@@ -59,8 +59,7 @@ had	O
 one	O
 of	O
 Asia	B-Location
-’	O
-s	O
+’s	O
 top	O
 -	O
 performing	O
@@ -95,8 +94,7 @@ net	O
 worth	O
 of	O
 Taiwan	B-Location
-’	O
-s	O
+’s	O
 50	O
 richest	O
 by	O
@@ -266,8 +264,7 @@ gainers	O
 on	O
 this	O
 year	O
-’	O
-s	O
+’s	O
 list	O
 are	O
 tied	O
@@ -295,8 +292,7 @@ MediaTek	B-Organization
 and	O
 the	O
 company	O
-’	O
-s	O
+’s	O
 former	O
 vice	O
 chairman	O
@@ -412,8 +408,7 @@ Manufacturing	I-Organization
 Company	I-Organization
 ,	O
 Apple	B-Organization
-’	O
-s	O
+’s	O
 main	O
 chipmaker	O
 ,	O
@@ -1106,8 +1101,7 @@ countries	O
 .	O
 Forbes	B-Organization
 Media	O
-’	O
-s	O
+’s	O
 brand	O
 extensions	O
 include	O

@@ -104,8 +104,7 @@ tweeted	O
 
 PM	O
 Modi	B-Person
-’	O
-s	O
+’s	O
 letter	O
 said	O
 Kovind	B-Person
@@ -208,8 +207,7 @@ Modi	B-Person
 further	O
 addressed	O
 Kovind	B-Person
-’	O
-s	O
+’s	O
 calm	O
 demeanor	O
 during	O
@@ -309,8 +307,7 @@ thoughts	O
 on	O
 his	O
 successor	O
-’	O
-s	O
+’s	O
 note	O
 -	O
 worthy	O
@@ -367,8 +364,7 @@ said	O
 .	O
 
 Kovind	B-Person
-’	O
-s	O
+’s	O
 term	O
 as	O
 President	O
@@ -391,8 +387,7 @@ President	O
 ,	O
 becoming	O
 India	B-Location
-’	O
-s	O
+’s	O
 first	O
 tribal	O
 leader	O

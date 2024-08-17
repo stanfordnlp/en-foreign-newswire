@@ -182,8 +182,7 @@ Rolando	B-Person
 Damas	I-Person
 ,	O
 Avianca	B-Organization
-’	O
-s	O
+’s	O
 director	O
 of	O
 sales	O
@@ -273,8 +272,7 @@ This	O
 is	O
 the	O
 airline	O
-’	O
-s	O
+’s	O
 fourth	O
 U	B-Location
 .	I-Location

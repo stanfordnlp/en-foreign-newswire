@@ -46,8 +46,7 @@ reaffirmed	O
 Pakistan	B-Organization	B-Location
 Peoples	I-Organization
 Party	I-Organization
-’	O
-s	O
+’s	O
 (	O
 PPP	B-Organization
 )	O
@@ -498,8 +497,7 @@ taken	O
 by	O
 the	O
 party	O
-’	O
-s	O
+’s	O
 central	O
 executive	O
 committee	O

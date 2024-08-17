@@ -89,8 +89,7 @@ latest	O
 crisis	O
 for	O
 Israel	B-Location
-’	O
-s	O
+’s	O
 education	O
 system	O
 ,	O
@@ -213,8 +212,7 @@ skills	O
 .	O
 
 That	O
-’	O
-s	O
+’s	O
 an	O
 existential	O
 problem	O
@@ -295,8 +293,7 @@ world	O
 .	O
 Then	O
 there	O
-’	O
-s	O
+’s	O
 the	O
 other	O
 Israel	B-Location
@@ -341,8 +338,7 @@ economy	O
 ”	O
 
 Israel	B-Location
-’	O
-s	O
+’s	O
 education	O
 system	O
 does	O
@@ -661,8 +657,7 @@ OECD	B-Organization
 average	O
 ,	O
 Israel	B-Location
-’	O
-s	O
+’s	O
 student	O
 -	O
 teacher	O
@@ -865,8 +860,7 @@ advanced	O
 training	O
 .	O
 There	O
-’	O
-s	O
+’s	O
 no	O
 such	O
 thing	O
@@ -1068,8 +1062,7 @@ leave	O
 –	O
 and	O
 that	O
-’	O
-s	O
+’s	O
 because	O
 of	O
 low	O
@@ -1255,8 +1248,7 @@ teachers	O
 ,	O
 because	O
 there	O
-’	O
-s	O
+’s	O
 so	O
 much	O
 demand	O
@@ -1553,8 +1545,7 @@ by	O
 Ben	B-Person
 -	I-Person
 David	I-Person
-’	O
-s	O
+’s	O
 Shoresh	B-Organization
 Institution	I-Organization
 for	I-Organization
@@ -1694,8 +1685,7 @@ In	O
 part	O
 ,	O
 that	O
-’	O
-s	O
+’s	O
 because	O
 it	O
 is	O
@@ -1707,8 +1697,7 @@ and	O
 community	O
 that	O
 it	O
-’	O
-s	O
+’s	O
 hard	O
 to	O
 address	O
@@ -1799,8 +1788,7 @@ fact	O
 ,	O
 the	O
 OECD	B-Organization
-’	O
-s	O
+’s	O
 assessment	O
 of	O
 Israeli	B-NORP

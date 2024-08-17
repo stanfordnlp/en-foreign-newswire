@@ -18,8 +18,7 @@ in	O
 the	O
 Chinese	B-NORP
 military	O
-’	O
-s	O
+’s	O
 logistics	O
 despite	O
 recent	O
@@ -63,12 +62,10 @@ weaknesses	O
 in	O
 the	O
 People	B-Organization
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Liberation	I-Organization
 Army	I-Organization
-’	O
-s	O
+’s	O
 readiness	O
 to	O
 fight	O
@@ -166,8 +163,7 @@ focusing	O
 on	O
 the	O
 PLA	B-Organization
-’	O
-s	O
+’s	O
 lack	O
 of	O
 logistical	O
@@ -191,8 +187,7 @@ overhaul	O
 logistics	O
 in	O
 China	B-Location
-’	O
-s	O
+’s	O
 military	O
 ,	O
 President	O
@@ -368,8 +363,7 @@ as	O
 to	O
 the	O
 PLA	B-Organization
-’	O
-s	O
+’s	O
 readiness	O
 to	O
 transition	O
@@ -417,8 +411,7 @@ added	O
 
 Noting	O
 Beijing	B-Location
-’	O
-s	O
+’s	O
 aim	O
 to	O
 incorporate	O
@@ -444,8 +437,7 @@ shortfalls	O
 in	O
 the	O
 PLA	B-Organization
-’	O
-s	O
+’s	O
 newly	O
 centralised	O
 logistics	O
@@ -537,8 +529,7 @@ questions	O
 about	O
 the	O
 PLA	B-Organization
-’	O
-s	O
+’s	O
 capacity	O
 to	O
 sustain	O
@@ -722,8 +713,7 @@ has	O
 to	O
 defeat	O
 Taiwan	B-Location
-’	O
-s	O
+’s	O
 will	O
 ,	O
 ”	O
@@ -734,16 +724,14 @@ said	O
 “	O
 But	O
 that	O
-’	O
-s	O
+’s	O
 very	O
 much	O
 a	O
 question	O
 of	O
 what	O
-’	O
-s	O
+’s	O
 up	O
 in	O
 the	O
@@ -754,8 +742,7 @@ as	O
 it	O
 is	O
 what	O
-’	O
-s	O
+’s	O
 on	O
 the	O
 ground	O

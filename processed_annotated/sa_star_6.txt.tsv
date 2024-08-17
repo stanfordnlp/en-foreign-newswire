@@ -18,8 +18,7 @@ already	O
 preparing	O
 for	O
 Women	B-Misc
-’	I-Misc
-s	I-Misc
+’s	I-Misc
 Month	I-Misc
 ,	O
 to	O
@@ -75,8 +74,7 @@ women	O
 .	O
 
 Women	B-Misc
-’	I-Misc
-s	I-Misc
+’s	I-Misc
 All	I-Misc
 White	I-Misc
 celebration	O
@@ -95,8 +93,7 @@ set	O
 to	O
 feature	O
 Mzansi	B-Location
-’	O
-s	O
+’s	O
 music	O
 A	O
 -	O
@@ -319,8 +316,7 @@ It	O
 's	O
 a	O
 women	O
-’	O
-s	O
+’s	O
 all	O
 -	O
 white	O

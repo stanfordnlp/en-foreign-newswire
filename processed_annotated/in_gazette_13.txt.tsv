@@ -40,8 +40,7 @@ Governor	O
 Satya	B-Person
 Pal	I-Person
 Malik	I-Person
-’	O
-s	O
+’s	O
 public	O
 assault	O
 on	O
@@ -78,8 +77,7 @@ about	O
 the	O
 Prime	O
 Minister	O
-’	O
-s	O
+’s	O
 mental	O
 balance	O
 .	O
@@ -253,8 +251,7 @@ of	O
 Remember	O
 always	O
 Modi	B-Person
-’	O
-s	O
+’s	O
 genius	O
 ,	O
 his	O
@@ -531,8 +528,7 @@ as	O
 dead	O
 as	O
 yesterday	O
-’	O
-s	O
+’s	O
 newspaper	O
 and	O
 nothing	O
@@ -555,8 +551,7 @@ blowing	O
 in	O
 the	O
 BJP	B-Organization
-’	O
-s	O
+’s	O
 favour	O
 .	O
 The	O
@@ -598,8 +593,7 @@ of	O
 Muaviya	B-Person
 ,	O
 Ali	B-Person
-’	O
-s	O
+’s	O
 implacable	O
 enemy	O
 .	O
@@ -676,8 +670,7 @@ be	O
 because	O
 of	O
 Modi	B-Person
-’	O
-s	O
+’s	O
 tireless	O
 campaigning	O
 .	O
@@ -687,8 +680,7 @@ be	O
 placed	O
 at	O
 Yogi	B-Person
-’	O
-s	O
+’s	O
 door	O
 .	O
 
@@ -701,8 +693,7 @@ could	O
 well	O
 be	O
 Yogi	B-Person
-’	O
-s	O
+’s	O
 last	O
 term	O
 in	O
@@ -778,8 +769,7 @@ victory	O
 .	O
 
 Modi	B-Person
-’	O
-s	O
+’s	O
 eyes	O
 are	O
 primarily	O
@@ -840,8 +830,7 @@ they	O
 were	O
 on	O
 God	O
-’	O
-s	O
+’s	O
 side	O
 because	O
 it	O
@@ -971,8 +960,7 @@ global	O
 bigotry	O
 that	O
 Modi	B-Person
-’	O
-s	O
+’s	O
 Hindutva	B-Misc
 was	O
 given	O
@@ -1131,8 +1119,7 @@ That	O
 string	O
 to	O
 Modi	B-Person
-’	O
-s	O
+’s	O
 bow	O
 may	O
 loosen	O

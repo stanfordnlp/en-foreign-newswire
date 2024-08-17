@@ -29,8 +29,7 @@ ago	O
 ,	O
 as	O
 Beijing	B-Location
-’	O
-s	O
+’s	O
 strict	O
 ban	O
 on	O
@@ -508,8 +507,7 @@ society	O
 .	O
 
 Tencent	B-Organization
-’	O
-s	O
+’s	O
 Huanhe	B-Product
 was	O
 incubated	O
@@ -586,8 +584,7 @@ Last	O
 month	O
 ,	O
 Tencent	B-Organization
-’	O
-s	O
+’s	O
 ubiquitous	O
 social	O
 media	O

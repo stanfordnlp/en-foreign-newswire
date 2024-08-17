@@ -61,8 +61,7 @@ reality	O
 .	O
 While	O
 Shaked	B-Person
-’	O
-s	O
+’s	O
 statement	O
 that	O
 she	O
@@ -175,8 +174,7 @@ or	O
 even	O
 reverse	O
 Shaked	B-Person
-’	O
-s	O
+’s	O
 decision	O
 and	O
 grant	O
@@ -374,8 +372,7 @@ trying	O
 to	O
 prevent	O
 Lanner	B-Person
-’	O
-s	O
+’s	O
 immigration	O
 since	O
 2019	B-Date
@@ -551,8 +548,7 @@ public	O
 .	O
 
 Lanner	B-Person
-’	O
-s	O
+’s	O
 high	O
 profile	O
 and	O
@@ -739,8 +735,7 @@ when	O
 as	O
 in	O
 Lanner	B-Person
-’	O
-s	O
+’s	O
 case	O
 ,	O
 an	O
@@ -1433,8 +1428,7 @@ S	I-Location
 .	I-Location
 ’	O
 Megan	B-Person
-’	O
-s	O
+’s	O
 law	O
 .	O
 It	O
@@ -1594,8 +1588,7 @@ in	O
 the	O
 Interior	B-Organization
 Ministry	I-Organization
-’	O
-s	O
+’s	O
 thinking	O
 on	O
 Lanner	B-Person
@@ -1710,8 +1703,7 @@ danger	O
 So	O
 if	O
 he	O
-’	O
-s	O
+’s	O
 so	O
 dangerous	O
 ,	O
@@ -1728,8 +1720,7 @@ visa	O
 ?	O
 If	O
 he	O
-’	O
-s	O
+’s	O
 dangerous	O
 ,	O
 he	O
@@ -1756,8 +1747,7 @@ country	O
 .	O
 If	O
 he	O
-’	O
-s	O
+’s	O
 not	O
 ,	O
 you	O

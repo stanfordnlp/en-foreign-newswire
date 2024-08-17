@@ -28,8 +28,7 @@ Monday	B-Date
 Kim	B-Person
 and	O
 Ko	B-Person
-’	O
-s	O
+’s	O
 wedding	O
 will	O
 take	O
@@ -44,8 +43,7 @@ year	O
 ”	O
 announced	O
 Kim	B-Person
-’	O
-s	O
+’s	O
 management	O
 company	O
 All	B-Organization
@@ -55,8 +53,7 @@ on	O
 Monday	B-Date
 .	O
 Ko	B-Person
-’	O
-s	O
+’s	O
 agency	O
 Beat	B-Organization
 Interactive	I-Organization
@@ -93,8 +90,7 @@ show	O
 at	O
 which	O
 Ko	B-Person
-’	O
-s	O
+’s	O
 vocal	O
 group	O
 performed	O
@@ -229,8 +225,7 @@ season	O
 2	O
 of	O
 JTBC	B-Organization
-’	O
-s	O
+’s	O
 competition	O
 program	O
 Phantom	B-Misc
@@ -244,8 +239,7 @@ of	O
 Seoul	B-Organization	B-Location
 National	I-Organization
 University	I-Organization
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 College	I-Organization
 of	I-Organization
 Music	I-Organization
@@ -268,8 +262,7 @@ by	O
 only	O
 the	O
 couple	O
-’	O
-s	O
+’s	O
 close	O
 friends	O
 and	O

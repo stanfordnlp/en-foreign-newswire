@@ -309,8 +309,7 @@ times	O
 but	O
 when	O
 mezcal	O
-’	O
-s	O
+’s	O
 popularity	O
 saw	O
 a	O
@@ -344,8 +343,7 @@ pulque	O
 San	B-Location
 Luis	I-Location
 Potosí	I-Location
-’	O
-s	O
+’s	O
 pulque	O
 is	O
 made	O
@@ -509,8 +507,7 @@ the	O
 pandemic	O
 .	O
 It	O
-’	O
-s	O
+’s	O
 back	O
 up	O
 again	O
@@ -542,8 +539,7 @@ bit	O
 of	O
 the	O
 area	O
-’	O
-s	O
+’s	O
 history	O
 in	O
 an	O
@@ -776,8 +772,7 @@ also	O
 turned	O
 to	O
 Mexico	B-Location
-’	O
-s	O
+’s	O
 heirloom	O
 corn	O
 varieties	O
@@ -1091,8 +1086,7 @@ producers	O
 with	O
 preserving	O
 Mexico	B-Location
-’	O
-s	O
+’s	O
 beverage	O
 traditions	O
 and	O

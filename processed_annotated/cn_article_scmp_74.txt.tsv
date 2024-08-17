@@ -56,8 +56,7 @@ authorities	O
 the	O
 Supreme	B-Organization
 People	I-Organization
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Procuratorate	I-Organization
 said	O
 on	O
@@ -149,8 +148,7 @@ Last	O
 month	O
 ,	O
 China	B-Location
-’	O
-s	O
+’s	O
 discipline	O
 watchdog	O
 investigated	O

@@ -28,8 +28,7 @@ Co	I-Organization
 in	O
 Nantou	B-Location
 County	I-Location
-’	O
-s	O
+’s	O
 Caotun	B-Location
 Township	I-Location
 (	O
@@ -89,8 +88,7 @@ home	O
 in	O
 the	O
 township	O
-’	O
-s	O
+’s	O
 Shuangdong	B-Location
 Borough	I-Location
 (	O
@@ -181,8 +179,7 @@ were	O
 identified	O
 as	O
 Lai	B-Person
-’	O
-s	O
+’s	O
 daughter	O
 ;	O
 his	O

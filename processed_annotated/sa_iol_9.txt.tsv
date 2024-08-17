@@ -23,8 +23,7 @@ in	O
 the	O
 Johannesburg	B-Organization	B-Location
 Magistrate	I-Organization
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Court	I-Organization
 on	O
 charges	O
@@ -224,8 +223,7 @@ in	O
 the	O
 Johannesburg	B-Organization	B-Location
 Magistrate	I-Organization
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Court	I-Organization
 .	O
 

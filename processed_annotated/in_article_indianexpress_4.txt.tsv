@@ -674,8 +674,7 @@ British	B-NORP
 politician	O
 Thomas	B-Person
 Macaulay	I-Person
-’	O
-s	O
+’s	O
 ‘	O
 Minute	B-Misc
 on	I-Misc
@@ -721,8 +720,7 @@ education	O
 .	O
 
 Macaulay	B-Person
-’	O
-s	O
+’s	O
 suggestion	O
 eventually	O
 laid	O
@@ -981,8 +979,7 @@ in	O
 1972	B-Date
 .	O
 Amin	B-Person
-’	O
-s	O
+’s	O
 actions	O
 sent	O
 shockwaves	O
@@ -1630,8 +1627,7 @@ job	O
 
 The	O
 UK	B-Location
-’	O
-s	O
+’s	O
 Office	B-Organization
 for	I-Organization
 National	I-Organization
@@ -1877,8 +1873,7 @@ politics	O
 .	O
 But	O
 Sunak	B-Person
-’	O
-s	O
+’s	O
 success	O
 is	O
 also	O
@@ -1895,8 +1890,7 @@ starting	O
 out	O
 with	O
 India	B-Location
-’	O
-s	O
+’s	O
 earliest	O
 political	O
 export	O
@@ -2394,8 +2388,7 @@ had	O
 once	O
 opposed	O
 Naoroji	B-Person
-’	O
-s	O
+’s	O
 candidacy	O
 ,	O
 released	O
@@ -2568,8 +2561,7 @@ opposed	O
 the	O
 Labour	B-Organization
 Party	I-Organization
-’	O
-s	O
+’s	O
 decision	O
 to	O
 call	O
@@ -2604,8 +2596,7 @@ supportive	O
 of	O
 the	O
 BJP	B-Organization
-’	O
-s	O
+’s	O
 Hindutva	B-Misc
 policy	O
 in	O
@@ -3549,8 +3540,7 @@ British	O
 politician	O
 Thomas	B-Person
 Macaulay	I-Person
-’	O
-s	O
+’s	O
 ‘	O
 Minute	B-Misc
 on	I-Misc
@@ -3596,8 +3586,7 @@ education	O
 .	O
 
 Macaulay	B-Person
-’	O
-s	O
+’s	O
 suggestion	O
 eventually	O
 laid	O
@@ -3856,8 +3845,7 @@ in	O
 1972	B-Date
 .	O
 Amin	B-Person
-’	O
-s	O
+’s	O
 actions	O
 sent	O
 shockwaves	O
@@ -4505,8 +4493,7 @@ job	O
 
 The	O
 UK	B-Location
-’	O
-s	O
+’s	O
 Office	B-Organization
 for	I-Organization
 National	I-Organization
@@ -4752,8 +4739,7 @@ politics	O
 .	O
 But	O
 Sunak	B-Person
-’	O
-s	O
+’s	O
 success	O
 is	O
 also	O
@@ -4770,8 +4756,7 @@ starting	O
 out	O
 with	O
 India	B-Location
-’	O
-s	O
+’s	O
 earliest	O
 political	O
 export	O
@@ -5269,8 +5254,7 @@ had	O
 once	O
 opposed	O
 Naoroji	B-Person
-’	O
-s	O
+’s	O
 candidacy	O
 ,	O
 released	O
@@ -5443,8 +5427,7 @@ opposed	O
 the	O
 Labour	B-Organization
 Party	I-Organization
-’	O
-s	O
+’s	O
 decision	O
 to	O
 call	O
@@ -5479,8 +5462,7 @@ supportive	O
 of	O
 the	O
 BJP	B-Organization
-’	O
-s	O
+’s	O
 Hindutva	B-Misc
 policy	O
 in	O
@@ -5588,8 +5570,7 @@ Starmer	I-Person
 as	O
 the	O
 UK	B-Location
-’	O
-s	O
+’s	O
 next	O
 prime	O
 minister	O
@@ -5693,8 +5674,7 @@ the	O
 Narendra	B-Person
 Modi	I-Person
 government	O
-’	O
-s	O
+’s	O
 support	O
 for	O
 the	O
@@ -5706,8 +5686,7 @@ also	O
 by	O
 the	O
 party	O
-’	O
-s	O
+’s	O
 willingness	O
 to	O
 play	O
@@ -6040,8 +6019,7 @@ two	O
 centuries	O
 after	O
 Mccaulay	B-Person
-’	O
-s	O
+’s	O
 project	O
 began	O
 ,	O

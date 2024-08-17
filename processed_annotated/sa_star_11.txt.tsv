@@ -113,8 +113,7 @@ risks	O
 on	O
 the	O
 city	O
-’	O
-s	O
+’s	O
 electrical	O
 grid	O
 following	O
@@ -358,8 +357,7 @@ and	O
 stabilise	O
 South	B-Location
 Africa	I-Location
-’	O
-s	O
+’s	O
 power	O
 supply	O
 ’	O
@@ -395,8 +393,7 @@ right	O
 implement	O
 the	O
 DA	O
-’	O
-s	O
+’s	O
 Integrated	B-Organization
 Electricity	I-Organization
 Management	I-Organization
@@ -431,8 +428,7 @@ and	O
 diversify	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 energy	O
 sources	O
 to	O
@@ -712,8 +708,7 @@ have	O
 on	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 electricity	O
 supply	O
 must	O

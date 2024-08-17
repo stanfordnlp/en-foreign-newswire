@@ -195,8 +195,7 @@ with	O
 Labor	B-Organization
 the	O
 country	O
-’	O
-s	O
+’s	O
 centre	O
 -	O
 right	O
@@ -536,8 +535,7 @@ annually	O
 will	O
 claim	O
 Australia	B-Location
-’	O
-s	O
+’s	O
 wealthiest	O
 people	O
 “	O
@@ -583,8 +581,7 @@ obscene	O
 wealth	O
 of	O
 Australia	B-Location
-’	O
-s	O
+’s	O
 50	O
 richest	O
 billionaires	O
@@ -659,8 +656,7 @@ off	O
 a	O
 Russian	B-NORP
 dictator	O
-’	O
-s	O
+’s	O
 invasion	O
 of	O
 Ukraine	B-Location
@@ -734,8 +730,7 @@ is	O
 also	O
 the	O
 party	O
-’	O
-s	O
+’s	O
 spokesperson	O
 for	O
 the	O

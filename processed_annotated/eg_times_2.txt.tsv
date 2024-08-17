@@ -104,8 +104,7 @@ regional	O
 representative	O
 at	O
 UNHCR	B-Organization
-’	O
-s	O
+’s	O
 Cairo	B-Location
 office	O
 .	O
@@ -179,8 +178,7 @@ and	O
 the	O
 Sudanese	B-Organization
 People	I-Organization
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Liberation	I-Organization
 Army	I-Organization
 (	O
@@ -195,8 +193,7 @@ embroiled	O
 in	O
 the	O
 world	O
-’	O
-s	O
+’s	O
 longest	O
 -	O
 running	O
@@ -286,8 +283,7 @@ the	O
 logic	O
 behind	O
 UNHCR	B-Organization
-’	O
-s	O
+’s	O
 policy	O
 shift	O
 is	O
@@ -339,8 +335,7 @@ consultation	O
 
 “	O
 There	O
-’	O
-s	O
+’s	O
 some	O
 justice	O
 in	O

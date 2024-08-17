@@ -310,8 +310,7 @@ to	O
 the	O
 Registrar	B-Organization
 General	I-Organization
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Department	I-Organization
 during	O
 incorporation	O
@@ -538,8 +537,7 @@ Initiative	O
 ,	O
 said	O
 Ghana	B-Location
-’	O
-s	O
+’s	O
 membership	O
 of	O
 the	O
@@ -547,8 +545,7 @@ OGP	B-Organization
 demonstrated	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 desire	O
 to	O
 further	O
@@ -613,8 +610,7 @@ from	O
 the	O
 European	B-Organization	B-NORP
 Union	I-Organization
-’	O
-s	O
+’s	O
 money	O
 laundering	O
 list	O
@@ -748,8 +744,7 @@ constitutes	O
 part	O
 of	O
 Ghana	B-Location
-’	O
-s	O
+’s	O
 efforts	O
 at	O
 combating	O

@@ -103,8 +103,7 @@ King	B-Facility
 Abdullah	I-Facility	B-Person
 Specialized	I-Facility
 Children	I-Facility
-’	I-Facility
-s	I-Facility
+’s	I-Facility
 Hospital	I-Facility
 (	O
 KASCH	B-Facility
@@ -183,8 +182,7 @@ intestines	O
 
 With	O
 today	O
-’	O
-s	O
+’s	O
 surgery	O
 ,	O
 twin	O

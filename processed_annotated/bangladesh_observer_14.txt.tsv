@@ -4,8 +4,7 @@ Prime	O
 Minister	O
 Sheikh	O
 Hasina	B-Person
-’	O
-s	O
+’s	O
 remark	O
 on	O
 dropping	O
@@ -41,8 +40,7 @@ said	O
 the	O
 Prime	O
 Minister	O
-’	O
-s	O
+’s	O
 comment	O
 that	O
 she	O
@@ -278,15 +276,13 @@ it	O
 was	O
 the	O
 BNP	B-Organization
-’	O
-s	O
+’s	O
 rights	O
 to	O
 joining	O
 the	O
 EC	B-Organization
-’	O
-s	O
+’s	O
 dialogue	O
 .	O
 
@@ -324,8 +320,7 @@ should	O
 join	O
 the	O
 EC	B-Organization
-’	O
-s	O
+’s	O
 dialogue	O
 as	O
 the	O

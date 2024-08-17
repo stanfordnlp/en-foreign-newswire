@@ -58,8 +58,7 @@ directly	O
 but	O
 said	O
 Alibaba	B-Organization
-’	O
-s	O
+’s	O
 Taobao	B-Product
 Live	I-Product
 platform	O
@@ -81,8 +80,7 @@ to	O
 today	O
 and	O
 Zhang	B-Person
-’	O
-s	O
+’s	O
 silence	O
 on	O
 the	O
@@ -97,8 +95,7 @@ e	O
 -	O
 commerce	O
 giant	O
-’	O
-s	O
+’s	O
 live	O
 -	O
 streaming	O
@@ -144,8 +141,7 @@ their	O
 clients	O
 via	O
 Alibaba	B-Organization
-’	O
-s	O
+’s	O
 Taobao	B-Product
 Live	I-Product
 platform	O
@@ -209,8 +205,7 @@ sales	O
 turnover	O
 of	O
 China	B-Location
-’	O
-s	O
+’s	O
 largest	O
 department	O
 store	O
@@ -236,8 +231,7 @@ Singles	B-Misc
 Day	I-Misc
 into	O
 China	B-Location
-’	O
-s	O
+’s	O
 biggest	O
 annual	O
 online	O
@@ -281,8 +275,7 @@ recognisable	O
 faces	O
 of	O
 China	B-Location
-’	O
-s	O
+’s	O
 e	O
 -	O
 commerce	O
@@ -421,8 +414,7 @@ attention	O
 of	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 1	O
 billion	O
 online	O
@@ -440,8 +432,7 @@ is	O
 falling	O
 on	O
 China	B-Location
-’	O
-s	O
+’s	O
 top	O
 live	O
 -	O
@@ -449,8 +440,7 @@ streaming	O
 influencers	O
 amid	O
 Beijing	B-Location
-’	O
-s	O
+’s	O
 increased	O
 scrutiny	O
 of	O
@@ -846,8 +836,7 @@ Sullivan	I-Organization
 .	O
 
 Beijing	B-Location
-’	O
-s	O
+’s	O
 check	O
 on	O
 the	O
@@ -858,8 +847,7 @@ influencers	O
 comes	O
 as	O
 China	B-Location
-’	O
-s	O
+’s	O
 overall	O
 consumer	O
 spending	O
@@ -881,8 +869,7 @@ slowdown	O
 .	O
 The	O
 country	O
-’	O
-s	O
+’s	O
 344	O
 million	O
 live	O
@@ -934,8 +921,7 @@ top	O
 influencers	O
 ,	O
 Alibaba	B-Organization
-’	O
-s	O
+’s	O
 live	O
 -	O
 streaming	O
@@ -948,8 +934,7 @@ hit	O
 Diantao	B-Product
 ,	O
 Taobao	B-Organization
-’	O
-s	O
+’s	O
 dedicated	O
 live	O
 -	O
@@ -959,8 +944,7 @@ app	O
 fell	O
 behind	O
 ByteDance	B-Organization
-’	O
-s	O
+’s	O
 Douyin	B-Product
 and	O
 Kuaishou	B-Organization
@@ -973,8 +957,7 @@ sales	O
 during	O
 this	O
 year	O
-’	O
-s	O
+’s	O
 June	B-Date
 18	I-Date
 shopping	O
@@ -1037,16 +1020,14 @@ contrast	O
 to	O
 last	O
 year	O
-’	O
-s	O
+’s	O
 June	B-Date
 18	I-Date
 event	O
 ,	O
 when	O
 Taobao	B-Organization
-’	O
-s	O
+’s	O
 live	O
 streamers	O
 dominated	O
@@ -1126,8 +1107,7 @@ three	O
 months	O
 after	O
 Guangzhou	B-Location
-’	O
-s	O
+’s	O
 market	O
 watchdog	O
 found	O
@@ -1142,8 +1122,7 @@ water	O
 version	O
 of	O
 bird	O
-’	O
-s	O
+’s	O
 nest	O
 ,	O
 considered	O
@@ -1222,8 +1201,7 @@ who	O
 almost	O
 joined	O
 Li	B-Person
-’	O
-s	O
+’s	O
 own	O
 company	O
 ,	O
@@ -1293,8 +1271,7 @@ leading	O
 players	O
 in	O
 China	B-Location
-’	O
-s	O
+’s	O
 live	O
 streaming	O
 industry	O
@@ -1346,8 +1323,7 @@ involved	O
 in	O
 the	O
 government	O
-’	O
-s	O
+’s	O
 push	O
 to	O
 help	O
@@ -1360,8 +1336,7 @@ joining	O
 state	O
 media	O
 People	B-Organization
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Daily	I-Organization
 in	O
 a	O

@@ -30,8 +30,7 @@ Loliondo	B-Location
 division	O
 in	O
 Tanzania	B-Location
-’	O
-s	O
+’s	O
 northern	B-Location
 Ngorongoro	I-Location
 District	I-Location
@@ -163,8 +162,7 @@ percent	O
 of	O
 the	O
 earth	O
-’	O
-s	O
+’s	O
 land	O
 and	O
 sea	O
@@ -593,8 +591,7 @@ towards	O
 achieving	O
 the	O
 CBD	B-Misc
-’	O
-s	O
+’s	O
 Strategic	B-Misc
 Plan	I-Misc
 for	I-Misc
@@ -937,8 +934,7 @@ ecosystem	O
 functions	O
 and	O
 nature	O
-’	O
-s	O
+’s	O
 contributions	O
 to	O
 people	O
@@ -957,8 +953,7 @@ many	O
 of	O
 the	O
 world	O
-’	O
-s	O
+’s	O
 poorest	O
 communities	O
 live	O

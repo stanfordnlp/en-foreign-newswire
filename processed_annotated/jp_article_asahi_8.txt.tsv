@@ -30,8 +30,7 @@ year	O
 of	O
 the	O
 prefecture	O
-’	O
-s	O
+’s	O
 return	O
 to	O
 Japanese	B-NORP
@@ -53,8 +52,7 @@ ceremony	O
 here	O
 ,	O
 Tamaki	B-Person
-’	O
-s	O
+’s	O
 speech	O
 did	O
 not	O
@@ -152,8 +150,7 @@ prefecture	O
 
 Since	O
 Okinawa	B-Location
-’	O
-s	O
+’s	O
 return	O
 to	O
 Japanese	B-NORP
@@ -198,8 +195,7 @@ administration	O
 .	O
 
 Okinawa	B-Location
-’	O
-s	O
+’s	O
 battle	O
 to	O
 reduce	O
@@ -352,8 +348,7 @@ needed	O
 for	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 security	O
 ,	O
 surveys	O
@@ -550,8 +545,7 @@ hard	O
 to	O
 curtail	O
 Okinawa	B-Location
-’	O
-s	O
+’s	O
 burden	O
 of	O
 hosting	O
@@ -671,8 +665,7 @@ base	O
 .	O
 
 Hashimoto	B-Person
-’	O
-s	O
+’s	O
 successor	O
 ,	O
 Keizo	B-Person
@@ -733,8 +726,7 @@ aimed	O
 at	O
 promoting	O
 Okinawa	B-Location
-’	O
-s	O
+’s	O
 economy	O
 as	O
 a	O
@@ -764,8 +756,7 @@ depending	O
 on	O
 the	O
 governor	O
-’	O
-s	O
+’s	O
 stance	O
 toward	O
 the	O
@@ -797,8 +788,7 @@ benefits	O
 .	O
 
 Okinawa	B-Location
-’	O
-s	O
+’s	O
 average	O
 per	O
 capita	O
@@ -999,8 +989,7 @@ rejected	O
 the	O
 central	O
 government	O
-’	O
-s	O
+’s	O
 application	O
 for	O
 a	O
@@ -1077,8 +1066,7 @@ the	O
 anniversary	O
 of	O
 Okinawa	B-Location
-’	O
-s	O
+’s	O
 reversion	O
 .	O
 

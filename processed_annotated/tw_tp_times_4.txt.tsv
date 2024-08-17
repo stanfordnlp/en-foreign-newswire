@@ -117,8 +117,7 @@ an	O
 office	O
 in	O
 Taipei	B-Location
-’	I-Location
-s	I-Location
+’s	I-Location
 Neihu	I-Location
 District	I-Location
 (	O
@@ -153,8 +152,7 @@ The	O
 Ministry	B-Organization
 of	I-Organization
 Justice	I-Organization
-’	O
-s	O
+’s	O
 Investigation	B-Organization
 Bureau	I-Organization
 in	O

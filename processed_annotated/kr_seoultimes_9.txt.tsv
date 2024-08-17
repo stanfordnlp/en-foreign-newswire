@@ -286,8 +286,7 @@ Asia	B-Location
 Pacific	I-Location
 .	O
 It	O
-’	O
-s	O
+’s	O
 also	O
 added	O
 jobs	O
@@ -353,8 +352,7 @@ United	B-Location
 States	I-Location
 Trade	O
 Representative	O
-’	O
-s	O
+’s	O
 acknowledgment	O
 that	O
 “	O
@@ -423,8 +421,7 @@ For	O
 now	O
 ,	O
 let	O
-’	O
-s	O
+’s	O
 take	O
 a	O
 look	O
@@ -478,8 +475,7 @@ Since	O
 2011	B-Date
 ,	O
 Korea	B-Location
-’	O
-s	O
+’s	O
 imports	O
 from	O
 the	O
@@ -504,8 +500,7 @@ same	O
 period	O
 ,	O
 Korea	B-Location
-’	O
-s	O
+’s	O
 imports	O
 from	O
 the	O
@@ -630,8 +625,7 @@ sector	O
 ,	O
 whereas	O
 Korea	B-Location
-’	O
-s	O
+’s	O
 service	O
 sector	O
 makes	O
@@ -712,8 +706,7 @@ the	O
 Department	B-Organization
 of	I-Organization
 Commerce	I-Organization
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 International	I-Organization
 Trade	I-Organization
 Administration	I-Organization
@@ -778,8 +771,7 @@ particularly	O
 impressive	O
 given	O
 Korea	B-Location
-’	O
-s	O
+’s	O
 limited	O
 market	O
 size	O

@@ -232,8 +232,7 @@ popular	O
 as	O
 the	O
 outfit	O
-’	O
-s	O
+’s	O
 vocalist	O
 and	O
 “	O
@@ -399,8 +398,7 @@ actor	O
 according	O
 to	O
 Mnet	B-Organization
-’	O
-s	O
+’s	O
 TMI	B-Misc
 News	I-Misc
 Show	I-Misc
@@ -439,8 +437,7 @@ a	O
 result	O
 ,	O
 he	O
-’	O
-s	O
+’s	O
 also	O
 become	O
 a	O
@@ -449,8 +446,7 @@ favourite	O
 of	O
 the	O
 world	O
-’	O
-s	O
+’s	O
 top	O
 luxury	O
 brands	O
@@ -467,8 +463,7 @@ the	O
 likes	O
 of	O
 Blackpink	B-Organization
-’	O
-s	O
+’s	O
 Lisa	B-Person
 to	O
 add	O
@@ -480,8 +475,7 @@ the	O
 launch	O
 of	O
 Bulgari	B-Organization
-’	O
-s	O
+’s	O
 Colours	B-Misc
 exhibition	O
 at	O
@@ -501,8 +495,7 @@ the	O
 cover	O
 of	O
 Korea	B-Location
-’	O
-s	O
+’s	O
 W	B-Organization
 Magazine	I-Organization
 modelling	O
@@ -589,8 +582,7 @@ of	O
 his	O
 junior	O
 school	O
-’	O
-s	O
+’s	O
 football	O
 and	O
 basketball	O
@@ -632,8 +624,7 @@ arrogant	O
 and	O
 yet	O
 he	O
-’	O
-s	O
+’s	O
 clearly	O
 not	O
 .	O
@@ -818,8 +809,7 @@ just	O
 Cha	B-Person
 says	O
 he	O
-’	O
-s	O
+’s	O
 nevertheless	O
 still	O
 serious	O
@@ -888,8 +878,7 @@ her	O
 I	O
 know	O
 it	O
-’	O
-s	O
+’s	O
 not	O
 easy	O
 ,	O
@@ -898,8 +887,7 @@ I	O
 also	O
 know	O
 that	O
-’	O
-s	O
+’s	O
 possible	O
 when	O
 you	O

@@ -42,8 +42,7 @@ on	O
 Tuesday	B-Date
 arrested	O
 Ashraf	B-Person
-’	O
-s	O
+’s	O
 wife	O
 Fazna	B-Person
 Ashraf	I-Person
@@ -150,8 +149,7 @@ interfered	O
 in	O
 her	O
 husband	O
-’	O
-s	O
+’s	O
 “	O
 business	O
 ”	O
@@ -206,8 +204,7 @@ after	O
 three	O
 of	O
 Ashraf	B-Person
-’	O
-s	O
+’s	O
 gang	O
 members	O
 —	O
@@ -254,8 +251,7 @@ confessed	O
 about	O
 the	O
 healer	O
-’	O
-s	O
+’s	O
 killing	O
 and	O
 handed	O
@@ -301,8 +297,7 @@ held	O
 hostage	O
 at	O
 Ashraf	B-Person
-’	O
-s	O
+’s	O
 place	O
 in	O
 Nilambur	B-Location
@@ -344,8 +339,7 @@ of	O
 his	O
 (	O
 Shareef	B-Person
-’	O
-s	O
+’s	O
 )	O
 treatment	O
 ”	O
@@ -438,8 +432,7 @@ Abu	B-Location
 Dhabi	I-Location
 .	O
 Ashraf	B-Person
-’	O
-s	O
+’s	O
 former	O
 business	O
 partner	O

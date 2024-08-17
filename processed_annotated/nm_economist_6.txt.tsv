@@ -490,8 +490,7 @@ time	O
 in	O
 our	O
 country	O
-’	O
-s	O
+’s	O
 history	O
 .	O
 ”	O
@@ -545,8 +544,7 @@ According	O
 to	O
 The	B-Misc
 World	I-Misc
-’	I-Misc
-s	I-Misc
+’s	I-Misc
 Women	I-Misc
 2020	I-Misc	B-Misc
 ,	O

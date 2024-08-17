@@ -45,8 +45,7 @@ ceremony	O
 .	O
 
 Taiwan	B-Location
-’	O
-s	O
+’s	O
 vice	O
 -	O
 president	O
@@ -105,8 +104,7 @@ paid	O
 tribute	O
 at	O
 Japan	B-Location
-’	O
-s	O
+’s	O
 embassy	O
 in	O
 Beijing	B-Location
@@ -135,8 +133,7 @@ times	O
 Abe	B-Person
 was	O
 Japan	B-Location
-’	O
-s	O
+’s	O
 longest	O
 -	O
 serving	O
@@ -236,8 +233,7 @@ majority	O
 Xi	B-Person
 highlighted	O
 Abe	B-Person
-’	O
-s	O
+’s	O
 efforts	O
 to	O
 improve	O
@@ -284,8 +280,7 @@ nationalist	O
 who	O
 saw	O
 China	B-Location
-’	O
-s	O
+’s	O
 growing	O
 might	O
 as	O
@@ -377,8 +372,7 @@ he	O
 was	O
 correlating	O
 Russia	B-Location
-’	O
-s	O
+’s	O
 invasion	O
 of	O
 Ukraine	B-Location

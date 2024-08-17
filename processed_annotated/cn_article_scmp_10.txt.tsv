@@ -100,8 +100,7 @@ boyish	O
 looks	O
 ,	O
 Japan	B-Location
-’	O
-s	O
+’s	O
 “	O
 Ice	B-Person
 Prince	I-Person
@@ -111,8 +110,7 @@ one	O
 of	O
 the	O
 sport	O
-’	O
-s	O
+’s	O
 all	O
 -	O
 time	O
@@ -192,8 +190,7 @@ Olympic	B-Misc
 gold	O
 at	O
 February	B-Date
-’	O
-s	O
+’s	O
 2022	B-Misc	B-Date
 Beijing	I-Misc	B-Location
 Games	I-Misc
@@ -431,8 +428,7 @@ return	O
 at	O
 last	O
 year	O
-’	O
-s	O
+’s	O
 Japanese	B-NORP
 national	O
 championships	O
@@ -599,12 +595,10 @@ recipient	O
 of	O
 his	O
 country	O
-’	O
-s	O
+’s	O
 prestigious	O
 People	B-Misc
-’	I-Misc
-s	I-Misc
+’s	I-Misc
 Honour	I-Misc
 Award	I-Misc
 in	O
@@ -686,8 +680,7 @@ Sendai	B-Location
 ,	O
 in	O
 Japan	B-Location
-’	O
-s	O
+’s	O
 northeast	O
 .	O
 When	O

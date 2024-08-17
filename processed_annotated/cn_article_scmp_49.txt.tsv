@@ -5,8 +5,7 @@ pgtype	O
 article	O
 
 China	B-Location
-’	O
-s	O
+’s	O
 financial	O
 regulators	O
 seized	O
@@ -26,8 +25,7 @@ one	O
 of	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 most	O
 powerful	O
 oligarchs	O
@@ -103,8 +101,7 @@ and	O
 serve	O
 the	O
 public	O
-’	O
-s	O
+’s	O
 interest	O
 ,	O
 ”	O
@@ -138,8 +135,7 @@ placed	O
 under	O
 the	O
 government	O
-’	O
-s	O
+’s	O
 management	O
 for	O
 a	O
@@ -167,8 +163,7 @@ up	O
 of	O
 Xiao	B-Person
 Jianhua	I-Person
-’	O
-s	O
+’s	O
 Tomorrow	B-Organization
 Group	I-Organization
 ,	O
@@ -208,8 +203,7 @@ a	O
 dozen	O
 of	O
 China	B-Location
-’	O
-s	O
+’s	O
 biggest	O
 global	O
 asset	O
@@ -228,8 +222,7 @@ from	O
 harming	O
 the	O
 nation	O
-’	O
-s	O
+’s	O
 financial	O
 system	O
 .	O
@@ -273,8 +266,7 @@ It	O
 shows	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 commitment	O
 to	O
 clean	O
@@ -416,8 +408,7 @@ latest	O
 seizures	O
 of	O
 Xiao	B-Person
-’	O
-s	O
+’s	O
 companies	O
 come	O
 a	O
@@ -444,8 +435,7 @@ lending	O
 The	O
 Tomorrow	B-Organization
 Group	I-Organization
-’	O
-s	O
+’s	O
 interests	O
 span	O
 energy	O
@@ -500,8 +490,7 @@ appeared	O
 in	O
 Tomorrow	B-Organization
 Group	I-Organization
-’	O
-s	O
+’s	O
 WeChat	B-Organization
 account	O
 a	O
@@ -698,8 +687,7 @@ it	O
 fourth	O
 among	O
 China	B-Location
-’	O
-s	O
+’s	O
 life	O
 insurers	O
 .	O
@@ -707,8 +695,7 @@ Several	O
 companies	O
 including	O
 China	B-Location
-’	O
-s	O
+’s	O
 most	O
 valuable	O
 insurer	O
@@ -724,8 +711,7 @@ in	O
 talks	O
 since	O
 Xiao	B-Person
-’	O
-s	O
+’s	O
 takedown	O
 to	O
 buy	O
@@ -786,8 +772,7 @@ the	O
 hometown	O
 of	O
 Xiao	B-Person
-’	O
-s	O
+’s	O
 Baotou	B-Organization
 Bank	I-Organization
 ,	O
@@ -830,8 +815,7 @@ according	O
 to	O
 the	O
 company	O
-’	O
-s	O
+’s	O
 website	O
 .	O
 

@@ -16,8 +16,7 @@ to	O
 dominate	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 higher	O
 education	O
 landscape	O
@@ -643,8 +642,7 @@ by	O
 St	B-Organization
 .	I-Organization
 Xavier	I-Organization	B-Person
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 College	I-Organization
 (	O
 8	O

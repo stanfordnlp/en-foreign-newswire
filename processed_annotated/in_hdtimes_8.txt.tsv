@@ -193,8 +193,7 @@ prior	O
 to	O
 the	O
 bill	O
-’	O
-s	O
+’s	O
 passage	O
 ,	O
 MPs	O
@@ -340,8 +339,7 @@ during	O
 
 The	O
 BJP	B-Organization
-’	O
-s	O
+’s	O
 Nishikant	B-Person
 Dubey	I-Person
 criticised	O
@@ -360,8 +358,7 @@ criticised	O
 the	O
 Supreme	B-Organization
 Court	I-Organization
-’	O
-s	O
+’s	O
 decision	O
 to	O
 decriminalise	O

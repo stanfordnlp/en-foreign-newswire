@@ -117,8 +117,7 @@ to	O
 better	O
 understand	O
 Egypt	B-Location
-’	O
-s	O
+’s	O
 water	O
 needs	O
 ,	O
@@ -144,8 +143,7 @@ under	O
 the	O
 African	B-Organization	B-NORP
 Union	I-Organization
-’	O
-s	O
+’s	O
 auspices	O
 that	O
 arrives	O
@@ -192,8 +190,7 @@ States	I-Location
 support	O
 for	O
 Egypt	B-Location
-’	O
-s	O
+’s	O
 water	O
 security	O
 and	O
@@ -223,8 +220,7 @@ region	O
 Special	O
 Envoy	O
 Hammer	B-Person
-’	O
-s	O
+’s	O
 visit	O
 to	O
 Cairo	B-Location
@@ -315,8 +311,7 @@ billion	I-Money
 to	O
 strengthen	O
 Egypt	B-Location
-’	O
-s	O
+’s	O
 water	O
 security	O
 by	O
@@ -328,16 +323,14 @@ a	O
 quarter	O
 of	O
 Egypt	B-Location
-’	O
-s	O
+’s	O
 population	O
 ,	O
 upgrading	O
 Cairo	B-Location
 and	O
 Alexandria	B-Location
-’	O
-s	O
+’s	O
 water	O
 treatment	O
 services	O
@@ -346,8 +339,7 @@ modernizing	O
 the	O
 Aswan	B-Facility
 Dam	I-Facility
-’	O
-s	O
+’s	O
 power	O
 station	O
 ,	O
@@ -364,8 +356,7 @@ Sinai	I-Location
 Special	O
 Envoy	O
 Hammer	B-Person
-’	O
-s	O
+’s	O
 engagement	O
 on	O
 the	O
@@ -429,8 +420,7 @@ December	B-Date
 2022	I-Date
 .	O
 Egypt	B-Location
-’	O
-s	O
+’s	O
 participation	O
 in	O
 the	O

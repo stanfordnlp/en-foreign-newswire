@@ -24,8 +24,7 @@ factory	O
 under	O
 the	O
 government	O
-’	O
-s	O
+’s	O
 “	O
 One	B-Misc
 District	I-Misc
@@ -155,8 +154,7 @@ waste	O
 hence	O
 the	O
 Assembly	B-Organization
-’	O
-s	O
+’s	O
 appeal	O
 to	O
 investors	O
@@ -371,8 +369,7 @@ Forson	B-Person
 said	O
 the	O
 Assembly	O
-’	O
-s	O
+’s	O
 interest	O
 in	O
 the	O

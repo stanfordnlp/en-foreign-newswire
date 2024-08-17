@@ -80,8 +80,7 @@ who	O
 founded	O
 the	O
 society	O
-’	O
-s	O
+’s	O
 Japanese	B-NORP
 chapter	O
 ,	O
@@ -295,8 +294,7 @@ Korean	B-NORP
 .	O
 
 Chi	B-Person
-’	O
-s	O
+’s	O
 contemporary	O
 detective	O
 story	O

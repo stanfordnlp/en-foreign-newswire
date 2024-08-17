@@ -27,8 +27,7 @@ an	O
 example	O
 of	O
 Beijing	B-Location
-’	O
-s	O
+’s	O
 attempt	O
 to	O
 retool	O
@@ -66,8 +65,7 @@ Expressway	I-Location
 linking	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 main	O
 airport	O
 and	O
@@ -93,8 +91,7 @@ Construction	I-Organization
 Company	I-Organization
 ,	O
 CRBC	B-Organization
-’	O
-s	O
+’s	O
 parent	O
 company	O
 .	O
@@ -231,8 +228,7 @@ and	O
 out	O
 of	O
 Nairobi	B-Location
-’	O
-s	O
+’s	O
 city	O
 centre	O
 by	O
@@ -298,8 +294,7 @@ tolls	O
 during	O
 the	O
 road	O
-’	O
-s	O
+’s	O
 first	O
 year	O
 of	O
@@ -340,8 +335,7 @@ projects	O
 with	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 policy	O
 banks	O
 growing	O
@@ -366,8 +360,7 @@ In	O
 2018	B-Date
 ,	O
 China	B-Location
-’	O
-s	O
+’s	O
 Export	B-Organization
 -	I-Organization
 Import	I-Organization
@@ -379,8 +372,7 @@ an	O
 extension	O
 of	O
 Kenya	B-Location
-’	O
-s	O
+’s	O
 Standard	B-Facility
 Gauge	I-Facility
 Railway	I-Facility
@@ -470,8 +462,7 @@ explored	O
 to	O
 support	O
 Africa	B-Location
-’	O
-s	O
+’s	O
 infrastructure	O
 development	O
 ,	O
@@ -504,8 +495,7 @@ of	O
 the	O
 foreign	O
 ministry	O
-’	O
-s	O
+’s	O
 department	B-Organization
 of	I-Organization
 African	I-Organization	B-NORP

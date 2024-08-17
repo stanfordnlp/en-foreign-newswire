@@ -67,8 +67,7 @@ one	O
 of	O
 the	O
 world	O
-’	O
-s	O
+’s	O
 “	O
 100	O
 Greatest	B-Misc
@@ -165,8 +164,7 @@ and	O
 passion	O
 about	O
 Acumen	B-Organization
-’	O
-s	O
+’s	O
 projects	O
 in	O
 LATAM	B-Organization
@@ -179,8 +177,7 @@ and	O
 how	O
 the	O
 region	O
-’	O
-s	O
+’s	O
 impact	O
 ecosystem	O
 compares	O
@@ -476,8 +473,7 @@ essential	O
 for	O
 the	O
 region	O
-’	O
-s	O
+’s	O
 development	O
 ?	O
 
@@ -503,14 +499,12 @@ essential	O
 for	O
 the	O
 world	O
-’	O
-s	O
+’s	O
 development	O
 –	O
 and	O
 it	O
-’	O
-s	O
+’s	O
 nuanced	O
 .	O
 Some	O
@@ -710,8 +704,7 @@ courageous	O
 leaders	O
 like	O
 Acumen	B-Organization
-’	O
-s	O
+’s	O
 Latin	B-NORP
 American	I-NORP
 Director	O
@@ -915,8 +908,7 @@ said	O
 :	O
 “	O
 There	O
-’	O
-s	O
+’s	O
 always	O
 a	O
 risk	O
@@ -1128,8 +1120,7 @@ an	O
 investment	O
 .	O
 That	O
-’	O
-s	O
+’s	O
 a	O
 serious	O
 level	O
@@ -1212,8 +1203,7 @@ investing	O
 ecosystem	O
 ,	O
 there	O
-’	O
-s	O
+’s	O
 a	O
 lot	O
 of	O
@@ -1488,8 +1478,7 @@ Acumen	B-Organization
 Academy	I-Organization
 .	O
 There	O
-’	O
-s	O
+’s	O
 a	O
 hunger	O
 to	O
@@ -1632,8 +1621,7 @@ ice	O
 cream	O
 .	O
 That	O
-’	O
-s	O
+’s	O
 a	O
 chocolate	O
 company	O

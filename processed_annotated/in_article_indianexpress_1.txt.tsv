@@ -112,8 +112,7 @@ filed	O
 by	O
 the	O
 SIT	B-Organization
-’	O
-s	O
+’s	O
 Investigating	O
 Officer	O
 B	B-Person
@@ -216,8 +215,7 @@ who	O
 was	O
 then	O
 Gujarat	B-Location
-’	O
-s	O
+’s	O
 chief	O
 minister	O
 ,	O
@@ -333,8 +331,7 @@ riots	O
 .	O
 
 Friday	B-Date
-’	O
-s	O
+’s	O
 affidavit	O
 submits	O
 that	O
@@ -672,16 +669,14 @@ Indian	I-Organization	B-NORP
 Express	I-Organization
 ,	O
 Patel	B-Person
-’	O
-s	O
+’s	O
 daughter	O
 Mumtaz	B-Person
 Patel	I-Person
 described	O
 the	O
 SIT	B-Organization
-’	O
-s	O
+’s	O
 charges	O
 as	O
 “	O
@@ -699,8 +694,7 @@ say	O
 is	O
 that	O
 it	O
-’	O
-s	O
+’s	O
 unfair	O
 but	O
 very	O
@@ -710,8 +704,7 @@ use	O
 a	O
 deceased	O
 person	O
-’	O
-s	O
+’s	O
 name	O
 for	O
 headlines	O
@@ -776,8 +769,7 @@ meet	O
 at	O
 the	O
 latter	O
-’	O
-s	O
+’s	O
 residence	O
 ,	O
 talks	O
@@ -977,8 +969,7 @@ person	O
 working	O
 with	O
 Setalvad	B-Person
-’	O
-s	O
+’s	O
 NGO	O
 Citizens	B-Organization
 for	I-Organization
@@ -1009,8 +1000,7 @@ It	O
 states	O
 that	O
 Ansari	B-Person
-’	O
-s	O
+’s	O
 photos	O
 and	O
 interviews	O

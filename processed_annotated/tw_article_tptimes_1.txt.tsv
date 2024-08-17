@@ -5,8 +5,7 @@ temperature	O
 in	O
 Hualien	B-Location
 County	I-Location
-’	O
-s	O
+’s	O
 Yuli	B-Location
 Township	I-Location
 (	O
@@ -65,8 +64,7 @@ News	I-Organization
 Agency	I-Organization
 that	O
 yesterday	O
-’	O
-s	O
+’s	O
 temperature	O
 broke	O
 the	O
@@ -100,8 +98,7 @@ said	O
 that	O
 the	O
 county	O
-’	O
-s	O
+’s	O
 Jhuosi	B-Location
 Township	I-Location
 (	O
@@ -202,8 +199,7 @@ the	O
 Hualien	B-Location
 Management	I-Location
 Office	I-Location
-’	O
-s	O
+’s	O
 farmland	O
 and	O
 water	O
@@ -225,8 +221,7 @@ farmers	O
 in	O
 the	O
 county	O
-’	O
-s	O
+’s	O
 Jian	B-Location
 Township	I-Location
 (	O
@@ -311,8 +306,7 @@ efficiently	O
 
 The	O
 nation	O
-’	O
-s	O
+’s	O
 highest	O
 temperatures	O
 tend	O
@@ -394,8 +388,7 @@ hot	O
 air	O
 from	O
 China	B-Location
-’	O
-s	O
+’s	O
 Zhejiang	B-Location
 and	O
 Fujian	B-Location

@@ -112,8 +112,7 @@ today	O
 .	O
 
 Bogotá	B-Location
-’	O
-s	O
+’s	O
 former	O
 mayor	O
 and	O
@@ -146,14 +145,12 @@ second	O
 round	O
 in	O
 2018	B-Date
-’	O
-s	O
+’s	O
 election	O
 –	O
 is	O
 Colombia	B-Location
-’	O
-s	O
+’s	O
 first	O
 real	O
 left	O
@@ -253,8 +250,7 @@ notable	O
 change	O
 from	O
 Colombia	B-Location
-’	O
-s	O
+’s	O
 previous	O
 presidents	O
 ,	O
@@ -452,8 +448,7 @@ first	O
 time	O
 .	O
 Petro	B-Person
-’	O
-s	O
+’s	O
 running	O
 mate	O
 ,	O
@@ -556,8 +551,7 @@ in	O
 a	O
 campaign	O
 that	O
-’	O
-s	O
+’s	O
 been	O
 rife	O
 with	O
@@ -604,8 +598,7 @@ CNN	B-Organization
 Español	I-Organization
 .	O
 It	O
-’	O
-s	O
+’s	O
 most	O
 likely	O
 that	O
@@ -649,8 +642,7 @@ MOE	B-Organization
 ,	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 electoral	O
 monitoring	O
 system	O
@@ -808,8 +800,7 @@ on	O
 implementing	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 historic	O
 peace	O
 deal	O
@@ -920,8 +911,7 @@ the	O
 manifesto	O
 .	O
 It	O
-’	O
-s	O
+’s	O
 an	O
 ‘	O
 anti	O

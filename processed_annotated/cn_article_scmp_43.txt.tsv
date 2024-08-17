@@ -126,8 +126,7 @@ period	O
 .	O
 
 Yoon	B-Person
-’	O
-s	O
+’s	O
 approval	O
 rating	O
 could	O
@@ -158,8 +157,7 @@ ratings	O
 of	O
 South	B-Location
 Korea	I-Location
-’	O
-s	O
+’s	O
 presidents	O
 typically	O
 stand	O
@@ -289,8 +287,7 @@ governor	O
 of	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 most	O
 populous	O
 Gyeonggi	B-Location
@@ -324,8 +321,7 @@ Moon	B-Person
 Jae	I-Person
 -	I-Person
 in	I-Person
-’	O
-s	O
+’s	O
 political	O
 missteps	O
 such	O
@@ -450,8 +446,7 @@ under	O
 scrutiny	O
 
 Yoon	B-Person
-’	O
-s	O
+’s	O
 political	O
 appointments	O
 have	O
@@ -583,8 +578,7 @@ Moon	B-Person
 Four	O
 of	O
 Yoon	B-Person
-’	O
-s	O
+’s	O
 cabinet	O
 appointees	O
 stepped	O
@@ -666,8 +660,7 @@ the	O
 election	O
 ,	O
 Yoon	B-Person
-’	O
-s	O
+’s	O
 wife	O
 Kim	B-Person
 Kun	I-Person
@@ -721,8 +714,7 @@ living	O
 in	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 remote	O
 Bongha	B-Location
 village	O
@@ -768,8 +760,7 @@ employees	O
 at	O
 his	O
 wife	O
-’	O
-s	O
+’s	O
 event	O
 -	O
 planning	O
@@ -791,8 +782,7 @@ children	O
 of	O
 the	O
 couple	O
-’	O
-s	O
+’s	O
 relatives	O
 and	O
 associates	O
@@ -869,8 +859,7 @@ couple	O
 ,	O
 overseeing	O
 Kim	B-Person
-’	O
-s	O
+’s	O
 schedule	O
 .	O
 
@@ -920,16 +909,14 @@ direction	O
 have	O
 undermined	O
 Yoon	B-Person
-’	O
-s	O
+’s	O
 capacity	O
 to	O
 serve	O
 in	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 top	O
 job	O
 ,	O
@@ -984,8 +971,7 @@ University	I-Organization
 .	O
 
 Yoon	B-Person
-’	O
-s	O
+’s	O
 critics	O
 have	O
 voiced	O
@@ -1055,15 +1041,13 @@ two	O
 of	O
 the	O
 president	O
-’	O
-s	O
+’s	O
 close	O
 allies	O
 to	O
 covet	O
 Lee	B-Person
-’	O
-s	O
+’s	O
 post	O
 ,	O
 setting	O

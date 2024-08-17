@@ -231,8 +231,7 @@ the	O
 ruling	O
 Communist	B-Organization	B-NORP
 Party	I-Organization
-’	O
-s	O
+’s	O
 goals	O
 .	O
 
@@ -296,8 +295,7 @@ is	O
 that	O
 for	O
 China	B-Location
-’	O
-s	O
+’s	O
 Gen	B-Misc
 Z	I-Misc
 and	O
@@ -330,8 +328,7 @@ factors	O
 ”	O
 
 China	B-Location
-’	O
-s	O
+’s	O
 Gen	B-Misc
 Z	I-Misc
 consumers	O
@@ -510,8 +507,7 @@ by	O
 the	O
 Communist	B-Organization	B-NORP
 Party	I-Organization
-’	O
-s	O
+’s	O
 China	B-Organization	B-Location
 Youth	I-Organization
 Daily	I-Organization
@@ -823,8 +819,7 @@ Guangzhou	B-Location
 ,	O
 said	O
 China	B-Location
-’	O
-s	O
+’s	O
 environmental	O
 issues	O
 are	O
@@ -849,8 +844,7 @@ a	O
 balance	O
 between	O
 people	O
-’	O
-s	O
+’s	O
 livelihoods	O
 and	O
 the	O
@@ -872,8 +866,7 @@ common	O
 sense	O
 for	O
 China	B-Location
-’	O
-s	O
+’s	O
 industries	O
 to	O
 move	O
@@ -932,8 +925,7 @@ country	O
 
 In	O
 Wen	B-Person
-’	O
-s	O
+’s	O
 last	O
 exam	O
 ,	O
@@ -982,21 +974,18 @@ to	O
 mention	O
 that	O
 Tesla	B-Organization
-’	O
-s	O
+’s	O
 decision	O
 fits	O
 China	B-Location
-’	O
-s	O
+’s	O
 environmental	O
 initiatives	O
 and	O
 reflects	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 green	O
 credentials	O
 and	O
@@ -1013,8 +1002,7 @@ said	O
 
 “	O
 It	O
-’	O
-s	O
+’s	O
 part	O
 of	O
 patriotic	O
@@ -1029,8 +1017,7 @@ pride	O
 in	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 new	O
 energy	O
 development	O
@@ -1158,8 +1145,7 @@ the	O
 University	B-Organization	B-Organization
 of	I-Organization	I-Organization
 Chicago	I-Organization	I-Organization	B-Location
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Energy	I-Organization
 Policy	I-Organization
 Institute	I-Organization
@@ -1183,8 +1169,7 @@ gradual	O
 shift	O
 in	O
 China	B-Location
-’	O
-s	O
+’s	O
 development	O
 model	O
 ,	O
@@ -1243,8 +1228,7 @@ part	O
 of	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 social	O
 and	O
 economic	O
@@ -1253,8 +1237,7 @@ progress	O
 
 Because	O
 China	B-Location
-’	O
-s	O
+’s	O
 green	O
 initiatives	O
 have	O
@@ -1303,8 +1286,7 @@ governments	O
 
 “	O
 China	B-Location
-’	O
-s	O
+’s	O
 dual	O
 -	O
 carbon	O

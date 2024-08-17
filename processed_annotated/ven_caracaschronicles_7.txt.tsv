@@ -634,8 +634,7 @@ Ministry	I-Organization
 the	O
 General	O
 Prosecutor	O
-’	O
-s	O
+’s	O
 office	O
 )	O
 ,	O
@@ -643,8 +642,7 @@ the	O
 CICPC	B-Organization
 (	O
 Venezuela	B-Location
-’	O
-s	O
+’s	O
 main	O
 criminal	O
 investigations	O
@@ -711,8 +709,7 @@ last	O
 what	O
 the	O
 subscriber	O
-’	O
-s	O
+’s	O
 data	O
 is	O
 ,	O
@@ -1103,8 +1100,7 @@ Website	O
 blocking	O
 
 Telefónica	B-Organization
-’	O
-s	O
+’s	O
 transparency	O
 report	O
 also	O

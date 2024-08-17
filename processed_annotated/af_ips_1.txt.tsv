@@ -67,8 +67,7 @@ US	B-Location
 President	O
 Donald	B-Person
 Trump	I-Person
-’	O
-s	O
+’s	O
 “	O
 shitholes	O
 ”	O
@@ -108,8 +107,7 @@ labour	O
 especially	O
 for	O
 Europe	B-Location
-’	O
-s	O
+’s	O
 ‘	O
 New	B-Misc
 World	I-Misc
@@ -121,8 +119,7 @@ Americas	B-Location
 
 Walter	B-Person
 Rodney	I-Person
-’	O
-s	O
+’s	O
 How	B-Misc
 Europe	I-Misc	B-Location
 Underdeveloped	I-Misc
@@ -194,8 +191,7 @@ greatly	O
 benefited	O
 from	O
 Africa	B-Location
-’	O
-s	O
+’s	O
 plunder	O
 and	O
 ruin	O
@@ -298,8 +294,7 @@ with	O
 of	O
 the	O
 world	O
-’	O
-s	O
+’s	O
 arable	O
 land	O
 unable	O
@@ -365,8 +360,7 @@ financial	O
 institutions	O
 .	O
 UNCTAD	B-Organization
-’	O
-s	O
+’s	O
 2022	B-Date
 Africa	B-Location
 report	O
@@ -429,8 +423,7 @@ With	O
 of	O
 the	O
 world	O
-’	O
-s	O
+’s	O
 mineral	O
 resources	O
 and	O
@@ -510,8 +503,7 @@ than	O
 half	O
 the	O
 continent	O
-’	O
-s	O
+’s	O
 54	O
 nations	O
 .	O
@@ -520,8 +512,7 @@ Africa	B-Location
 remains	O
 the	O
 world	O
-’	O
-s	O
+’s	O
 least	O
 industrialized	O
 region	O
@@ -537,8 +528,7 @@ industrialized	O
 Incredibly	O
 ,	O
 Africa	B-Location
-’	O
-s	O
+’s	O
 share	O
 of	O
 global	O
@@ -565,8 +555,7 @@ About	O
 of	O
 the	O
 world	O
-’	O
-s	O
+’s	O
 arable	O
 land	O
 is	O
@@ -626,8 +615,7 @@ for	O
 of	O
 the	O
 world	O
-’	O
-s	O
+’s	O
 hungry	O
 .	O
 Africa	B-Location
@@ -654,8 +642,7 @@ About	O
 %	O
 of	O
 Africa	B-Location
-’	O
-s	O
+’s	O
 population	O
 was	O
 ‘	O
@@ -704,8 +691,7 @@ exports	O
 most	O
 threaten	O
 Africa	B-Location
-’	O
-s	O
+’s	O
 food	O
 security	O
 ,	O
@@ -725,8 +711,7 @@ adjustment	O
 Many	O
 of	O
 Africa	B-Location
-’	O
-s	O
+’s	O
 recent	O
 predicaments	O
 stem	O
@@ -1045,8 +1030,7 @@ The	O
 Hamburg	B-Misc	B-Location
 G	I-Misc	B-Organization
 20	I-Misc	I-Organization
-’	O
-s	O
+’s	O
 2017	B-Date
 ‘	O
 Compact	B-Misc
@@ -1202,8 +1186,7 @@ unite	O
 Under	O
 Nelson	B-Person
 Mandela	I-Person
-’	O
-s	O
+’s	O
 leadership	O
 ,	O
 Africa	B-Location

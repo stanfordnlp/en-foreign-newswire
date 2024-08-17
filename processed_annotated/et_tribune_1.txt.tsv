@@ -81,8 +81,7 @@ Addis	B-Location
 
 Fortunately	O
 it	O
-’	O
-s	O
+’s	O
 worth	O
 it	O
 .	O
@@ -342,8 +341,7 @@ nearby	O
 restaurant	O
 ,	O
 Rosa	B-Organization
-’	O
-s	O
+’s	O
 ,	O
 had	O
 been	O
@@ -667,8 +665,7 @@ saw	O
 gazelle	O
 ,	O
 Swayne	B-Misc	B-Person
-’	I-Misc
-s	I-Misc
+’s	I-Misc
 Hartebeest	I-Misc
 ,	O
 lots	O
@@ -1348,8 +1345,7 @@ don	O
 t	O
 ,	O
 it	O
-’	O
-s	O
+’s	O
 another	O
 story	O
 .	O

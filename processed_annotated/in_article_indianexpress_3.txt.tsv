@@ -16,8 +16,7 @@ the	O
 Narendra	B-Person
 Modi	I-Person
 government	O
-’	O
-s	O
+’s	O
 every	O
 move	O
 as	O
@@ -53,8 +52,7 @@ party	O
 The	O
 Modi	B-Person
 dispensation	O
-’	O
-s	O
+’s	O
 choice	O
 of	O
 candidates	O
@@ -75,8 +73,7 @@ it	O
 is	O
 the	O
 BJP	B-Organization
-’	O
-s	O
+’s	O
 politics	O
 of	O
 imagination	O
@@ -114,8 +111,7 @@ narrative	O
 
 The	O
 BJP	B-Organization
-’	O
-s	O
+’s	O
 opponents	O
 cannot	O
 hope	O
@@ -217,8 +213,7 @@ phrase	O
 in	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 political	O
 lexicon	O
 .	O
@@ -254,8 +249,7 @@ Congress	B-Organization
 -	O
 led	O
 UPA	B-Organization
-’	O
-s	O
+’s	O
 or	O
 whatever	O
 is	O
@@ -485,14 +479,12 @@ time	O
 ,	O
 the	O
 Congress	B-Organization
-’	O
-s	O
+’s	O
 withdrawal	O
 from	O
 the	O
 Opposition	O
-’	O
-s	O
+’s	O
 decision	O
 -	O
 taking	O
@@ -622,8 +614,7 @@ minority	O
 but	O
 the	O
 TMC	B-Organization
-’	O
-s	O
+’s	O
 absence	O
 at	O
 the	O
@@ -667,8 +658,7 @@ out	O
 of	O
 the	O
 BJP	B-Organization
-’	O
-s	O
+’s	O
 book	O
 ,	O
 it	O

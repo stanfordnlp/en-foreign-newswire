@@ -8,8 +8,7 @@ Cameroonian	B-NORP
 movie	O
 The	B-Misc
 Fisherman	I-Misc
-’	I-Misc
-s	I-Misc
+’s	I-Misc
 Diary	I-Misc
 has	O
 been	O
@@ -68,8 +67,7 @@ subsequently	O
 ,	O
 The	B-Misc
 Fisherman	I-Misc
-’	I-Misc
-s	I-Misc
+’s	I-Misc
 Diary	I-Misc
 producer	O
 Kang	B-Person
@@ -83,8 +81,7 @@ statement	O
 “	O
 The	B-Misc
 Fisherman	I-Misc
-’	I-Misc
-s	I-Misc
+’s	I-Misc
 Diary	I-Misc
 is	O
 the	O
@@ -188,8 +185,7 @@ characters	O
 
 The	B-Misc
 Fisherman	I-Misc
-’	I-Misc
-s	I-Misc
+’s	I-Misc
 Diary	I-Misc
 is	O
 a	O
@@ -245,8 +241,7 @@ insight	O
 into	O
 The	B-Misc
 Fisherman	I-Misc
-’	I-Misc
-s	I-Misc
+’s	I-Misc
 Diary	I-Misc
 
 The	O
@@ -320,8 +315,7 @@ with	O
 her	O
 father	O
 Solomon	B-Person
-’	O
-s	O
+’s	O
 (	O
 Kang	B-Person
 Quintus	I-Person
@@ -359,8 +353,7 @@ Njie	I-Person
 .	O
 The	B-Misc
 Fisherman	I-Misc
-’	I-Misc
-s	I-Misc
+’s	I-Misc
 Diary	I-Misc
 has	O
 won	O

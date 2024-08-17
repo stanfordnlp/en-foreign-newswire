@@ -1,8 +1,7 @@
 https://todaynicaragua.com/imf-nicaraguas-economy-contracts-sharply-amid-political-crisis/	O
 
 Nicaragua	B-Location
-’	O
-s	O
+’s	O
 economy	O
 suffered	O
 a	O
@@ -36,8 +35,7 @@ testing	O
 President	O
 Daniel	B-Person
 Ortega	I-Person
-’	O
-s	O
+’s	O
 hold	O
 on	O
 power	O
@@ -83,8 +81,7 @@ against	O
 members	O
 of	O
 Ortega	B-Person
-’	O
-s	O
+’s	O
 family	O
 and	O
 senior	O
@@ -99,8 +96,7 @@ companies	O
 .	O
 
 Nicaragua	B-Location
-’	O
-s	O
+’s	O
 economy	O
 contracted	O
 5.7	O
@@ -153,8 +149,7 @@ resistance	O
 movement	O
 against	O
 Ortega	B-Person
-’	O
-s	O
+’s	O
 government	O
 .	O
 

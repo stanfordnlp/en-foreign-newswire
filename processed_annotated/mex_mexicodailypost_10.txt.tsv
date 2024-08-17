@@ -43,8 +43,7 @@ which	O
 will	O
 be	O
 Google	B-Organization
-’	O
-s	O
+’s	O
 35th	O
 ,	O
 will	O
@@ -128,8 +127,7 @@ Information	O
 Systems	O
 at	O
 Mexico	B-Organization	B-Location
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Federal	I-Organization
 Court	I-Organization
 of	I-Organization
@@ -167,8 +165,7 @@ this	O
 context	O
 ,	O
 it	O
-’	O
-s	O
+’s	O
 worth	O
 noting	O
 that	O
@@ -191,8 +188,7 @@ in	O
 2020	B-Date
 and	O
 it	O
-’	O
-s	O
+’s	O
 not	O
 open	O
 yet	O

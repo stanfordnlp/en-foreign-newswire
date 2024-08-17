@@ -105,8 +105,7 @@ evidence	O
 about	O
 Mr	O
 Palmer	B-Person
-’	O
-s	O
+’s	O
 legal	O
 fight	O
 over	O
@@ -117,8 +116,7 @@ border	O
 ,	O
 the	O
 Queenslander	B-NORP
-’	O
-s	O
+’s	O
 stalled	O
 iron	O
 ore	O
@@ -141,8 +139,7 @@ block	O
 the	O
 mining	O
 magnate	O
-’	O
-s	O
+’s	O
 ability	O
 to	O
 claim	O
@@ -451,8 +448,7 @@ he	O
 respected	O
 the	O
 court	O
-’	O
-s	O
+’s	O
 decision	O
 .	O
 
@@ -602,8 +598,7 @@ evidently	O
 not	O
 Mr	O
 Palmer	B-Person
-’	O
-s	O
+’s	O
 first	O
 time	O
 in	O
@@ -952,8 +947,7 @@ to	O
 resemble	O
 Ian	B-Person
 Fleming	I-Person
-’	O
-s	O
+’s	O
 fictional	O
 MI	B-Organization
 6	I-Organization
@@ -1040,8 +1034,7 @@ Premier	O
 testified	O
 Mr	O
 Palmer	B-Person
-’	O
-s	O
+’s	O
 “	O
 crazed	O
 language	O
@@ -1098,8 +1091,7 @@ don	O
 t	O
 say	O
 it	O
-’	O
-s	O
+’s	O
 all	O
 him	O
 –	O
@@ -1485,8 +1477,7 @@ memory	O
 failure	O
 ,	O
 it	O
-’	O
-s	O
+’s	O
 really	O
 hard	O
 ,	O
@@ -1545,8 +1536,7 @@ regrettable	O
 that	O
 Mr	O
 Quigley	B-Person
-’	O
-s	O
+’s	O
 evidence	O
 was	O
 “	O
@@ -1571,8 +1561,7 @@ untruthful	O
 “	O
 Mr	O
 Quigley	B-Person
-’	O
-s	O
+’s	O
 evidence	O
 was	O
 not	O
@@ -1687,8 +1676,7 @@ border	O
 and	O
 the	O
 state	O
-’	O
-s	O
+’s	O
 finances	O
 with	O
 the	O

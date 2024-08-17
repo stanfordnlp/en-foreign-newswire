@@ -19,8 +19,7 @@ on	O
 Thursday	B-Date
 as	O
 India	B-Location
-’	O
-s	O
+’s	O
 new	O
 president	O
 ,	O
@@ -37,8 +36,7 @@ a	O
 leader	O
 from	O
 India	B-Location
-’	O
-s	O
+’s	O
 ruling	O
 Bharatiya	B-Organization
 Janata	I-Organization
@@ -69,8 +67,7 @@ one	O
 of	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 tribes	O
 and	O
 the	O
@@ -130,8 +127,7 @@ minority	O
 one	O
 of	O
 India	B-Location
-’	O
-s	O
+’s	O
 largest	O
 tribal	O
 groups	O
@@ -158,14 +154,12 @@ Prime	O
 Minister	O
 Narendra	B-Person
 Modi	I-Person
-’	O
-s	O
+’s	O
 party	O
 .	O
 
 Murmu	B-Person
-’	O
-s	O
+’s	O
 father	O
 and	O
 her	O
@@ -219,8 +213,7 @@ front	O
 and	O
 strengthen	O
 India	B-Location
-’	O
-s	O
+’s	O
 development	O
 journey	O
 ”	O
@@ -242,13 +235,11 @@ tweeted	O
 .	O
 
 Murmu	B-Person
-’	O
-s	O
+’s	O
 supporters	O
 and	O
 Modi	B-Person
-’	O
-s	O
+’s	O
 BJP	B-Organization
 party	O
 see	O
@@ -306,8 +297,7 @@ community	O
 
 The	O
 president	O
-’	O
-s	O
+’s	O
 role	O
 in	O
 India	B-Location
@@ -385,8 +375,7 @@ lowest	O
 end	O
 of	O
 Hinduism	B-NORP
-’	O
-s	O
+’s	O
 complex	O
 caste	O
 hierarchy	O
@@ -449,8 +438,7 @@ vote	O
 for	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 new	O
 vice	O
 -	O

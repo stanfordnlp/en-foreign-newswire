@@ -277,8 +277,7 @@ thugs	O
 After	O
 hearing	O
 Chiu	B-Person
-’	O
-s	O
+’s	O
 complaint	O
 ,	O
 Huang	B-Person
@@ -386,8 +385,7 @@ and	O
 the	O
 Taiwan	B-Organization	B-Location
 People	I-Organization
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Party	I-Organization
 joining	O
 the	O
@@ -466,8 +464,7 @@ hung	I-Person
 ,	O
 the	O
 KMT	B-Organization
-’	O
-s	O
+’s	O
 nominee	O
 for	O
 Miaoli	B-Location

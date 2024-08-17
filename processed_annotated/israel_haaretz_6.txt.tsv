@@ -138,8 +138,7 @@ For	O
 India	B-Location
 ,	O
 it	O
-’	O
-s	O
+’s	O
 an	O
 important	O
 breakthrough	O
@@ -205,8 +204,7 @@ India	B-Location
 is	O
 the	O
 world	O
-’	O
-s	O
+’s	O
 biggest	O
 importer	O
 of	O
@@ -251,8 +249,7 @@ Research	I-Organization
 Institute	I-Organization
 ,	O
 India	B-Location
-’	O
-s	O
+’s	O
 military	O
 spending	O
 reached	O
@@ -281,8 +278,7 @@ and	O
 China	B-Location
 .	O
 Israel	B-Location
-’	O
-s	O
+’s	O
 share	O
 in	O
 Indian	B-NORP
@@ -405,8 +401,7 @@ in	O
 India	B-Location
 by	O
 Israel	B-Location
-’	O
-s	O
+’s	O
 Elbit	B-Organization
 Systems	I-Organization
 and	O
@@ -547,8 +542,7 @@ further	O
 development	O
 of	O
 Iran	B-Location
-’	O
-s	O
+’s	O
 Chabahar	B-Facility	B-Location
 Port	I-Facility
 .	O
@@ -621,8 +615,7 @@ be	O
 competing	O
 with	O
 Pakistan	B-Location
-’	O
-s	O
+’s	O
 Gwadar	B-Facility	B-Location
 Sea	I-Facility
 Port	I-Facility
@@ -649,8 +642,7 @@ a	O
 node	O
 in	O
 China	B-Location
-’	O
-s	O
+’s	O
 Belt	B-Misc
 and	I-Misc
 Road	I-Misc
@@ -685,8 +677,7 @@ Iran	B-Location
 becomes	O
 the	O
 region	O
-’	O
-s	O
+’s	O
 main	O
 port	O
 .	O
@@ -699,8 +690,7 @@ as	O
 Iran	B-Location
 was	O
 India	B-Location
-’	O
-s	O
+’s	O
 main	O
 supplier	O
 of	O
@@ -714,8 +704,7 @@ of	I-Money
 dollars	I-Money
 developing	O
 Iran	B-Location
-’	O
-s	O
+’s	O
 energy	O
 sector	O
 .	O
@@ -1082,8 +1071,7 @@ Israel	B-Location
 just	O
 as	O
 Israel	B-Location
-’	O
-s	O
+’s	O
 dealings	O
 with	O
 India	B-Location
@@ -1092,8 +1080,7 @@ haven	O
 t	O
 harmed	O
 India	B-Location
-’	O
-s	O
+’s	O
 standing	O
 in	O
 Iran	B-Location
@@ -1116,8 +1103,7 @@ trade	O
 on	O
 New	B-Location
 Delhi	I-Location
-’	O
-s	O
+’s	O
 breaking	O
 ties	O
 with	O
@@ -1170,8 +1156,7 @@ on	O
 ending	O
 New	B-Location
 Delhi	I-Location
-’	O
-s	O
+’s	O
 ties	O
 with	O
 Iran	B-Location
@@ -1233,8 +1218,7 @@ to	O
 distinguish	O
 between	O
 Iran	B-Location
-’	O
-s	O
+’s	O
 supporters	O
 and	O
 its	O
@@ -1310,8 +1294,7 @@ which	O
 has	O
 become	O
 Russia	B-Location
-’	O
-s	O
+’s	O
 lifeline	O
 .	O
 India	B-Location

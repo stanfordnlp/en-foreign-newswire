@@ -28,8 +28,7 @@ Mkhwebane	I-Person
 President	O
 Cyril	B-Person
 Ramaphosa	I-Person
-’	O
-s	O
+’s	O
 lawyers	O
 have	O
 told	O
@@ -41,8 +40,7 @@ Court	I-Organization
 .	O
 
 Ramaphosa	B-Person
-’	O
-s	O
+’s	O
 advocate	O
 ,	O
 Karrisha	B-Person
@@ -55,8 +53,7 @@ the	O
 judges	O
 hearing	O
 Mkhwebane	B-Person
-’	O
-s	O
+’s	O
 application	O
 to	O
 overturn	O
@@ -95,8 +92,7 @@ On	O
 Monday	B-Date
 ,	O
 Mkhwebane	B-Person
-’	O
-s	O
+’s	O
 advocate	O
 ,	O
 Dali	B-Person
@@ -356,8 +352,7 @@ the	O
 fact	O
 that	O
 Mkhewebane	B-Person
-’	O
-s	O
+’s	O
 suspension	O
 was	O
 lawful	O
@@ -366,8 +361,7 @@ lawful	O
 He	O
 said	O
 Mkhwebane	B-Person
-’	O
-s	O
+’s	O
 suspension	O
 was	O
 initiated	O
@@ -430,8 +424,7 @@ witness	O
 the	O
 Public	O
 Protector	O
-’	O
-s	O
+’s	O
 Free	O
 State	O
 head	O
@@ -471,8 +464,7 @@ an	O
 investigation	O
 into	O
 Mkhwebane	B-Person
-’	O
-s	O
+’s	O
 conduct	O
 .	O
 

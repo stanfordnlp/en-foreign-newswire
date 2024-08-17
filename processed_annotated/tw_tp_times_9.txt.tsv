@@ -86,8 +86,7 @@ production	O
 .	O
 
 Thangavel	B-Person
-’	O
-s	O
+’s	O
 work	O
 on	O
 microbial	O
@@ -112,8 +111,7 @@ closely	O
 with	O
 the	O
 nation	O
-’	O
-s	O
+’s	O
 renewable	O
 energy	O
 and	O
@@ -126,8 +124,7 @@ said	O
 .	O
 
 Thangavel	B-Person
-’	O
-s	O
+’s	O
 research	O
 has	O
 been	O
@@ -179,8 +176,7 @@ has	O
 worked	O
 at	O
 NTUT	B-Organization
-’	O
-s	O
+’s	O
 Department	B-Organization
 of	I-Organization
 Energy	I-Organization

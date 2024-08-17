@@ -42,8 +42,7 @@ murder	O
 and	O
 his	O
 assailant	O
-’	O
-s	O
+’s	O
 grudge	O
 against	O
 the	O
@@ -69,16 +68,14 @@ speculating	O
 that	O
 the	O
 assailant	O
-’	O
-s	O
+’s	O
 motive	O
 was	O
 linked	O
 to	O
 his	O
 mother	O
-’	O
-s	O
+’s	O
 donations	O
 to	O
 the	O
@@ -88,8 +85,7 @@ his	O
 belief	O
 that	O
 Abe	B-Person
-’	O
-s	O
+’s	O
 grandfather	O
 had	O
 invited	O
@@ -115,8 +111,7 @@ religious	O
 group	O
 and	O
 Japan	B-Location
-’	O
-s	O
+’s	O
 ruling	O
 Liberal	B-Organization
 Democratic	I-Organization	B-NORP
@@ -147,8 +142,7 @@ Kishi	I-Person
 ,	O
 ”	O
 Abe	B-Person
-’	O
-s	O
+’s	O
 grandfather	O
 .	O
 
@@ -187,8 +181,7 @@ Moon	B-Person
 ,	O
 the	O
 church	O
-’	O
-s	O
+’s	O
 founder	O
 ,	O
 was	O
@@ -196,8 +189,7 @@ also	O
 close	O
 to	O
 Abe	B-Person
-’	O
-s	O
+’s	O
 father	O
 ,	O
 former	O
@@ -263,8 +255,7 @@ Japan	B-Location
 contributed	O
 to	O
 Moon	B-Person
-’	O
-s	O
+’s	O
 activities	O
 across	O
 the	O
@@ -296,8 +287,7 @@ criticised	O
 the	O
 religious	O
 group	O
-’	O
-s	O
+’s	O
 current	O
 leadership	O
 .	O
@@ -322,8 +312,7 @@ ve	O
 heard	O
 the	O
 assailant	O
-’	O
-s	O
+’s	O
 motive	O
 is	O
 associated	O
@@ -373,15 +362,13 @@ July	B-Date
 8	I-Date
 .	O
 Yamagami	B-Person
-’	O
-s	O
+’s	O
 uncle	O
 has	O
 said	O
 the	O
 man	O
-’	O
-s	O
+’s	O
 mother	O
 donated	O
 about	O
@@ -507,8 +494,7 @@ when	O
 he	O
 shot	O
 Japan	B-Location
-’	O
-s	O
+’s	O
 longest	O
 -	O
 serving	O

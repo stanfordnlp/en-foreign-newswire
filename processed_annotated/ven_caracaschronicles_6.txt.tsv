@@ -4,8 +4,7 @@ The	O
 level	O
 of	O
 women	O
-’	O
-s	O
+’s	O
 participation	O
 in	O
 Venezuelan	B-NORP
@@ -32,8 +31,7 @@ migration	O
 crises	O
 limit	O
 women	O
-’	O
-s	O
+’s	O
 participation	O
 in	O
 politics	O
@@ -48,8 +46,7 @@ whole	O
 story	O
 on	O
 women	O
-’	O
-s	O
+’s	O
 exclusion	O
 from	O
 Venezuelan	B-NORP
@@ -73,8 +70,7 @@ men	O
 especially	O
 within	O
 Venezuela	B-Location
-’	O
-s	O
+’s	O
 most	O
 relevant	O
 political	O
@@ -160,8 +156,7 @@ duties	O
 contribute	O
 to	O
 women	O
-’	O
-s	O
+’s	O
 under	O
 -	O
 representation	O
@@ -280,8 +275,7 @@ could	O
 significantly	O
 enhance	O
 women	O
-’	O
-s	O
+’s	O
 participation	O
 in	O
 Venezuelan	B-NORP
@@ -401,8 +395,7 @@ worked	O
 wonders	O
 ,	O
 Mexico	B-Location
-’	O
-s	O
+’s	O
 lower	O
 house	O
 today	O
@@ -416,8 +409,7 @@ a	O
 quarter	O
 of	O
 Mexico	B-Location
-’	O
-s	O
+’s	O
 32	O
 states	O
 ,	O
@@ -431,8 +423,7 @@ local	O
 legislatures	O
 .	O
 Chile	B-Location
-’	O
-s	O
+’s	O
 new	O
 cabinet	O
 is	O
@@ -473,8 +464,7 @@ for	O
 norms	O
 expanding	O
 women	O
-’	O
-s	O
+’s	O
 representation	O
 .	O
 To	O
@@ -506,8 +496,7 @@ power	O
 .	O
 
 Mexico	B-Location
-’	O
-s	O
+’s	O
 gender	O
 quota	O
 ,	O
@@ -539,8 +528,7 @@ to	O
 undercut	O
 the	O
 law	O
-’	O
-s	O
+’s	O
 efficacy	O
 by	O
 placing	O
@@ -566,8 +554,7 @@ in	O
 Venezuela	B-Location
 ,	O
 women	O
-’	O
-s	O
+’s	O
 coalitions	O
 sued	O
 them	O
@@ -582,11 +569,9 @@ example	O
 comes	O
 from	O
 Peru	B-Organization	B-Location
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Women	I-Organization
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Forum	I-Organization
 ,	O
 a	O
@@ -809,8 +794,7 @@ PAN	B-Organization
 one	O
 of	O
 Mexico	B-Location
-’	O
-s	O
+’s	O
 largest	O
 political	O
 parties	O
@@ -865,8 +849,7 @@ success	O
 for	O
 the	O
 Women	B-Misc
-’	I-Misc
-s	I-Misc
+’s	I-Misc
 Forum	I-Misc
 in	O
 Peru	B-Location
@@ -1056,8 +1039,7 @@ adoption	O
 .	O
 El	B-Location
 Salvador	I-Location
-’	O
-s	O
+’s	O
 Farabundo	B-Organization	B-Person
 Marti	I-Organization	I-Person
 Front	I-Organization
@@ -1085,8 +1067,7 @@ how	O
 they	O
 reflect	O
 women	O
-’	O
-s	O
+’s	O
 political	O
 priorities	O
 .	O
@@ -1195,8 +1176,7 @@ establish	O
 commitments	O
 to	O
 women	O
-’	O
-s	O
+’s	O
 empowerment	O
 and	O
 draw	O
@@ -1272,8 +1252,7 @@ promoting	O
 and	O
 developing	O
 women	O
-’	O
-s	O
+’s	O
 political	O
 leadership	O
 .	O
@@ -1285,8 +1264,7 @@ could	O
 help	O
 develop	O
 women	O
-’	O
-s	O
+’s	O
 wings	O
 within	O
 political	O

@@ -64,8 +64,7 @@ sweltering	O
 conditions	O
 at	O
 Monterrey	B-Location
-’	O
-s	O
+’s	O
 Estadio	B-Organization
 Universitario	I-Organization
 .	O
@@ -90,8 +89,7 @@ the	O
 winner	O
 of	O
 Monday	B-Date
-’	O
-s	O
+’s	O
 final	O
 will	O
 secure	O
@@ -104,8 +102,7 @@ the	O
 Paris	B-Misc	B-Location
 Games	I-Misc
 women	O
-’	O
-s	O
+’s	O
 football	O
 tournament	O
 .	O
@@ -139,8 +136,7 @@ signaled	O
 the	O
 US	B-Location
 women	O
-’	O
-s	O
+’s	O
 attacking	O
 intent	O
 early	O
@@ -199,8 +195,7 @@ side	O
 
 Lindsey	B-Person
 Horan	I-Person
-’	O
-s	O
+’s	O
 flick	O
 looped	O
 up	O
@@ -300,8 +295,7 @@ field	O
 .	O
 Rose	B-Person
 Lavelle	I-Person
-’	O
-s	O
+’s	O
 clever	O
 backheel	O
 released	O
@@ -385,8 +379,7 @@ the	O
 when	O
 Adriana	B-Person
 Leon	I-Person
-’	O
-s	O
+’s	O
 cross	O
 from	O
 the	O
@@ -468,8 +461,7 @@ tickets	O
 to	O
 next	O
 year	O
-’	O
-s	O
+’s	O
 tournament	O
 in	O
 Australia	B-Location

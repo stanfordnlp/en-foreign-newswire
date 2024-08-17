@@ -44,8 +44,7 @@ the	O
 leader	O
 of	O
 Africa	B-Location
-’	O
-s	O
+’s	O
 oldest	O
 independent	O
 country	O
@@ -92,8 +91,7 @@ in	O
 Marseille	B-Location
 .	O
 Skinner	B-Person
-’	O
-s	O
+’s	O
 mission	O
 launched	O
 an	O
@@ -399,8 +397,7 @@ served	O
 as	O
 the	O
 Khedive	B-Organization
-’	O
-s	O
+’s	O
 Governor	O
 of	O
 Massawa	B-Location

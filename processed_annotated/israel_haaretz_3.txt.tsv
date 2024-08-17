@@ -239,8 +239,7 @@ to	O
 improve	O
 the	O
 city	O
-’	O
-s	O
+’s	O
 appearance	O
 .	O
 
@@ -330,8 +329,7 @@ Damascus	B-Location
 appears	O
 in	O
 Wilbushevitz	B-Person
-’	O
-s	O
+’s	O
 memoirs	O
 ,	O
 which	O
@@ -489,8 +487,7 @@ added	O
 .	O
 “	O
 That	O
-’	O
-s	O
+’s	O
 a	O
 frequent	O
 phenomenon	O
@@ -529,8 +526,7 @@ to	O
 improve	O
 the	O
 city	O
-’	O
-s	O
+’s	O
 appearance	O
 included	O
 designing	O
@@ -554,8 +550,7 @@ him	O
 ,	O
 “	O
 What	O
-’	O
-s	O
+’s	O
 the	O
 minimum	O
 amount	O
@@ -743,8 +738,7 @@ later	I-Person
 Sharett	I-Person
 ,	O
 Israel	B-Location
-’	O
-s	O
+’s	O
 first	O
 foreign	O
 minister	O
@@ -1352,8 +1346,7 @@ Company	I-Organization
 buildings	O
 ,	O
 Haifa	B-Misc
-’	O
-s	O
+’s	O
 central	O
 train	O
 station	O
@@ -1365,8 +1358,7 @@ in	O
 the	O
 northern	O
 city	O
-’	O
-s	O
+’s	O
 Bnei	B-Location	B-Location
 Zion	I-Location	I-Location
 Medical	I-Location
@@ -1420,8 +1412,7 @@ opportunity	O
 to	O
 improve	O
 Pasha	B-Person
-’	O
-s	O
+’s	O
 negative	O
 image	O
 .	O

@@ -89,8 +89,7 @@ Box	I-Misc
 ”	O
 ,	O
 BTS	B-Organization
-’	O
-s	O
+’s	O
 J	B-Person
 -	I-Person
 Hope	I-Person
@@ -130,8 +129,7 @@ the	O
 myth	O
 of	O
 Pandora	B-Misc	B-Person
-’	I-Misc
-s	I-Misc
+’s	I-Misc
 box	I-Misc
 ,	O
 Jung	B-Person
@@ -186,8 +184,7 @@ including	O
 J	B-Person
 -	I-Person
 Hope	I-Person
-’	O
-s	O
+’s	O
 own	O
 2018	B-Date
 release	O
@@ -267,8 +264,7 @@ released	O
 J	B-Person
 -	I-Person
 Hope	I-Person
-’	O
-s	O
+’s	O
 version	O
 of	O
 coming	O
@@ -281,8 +277,7 @@ dark	O
 ,	O
 but	O
 it	O
-’	O
-s	O
+’s	O
 also	O
 contemplative	O
 –	O
@@ -331,8 +326,7 @@ reflect	O
 J	B-Person
 -	I-Person
 Hope	I-Person
-’	O
-s	O
+’s	O
 “	O
 agony	O
 ,	O
@@ -364,8 +358,7 @@ member	O
 following	O
 the	O
 group	O
-’	O
-s	O
+’s	O
 release	O
 of	O
 their	O
@@ -403,8 +396,7 @@ the	O
 news	O
 of	O
 BTS	B-Organization
-’	O
-s	O
+’s	O
 temporary	O
 break	O
 from	O

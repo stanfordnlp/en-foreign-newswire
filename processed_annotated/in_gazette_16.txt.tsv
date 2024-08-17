@@ -3,8 +3,7 @@ https://www.milligazette.com/news/Opinions/33936-excessive-focus-on-priyanka-wil
 Priyanka	B-Person
 Gandhi	I-Person
 Vadra	I-Person
-’	O
-s	O
+’s	O
 presence	O
 in	O
 Lakhimpur	B-Location
@@ -56,8 +55,7 @@ the	O
 Hare	O
 in	O
 Aesop	B-Person
-’	O
-s	O
+’s	O
 fable	O
 ,	O
 go	O
@@ -111,8 +109,7 @@ be	O
 the	O
 Gandhi	B-Person
 Parivar	I-Person
-’	O
-s	O
+’s	O
 “	O
 pocket	O
 borough	O
@@ -138,8 +135,7 @@ of	O
 television	O
 .	O
 Priyanka	B-Person
-’	O
-s	O
+’s	O
 resemblance	O
 to	O
 Indira	B-Person
@@ -253,8 +249,7 @@ Chintan	B-Misc
 was	O
 the	O
 party	O
-’	O
-s	O
+’s	O
 humiliating	O
 defeat	O
 in	O
@@ -322,8 +317,7 @@ Sharma	I-Person
 ,	O
 Rajiv	B-Person
 Gandhi	I-Person
-’	O
-s	O
+’s	O
 fellow	O
 pilot	O
 during	O
@@ -460,8 +454,7 @@ dismal	O
 performances	O
 ,	O
 Priyanka	B-Person
-’	O
-s	O
+’s	O
 solo	O
 notwithstanding	O
 ,	O
@@ -678,8 +671,7 @@ as	O
 symbols	O
 of	O
 India	B-Location
-’	O
-s	O
+’s	O
 aspirations	O
 ,	O
 who	O
@@ -831,14 +823,12 @@ BJP	B-Organization
 confirming	O
 the	O
 party	O
-’	O
-s	O
+’s	O
 credentials	O
 as	O
 the	O
 BJP	B-Organization
-’	O
-s	O
+’s	O
 B	O
 team	O
 .	O

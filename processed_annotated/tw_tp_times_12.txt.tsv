@@ -19,8 +19,7 @@ the	O
 Taiwan	B-Organization	B-Location
 Railways	I-Organization
 Administration	I-Organization
-’	O
-s	O
+’s	O
 (	O
 TRA	B-Organization
 )	O
@@ -43,8 +42,7 @@ yesterday	O
 at	O
 the	O
 site	O
-’	O
-s	O
+’s	O
 opening	O
 ceremony	O
 .	O
@@ -62,8 +60,7 @@ was	O
 relocated	O
 to	O
 Pingtung	B-Location
-’	I-Location
-s	I-Location
+’s	I-Location
 Chaojhou	I-Location
 Township	I-Location
 (	O
@@ -178,8 +175,7 @@ depot	O
 has	O
 the	O
 TRA	B-Organization
-’	O
-s	O
+’s	O
 largest	O
 repair	O
 capability	O
@@ -236,8 +232,7 @@ park	O
 around	O
 the	O
 depot	O
-’	O
-s	O
+’s	O
 retention	O
 pond	O
 ,	O
@@ -266,8 +261,7 @@ a	O
 boon	O
 for	O
 Pingtung	B-Location
-’	O
-s	O
+’s	O
 tourism	O
 sector	O
 .	O
@@ -293,8 +287,7 @@ said	O
 thanking	O
 the	O
 agency	O
-’	O
-s	O
+’s	O
 employees	O
 who	O
 support	O
@@ -347,8 +340,7 @@ an	I-Person
 said	O
 the	O
 depot	O
-’	O
-s	O
+’s	O
 railway	O
 culture	O
 park	O

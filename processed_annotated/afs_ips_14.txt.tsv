@@ -253,8 +253,7 @@ responses	O
 
 Realise	O
 children	O
-’	O
-s	O
+’s	O
 right	O
 to	O
 education	O
@@ -501,15 +500,13 @@ the	O
 International	B-Organization
 Labour	I-Organization
 Organisation	I-Organization
-’	O
-s	O
+’s	O
 (	O
 ILO	B-Organization
 )	O
 and	O
 UNICEF	B-Organization
-’	O
-s	O
+’s	O
 latest	O
 statistics	O
 released	O
@@ -622,8 +619,7 @@ said	O
 
 South	B-Location
 Africa	I-Location
-’	O
-s	O
+’s	O
 Minister	O
 of	O
 Employment	O
@@ -718,8 +714,7 @@ children	O
 delivered	O
 the	O
 Children	B-Misc
-’	I-Misc
-s	I-Misc
+’s	I-Misc
 Call	I-Misc
 to	I-Misc
 Action	I-Misc
@@ -815,8 +810,7 @@ and	O
 listening	O
 to	O
 children	O
-’	O
-s	O
+’s	O
 voices	O
 .	O
 
@@ -848,8 +842,7 @@ heard	O
 during	O
 special	O
 children	O
-’	O
-s	O
+’s	O
 sessions	O
 ,	O
 for	O
@@ -897,8 +890,7 @@ benefits	O
 .	O
 Now	O
 children	O
-’	O
-s	O
+’s	O
 voices	O
 have	O
 been	O
@@ -1083,8 +1075,7 @@ see	O
 each	O
 and	O
 everyone	O
-’	O
-s	O
+’s	O
 responsibilities	O
 and	O
 roles	O

@@ -80,8 +80,7 @@ available	O
 to	O
 a	O
 passenger	O
-’	O
-s	O
+’s	O
 final	O
 destination	O
 be	O
@@ -514,8 +513,7 @@ operator	O
 of	O
 the	O
 UAE	B-Location
-’	O
-s	O
+’s	O
 national	O
 railway	O
 network	O

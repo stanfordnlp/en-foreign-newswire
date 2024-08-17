@@ -410,8 +410,7 @@ is	O
 projected	O
 that	O
 Africa	B-Location
-’	O
-s	O
+’s	O
 annual	O
 food	O
 import	O
@@ -836,8 +835,7 @@ According	O
 to	O
 the	O
 UN	B-Organization
-’	O
-s	O
+’s	O
 Food	B-Organization
 and	I-Organization
 Agriculture	I-Organization
@@ -1008,8 +1006,7 @@ of	O
 the	O
 livestock	O
 sector	O
-’	O
-s	O
+’s	O
 emissions	O
 .	O
 Producing	O

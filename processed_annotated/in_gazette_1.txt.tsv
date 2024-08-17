@@ -7,8 +7,7 @@ Zafarul	B-Person
 -	I-Person
 Islam	I-Person
 Khan	I-Person
-’	O
-s	O
+’s	O
 rejoinder	O
 to	O
 a	O
@@ -535,8 +534,7 @@ concerned	O
 clause	O
 in	O
 Mushawarat	B-Organization
-’	O
-s	O
+’s	O
 Dastoor	B-Misc
 says	O
 that	O
@@ -956,8 +954,7 @@ it	O
 saying	O
 that	O
 SGC	B-Organization
-’	O
-s	O
+’s	O
 responsibility	O
 has	O
 ended	O
@@ -1039,8 +1036,7 @@ Secretary	O
 General	O
 Mujtaba	B-Person
 Farooq	I-Person
-’	O
-s	O
+’s	O
 letter	O
 to	O
 the	O
@@ -1103,8 +1099,7 @@ b	O
 Marhoom	B-Person
 Syed	I-Person
 Shahabuddin	I-Person
-’	O
-s	O
+’s	O
 repeated	O
 wasiyyat	O
 to	O
@@ -1145,8 +1140,7 @@ at	O
 Mr	O
 Navaid	B-Person
 Hamid	I-Person
-’	O
-s	O
+’s	O
 ruinous	O
 politics	O
 .	O
@@ -1172,8 +1166,7 @@ to	O
 see	O
 how	O
 Mushawarat	B-Organization
-’	O
-s	O
+’s	O
 great	O
 leader	O
 felt	O

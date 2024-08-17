@@ -98,8 +98,7 @@ will	O
 join	O
 this	O
 year	O
-’	O
-s	O
+’s	O
 Amarnath	B-Misc
 Yatra	I-Misc
 ,	O
@@ -278,8 +277,7 @@ Prime	O
 Minister	O
 Narendra	B-Person
 Modi	I-Person
-’	O
-s	O
+’s	O
 government	O
 stripped	O
 the	O
@@ -294,8 +292,7 @@ it	O
 under	O
 New	B-Location
 Delhi	I-Location
-’	O
-s	O
+’s	O
 direct	O
 control	O
 ,	O
@@ -369,8 +366,7 @@ in	O
 2014	O
 ,	O
 Modi	B-Person
-’	O
-s	O
+’s	O
 Hindu	B-NORP
 nationalist	O
 government	O
@@ -384,8 +380,7 @@ as	O
 part	O
 of	O
 India	B-Location
-’	O
-s	O
+’s	O
 claims	O
 over	O
 its	O
@@ -437,8 +432,7 @@ country	O
 or	O
 the	O
 region	O
-’	O
-s	O
+’s	O
 merger	O
 with	O
 neighbouring	O

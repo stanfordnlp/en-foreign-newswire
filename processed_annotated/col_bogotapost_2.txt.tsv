@@ -69,8 +69,7 @@ guerrilla	O
 commander	O
 during	O
 Colombia	B-Location
-’	O
-s	O
+’s	O
 armed	O
 conflict	O
 –	O
@@ -210,8 +209,7 @@ society	O
 With	O
 President	O
 Duque	B-Person
-’	O
-s	O
+’s	O
 reign	O
 almost	O
 over	O
@@ -284,8 +282,7 @@ direct	O
 victim	O
 of	O
 Colombia	B-Location
-’	O
-s	O
+’s	O
 civil	O
 war	O
 –	O
@@ -440,8 +437,7 @@ basin	O
 about	O
 an	O
 hour	O
-’	O
-s	O
+’s	O
 bumpy	O
 drive	O
 from	O
@@ -455,8 +451,7 @@ Caquetá	B-Location
 department	O
 in	O
 Colombia	B-Location
-’	O
-s	O
+’s	O
 Amazonía	B-Location
 region	O
 .	O
@@ -730,8 +725,7 @@ was	O
 named	O
 the	O
 world	O
-’	O
-s	O
+’s	O
 deadliest	O
 country	O
 for	O
@@ -752,8 +746,7 @@ Montes	B-Person
 ,	O
 Agua	B-Location
 Bonita	I-Location
-’	O
-s	O
+’s	O
 high	O
 year	O
 -	O
@@ -1148,8 +1141,7 @@ charge	O
 Duque	B-Person
 –	O
 Colombia	B-Location
-’	O
-s	O
+’s	O
 least	O
 popular	O
 president	O
@@ -1235,8 +1227,7 @@ from	O
 Medellin	B-Location
 ,	I-Location
 Colombia	I-Location
-’	O
-s	O
+’s	O
 second	O
 -	O
 largest	O
@@ -1790,8 +1781,7 @@ Jorge	B-Person
 ”	O
 
 Colombia	B-Location
-’	O
-s	O
+’s	O
 current	O
 presidential	O
 campaign	O
@@ -1818,8 +1808,7 @@ ex	O
 mayor	O
 of	O
 Colombia	B-Location
-’	O
-s	O
+’s	O
 capital	O
 Bogotá	B-Location
 ,	O
@@ -1930,8 +1919,7 @@ leader	O
 .	O
 The	O
 country	O
-’	O
-s	O
+’s	O
 right	O
 -	O
 wing	O
@@ -2801,8 +2789,7 @@ us	O
 from	O
 Colombian	B-NORP
 people	O
-’	O
-s	O
+’s	O
 hearts	O
 .	O
 ”	O
@@ -2842,8 +2829,7 @@ Troubles	I-Misc
 Despite	O
 Northern	B-Location
 Ireland	I-Location
-’	O
-s	O
+’s	O
 peace	O
 agreement	O
 having	O
@@ -2861,8 +2847,7 @@ century	O
 and	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 very	O
 different	O
 societal	O
@@ -2941,8 +2926,7 @@ aims	O
 of	O
 the	O
 FARC	B-Organization
-’	O
-s	O
+’s	O
 armed	O
 struggle	O
 against	O
@@ -3241,8 +3225,7 @@ car	O
 insurance	O
 .	O
 It	O
-’	O
-s	O
+’s	O
 an	O
 inhibitor	O
 .	O
@@ -3905,8 +3888,7 @@ exploitation	O
 ”	O
 
 Colombia	B-Location
-’	O
-s	O
+’s	O
 outgoing	O
 leader	O
 Iván	B-Person
@@ -3928,8 +3910,7 @@ peace	O
 agreement	O
 .	O
 Colombia	B-Location
-’	O
-s	O
+’s	O
 election	O
 now	O
 offers	O
@@ -4028,8 +4009,7 @@ Putumayo	B-Location
 recently	O
 …	O
 it	O
-’	O
-s	O
+’s	O
 becoming	O
 unbearable	O
 .	O
@@ -4081,15 +4061,13 @@ similar	O
 to	O
 [	O
 Colombia	B-Location
-’	O
-s	O
+’s	O
 traditional	O
 festival	O
 ]	O
 ,	O
 Barranquilla	B-Location
-’	O
-s	O
+’s	O
 carnival	O
 .	O
 Those	O
@@ -4312,8 +4290,7 @@ Ireland	I-Location
 .	O
 
 It	O
-’	O
-s	O
+’s	O
 also	O
 important	O
 ,	O
@@ -4356,8 +4333,7 @@ an	O
 ex	O
 -	O
 combatant	O
-’	O
-s	O
+’s	O
 background	O
 ,	O
 need	O

@@ -135,8 +135,7 @@ tracks	O
 produced	O
 by	O
 Seo	B-Person
-’	O
-s	O
+’s	O
 writing	O
 team	O
 ,	O
@@ -161,8 +160,7 @@ coming	O
 ,	O
 but	O
 he	O
-’	O
-s	O
+’s	O
 been	O
 waiting	O
 for	O
@@ -351,8 +349,7 @@ inspired	O
 by	O
 David	B-Person
 Foster	I-Person
-’	O
-s	O
+’s	O
 music	O
 and	O
 production	O
@@ -403,8 +400,7 @@ is	O
 key	O
 for	O
 Seo	B-Person
-’	O
-s	O
+’s	O
 new	O
 take	O
 on	O
@@ -565,8 +561,7 @@ would	O
 probably	O
 say	O
 it	O
-’	O
-s	O
+’s	O
 a	O
 lifetime	O
 dream	O
@@ -618,8 +613,7 @@ for	O
 K	B-Person
 .	I-Person
 Will	I-Person
-’	O
-s	O
+’s	O
 Please	B-Misc
 Don	I-Misc
 ’	I-Misc
@@ -651,8 +645,7 @@ the	O
 end	O
 shows	O
 he	O
-’	O
-s	O
+’s	O
 in	O
 love	O
 not	O
@@ -851,8 +844,7 @@ the	O
 moment	O
 :	O
 he	O
-’	O
-s	O
+’s	O
 been	O
 in	O
 back	O
@@ -882,8 +874,7 @@ acting	O
 he	O
 admits	O
 he	O
-’	O
-s	O
+’s	O
 turned	O
 into	O
 a	O
@@ -895,8 +886,7 @@ workaholic	O
 
 “	O
 It	O
-’	O
-s	O
+’s	O
 a	O
 good	O
 busy	O
@@ -963,8 +953,7 @@ detective	O
 .	O
 “	O
 He	O
-’	O
-s	O
+’s	O
 a	O
 very	O
 charming	O

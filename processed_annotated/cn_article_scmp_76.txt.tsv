@@ -5,8 +5,7 @@ female	O
 students	O
 at	O
 China	B-Location
-’	O
-s	O
+’s	O
 prestigious	O
 Tsinghua	B-Organization
 University	I-Organization
@@ -65,8 +64,7 @@ respectively	O
 ,	O
 by	O
 Tsinghua	B-Organization
-’	O
-s	O
+’s	O
 student	O
 affairs	O
 office	O
@@ -376,8 +374,7 @@ Purple	B-Organization
 one	O
 of	O
 China	B-Location
-’	O
-s	O
+’s	O
 most	O
 influential	O
 LGBT	B-NORP
@@ -391,8 +388,7 @@ Tsinghua	B-Organization
 .	O
 The	O
 group	O
-’	O
-s	O
+’s	O
 social	O
 media	O
 account	O
@@ -438,8 +434,7 @@ materials	O
 
 “	O
 It	O
-’	O
-s	O
+’s	O
 against	O
 the	O
 school	O
@@ -486,8 +481,7 @@ at	O
 Yale	B-Organization
 Law	I-Organization
 School	I-Organization
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Paul	I-Organization	B-Person
 Tsai	I-Organization	I-Person
 China	I-Organization	B-Location
@@ -688,8 +682,7 @@ be	O
 targeted	O
 as	O
 it	O
-’	O
-s	O
+’s	O
 something	O
 too	O
 iconic	O
@@ -709,8 +702,7 @@ demonstrations	O
 overseas	O
 .	O
 It	O
-’	O
-s	O
+’s	O
 a	O
 symbol	O
 of	O
@@ -751,8 +743,7 @@ popular	O
 culture	O
 at	O
 King	B-Organization
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 College	I-Organization
 London	I-Organization	B-Location
 ,	O
@@ -890,8 +881,7 @@ intensified	O
 with	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 universities	O
 viewed	O
 as	O
@@ -899,8 +889,7 @@ strongholds	O
 of	O
 the	O
 party	O
-’	O
-s	O
+’s	O
 leadership	O
 .	O
 

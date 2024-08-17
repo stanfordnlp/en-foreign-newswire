@@ -9,8 +9,7 @@ carry	O
 out	O
 a	O
 citizen	O
-’	O
-s	O
+’s	O
 arrest	O
 against	O
 Joburg	B-Location
@@ -104,8 +103,7 @@ head	O
 of	O
 the	O
 City	O
-’	O
-s	O
+’s	O
 anti	O
 -	O
 corruption	O
@@ -179,8 +177,7 @@ will	O
 do	O
 a	O
 citizen	O
-’	O
-s	O
+’s	O
 arrest	O
 and	O
 hand	O

@@ -4,8 +4,7 @@ A	O
 maverick	O
 Christian	B-NORP
 politician	O
-’	O
-s	O
+’s	O
 highly	O
 provocative	O
 remarks	O
@@ -411,8 +410,7 @@ in	O
 neighbouring	O
 Karanataka	B-Location
 Muraleedharan	B-Person
-’	O
-s	O
+’s	O
 Dharam	B-Organization
 Sansad	I-Organization
 brothers	O
@@ -576,15 +574,13 @@ thanks	O
 to	O
 Pinarayi	B-Person
 Vijayan	I-Person
-’	O
-s	O
+’s	O
 mishandling	O
 of	O
 the	O
 Sabarimala	B-Location
 women	O
-’	O
-s	O
+’s	O
 entry	O
 issue	O
 in	O
@@ -1243,8 +1239,7 @@ such	O
 as	O
 Hindu	B-Organization	B-NORP
 Aikyavedi	I-Organization
-’	O
-s	O
+’s	O
 K	B-Person
 P	I-Person
 Sasikala	I-Person
@@ -1367,8 +1362,7 @@ foolhardy	O
 to	O
 dismiss	O
 George	B-Person
-’	O
-s	O
+’s	O
 comments	O
 as	O
 yet	O

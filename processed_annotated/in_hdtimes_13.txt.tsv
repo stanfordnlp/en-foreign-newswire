@@ -380,8 +380,7 @@ Alliance	I-Organization
 led	O
 by	O
 Sangma	B-Person
-’	O
-s	O
+’s	O
 NPP	B-Organization
 .	O
 
@@ -509,8 +508,7 @@ while	O
 responding	O
 to	O
 BJP	B-Organization
-’	O
-s	O
+’s	O
 charges	O
 of	O
 “	O

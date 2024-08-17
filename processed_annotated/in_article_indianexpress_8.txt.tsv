@@ -3,8 +3,7 @@ https://indianexpress.com/article/explained/explained-india-submarine-fleet-deco
 The	O
 Indian	B-Organization	B-NORP
 Navy	I-Organization
-’	O
-s	O
+’s	O
 dwindling	O
 submarine	O
 fleet	O
@@ -476,8 +475,7 @@ is	O
 expected	O
 that	O
 People	B-Organization
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Liberation	I-Organization
 Army	I-Organization
 Navy	I-Organization

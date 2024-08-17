@@ -49,8 +49,7 @@ Iraqi	B-NORP
 government	O
 ,	O
 Iraq	B-Location
-’	O
-s	O
+’s	O
 foreign	O
 minister	O
 told	O
@@ -93,8 +92,7 @@ protesters	O
 attacked	O
 Saudi	B-Location
 Arabia	I-Location
-’	O
-s	O
+’s	O
 diplomatic	O
 missions	O
 in	O
@@ -214,8 +212,7 @@ busy	O
 referring	O
 to	O
 Iraq	B-Location
-’	O
-s	O
+’s	O
 tensions	O
 with	O
 neighboring	O
@@ -231,8 +228,7 @@ forces	O
 .	O
 
 Iran	B-Location
-’	O
-s	O
+’s	O
 Foreign	O
 Minister	O
 Hossein	B-Person

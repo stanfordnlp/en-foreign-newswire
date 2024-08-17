@@ -69,8 +69,7 @@ charge	O
 of	O
 the	O
 party	O
-’	O
-s	O
+’s	O
 affairs	O
 in	O
 Karnataka	B-Location
@@ -101,8 +100,7 @@ minister	O
 Also	O
 ,	O
 Khan	B-Person
-’	O
-s	O
+’s	O
 claim	O
 that	O
 Muslims	B-NORP
@@ -116,8 +114,7 @@ a	O
 spot	O
 .	O
 Khan	B-Person
-’	O
-s	O
+’s	O
 claim	O
 was	O
 in	O
@@ -160,8 +157,7 @@ rekha	O
 of	O
 the	O
 party	O
-’	O
-s	O
+’s	O
 discipline	O
 and	O
 ideology	O
@@ -214,8 +210,7 @@ go	O
 against	O
 the	O
 party	O
-’	O
-s	O
+’s	O
 “	O
 foundational	O
 ideology	O
@@ -252,8 +247,7 @@ the	O
 Congress	B-Organization
 using	O
 Khan	B-Person
-’	O
-s	O
+’s	O
 statement	O
 .	O
 “	O
@@ -302,8 +296,7 @@ Ashoka	I-Person
 ,	O
 the	O
 BJP	B-Organization
-’	O
-s	O
+’s	O
 Vokkaliga	B-NORP
 face	O
 ,	O
@@ -368,8 +361,7 @@ Zameer	B-Person
 .	O
 “	O
 It	O
-’	O
-s	O
+’s	O
 not	O
 wrong	O
 to	O
@@ -490,8 +482,7 @@ political	O
 guru	O
 and	O
 it	O
-’	O
-s	O
+’s	O
 because	O
 of	O
 him	O

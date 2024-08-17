@@ -17,8 +17,7 @@ of	O
 Jammu	B-Location
 and	O
 Kashmir	B-Location
-’	O
-s	O
+’s	O
 full	O
 integration	O
 with	O
@@ -35,8 +34,7 @@ psychological	O
 hurdle	O
 ,	O
 BJP	B-Organization
-’	O
-s	O
+’s	O
 Tejasvi	B-Person
 Surya	I-Person
 said	O
@@ -77,8 +75,7 @@ president	O
 of	O
 the	O
 party	O
-’	O
-s	O
+’s	O
 youth	O
 wing	O
 ,	O
@@ -393,8 +390,7 @@ Mukherjee	I-Person
 called	O
 for	O
 Kashmir	B-Location
-’	O
-s	O
+’s	O
 complete	O
 constitutional	O
 integration	O
@@ -433,8 +429,7 @@ do	O
 J	B-Location
 &	I-Location
 K	I-Location
-’	O
-s	O
+’s	O
 complete	O
 cultural	O
 ,	O
@@ -646,8 +641,7 @@ The	O
 unicorns	O
 of	O
 India	B-Location
-’	O
-s	O
+’s	O
 tomorrow	O
 must	O
 come	O
@@ -712,8 +706,7 @@ Mufti	I-Person
 or	O
 Omar	B-Person
 Abdullah	I-Person
-’	O
-s	O
+’s	O
 shops	O
 have	O
 shut	O
