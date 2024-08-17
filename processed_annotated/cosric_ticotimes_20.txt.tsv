@@ -246,10 +246,8 @@ addition	O
 ,	O
 Washington	B-Location
 ,	I-Location
-D	I-Location
-.	I-Location
-C	I-Location
-.	O
+D.	I-Location
+C.	I-Location
 ,	O
 is	O
 one	O

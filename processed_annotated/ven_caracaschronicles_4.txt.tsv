@@ -1497,8 +1497,7 @@ Political	I-Misc
 Science	I-Misc
 by	O
 Peter	B-Person
-L	I-Person
-.	I-Person
+L.	I-Person
 Lorentzen	I-Person
 ,	O
 from	O

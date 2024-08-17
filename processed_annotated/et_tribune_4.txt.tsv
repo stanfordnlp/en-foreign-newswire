@@ -179,8 +179,7 @@ Ethiopia	B-Location
 was	O
 probably	O
 Henry	B-Person
-W	I-Person
-.	I-Person
+W.	I-Person
 Stanley	I-Person
 of	O
 Stanley	B-Person
@@ -352,10 +351,8 @@ an	O
 American	B-NORP
 geologist	O
 ,	O
-L	B-Person
-.	I-Person
-H	I-Person
-.	I-Person
+L.	B-Person
+H.	I-Person
 Mitchell	I-Person
 ,	O
 involved	O
@@ -497,8 +494,7 @@ Lake	B-Location
 Rudolph	I-Location
 .	O
 Oscar	B-Person
-T	I-Person
-.	I-Person
+T.	I-Person
 Crosby	I-Person
 ,	O
 an	O
@@ -531,8 +527,7 @@ An	O
 American	B-NORP
 hunter	O
 ,	O
-W	B-Person
-.	I-Person
+W.	B-Person
 N.	I-Person
 McMillan	I-Person
 ,	O
@@ -558,8 +553,7 @@ visit	O
 Ethiopia	B-Location
 was	O
 William	B-Person
-H	I-Person
-.	I-Person
+H.	I-Person
 Ellis	I-Person
 ,	O
 an	O

@@ -54,8 +54,7 @@ SFD	B-Organization
 ’s	O
 CEO	O
 Sultan	B-Person
-A	I-Person
-.	I-Person
+A.	I-Person
 Al	I-Person
 -	I-Person
 Marshad	I-Person

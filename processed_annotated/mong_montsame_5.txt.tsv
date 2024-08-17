@@ -20,8 +20,7 @@ aimag	I-Location
 ,	O
 Prime	O
 Minister	O
-L	B-Person
-.	I-Person
+L.	B-Person
 Oyun	I-Person
 -	I-Person
 Erdene	I-Person
@@ -259,8 +258,7 @@ HPP	I-Facility
 highlighted	O
 Prime	O
 Minister	O
-L	B-Person
-.	I-Person
+L.	B-Person
 Oyun	I-Person
 -	I-Person
 Erdene	I-Person

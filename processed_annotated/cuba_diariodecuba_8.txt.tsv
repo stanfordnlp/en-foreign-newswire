@@ -190,8 +190,7 @@ American	I-NORP
 population	O
 (	O
 Kathryn	B-Person
-E	I-Person
-.	I-Person
+E.	I-Person
 Stoner	I-Person
 ,	O
 Russia	B-Misc	B-Location
@@ -244,8 +243,7 @@ Venezuela	B-Location
 .	O
 (	O
 Diego	B-Person
-G	I-Person
-.	I-Person
+G.	I-Person
 Maldonado	I-Person
 ,	O
 La	B-Misc

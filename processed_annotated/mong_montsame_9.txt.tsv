@@ -11,8 +11,7 @@ the	O
 State	B-Organization
 Great	I-Organization
 Khural	I-Organization
-G	B-Person
-.	I-Person
+G.	B-Person
 Zandanshatar	I-Person
 received	O
 a	O
@@ -23,8 +22,7 @@ led	O
 by	O
 Dr	O
 .	O
-D	B-Person
-.	I-Person
+D.	B-Person
 Ankhbayar	I-Person
 on	O
 July	B-Date
@@ -240,8 +238,7 @@ Research	I-Organization
 Institute	I-Organization
 Dr	O
 .	O
-D	B-Person
-.	I-Person
+D.	B-Person
 Ankhbayar	I-Person
 said	O
 ,	O
@@ -368,8 +365,7 @@ level	O
 .	O
 
 Speaker	O
-G	B-Person
-.	I-Person
+G.	B-Person
 Zandanshatar	I-Person
 said	O
 ,	O
@@ -545,8 +541,7 @@ Research	I-Organization
 Institute	I-Organization
 Dr	O
 .	O
-D	B-Person
-.	I-Person
+D.	B-Person
 Ankhbayar	I-Person
 ,	O
 Director	O
@@ -563,8 +558,7 @@ of	I-Organization
 Sciences	I-Organization
 Dr	O
 .	O
-A	B-Person
-.	I-Person
+A.	B-Person
 Enkhtur	I-Person
 ,	O
 Professor	O
@@ -586,8 +580,7 @@ and	O
 Historian	O
 Dr	O
 .	O
-B	B-Person
-.	I-Person
+B.	B-Person
 Enkhchimeg	I-Person
 .	O
 

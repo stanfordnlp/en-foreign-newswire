@@ -605,12 +605,9 @@ Alex	B-Person
 Atala	I-Person
 ,	O
 whose	O
-D	B-Organization
-.	I-Organization
-O	I-Organization
-.	I-Organization
-M	I-Organization
-.	O
+D.	B-Organization
+O.	I-Organization
+M.	I-Organization
 restaurant	O
 in	O
 Sao	B-Location

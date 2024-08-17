@@ -108,10 +108,8 @@ Kershaw	I-Person
 2014-15	B-Date
 )	O
 ,	O
-R	B-Person
-.	I-Person
-A	I-Person
-.	I-Person
+R.	B-Person
+A.	I-Person
 Dickey	I-Person
 (	O
 2012	B-Date

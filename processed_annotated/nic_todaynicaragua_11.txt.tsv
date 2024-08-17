@@ -49,10 +49,8 @@ in	O
 ?	O
 
 As	O
-P	B-Person
-.	I-Person
-J	I-Person
-.	I-Person
+P.	B-Person
+J.	I-Person
 O	I-Person
 ’	I-Person
 Rourke	I-Person

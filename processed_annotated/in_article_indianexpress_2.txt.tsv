@@ -456,10 +456,8 @@ Technology	I-Organization
 )	O
 ,	O
 S.	B-Organization
-R	I-Organization
-.	I-Organization
-M	I-Organization
-.	I-Organization
+R.	I-Organization
+M.	I-Organization
 Institute	I-Organization
 of	I-Organization
 Science	I-Organization

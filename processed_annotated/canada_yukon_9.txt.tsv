@@ -572,10 +572,8 @@ Yukon	B-Location
 schools	O
 currently	O
 follow	O
-B	B-Location
-.	I-Location
-C	I-Location
-.	I-Location
+B.	B-Location
+C.	I-Location
 ’s	O
 curriculum	O
 .	O
@@ -654,10 +652,8 @@ boards	O
 in	O
 places	O
 like	O
-B	B-Misc
-.	I-Misc
-C	I-Misc
-.	I-Misc
+B.	B-Misc
+C.	I-Misc
 
 Pauls	B-Person
 says	O
@@ -675,10 +671,8 @@ Nations	I-NORP
 school	O
 board	O
 in	O
-B	B-Location
-.	I-Location
-C	I-Location
-.	I-Location
+B.	B-Location
+C.	I-Location
 ’s	O
 Okanagan	B-Location
 region	O

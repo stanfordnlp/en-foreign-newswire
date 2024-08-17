@@ -575,8 +575,7 @@ after	O
 the	O
 USS	B-Facility
 Gerald	I-Facility
-R	I-Facility
-.	I-Facility
+R.	I-Facility
 Ford	I-Facility	B-Organization
 –	O
 to	O
@@ -684,15 +683,13 @@ difficulties	O
 to	O
 the	O
 Gerald	B-Facility
-R	I-Facility
-.	I-Facility
+R.	I-Facility
 Ford	I-Facility
 .	O
 
 The	O
 Gerald	B-Person
-R	I-Person
-.	I-Person
+R.	I-Person
 Ford	I-Person
 is	O
 America	B-Location

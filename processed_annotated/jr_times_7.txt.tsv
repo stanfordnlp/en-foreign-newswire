@@ -45,8 +45,7 @@ USAID	B-Organization
 Mission	O
 Director	O
 Sherry	B-Person
-F	I-Person
-.	I-Person
+F.	I-Person
 Carlin	I-Person
 ,	O
 the	O

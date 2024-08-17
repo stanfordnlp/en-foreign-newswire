@@ -19,8 +19,7 @@ Prime	O
 Minister	O
 of	O
 Mongolia	B-Location
-L	B-Person
-.	I-Person
+L.	B-Person
 Oyun	I-Person
 -	I-Person
 Erdene	I-Person

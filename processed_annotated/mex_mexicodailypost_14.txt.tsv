@@ -223,8 +223,7 @@ York	I-Organization	I-Location
 Times	I-Organization
 journalist	O
 Paul	B-Person
-P	I-Person
-.	I-Person
+P.	I-Person
 Kennedy	I-Person
 .	O
 Her	O

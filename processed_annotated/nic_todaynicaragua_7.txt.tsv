@@ -73,10 +73,8 @@ banned	O
 are	O
 Médico	B-Organization
 Internacional	I-Organization
-E	I-Organization
-.	I-Organization
-V	I-Organization
-.	I-Organization
+E.	I-Organization
+V.	I-Organization
 (	O
 Germany	B-Location
 )	O

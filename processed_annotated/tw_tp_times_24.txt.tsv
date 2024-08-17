@@ -190,8 +190,7 @@ Michel	B-Person
 Connelly	I-Person
 ,	O
 Robert	B-Person
-B	I-Person
-.	I-Person
+B.	I-Person
 Parker	I-Person
 ,	O
 Sue	B-Person

@@ -51,8 +51,7 @@ Fellow	O
 in	O
 the	O
 Edward	B-Organization	B-Person
-R	I-Organization	I-Person
-.	I-Organization	I-Person
+R.	I-Organization	I-Person
 Murrow	I-Organization	I-Person
 Center	I-Organization
 for	I-Organization

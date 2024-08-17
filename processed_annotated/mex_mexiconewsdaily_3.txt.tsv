@@ -166,10 +166,8 @@ visit	O
 to	O
 Washington	B-Location
 ,	I-Location
-D	I-Location
-.	I-Location
-C	I-Location
-.	I-Location
+D.	I-Location
+C.	I-Location
 ,	O
 López	B-Person
 Obrador	I-Person

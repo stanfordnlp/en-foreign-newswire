@@ -163,8 +163,7 @@ Callejas	B-Person
 told	O
 Judge	O
 Robert	B-Person
-M	I-Person
-.	I-Person
+M.	I-Person
 Levy	I-Person
 in	O
 United	B-Facility	B-Location
@@ -597,8 +596,7 @@ Babcock	B-Organization
 website	O
 ,	O
 Manuel	B-Person
-J	I-Person
-.	I-Person
+J.	I-Person
 Retureta	I-Person
 ,	O
 declined	O

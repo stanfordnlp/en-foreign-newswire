@@ -1455,8 +1455,7 @@ communities	O
 .	O
 ”	O
 
-P	B-Person
-.	I-Person
+P.	B-Person
 ,	O
 another	O
 woman	O
@@ -1500,8 +1499,7 @@ the	O
 same	O
 time	O
 ,	O
-P	B-Person
-.	I-Person
+P.	B-Person
 says	O
 ,	O
 “	O

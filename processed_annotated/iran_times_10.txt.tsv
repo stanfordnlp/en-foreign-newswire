@@ -819,8 +819,7 @@ Syrian	B-NORP
 affairs	O
 ,	O
 Geir	B-Person
-O	I-Person
-.	I-Person
+O.	I-Person
 Pederson	I-Person
 ,	O
 as	O

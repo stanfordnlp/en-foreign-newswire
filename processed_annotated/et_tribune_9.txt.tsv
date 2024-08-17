@@ -1108,10 +1108,8 @@ the	O
 Dutch	B-NORP
 scholar	O
 Professor	O
-E	B-Person
-.	I-Person
-J	I-Person
-.	I-Person
+E.	B-Person
+J.	I-Person
 Van	I-Person
 Donzel	I-Person
 in	O
