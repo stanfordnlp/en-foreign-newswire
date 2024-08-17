@@ -14,8 +14,7 @@ Township	I-Location
 yesterday	O
 reached	O
 40.7	O
-°	O
-C	O
+°C	O
 ,	O
 the	O
 highest	O
@@ -74,8 +73,7 @@ in	O
 2019	B-Date
 at	O
 39.2	O
-°	O
-C	O
+°C	O
 ,	O
 adding	O
 that	O
@@ -107,8 +105,7 @@ Township	I-Location
 also	O
 topped	O
 40	O
-°	O
-C	O
+°C	O
 .	O
 
 Mercury	B-Misc
@@ -334,8 +331,7 @@ forecast	O
 to	O
 reach	O
 40	O
-°	O
-C	O
+°C	O
 on	O
 Sunday	B-Date
 or	O
