@@ -126,9 +126,8 @@ as	O
 some	O
 SM	B-Organization	B-Organization
 Rookies	I-Organization
-haven	O
-’	O
-t	O
+have	O
+n’t	O
 –	O
 the	O
 unveiling	O
@@ -408,9 +407,8 @@ soundtracks	O
 ,	O
 there	O
 simply	O
-doesn	O
-’	O
-t	O
+does	O
+n’t	O
 seem	O
 to	O
 be	O
@@ -470,9 +468,8 @@ NCT	B-Organization
 ’s	O
 continued	O
 growth	O
-won	O
-’	O
-t	O
+wo	O
+n’t	O
 at	O
 one	O
 point	O
@@ -493,9 +490,8 @@ into	O
 it	O
 ,	O
 it	O
-won	O
-’	O
-t	O
+wo	O
+n’t	O
 be	O
 this	O
 new	O
@@ -589,9 +585,8 @@ please	O
 )	O
 ,	O
 I	O
-can	O
-’	O
-t	O
+ca	O
+n’t	O
 help	O
 but	O
 wonder	O
@@ -822,9 +817,8 @@ already	O
 know	O
 that	O
 fans	O
-aren	O
-’	O
-t	O
+are	O
+n’t	O
 necessarily	O
 feeling	O
 some	O
@@ -1007,9 +1001,8 @@ pervasive	O
 will	O
 they	O
 ,	O
-won	O
-’	O
-t	O
+wo	O
+n’t	O
 they	O
 ?	O
 ”	O
@@ -1055,9 +1048,8 @@ to	O
 tell	O
 fans	O
 they	O
-aren	O
-’	O
-t	O
+are	O
+n’t	O
 leaving	O
 an	O
 NCT	B-Organization

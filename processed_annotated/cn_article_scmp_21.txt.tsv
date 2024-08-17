@@ -254,9 +254,8 @@ begins	O
 
 “	O
 I	O
-didn	O
-’	O
-t	O
+did	O
+n’t	O
 really	O
 want	O
 to	O
@@ -615,9 +614,8 @@ K	B-Person
 Will	I-Person
 ’s	O
 Please	B-Misc
-Don	I-Misc
-’	I-Misc
-t	I-Misc
+Do	I-Misc
+n’t	I-Misc
 …	O
 ,	O
 in	O
@@ -658,9 +656,8 @@ groom	O
 ,	O
 making	O
 Please	B-Misc
-Don	I-Misc
-’	I-Misc
-t	I-Misc
+Do	I-Misc
+n’t	I-Misc
 one	O
 of	O
 the	O

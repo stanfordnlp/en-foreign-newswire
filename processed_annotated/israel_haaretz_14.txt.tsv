@@ -41,9 +41,8 @@ a	O
 jail	O
 sentence	O
 ,	O
-hasn	O
-’	O
-t	O
+has	O
+n’t	O
 admitted	O
 to	O
 any	O
@@ -555,9 +554,8 @@ with	O
 dismissal	O
 if	O
 they	O
-didn	O
-’	O
-t	O
+did	O
+n’t	O
 cooperate	O
 .	O
 
@@ -676,16 +674,14 @@ claims	O
 the	O
 criminal	O
 “	O
-wasn	O
-’	O
-t	O
+was	O
+n’t	O
 a	O
 Gur	B-NORP
 Hasid	I-NORP
 and	O
-wasn	O
-’	O
-t	O
+was	O
+n’t	O
 close	O
 to	O
 Litzman	B-Person

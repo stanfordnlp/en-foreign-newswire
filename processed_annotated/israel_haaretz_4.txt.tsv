@@ -484,9 +484,8 @@ ultra	B-NORP
 -	I-NORP
 Orthodox	I-NORP
 students	O
-aren	O
-’	O
-t	O
+are	O
+n’t	O
 tested	O
 at	O
 all	O
@@ -508,9 +507,8 @@ lower	O
 since	O
 Haredi	B-NORP
 schools	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 for	O
 the	O
 most	O
@@ -767,9 +765,8 @@ Israeli	B-NORP
 schools	O
 contend	O
 with	O
-isn	O
-’	O
-t	O
+is	O
+n’t	O
 a	O
 lack	O
 of	O
@@ -839,9 +836,8 @@ older	O
 But	O
 increased	O
 pay	O
-isn	O
-’	O
-t	O
+is	O
+n’t	O
 connected	O
 with	O
 job	O
@@ -1150,9 +1146,8 @@ cases	O
 ,	O
 the	O
 schools	O
-aren	O
-’	O
-t	O
+are	O
+n’t	O
 even	O
 aspiring	O
 to	O
@@ -1207,9 +1202,8 @@ worse	O
 
 Those	O
 shortages	O
-can	O
-’	O
-t	O
+ca	O
+n’t	O
 be	O
 easily	O
 solved	O
@@ -1447,9 +1441,8 @@ educational	O
 system	O
 ,	O
 it	O
-hasn	O
-’	O
-t	O
+has	O
+n’t	O
 happened	O
 .	O
 We	O
@@ -1487,9 +1480,8 @@ Today	O
 the	O
 teaching	O
 profession	O
-doesn	O
-’	O
-t	O
+does	O
+n’t	O
 attract	O
 the	O
 best	O
@@ -1652,9 +1644,8 @@ people	O
 but	O
 the	O
 average	O
-isn	O
-’	O
-t	O
+is	O
+n’t	O
 good	O
 enough	O
 .	O

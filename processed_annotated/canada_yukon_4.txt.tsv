@@ -222,9 +222,8 @@ programming	O
 ,	O
 something	O
 they	O
-hadn	O
-’	O
-t	O
+had	O
+n’t	O
 done	O
 before	O
 .	O
@@ -400,9 +399,8 @@ store	O
 ’s	O
 Carcross	B-Location
 location	O
-hasn	O
-’	O
-t	O
+has	O
+n’t	O
 fully	O
 opened	O
 since	O
@@ -494,9 +492,8 @@ so	O
 (	O
 tourists	O
 )	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 really	O
 have	O
 the	O
@@ -582,9 +579,8 @@ Association	I-Organization
 ,	O
 said	O
 she	O
-doesn	O
-’	O
-t	O
+does	O
+n’t	O
 have	O
 exact	O
 numbers	O

@@ -19,9 +19,8 @@ Latin	I-Organization	B-NORP
 American	I-Organization	I-NORP
 Art	I-Organization
 ,	O
-didn	O
-’	O
-t	O
+did	O
+n’t	O
 expect	O
 that	O
 a	O
@@ -2105,9 +2104,8 @@ The	O
 original	O
 Sick	B-Misc
 Child	I-Misc
-hasn	O
-’	O
-t	O
+has	O
+n’t	O
 been	O
 to	O
 Venezuela	B-Location

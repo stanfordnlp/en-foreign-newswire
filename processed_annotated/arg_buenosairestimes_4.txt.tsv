@@ -212,9 +212,8 @@ class	O
 Most	O
 informed	O
 Argentines	B-NORP
-aren	O
-’	O
-t	O
+are	O
+n’t	O
 too	O
 interested	O
 in	O
@@ -993,9 +992,8 @@ series	O
 of	O
 meetings	O
 that	O
-hadn	O
-’	O
-t	O
+had	O
+n’t	O
 been	O
 occurring	O
 given	O
