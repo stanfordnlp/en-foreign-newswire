@@ -79,6 +79,7 @@ of	O
 the	O
 announcement	O
 .	O
+
 In	O
 a	O
 tweet	O
@@ -123,6 +124,7 @@ fix	O
 the	O
 problem	O
 .	O
+
 The	O
 site	O
 will	O
@@ -179,6 +181,7 @@ and	O
 fuel	O
 subsidies	O
 .	O
+
 While	O
 discounts	O
 on	O
@@ -308,6 +311,7 @@ wives	O
 and	O
 children	O
 .	O
+
 The	O
 programme	O
 also	O
@@ -619,7 +623,8 @@ Dh	B-Money
 2,000	I-Money
 '	O
 expertise	O
-allowance'	O
+allowance	O
+'	O
 to	O
 be	O
 given	O
@@ -757,18 +762,13 @@ ministry	O
 's	O
 website	O
 (	O
-www	O
-.	O
-mocd	O
-.	O
-gov	O
-.	O
-ae	O
+www.mocd.gov.ae	O
 )	O
 and	O
 smart	O
 application	O
 .	O
+
 Registrations	O
 must	O
 be	O
@@ -808,6 +808,7 @@ with	O
 relevant	O
 authorities	O
 .	O
+
 A	O
 monthly	O
 subsidy	O
@@ -866,6 +867,7 @@ from	O
 July	B-Date
 5	I-Date
 .	O
+
 Eligibility	O
 criteria	O
 for	O
@@ -1016,6 +1018,7 @@ Dh	B-Money
 per	O
 month	O
 .	O
+
 The	O
 ministry	O
 must	O
@@ -1096,6 +1099,7 @@ Dh	B-Money
 per	O
 litre	O
 .	O
+
 The	O
 head	O
 of	O
@@ -1122,6 +1126,7 @@ additional	O
 200	O
 litres	O
 .	O
+
 Meanwhile	O
 ,	O
 the	O
@@ -1189,6 +1194,7 @@ unemployed	O
 and	O
 unmarried	O
 .	O
+
 Fuel	O
 subsidy	O
 applications	O
@@ -1235,6 +1241,7 @@ price	O
 inflation	O
 rate	O
 .	O
+
 The	O
 value	O
 of	O
@@ -1252,6 +1259,7 @@ for	O
 basic	O
 foodstuffs	O
 .	O
+
 Food	O
 allowances	O
 can	O
