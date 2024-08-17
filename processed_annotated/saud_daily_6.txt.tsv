@@ -45,8 +45,7 @@ Authority	I-Organization
 CMA	B-Organization
 )	O
 ,	O
-Mr	O
-.	O
+Mr.	O
 Mohammed	B-Person
 ElKuwaiz	I-Person
 ,	O
@@ -123,8 +122,7 @@ opening	O
 speech	O
 ,	O
 while	O
-Mr	O
-.	O
+Mr.	O
 Mohammed	B-Person
 Elkuwaiz	I-Person
 welcomed	O
@@ -368,8 +366,7 @@ entrepreneurs	O
 .	O
 ”	O
 said	O
-Mr	O
-.	O
+Mr.	O
 Alkuwaiz	B-Person
 
 Nezar	B-Person

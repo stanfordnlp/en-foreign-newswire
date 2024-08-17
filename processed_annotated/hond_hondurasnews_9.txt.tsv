@@ -49,8 +49,7 @@ court	O
 in	O
 Brooklyn	B-Location
 ,	O
-Mr	O
-.	O
+Mr.	O
 Callejas	B-Person
 admitted	O
 he	O
@@ -76,8 +75,7 @@ Honduran	B-NORP
 national	O
 team	O
 .	O
-Mr	O
-.	O
+Mr.	O
 Callejas	B-Person
 paid	O
 much	O
@@ -129,8 +127,7 @@ years	O
 in	O
 prison	O
 —	O
-Mr	O
-.	O
+Mr.	O
 Callejas	B-Person
 became	O
 the	O
@@ -158,8 +155,7 @@ and	O
 authority	O
 ,	O
 ”	O
-Mr	O
-.	O
+Mr.	O
 Callejas	B-Person
 ,	O
 72	O
@@ -198,8 +194,7 @@ payments	O
 .	O
 ”	O
 
-Mr	O
-.	O
+Mr.	O
 Callejas	B-Person
 spent	O
 13	O
@@ -291,8 +286,7 @@ suit	O
 and	O
 tie	O
 ,	O
-Mr	O
-.	O
+Mr.	O
 Callejas	B-Person
 said	O
 in	O
@@ -343,8 +337,7 @@ According	O
 to	O
 prosecutors	O
 ,	O
-Mr	O
-.	O
+Mr.	O
 Callejas	B-Person
 and	O
 a	O
@@ -430,8 +423,7 @@ his	O
 guilty	O
 plea	O
 ,	O
-Mr	O
-.	O
+Mr.	O
 Callejas	O
 agreed	O
 to	O
@@ -533,8 +525,7 @@ that	O
 second	O
 round	O
 ,	O
-Mr	O
-.	O
+Mr.	O
 Callejas	B-Person
 is	O
 the	O
@@ -569,8 +560,7 @@ to	O
 charges	O
 .	O
 
-Mr	O
-.	O
+Mr.	O
 Callejas	B-Person
 ’s	O
 plea	O
@@ -629,8 +619,7 @@ Monday	B-Date
 Judge	O
 Levy	B-Person
 complimented	O
-Mr	O
-.	O
+Mr.	O
 Callejas	B-Person
 on	O
 the	O

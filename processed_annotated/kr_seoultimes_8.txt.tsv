@@ -57,8 +57,7 @@ business	O
 delegation	O
 headed	O
 by	O
-Mr	O
-.	O
+Mr.	O
 Mukesh	B-Person
 Puri	I-Person
 ,	O
@@ -105,8 +104,7 @@ special	O
 speech	O
 right	O
 after	O
-Mr	O
-.	O
+Mr.	O
 Vasudev	B-Person
 Tumbe	I-Person
 ,	O
