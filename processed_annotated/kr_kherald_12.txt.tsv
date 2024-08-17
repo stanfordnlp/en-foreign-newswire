@@ -425,8 +425,7 @@ cannot	O
 be	O
 reversed	O
 .	O
-Rep	O
-.	O
+Rep.	O
 Kim	B-Person
 Nam	I-Person
 -	I-Person
@@ -668,8 +667,7 @@ with	O
 8.8	O
 percent	O
 .	O
-Rep	O
-.	O
+Rep.	O
 Lee	B-Person
 Jae	I-Person
 -	I-Person
@@ -682,8 +680,7 @@ with	O
 percent	O
 ,	O
 while	O
-Rep	O
-.	O
+Rep.	O
 Park	B-Person
 Yong	I-Person
 -	I-Person

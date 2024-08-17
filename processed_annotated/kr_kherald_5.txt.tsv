@@ -479,8 +479,7 @@ day	O
 .	O
 
 When	O
-Rep	O
-.	O
+Rep.	O
 Park	B-Person
 Bum	I-Person
 -	I-Person
@@ -666,8 +665,7 @@ own	O
 good	O
 .	O
 
-Rep	O
-.	O
+Rep.	O
 Kim	B-Person
 Ki	I-Person
 -	I-Person
