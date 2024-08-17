@@ -129,9 +129,7 @@ military	O
 "	O
 Extremely	O
 saddened	O
-.	O
-.	O
-.	O
+...	O
 condemn	O
 the	O
 junta	O
@@ -148,8 +146,7 @@ of	O
 the	O
 NUG	B-Organization
 president	O
-’	O
-s	O
+’s	O
 office	O
 ,	O
 told	O
@@ -158,6 +155,7 @@ in	O
 a	O
 message	O
 .	O
+
 "	O
 The	O
 global	O
@@ -270,8 +268,7 @@ another	O
 example	O
 of	O
 Myanmar	B-Location
-’	O
-s	O
+’s	O
 atrocious	O
 human	O
 rights	O
@@ -625,8 +622,7 @@ increase	O
 in	O
 the	O
 junta	O
-’	O
-s	O
+’s	O
 brutality	O
 ,	O
 which	O
@@ -800,8 +796,7 @@ ethnic	O
 militia	O
 in	O
 Myanmar	B-Location
-’	O
-s	O
+’s	O
 restive	O
 Rakhine	B-Location
 State	I-Location

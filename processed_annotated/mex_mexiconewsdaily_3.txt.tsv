@@ -62,8 +62,7 @@ the	O
 death	O
 of	O
 Mexico	B-Location
-’	O
-s	O
+’s	O
 first	O
 indigenous	O
 leader	O
@@ -98,8 +97,7 @@ responding	O
 to	O
 a	O
 journalist	O
-’	O
-s	O
+’s	O
 charge	O
 that	O
 judges	O
@@ -112,6 +110,7 @@ earning	O
 vast	O
 sums	O
 .	O
+
 “	O
 A	O
 kind	O
@@ -143,8 +142,7 @@ one	O
 off	O
 “	O
 Who	O
-’	O
-s	O
+’s	O
 who	O
 in	O
 the	O
@@ -190,20 +188,16 @@ to	O
 his	O
 meeting	O
 with	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 President	O
 Joe	B-Person
 Biden	I-Person
 and	O
 insisted	O
 that	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 security	O
 forces	O
 played	O
@@ -277,6 +271,7 @@ violate	O
 any	O
 rights	O
 .	O
+
 He	O
 exercised	O
 his	O
@@ -328,16 +323,12 @@ fighting	O
 extradition	O
 from	O
 the	O
-U	B-Location
-.	I-Location
-K	I-Location
-.	I-Location
+U.	B-Location
+K.	I-Location
 to	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 
 Tuesday	B-Date
 
@@ -363,18 +354,17 @@ banana	O
 sellers	O
 in	O
 Mexico	B-Location
-wouldn	O
-’	O
-t	O
+would	O
+n’t	O
 be	O
 compromised	O
 .	O
+
 He	O
 complimented	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 center	O
 -	O
 right	O
@@ -387,9 +377,8 @@ before	O
 noting	O
 “	O
 it	O
-hasn	O
-’	O
-t	O
+has	O
+n’t	O
 been	O
 easy	O
 for	O
@@ -403,6 +392,7 @@ in	O
 prisons	O
 .	O
 ”	O
+
 Another	O
 deadly	O
 prison	O
@@ -441,10 +431,10 @@ domestic	O
 security	O
 front	O
 .	O
+
 “	O
 It	O
-’	O
-s	O
+’s	O
 been	O
 decided	O
 that	O
@@ -485,6 +475,7 @@ from	O
 the	O
 courts	O
 .	O
+
 With	O
 the	O
 definitional	O
@@ -538,15 +529,13 @@ tracks	O
 in	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 southeast	O
 .	O
 
 “	O
-Doesn	O
-’	O
-t	O
+Does	O
+n’t	O
 that	O
 argument	O
 have	O
@@ -638,8 +627,7 @@ in	O
 her	O
 “	O
 Who	B-Misc
-’	I-Misc
-s	I-Misc
+’s	I-Misc
 who	I-Misc
 in	I-Misc
 the	I-Misc
@@ -650,6 +638,7 @@ week	I-Date
 ”	O
 section	O
 .	O
+
 García	B-Person
 falsified	O
 a	O
@@ -663,10 +652,8 @@ by	O
 journalists	O
 that	O
 claimed	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 President	O
 Joe	B-Person
 Biden	I-Person
@@ -686,15 +673,15 @@ the	O
 northern	O
 border	O
 .	O
+
 García	B-Person
 also	O
 assured	O
 that	O
 the	O
 president	O
-wasn	O
-’	O
-t	O
+was	O
+n’t	O
 informed	O
 of	O
 the	O
@@ -703,10 +690,8 @@ of	O
 Caro	B-Person
 Quintero	I-Person
 by	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 Vice	O
 President	O
 Kamala	B-Person
@@ -728,17 +713,15 @@ to	O
 demonstrate	O
 that	O
 Mexico	B-Location
-wasn	O
-’	O
-t	O
+was	O
+n’t	O
 taking	O
 orders	O
 from	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
+
 Responding	O
 to	O
 criticism	O
@@ -757,6 +740,7 @@ ordered	O
 a	O
 song	O
 .	O
+
 “	O
 We	O
 can	O
@@ -769,8 +753,7 @@ our	O
 country	O
 …	O
 Let	O
-’	O
-s	O
+’s	O
 see	O
 if	O
 you	O
@@ -786,10 +769,10 @@ Che	I-Person
 he	O
 said	O
 .	O
+
 Chico	B-Person
 Che	I-Person
-’	O
-s	O
+’s	O
 song	O
 “	O
 ¡	B-Misc
@@ -827,10 +810,8 @@ conference	O
 on	O
 Thursday	B-Date
 after	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 and	O
 Canadian	B-NORP
 officials	O
@@ -844,14 +825,14 @@ talks	O
 over	O
 the	O
 government	O
-’	O
-s	O
+’s	O
 favoring	O
 of	O
 state	O
 energy	O
 companies	O
 .	O
+
 “	O
 There	O
 is	O
@@ -932,8 +913,7 @@ our	O
 agenda	O
 ?	O
 It	O
-’	O
-s	O
+’s	O
 not	O
 to	O
 privatize	O
@@ -972,6 +952,7 @@ another	O
 conflict	O
 surfaced	O
 .	O
+
 A	O
 journalist	O
 complained	O
@@ -981,9 +962,8 @@ lengthy	O
 speech	O
 that	O
 she	O
-hadn	O
-’	O
-t	O
+had	O
+n’t	O
 been	O
 granted	O
 access	O
@@ -1001,6 +981,7 @@ to	O
 hard	O
 questions	O
 .	O
+
 When	O
 another	O
 reporter	O
@@ -1013,6 +994,7 @@ was	O
 swiftly	O
 dismissed	O
 .	O
+
 “	O
 Shut	O
 up	O
@@ -1028,14 +1010,13 @@ your	O
 moment	O
 ,	O
 I	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 interrupt	O
 .	O
+
 You	O
-’	O
-re	O
+’re	O
 a	O
 palero	O
 ,	O
@@ -1094,6 +1075,7 @@ Jalisco	I-Location
 on	O
 Friday	B-Date
 .	O
+
 He	O
 wished	O
 President	O
@@ -1129,6 +1111,7 @@ of	O
 the	O
 treaty	O
 .	O
+
 Reading	O
 from	O
 chapter	O
@@ -1145,8 +1128,7 @@ revision	O
 at	O
 the	O
 government	O
-’	O
-s	O
+’s	O
 insistence	O
 ,	O
 he	O
@@ -1203,8 +1185,7 @@ than	O
 half	O
 of	O
 Mexico	B-Location
-’	O
-s	O
+’s	O
 territory	O
 to	O
 the	O
@@ -1215,14 +1196,13 @@ S	I-Location
 in	O
 1848	B-Date
 .	O
+
 He	O
 later	O
 called	O
 out	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 Secretary	O
 of	O
 State	O
@@ -1231,8 +1211,7 @@ Blinken	I-Person
 for	O
 criticizing	O
 Mexico	B-Location
-’	O
-s	O
+’s	O
 record	O
 for	O
 violence	O
@@ -1290,6 +1269,7 @@ piece	O
 of	O
 cake	O
 .	O
+
 “	O
 Of	O
 course	O
@@ -1301,9 +1281,9 @@ it	O
 is	O
 difficult	O
 .	O
+
 It	O
-’	O
-s	O
+’s	O
 not	O
 tortas	O
 ahogadas	O

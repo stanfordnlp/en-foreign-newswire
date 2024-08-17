@@ -12,7 +12,8 @@ as	O
 '	O
 John	B-Person
 Wick	I-Person
-CEO'	I-Person
+CEO	I-Person
+'	O
 on	O
 social	O
 media	O
@@ -185,6 +186,7 @@ in	O
 that	O
 case	O
 .	O
+
 -	O
 unWrap	B-Organization
 .	I-Organization

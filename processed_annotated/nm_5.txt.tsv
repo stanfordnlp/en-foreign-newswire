@@ -85,6 +85,7 @@ Children	I-Organization
 's	I-Organization
 Trust	I-Organization
 .	O
+
 This	O
 is	O
 one	O
@@ -107,6 +108,7 @@ grateful	O
 to	O
 Namibia	B-Location
 .	O
+
 There	O
 is	O
 nothing	O
@@ -149,6 +151,7 @@ have	O
 a	O
 voice	O
 .	O
+
 Every	O
 Namibian	B-NORP
 has	O
@@ -181,6 +184,7 @@ just	O
 for	O
 celebrities	O
 .	O
+
 Each	O
 and	O
 every	O
@@ -226,6 +230,7 @@ coach	O
 the	O
 contestants	O
 .	O
+
 They	O
 are	O
 all	O
@@ -234,6 +239,7 @@ and	O
 love	O
 Namibia	B-Location
 .	O
+
 I	O
 am	O
 so	O
@@ -331,6 +337,7 @@ it	O
 ends	O
 there	O
 .	O
+
 What	O
 we	O
 do	O
