@@ -44,6 +44,7 @@ Waqif	I-Organization
 Services	I-Organization
 Centre	I-Organization
 .	O
+
 A	O
 wide	O
 range	O
@@ -272,6 +273,7 @@ for	O
 the	O
 festival	O
 .	O
+
 The	O
 venue	O
 is	O
@@ -316,6 +318,7 @@ to	O
 9pm	O
 daily	O
 .	O
+
 On	O
 Fridays	B-Date
 ,	O
@@ -325,7 +328,8 @@ open	O
 from	O
 1pm	O
 to	O
-10pm.	O
+10pm	O
+.	O
 
 More	O
 than	O

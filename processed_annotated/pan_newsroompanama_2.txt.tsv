@@ -32,8 +32,7 @@ and	O
 remove	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 comptroller	O
 .	O
 
@@ -153,10 +152,10 @@ he	O
 said	O
 on	O
 TVN	B-Organization
+'s	O
 '	O
-s	O
+Radar	B-Misc
 '	O
-Radar'	B-Misc
 program	O
 .	O
 

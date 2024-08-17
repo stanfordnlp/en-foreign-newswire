@@ -66,6 +66,7 @@ the	O
 most	O
 successful	O
 .	O
+
 When	O
 I	O
 heard	O
@@ -90,7 +91,8 @@ part	O
 of	O
 something	O
 so	O
-big'	O
+big	O
+'	O
 ”	O
 ,	O
 explained	O
@@ -154,6 +156,7 @@ chairman	O
 Martin	B-Person
 Broughton	I-Person
 .	O
+
 The	O
 driver	O
 has	O
@@ -194,6 +197,7 @@ the	O
 bidding	O
 contest	O
 .	O
+
 It	O
 was	O
 incredibly	O
@@ -409,6 +413,7 @@ invasion	O
 of	O
 Ukraine	B-Location
 .	O
+
 The	O
 club	O
 obtained	O

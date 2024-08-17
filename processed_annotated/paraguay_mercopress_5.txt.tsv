@@ -25,6 +25,7 @@ its	O
 access	O
 channel	O
 .	O
+
 The	O
 decision	O
 follows	O
@@ -193,7 +194,8 @@ ports	O
 in	O
 the	O
 '	O
-gaucho'	O
+gaucho	O
+'	O
 state	O
 ,	O
 Porto	B-Location
@@ -244,6 +246,7 @@ of	O
 the	O
 year	O
 .	O
+
 Final	O
 authorization	O
 for	O
@@ -284,6 +287,7 @@ transporting	O
 more	O
 products	O
 .	O
+
 The	O
 cost	O
 will	O
@@ -307,6 +311,7 @@ the	O
 customs	O
 broker	O
 .	O
+
 He	O
 also	O
 commented	O
@@ -383,8 +388,7 @@ contacts	O
 to	O
 the	O
 coast	O
-.	O
-.	O
+...	O
 
 “	O
 This	O
@@ -528,6 +532,7 @@ environmental	O
 clearance	O
 phase	O
 .	O
+
 He	O
 said	O
 that	O
