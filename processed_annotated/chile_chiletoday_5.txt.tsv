@@ -34,8 +34,7 @@ false	O
 declaration	O
 regarding	O
 Castillo	B-Person
-’	O
-s	O
+’s	O
 particulars	O
 ,	O
 Chile	B-Location
@@ -43,12 +42,10 @@ now	O
 waits	O
 for	O
 FIFA	B-Organization	B-Organization
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Disciplinary	I-Organization
 Commission	I-Organization
-’	O
-s	O
+’s	O
 decision	O
 .	O
 Chile	B-Location
@@ -76,8 +73,7 @@ immediately	O
 vault	O
 into	O
 Ecuador	B-Location
-’	O
-s	O
+’s	O
 place	O
 at	O
 the	O
@@ -190,8 +186,7 @@ paperwork	O
 According	O
 to	O
 FIFA	B-Organization
-’	O
-s	O
+’s	O
 policy	O
 ,	O
 matches	O
@@ -328,8 +323,7 @@ the	O
 irregularities	O
 in	O
 Castillo	B-Person
-’	O
-s	O
+’s	O
 documents	O
 and	O
 emphasized	O

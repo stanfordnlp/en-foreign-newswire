@@ -88,8 +88,7 @@ Tapachula	B-Location
 according	O
 to	O
 WOLA	B-Organization
-’	O
-s	O
+’s	O
 data	O
 .	O
 
@@ -118,8 +117,7 @@ reported	O
 .	O
 
 WOLA	B-Organization
-’	O
-s	O
+’s	O
 Mexico	B-Location
 director	O
 Stephanie	B-Person
@@ -137,10 +135,8 @@ with	O
 visas	O
 due	O
 to	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 pressure	O
 .	O
 
@@ -167,8 +163,7 @@ be	O
 avoided	O
 …	O
 it	O
-’	O
-s	O
+’s	O
 understood	O
 that	O
 the	O
@@ -202,10 +197,8 @@ Because	O
 for	O
 [	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 government	O
 ]	O
 ,	O
@@ -271,8 +264,7 @@ to	O
 demand	O
 .	O
 It	O
-’	O
-s	O
+’s	O
 a	O
 big	O
 country	O
@@ -288,13 +280,11 @@ single	O
 city	O
 like	O
 Tapachula	B-Location
-can	O
-’	O
-t	O
+ca	O
+n’t	O
 .	O
 It	O
-’	O
-s	O
+’s	O
 not	O
 logical	O
 to	O
@@ -504,18 +494,15 @@ visas	O
 and	O
 increase	O
 COMAR	B-Organization
-’	O
-s	O
+’s	O
 budget	O
 .	O
 It	O
 argues	O
 that	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 government	O
 should	O
 prioritize	O

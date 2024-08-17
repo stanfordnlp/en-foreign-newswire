@@ -1,8 +1,7 @@
 https://www.aptnnews.ca/national-news/tuberculosis-tb-pangnirtung-nunavut-outbreak/	O
 
 Pangnirtung	B-Location
-’	O
-s	O
+’s	O
 community	O
 hall	O
 is	O
@@ -36,8 +35,7 @@ Inuit	B-NORP
 
 The	O
 territory	O
-’	O
-s	O
+’s	O
 Health	B-Organization
 Department	I-Organization
 declared	O
@@ -65,8 +63,7 @@ Nolan	I-Person
 ,	O
 the	O
 territory	O
-’	O
-s	O
+’s	O
 executive	O
 director	O
 of	O
@@ -78,8 +75,7 @@ region	O
 ,	O
 said	O
 there	O
-’	O
-s	O
+’s	O
 been	O
 an	O
 increase	O
@@ -211,13 +207,11 @@ these	O
 numbers	O
 publicly	O
 that	O
-doesn	O
-’	O
-t	O
+does	O
+n’t	O
 put	O
 people	O
-’	O
-s	O
+’s	O
 privacy	O
 at	O
 risk	O
@@ -260,8 +254,7 @@ staff	O
 
 “	O
 It	O
-’	O
-s	O
+’s	O
 the	O
 exact	O
 same	O
@@ -277,8 +270,7 @@ centre	O
 ,	O
 but	O
 it	O
-’	O
-s	O
+’s	O
 now	O
 being	O
 delivered	O
@@ -325,9 +317,8 @@ building	O
 
 “	O
 It	O
-isn	O
-’	O
-t	O
+is	O
+n’t	O
 a	O
 safe	O
 environment	O
@@ -346,8 +337,7 @@ have	O
 an	O
 environment	O
 that	O
-’	O
-s	O
+’s	O
 more	O
 open	O
 and	O
@@ -489,8 +479,7 @@ community	O
 
 “	O
 We	O
-’	O
-re	O
+’re	O
 kind	O
 of	O
 at	O
@@ -506,8 +495,7 @@ Eric	B-Person
 Lawlor	I-Person
 ,	O
 Pangnirtung	B-Location
-’	O
-s	O
+’s	O
 mayor	O
 ,	O
 said	O
@@ -521,15 +509,13 @@ the	O
 hall	O
 once	O
 it	O
-’	O
-s	O
+’s	O
 open	O
 .	O
 
 This	O
-isn	O
-’	O
-t	O
+is	O
+n’t	O
 the	O
 first	O
 time	O
@@ -635,18 +621,15 @@ for	O
 the	O
 federal	O
 government	O
-’	O
-s	O
+’s	O
 mismanagement	O
 of	O
 TB	B-Misc
 in	O
 the	O
-1940	B-Date
-s	O
+1940s	B-Date
 and	O
-1960	B-Date
-s	O
+1960s	B-Date
 ,	O
 when	O
 hundreds	O

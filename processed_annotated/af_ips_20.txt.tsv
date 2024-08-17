@@ -39,8 +39,7 @@ governments	O
 to	O
 do	O
 what	O
-’	O
-s	O
+’s	O
 necessary	O
 to	O
 commit	O
@@ -57,8 +56,7 @@ strategies	O
 
 Through	O
 Africa	B-Location
-’	O
-s	O
+’s	O
 post	O
 -	O
 COVID	B-Misc
@@ -82,8 +80,7 @@ reaching	O
 the	O
 Paris	B-Misc	B-Location
 Agreement	I-Misc
-’	O
-s	O
+’s	O
 climate	O
 change	O
 targets	O
@@ -597,8 +594,7 @@ because	O
 of	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 dependency	O
 on	O
 coal	O
@@ -681,8 +677,7 @@ people	O
 ,	O
 then	O
 you	O
-’	O
-re	O
+’re	O
 back	O
 at	O
 the	O
@@ -943,8 +938,7 @@ percent	O
 of	O
 the	O
 world	O
-’	O
-s	O
+’s	O
 mineral	O
 reserves	O
 and	O
@@ -1177,8 +1171,7 @@ Arc	I-Person
 Mujawamariya	I-Person
 ,	O
 Rwanda	B-Location
-’	O
-s	O
+’s	O
 Minister	O
 of	O
 Environment	O

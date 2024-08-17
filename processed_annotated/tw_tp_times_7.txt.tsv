@@ -54,8 +54,7 @@ the	O
 Democratic	B-Organization	B-NORP
 Progressive	I-Organization
 Party	I-Organization
-’	O
-s	O
+’s	O
 Taoyuan	B-Location
 mayoral	O
 candidate	O
@@ -69,8 +68,7 @@ election	O
 obtained	O
 two	O
 master	O
-’	O
-s	O
+’s	O
 degrees	O
 ,	O
 one	O
@@ -86,8 +84,7 @@ NTU	B-Organization
 His	O
 two	O
 master	O
-’	O
-s	O
+’s	O
 theses	O
 are	O
 under	O
@@ -106,11 +103,9 @@ students	O
 .	O
 
 Lin	B-Person
-’	O
-s	O
+’s	O
 master	O
-’	O
-s	O
+’s	O
 thesis	O
 at	O
 NTU	B-Organization
@@ -163,8 +158,7 @@ summary	O
 section	O
 of	O
 Lin	B-Person
-’	O
-s	O
+’s	O
 thesis	O
 ,	O
 151	O
@@ -173,8 +167,7 @@ are	O
 similar	O
 to	O
 Yu	B-Person
-’	O
-s	O
+’s	O
 ,	O
 Tseng	B-Person
 said	O
@@ -204,8 +197,7 @@ are	O
 similar	O
 to	O
 Yu	B-Person
-’	O
-s	O
+’s	O
 ,	O
 he	O
 said	O
@@ -238,8 +230,7 @@ Based	O
 on	O
 the	O
 NTU	B-Organization
-’	O
-s	O
+’s	O
 academic	O
 ethics	O
 regulations	O
@@ -254,8 +245,7 @@ academic	O
 ethics	O
 in	O
 master	O
-’	O
-s	O
+’s	O
 theses	O
 and	O
 doctoral	O
@@ -327,11 +317,9 @@ is	O
 confirmed	O
 that	O
 Lin	B-Person
-’	O
-s	O
+’s	O
 master	O
-’	O
-s	O
+’s	O
 thesis	O
 contravenes	O
 academic	O
@@ -359,12 +347,10 @@ the	O
 structures	O
 of	O
 Lin	B-Person
-’	O
-s	O
+’s	O
 and	O
 Yu	B-Person
-’	O
-s	O
+’s	O
 theses	O
 are	O
 taken	O
@@ -386,8 +372,7 @@ je	I-Person
 Phenomenon	O
 in	O
 Taiwan	B-Location
-’	O
-s	O
+’s	O
 Local	O
 Elections	O
 ,	O

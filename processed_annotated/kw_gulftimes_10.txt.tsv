@@ -39,8 +39,7 @@ acting	O
 director	O
 of	O
 Qatar	B-Location
-'	O
-s	O
+'s	O
 Office	B-Organization
 to	I-Organization
 the	I-Organization
@@ -53,6 +52,7 @@ as	O
 the	O
 chairman	O
 .	O
+
 Representatives	O
 from	O
 the	O
@@ -99,6 +99,7 @@ July	B-Date
 to	I-Date
 24	I-Date
 .	O
+
 The	O
 Berne	B-Organization
 Union	I-Organization
@@ -290,6 +291,7 @@ benefit	O
 of	O
 all	O
 .	O
+
 (	O
 QNA	B-Organization
 )	O

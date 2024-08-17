@@ -31,6 +31,7 @@ Cabinet	B-Organization
 is	O
 formed	O
 .	O
+
 The	O
 order	O
 ,	O
@@ -100,13 +101,13 @@ Cabinet	B-Organization
 is	O
 formed	O
 .	O
+
 Sheikh	O
 Sabah	B-Person
 submitted	O
 the	O
 Cabinet	B-Organization
-'	O
-s	O
+'s	O
 resignation	O
 to	O
 HH	O
@@ -164,6 +165,7 @@ for	O
 snap	O
 polls	O
 .	O
+
 Since	O
 the	O
 premierâ	O
@@ -187,6 +189,7 @@ least	O
 for	O
 now	O
 .	O
+
 It	O
 is	O
 now	O
@@ -216,6 +219,7 @@ new	O
 prime	O
 minister	O
 .	O
+
 There	O
 is	O
 no	O
@@ -266,6 +270,7 @@ of	O
 Kuwaiti	B-NORP
 pensioners	O
 .	O
+
 The	O
 government	O
 had	O
@@ -279,8 +284,7 @@ resignation	O
 but	O
 the	O
 Assembly	B-Organization
-'	O
-s	O
+'s	O
 approval	O
 was	O
 needed	O
@@ -289,6 +293,7 @@ pay	O
 the	O
 grant	O
 .	O
+
 The	O
 Assembly	B-Organization
 could	O
@@ -311,6 +316,7 @@ accepted	O
 nor	O
 rejected	O
 .	O
+
 After	O
 the	O
 resignation	O

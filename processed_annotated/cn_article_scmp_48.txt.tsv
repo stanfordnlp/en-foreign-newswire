@@ -22,8 +22,7 @@ Jianhua	I-Person
 according	O
 to	O
 Ottawa	B-Location
-’	O
-s	O
+’s	O
 embassy	O
 in	O
 Beijing	B-Location
@@ -68,8 +67,7 @@ Chinese	B-NORP
 -	I-NORP
 Canadian	I-NORP
 tycoon	O
-’	O
-s	O
+’s	O
 trial	O
 is	O
 understood	O
@@ -89,8 +87,7 @@ disappearance	O
 from	O
 Hong	B-Location
 Kong	I-Location
-’	O
-s	O
+’s	O
 luxury	O
 Four	B-Organization
 Seasons	I-Organization
@@ -108,8 +105,7 @@ headed	O
 one	O
 of	O
 China	B-Location
-’	O
-s	O
+’s	O
 largest	O
 private	O
 business	O
@@ -252,13 +248,11 @@ be	O
 disclosed	O
 about	O
 Xiao	B-Person
-’	O
-s	O
+’s	O
 connections	O
 with	O
 China	B-Location
-’	O
-s	O
+’s	O
 political	O
 elite	O
 .	O
@@ -326,8 +320,7 @@ Chinese	B-NORP
 President	O
 Xi	B-Person
 Jinping	I-Person
-’	O
-s	O
+’s	O
 sister	O
 and	O
 brother	O
@@ -380,8 +373,7 @@ shares	O
 held	O
 by	O
 Xi	B-Person
-’	O
-s	O
+’s	O
 sister	O
 and	O
 her	O
@@ -396,8 +388,7 @@ his	O
 detention	O
 ,	O
 Xiao	B-Person
-’	O
-s	O
+’s	O
 Tomorrow	B-Organization
 Group	I-Organization
 has	O
@@ -430,8 +421,7 @@ In	O
 2019	B-Date
 ,	O
 China	B-Location
-’	O
-s	O
+’s	O
 central	O
 bank	O
 and	O
@@ -448,8 +438,7 @@ key	O
 part	O
 of	O
 Xiao	B-Person
-’	O
-s	O
+’s	O
 business	O
 empire	O
 –	O

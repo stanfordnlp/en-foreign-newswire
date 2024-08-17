@@ -114,10 +114,8 @@ charge	O
 of	O
 Fredo	B-Location
 Fresas	I-Location
-S	I-Location
-.	I-Location
-A	I-Location
-.	I-Location
+S.	I-Location
+A.	I-Location
 
 In	O
 addition	O
@@ -275,8 +273,7 @@ always	O
 safeguarding	O
 Costa	B-Location
 Rica	I-Location
-’	O
-s	O
+’s	O
 natural	O
 resources	O
 and	O

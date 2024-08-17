@@ -81,8 +81,7 @@ Lamola	I-Person
 ,	O
 South	B-Location
 Africa	I-Location
-’	O
-s	O
+’s	O
 justice	O
 minister	O
 .	O
@@ -268,8 +267,7 @@ year	O
 ,	O
 the	O
 duo	O
-’	O
-s	O
+’s	O
 free	O
 run	O
 finally	O
@@ -293,8 +291,7 @@ Interpol	B-Organization
 
 South	B-Location
 Africa	I-Location
-’	O
-s	O
+’s	O
 National	O
 Director	O
 of	O
@@ -314,8 +311,7 @@ placed	O
 on	O
 the	O
 agency	O
-’	O
-s	O
+’s	O
 most	O
 wanted	O
 list	O
@@ -624,8 +620,7 @@ one	O
 of	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 richest	O
 family	O
 with	O

@@ -16,8 +16,7 @@ restart	O
 of	O
 Hong	B-Location
 Kong	I-Location
-’	O
-s	O
+’s	O
 A	B-Misc	B-Organization
 1	I-Misc	I-Organization
 Division	I-Misc	I-Organization
@@ -88,16 +87,14 @@ seconds	O
 of	O
 the	O
 night	O
-’	O
-s	O
+’s	O
 opening	O
 game	O
 .	O
 
 “	O
 We	O
-’	O
-ve	O
+’ve	O
 waited	O
 six	O
 months	O
@@ -119,8 +116,7 @@ game	O
 .	O
 “	O
 It	O
-’	O
-s	O
+’s	O
 really	O
 good	O
 to	O
@@ -232,8 +228,7 @@ To	O
 be	O
 honest	O
 it	O
-’	O
-s	O
+’s	O
 going	O
 to	O
 take	O
@@ -257,8 +252,7 @@ long	O
 
 “	O
 It	O
-’	O
-s	O
+’s	O
 tough	O
 on	O
 the	O
@@ -274,8 +268,7 @@ up	O
 for	O
 .	O
 We	O
-’	O
-ve	O
+’ve	O
 had	O
 a	O
 couple	O
@@ -283,8 +276,7 @@ of	O
 practices	O
 but	O
 there	O
-’	O
-s	O
+’s	O
 no	O
 substitute	O
 for	O

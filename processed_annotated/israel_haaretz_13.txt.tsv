@@ -125,9 +125,8 @@ police	O
 They	O
 say	O
 they	O
-didn	O
-’	O
-t	O
+did	O
+n’t	O
 even	O
 have	O
 the	O
@@ -171,9 +170,8 @@ victims	O
 
 “	O
 We	O
-didn	O
-’	O
-t	O
+did	O
+n’t	O
 know	O
 what	O
 our	O
@@ -182,9 +180,8 @@ even	O
 were	O
 ,	O
 we	O
-didn	O
-’	O
-t	O
+did	O
+n’t	O
 have	O
 biology	O
 lessons	O
@@ -217,9 +214,8 @@ was	O
 taboo	O
 .	O
 You	O
-didn	O
-’	O
-t	O
+did	O
+n’t	O
 even	O
 know	O
 about	O
@@ -228,9 +224,8 @@ your	O
 period	O
 .	O
 You	O
-didn	O
-’	O
-t	O
+did	O
+n’t	O
 know	O
 when	O
 someone	O
@@ -448,8 +443,7 @@ they	O
 suffered	O
 and	O
 Leifer	B-Person
-’	O
-s	O
+’s	O
 high	O
 status	O
 at	O
@@ -479,8 +473,7 @@ Israel	B-Location
 lobbying	O
 for	O
 Leifer	B-Person
-’	O
-s	O
+’s	O
 extradition	O
 back	O
 to	O
@@ -604,9 +597,8 @@ The	O
 sisters	O
 say	O
 they	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 believe	O
 that	O
 the	O
@@ -665,8 +657,7 @@ manipulative	O
 we	O
 know	O
 she	O
-’	O
-s	O
+’s	O
 smart	O
 .	O
 We	O
@@ -715,9 +706,8 @@ be	O
 fixed	O
 .	O
 We	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 want	O
 to	O
 assign	O
@@ -739,8 +729,7 @@ Yehuda	B-Person
 Fried	I-Person
 ,	O
 Leifer	B-Person
-’	O
-s	O
+’s	O
 lawyer	O
 ,	O
 said	O
@@ -771,13 +760,13 @@ the	O
 mental	O
 health	O
 of	O
-Mrs	O
-.	O
+Mrs.	O
 Leifer	B-Person
 or	O
 anyone	O
 else	O
 .	O
+
 Over	O
 a	O
 long	O
@@ -824,15 +813,14 @@ give	O
 their	O
 assessment	O
 of	O
-Mrs	O
-.	O
+Mrs.	O
 Leifer	B-Person
 .	O
+
 They	O
 have	O
 found	O
-Mrs	O
-.	O
+Mrs.	O
 Leifer	B-Person
 has	O
 a	O
@@ -944,8 +932,7 @@ for	O
 helping	O
 arrange	O
 Leifer	B-Person
-’	O
-s	O
+’s	O
 flight	O
 to	O
 Israel	B-Location
@@ -1096,8 +1083,7 @@ Netanyahu	I-Person
 
 “	O
 It	O
-’	O
-s	O
+’s	O
 been	O
 a	O
 roller	O
@@ -1184,8 +1170,7 @@ experiences	O
 Fried	B-Person
 ,	O
 Leifer	B-Person
-’	O
-s	O
+’s	O
 lawyer	O
 ,	O
 told	O
@@ -1311,8 +1296,7 @@ most	O
 of	O
 the	O
 community	O
-’	O
-s	O
+’s	O
 members	O
 living	O
 on	O
@@ -1331,8 +1315,7 @@ do	O
 with	O
 the	O
 city	O
-’	O
-s	O
+’s	O
 broader	O
 Jewish	B-NORP
 community	O
@@ -1543,8 +1526,7 @@ and	O
 slipped	O
 into	O
 Meyer	B-Person
-’	O
-s	O
+’s	O
 bed	O
 .	O
 Erlich	B-Person
@@ -1679,9 +1661,8 @@ it	O
 .	O
 “	O
 We	O
-didn	O
-’	O
-t	O
+did	O
+n’t	O
 have	O
 the	O
 words	O
@@ -1758,16 +1739,14 @@ it	O
 “	O
 ‘	O
 I	O
-’	O
-m	O
+’m	O
 going	O
 to	O
 tell	O
 everyone	O
 what	O
 you	O
-’	O
-re	O
+’re	O
 doing	O
 ,	O
 ’	O
@@ -1779,9 +1758,8 @@ a	O
 wedding	O
 .	O
 I	O
-didn	O
-’	O
-t	O
+did	O
+n’t	O
 know	O
 what	O
 I	O
@@ -1965,8 +1943,7 @@ often	O
 quoted	O
 the	O
 community	O
-’	O
-s	O
+’s	O
 rabbi	O
 and	O
 had	O
@@ -1981,8 +1958,7 @@ board	O
 They	O
 say	O
 Leifer	B-Person
-’	O
-s	O
+’s	O
 abuse	O
 began	O
 at	O
@@ -2073,16 +2049,14 @@ to	O
 fight	O
 for	O
 Leifer	B-Person
-’	O
-s	O
+’s	O
 extradition	O
 .	O
 
 “	O
 We	O
-won	O
-’	O
-t	O
+wo	O
+n’t	O
 be	O
 done	O
 with	O

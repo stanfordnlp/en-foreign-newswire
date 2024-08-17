@@ -15,8 +15,7 @@ of	O
 the	O
 ongoing	O
 Women	B-Misc
-’	I-Misc
-s	I-Misc
+’s	I-Misc
 World	I-Misc
 Boxing	I-Misc
 Championship	I-Misc
@@ -49,8 +48,7 @@ night	O
 ,	O
 while	O
 Kazakhstan	B-Location
-’	O
-s	O
+’s	O
 Valentina	B-Person
 Khalzova	I-Person
 defeated	O

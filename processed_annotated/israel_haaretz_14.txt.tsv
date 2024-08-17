@@ -41,9 +41,8 @@ a	O
 jail	O
 sentence	O
 ,	O
-hasn	O
-’	O
-t	O
+has	O
+n’t	O
 admitted	O
 to	O
 any	O
@@ -68,8 +67,7 @@ and	O
 Litzman	B-Person
 is	I-Person
 Gur	I-Person
-’	O
-s	O
+’s	O
 representative	O
 in	O
 the	O
@@ -119,8 +117,7 @@ rebuts	O
 allegations	O
 
 Litzman	B-Person
-’	O
-s	O
+’s	O
 office	O
 denied	O
 that	O
@@ -131,8 +128,7 @@ psychiatrist	O
 .	O
 “	O
 It	O
-’	O
-s	O
+’s	O
 regrettable	O
 that	O
 a	O
@@ -188,8 +184,7 @@ responsibly	O
 ”	O
 
 Litzman	B-Person
-’	O
-s	O
+’s	O
 request	O
 of	O
 Dr	O
@@ -240,8 +235,7 @@ heads	O
 the	O
 Prison	B-Organization
 Service	I-Organization
-’	O
-s	O
+’s	O
 mental	O
 health	O
 department	O
@@ -274,8 +268,7 @@ The	O
 sources	O
 said	O
 Litzman	B-Person
-’	O
-s	O
+’s	O
 tactics	O
 went	O
 beyond	O
@@ -306,8 +299,7 @@ subject	O
 .	O
 
 Litzman	B-Person
-’	O
-s	O
+’s	O
 aide	O
 Haim	B-Person
 Justman	I-Person
@@ -440,8 +432,7 @@ Ministry	I-Organization
 during	O
 Yael	B-Person
 German	I-Person
-’	O
-s	O
+’s	O
 term	O
 as	O
 minister	O
@@ -563,9 +554,8 @@ with	O
 dismissal	O
 if	O
 they	O
-didn	O
-’	O
-t	O
+did	O
+n’t	O
 cooperate	O
 .	O
 
@@ -591,14 +581,12 @@ nothing	O
 ,	O
 ”	O
 Litzman	B-Person
-’	O
-s	O
+’s	O
 office	O
 said	O
 of	O
 Birger	B-Person
-’	O
-s	O
+’s	O
 allegations	O
 .	O
 Litzman	B-Person
@@ -675,8 +663,7 @@ unacceptable	O
 ”	O
 
 Litzman	B-Person
-’	O
-s	O
+’s	O
 office	O
 added	O
 that	O
@@ -687,16 +674,14 @@ claims	O
 the	O
 criminal	O
 “	O
-wasn	O
-’	O
-t	O
+was	O
+n’t	O
 a	O
 Gur	B-NORP
 Hasid	I-NORP
 and	O
-wasn	O
-’	O
-t	O
+was	O
+n’t	O
 close	O
 to	O
 Litzman	B-Person
@@ -725,8 +710,7 @@ law	O
 a	O
 sex	O
 offender	O
-’	O
-s	O
+’s	O
 risk	O
 of	O
 recidivism	O

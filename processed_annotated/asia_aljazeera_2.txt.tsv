@@ -18,8 +18,7 @@ scaling	O
 all	O
 the	O
 world	O
-’	O
-s	O
+’s	O
 14	O
 peaks	O
 higher	O
@@ -62,8 +61,7 @@ the	O
 top	O
 of	O
 Pakistan	B-Location
-’	O
-s	O
+’s	O
 Gasherbrum	B-Location
 II	I-Location
 ,	O
@@ -115,8 +113,7 @@ Karki	I-Person
 ,	O
 the	O
 company	O
-’	O
-s	O
+’s	O
 executive	O
 director	O
 told	O
@@ -221,8 +218,7 @@ top	O
 of	O
 the	O
 world	O
-’	O
-s	O
+’s	O
 tallest	O
 peaks	O
 ,	O
@@ -285,8 +281,7 @@ overcrowding	O
 on	O
 the	O
 world	O
-’	O
-s	O
+’s	O
 tallest	O
 mountain	O
 .	O
@@ -352,8 +347,7 @@ all	O
 of	O
 the	O
 world	O
-’	O
-s	O
+’s	O
 14	O
 tallest	O
 peaks	O
@@ -405,8 +399,7 @@ reached	O
 the	O
 iconic	O
 mountain	O
-’	O
-s	O
+’s	O
 summit	O
 for	O
 the	O

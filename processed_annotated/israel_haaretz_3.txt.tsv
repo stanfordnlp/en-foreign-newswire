@@ -45,8 +45,7 @@ no	O
 avail	O
 .	O
 “	O
-Mr	O
-.	O
+Mr.	O
 Wilbushevitz	B-Person
 ,	O
 an	O
@@ -239,8 +238,7 @@ to	O
 improve	O
 the	O
 city	O
-’	O
-s	O
+’s	O
 appearance	O
 .	O
 
@@ -249,9 +247,8 @@ Wilbushevitz	B-Person
 asked	O
 why	O
 he	O
-hadn	O
-’	O
-t	O
+had	O
+n’t	O
 been	O
 informed	O
 of	O
@@ -265,9 +262,8 @@ Pasha	B-Person
 replied	O
 :	O
 “	O
-Aren	O
-’	O
-t	O
+Are	O
+n’t	O
 you	O
 afraid	O
 of	O
@@ -330,8 +326,7 @@ Damascus	B-Location
 appears	O
 in	O
 Wilbushevitz	B-Person
-’	O
-s	O
+’s	O
 memoirs	O
 ,	O
 which	O
@@ -489,8 +484,7 @@ added	O
 .	O
 “	O
 That	O
-’	O
-s	O
+’s	O
 a	O
 frequent	O
 phenomenon	O
@@ -529,8 +523,7 @@ to	O
 improve	O
 the	O
 city	O
-’	O
-s	O
+’s	O
 appearance	O
 included	O
 designing	O
@@ -554,8 +547,7 @@ him	O
 ,	O
 “	O
 What	O
-’	O
-s	O
+’s	O
 the	O
 minimum	O
 amount	O
@@ -743,8 +735,7 @@ later	I-Person
 Sharett	I-Person
 ,	O
 Israel	B-Location
-’	O
-s	O
+’s	O
 first	O
 foreign	O
 minister	O
@@ -861,9 +852,8 @@ as	O
 long	O
 as	O
 I	O
-wouldn	O
-’	O
-t	O
+would	O
+n’t	O
 lose	O
 time	O
 ,	O
@@ -1352,8 +1342,7 @@ Company	I-Organization
 buildings	O
 ,	O
 Haifa	B-Misc
-’	O
-s	O
+’s	O
 central	O
 train	O
 station	O
@@ -1365,8 +1354,7 @@ in	O
 the	O
 northern	O
 city	O
-’	O
-s	O
+’s	O
 Bnei	B-Location	B-Location
 Zion	I-Location	I-Location
 Medical	I-Location
@@ -1420,8 +1408,7 @@ opportunity	O
 to	O
 improve	O
 Pasha	B-Person
-’	O
-s	O
+’s	O
 negative	O
 image	O
 .	O

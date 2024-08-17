@@ -80,8 +80,7 @@ who	O
 founded	O
 the	O
 society	O
-’	O
-s	O
+’s	O
 Japanese	B-NORP
 chapter	O
 ,	O
@@ -191,8 +190,7 @@ Michel	B-Person
 Connelly	I-Person
 ,	O
 Robert	B-Person
-B	I-Person
-.	I-Person
+B.	I-Person
 Parker	I-Person
 ,	O
 Sue	B-Person
@@ -295,8 +293,7 @@ Korean	B-NORP
 .	O
 
 Chi	B-Person
-’	O
-s	O
+’s	O
 contemporary	O
 detective	O
 story	O

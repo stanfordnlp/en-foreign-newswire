@@ -119,10 +119,8 @@ Rights	O
 
 “	O
 The	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 and	O
 Namibia	B-Location
 have	O
@@ -178,8 +176,7 @@ democratic	O
 institutions	O
 .	O
 Namibia	B-Location
-’	O
-s	O
+’s	O
 achievements	O
 on	O
 human	O
@@ -228,8 +225,7 @@ as	O
 well	O
 as	O
 Namibia	B-Location
-’	O
-s	O
+’s	O
 young	O
 political	O
 and	O
@@ -277,10 +273,8 @@ see	O
 first	O
 -	O
 hand	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 Namibia	B-Location
 cooperation	O
 to	O

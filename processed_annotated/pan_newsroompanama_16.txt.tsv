@@ -9,7 +9,8 @@ the	O
 two	O
 '	O
 Gay	B-Misc
-Pride'	I-Misc
+Pride	I-Misc
+'	O
 marches	O
 in	O
 Panama	B-Location
@@ -147,6 +148,7 @@ of	O
 this	O
 population	O
 .	O
+
 The	O
 multicolored	O
 flags	O

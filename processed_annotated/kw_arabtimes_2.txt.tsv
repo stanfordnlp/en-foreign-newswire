@@ -123,8 +123,7 @@ been	O
 named	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 new	O
 prime	O
 minister	O
@@ -292,8 +291,7 @@ been	O
 named	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 new	O
 prime	O
 minister	O
@@ -357,8 +355,7 @@ Sabah	B-Person
 Al	I-Person
 -	I-Person
 Khaled	I-Person
-’	O
-s	O
+’s	O
 dedication	O
 in	O
 serving	O
@@ -463,8 +460,7 @@ Sabah	I-Person
 was	O
 named	O
 Kuwait	B-Location
-’	O
-s	O
+’s	O
 new	O
 prime	O
 minister	O

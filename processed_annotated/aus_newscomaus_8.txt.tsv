@@ -46,8 +46,7 @@ Cooper	I-Person
 attracted	O
 the	O
 nation	O
-’	O
-s	O
+’s	O
 attention	O
 on	O
 June	B-Date
@@ -304,15 +303,13 @@ home	O
 
 “	O
 There	O
-’	O
-s	O
+’s	O
 nowhere	O
 in	O
 Australia	B-Location
 where	O
 it	O
-’	O
-s	O
+’s	O
 more	O
 difficult	O
 to	O

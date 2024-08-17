@@ -262,9 +262,7 @@ troubles	O
 insults	O
 and	O
 obstacles	O
-.	O
-.	O
-.	O
+...	O
 It	O
 is	O
 my	O
@@ -354,8 +352,7 @@ school	O
 in	O
 Tamil	B-Location	B-Location
 Nadu	I-Location	I-Location
-’	I-Location
-s	I-Location
+’s	I-Location
 Tiruvallur	I-Location
 district	I-Location
 was	O
@@ -367,8 +364,7 @@ premises	O
 of	O
 the	O
 institution	O
-’	O
-s	O
+’s	O
 hostel	O
 .	O
 

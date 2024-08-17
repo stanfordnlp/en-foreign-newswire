@@ -170,8 +170,7 @@ element	O
 in	O
 meeting	O
 Namibia	B-Location
-’	O
-s	O
+’s	O
 current	O
 and	O
 future	O
@@ -292,8 +291,7 @@ will	O
 significantly	O
 increase	O
 Namibia	B-Location
-’	O
-s	O
+’s	O
 international	O
 bandwidth	O
 capacity	O
@@ -335,8 +333,7 @@ data	O
 ”	O
 
 Equiano	B-Product
-’	O
-s	O
+’s	O
 arrival	O
 in	O
 Namibia	B-Location
@@ -398,8 +395,7 @@ to	O
 support	O
 the	O
 continent	O
-’	O
-s	O
+’s	O
 digital	O
 transformation	O
 .	O

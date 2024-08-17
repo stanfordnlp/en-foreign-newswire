@@ -345,8 +345,7 @@ incident	O
 ”	O
 Smart	B-Organization
 Group	I-Organization
-’	O
-s	O
+’s	O
 general	O
 manager	O
 Shamsul	B-Person
@@ -407,8 +406,7 @@ critical	O
 condition	O
 ,	O
 Chittagong	B-Location
-’	O
-s	O
+’s	O
 chief	O
 doctor	O
 Mohammed	B-Person
@@ -443,8 +441,7 @@ Bangladesh	B-Location
 is	O
 the	O
 world	O
-’	O
-s	O
+’s	O
 second	O
 -	O
 biggest	O

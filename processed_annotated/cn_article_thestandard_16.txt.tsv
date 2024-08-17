@@ -91,8 +91,7 @@ April	B-Date
 following	O
 the	O
 city	O
-’	O
-s	O
+’s	O
 biggest	O
 COVID	B-Misc
 -	I-Misc
@@ -153,8 +152,7 @@ wants	O
 revenge	O
 after	O
 Yen	B-Person
-’	O
-s	O
+’s	O
 character	O
 put	O
 him	O
@@ -377,9 +375,8 @@ Performer	I-Misc
 Honestly	O
 ,	O
 it	O
-wasn	O
-’	O
-t	O
+was	O
+n’t	O
 a	O
 day	O
 (	O
@@ -400,14 +397,12 @@ Wong	B-Person
 .	O
 “	O
 I	O
-’	O
-m	O
+’m	O
 grateful	O
 for	O
 the	O
 team	O
-’	O
-s	O
+’s	O
 support	O
 and	O
 encouragement	O
@@ -431,8 +426,7 @@ said	O
 .	O
 “	O
 I	O
-’	O
-m	O
+’m	O
 very	O
 grateful	O
 that	O
@@ -452,8 +446,7 @@ Liew	I-Person
 who	O
 played	O
 Mui	B-Person
-’	O
-s	O
+’s	O
 sister	O
 Ann	B-Person
 Mui	I-Person
@@ -469,8 +462,7 @@ big	O
 winner	O
 at	O
 Sunday	B-Date
-’	O
-s	O
+’s	O
 awards	O
 was	O
 crime	O
@@ -553,8 +545,7 @@ role	O
 
 “	O
 I	O
-’	O
-m	O
+’m	O
 grateful	O
 for	O
 the	O
@@ -569,8 +560,7 @@ for	O
 director	O
 Soi	B-Person
 Cheang	I-Person
-’	O
-s	O
+’s	O
 trust	O
 and	O
 recognition	O
@@ -647,8 +637,7 @@ centers	O
 on	O
 the	O
 city	O
-’	O
-s	O
+’s	O
 neglected	O
 elderly	O
 population	O
@@ -687,8 +676,7 @@ genre	O
 in	O
 Hong	B-Location
 Kong	I-Location
-’	O
-s	O
+’s	O
 film	O
 industry	O
 .	O

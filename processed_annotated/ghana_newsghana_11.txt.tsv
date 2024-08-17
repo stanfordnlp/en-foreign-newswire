@@ -219,8 +219,7 @@ to	O
 thank	O
 my	O
 Sponsors	O
-Mr	O
-.	O
+Mr.	O
 Charles	B-Person
 Addo	I-Person
 -	I-Person
@@ -235,13 +234,11 @@ Atomic	B-Organization
 Tennis	I-Organization
 Club	I-Organization
 ,	O
-Mr	O
-.	O
+Mr.	O
 Steiner	B-Person
 Wood	I-Person
 ,	O
-Mr	O
-.	O
+Mr.	O
 John	B-Person
 Osei	I-Person
 -	I-Person

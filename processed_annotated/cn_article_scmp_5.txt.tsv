@@ -52,15 +52,13 @@ chung	I-Person
 ,	O
 Hong	B-Location
 Kong	I-Location
-’	O
-s	O
+’s	O
 sole	O
 delegate	O
 to	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 top	O
 legislative	O
 body	O
@@ -87,8 +85,7 @@ of	O
 the	O
 State	B-Organization
 Council	I-Organization
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Hong	I-Organization	B-Location
 Kong	I-Organization	I-Location
 and	I-Organization
@@ -251,8 +248,7 @@ Chinese	B-NORP
 President	O
 Xi	B-Person
 Jinping	I-Person
-’	O
-s	O
+’s	O
 July	B-Date
 1	I-Date
 speech	O
@@ -405,8 +401,7 @@ principles	O
 Asked	O
 if	O
 Xia	B-Person
-’	O
-s	O
+’s	O
 comments	O
 could	O
 be	O
@@ -427,8 +422,7 @@ Law	I-Misc
 ,	O
 the	O
 city	O
-’	O
-s	O
+’s	O
 mini	O
 -	O
 constitution	O
@@ -473,8 +467,7 @@ Council	I-Organization
 ,	O
 Hong	B-Location
 Kong	I-Location
-’	O
-s	O
+’s	O
 key	O
 decision	O
 -	O
@@ -507,8 +500,7 @@ Party	I-Organization
 Asked	O
 if	O
 Xia	B-Person
-’	O
-s	O
+’s	O
 remarks	O
 were	O
 aimed	O
@@ -519,8 +511,7 @@ Party	I-Organization
 ,	O
 the	O
 city	O
-’	O
-s	O
+’s	O
 largest	O
 opposition	O
 group	O
@@ -570,8 +561,7 @@ Tuesday	B-Date
 
 The	O
 party	O
-’	O
-s	O
+’s	O
 influence	O
 in	O
 the	O
@@ -643,8 +633,7 @@ Many	O
 of	O
 the	O
 group	O
-’	O
-s	O
+’s	O
 members	O
 have	O
 also	O
@@ -667,8 +656,7 @@ candidates	O
 in	O
 last	O
 year	O
-’	O
-s	O
+’s	O
 Legco	B-Organization
 poll	O
 in	O
@@ -680,8 +668,7 @@ a	O
 protest	O
 against	O
 Beijing	B-Location
-’	O
-s	O
+’s	O
 “	O
 patriots	O
 -	O
@@ -754,8 +741,7 @@ much	O
 like	O
 the	O
 city	O
-’	O
-s	O
+’s	O
 only	O
 non	O
 -	O
@@ -998,8 +984,7 @@ means	O
 that	O
 the	O
 city	O
-’	O
-s	O
+’s	O
 governance	O
 would	O
 be	O
@@ -1051,8 +1036,7 @@ said	O
 
 “	O
 That	O
-’	O
-s	O
+’s	O
 why	O
 the	O
 general	O

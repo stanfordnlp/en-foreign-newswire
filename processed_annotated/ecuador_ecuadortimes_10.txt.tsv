@@ -126,8 +126,7 @@ the	O
 State	B-Organization
 Attorney	I-Organization
 General	I-Organization
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Office	I-Organization
 ,	O
 the	O
@@ -390,8 +389,7 @@ and	O
 here	O
 the	O
 citizen	O
-’	O
-s	O
+’s	O
 version	O
 has	O
 to	O
@@ -400,8 +398,7 @@ handled	O
 .	O
 And	O
 that	O
-’	O
-s	O
+’s	O
 my	O
 version	O
 .	O
@@ -580,8 +577,7 @@ image	O
 .	O
 
 Aleaga	B-Person
-’	O
-s	O
+’s	O
 photo	O
 that	O
 caused	O

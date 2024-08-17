@@ -33,6 +33,7 @@ Europe	B-Location
 via	O
 Greece	B-Location
 .	O
+
 This	O
 proposal	O
 was	O
@@ -90,6 +91,7 @@ a	O
 strategic	O
 level	O
 .	O
+
 The	O
 Crown	O
 Prince	O
@@ -117,6 +119,7 @@ the	O
 past	O
 years	O
 .	O
+
 They	O
 affirmed	O
 their	O
@@ -137,6 +140,7 @@ the	O
 two	O
 countries	O
 .	O
+
 The	O
 Crown	O
 Prince	O
@@ -200,6 +204,7 @@ Mitsotakis	I-Person
 of	O
 Greece	B-Location
 .	O
+
 The	O
 two	O
 sides	O
@@ -223,8 +228,7 @@ objectives	O
 of	O
 the	O
 Kingdom	B-Organization
-'	O
-s	O
+'s	O
 Vision	B-Misc
 2030	I-Misc
 and	O
@@ -298,6 +302,7 @@ healthcare	O
 and	O
 food	O
 .	O
+
 The	O
 two	O
 sides	O
@@ -417,6 +422,7 @@ transfer	O
 to	O
 Europe	B-Location
 .	O
+
 In	O
 this	O
 context	O
@@ -478,6 +484,7 @@ Europe	B-Location
 through	O
 Greece	B-Location
 .	O
+
 A	O
 decision	O
 will	O
@@ -546,6 +553,7 @@ of	O
 climate	O
 change	O
 .	O
+
 With	O
 regard	O
 to	O
@@ -619,6 +627,7 @@ period	O
 of	O
 2025-2026	B-Date
 .	O
+
 The	O
 two	O
 sides	O

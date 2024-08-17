@@ -41,8 +41,7 @@ However	O
 ,	O
 the	O
 Cabinet	B-Organization
-’	O
-s	O
+’s	O
 approval	O
 rating	O
 has	O
@@ -110,8 +109,7 @@ key	O
 to	O
 the	O
 Cabinet	B-Organization
-’	O
-s	O
+’s	O
 successful	O
 path	O
 forward	O
@@ -151,8 +149,7 @@ administration	O
 
 The	O
 Cabinet	B-Organization
-’	O
-s	O
+’s	O
 approval	O
 ratings	O
 have	O
@@ -311,8 +308,7 @@ Cabinet	I-Organization
 percent	O
 for	O
 Abe	B-Person
-’	O
-s	O
+’s	O
 Cabinet	B-Organization
 in	O
 his	O
@@ -325,8 +321,7 @@ as	O
 high	O
 for	O
 Kishida	B-Person
-’	O
-s	O
+’s	O
 .	O
 
 The	O
@@ -413,12 +408,10 @@ administrations	O
 ,	O
 except	O
 Koizumi	B-Person
-’	O
-s	O
+’s	O
 and	O
 Abe	B-Person
-’	O
-s	O
+’s	O
 second	O
 ,	O
 saw	O
@@ -859,8 +852,7 @@ included	O
 those	O
 over	O
 Japan	B-Location
-’	O
-s	O
+’s	O
 self	O
 -	O
 imposed	O
@@ -915,8 +907,7 @@ and	O
 the	O
 prime	O
 minister	O
-’	O
-s	O
+’s	O
 annual	O
 cherry	O
 blossom	O
@@ -976,8 +967,7 @@ himself	O
 The	B-Organization
 Asahi	I-Organization
 Shimbun	I-Organization
-’	O
-s	O
+’s	O
 April	B-Date
 survey	O
 asked	O
@@ -987,8 +977,7 @@ they	O
 think	O
 of	O
 Kishida	B-Person
-’	O
-s	O
+’s	O
 manner	O
 of	O
 offering	O
@@ -1044,9 +1033,8 @@ percent	O
 said	O
 they	O
 “	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 have	O
 very	O
 much	O
@@ -1132,8 +1120,7 @@ sympathy	O
 ”	O
 in	O
 Kishida	B-Person
-’	O
-s	O
+’s	O
 way	O
 of	O
 offering	O
@@ -1169,8 +1156,7 @@ to	O
 The	B-Organization
 Asahi	I-Organization
 Shimbun	I-Organization
-’	O
-s	O
+’s	O
 survey	O
 said	O
 they	O
@@ -1188,9 +1174,8 @@ percent	O
 who	O
 said	O
 they	O
-didn	O
-’	O
-t	O
+did	O
+n’t	O
 have	O
 a	O
 favorable	O
@@ -1233,9 +1218,8 @@ ratios	O
 of	O
 “	O
 I	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 know	O
 ”	O
 (	O
@@ -1350,8 +1334,7 @@ flip	O
 side	O
 of	O
 Kishida	B-Person
-’	O
-s	O
+’s	O
 weakness	O
 in	O
 his	O
@@ -1398,8 +1381,7 @@ administrations	O
 The	O
 Asahi	B-Organization
 Shimbun	I-Organization
-’	O
-s	O
+’s	O
 surveys	O
 have	O
 shown	O
@@ -1705,8 +1687,7 @@ approve	O
 of	O
 the	O
 government	O
-’	O
-s	O
+’s	O
 response	O
 to	O
 the	O
@@ -1746,8 +1727,7 @@ rating	O
 of	O
 the	O
 government	O
-’	O
-s	O
+’s	O
 COVID	B-Misc
 -	I-Misc
 19	I-Misc
@@ -1803,9 +1783,8 @@ the	O
 respondents	O
 said	O
 they	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 believe	O
 that	O
 Kishida	B-Person
@@ -1842,9 +1821,8 @@ the	O
 Kishida	B-Organization	B-Person
 Cabinet	I-Organization
 disapprovers	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 think	O
 that	O
 the	O
@@ -1958,8 +1936,7 @@ they	O
 approve	O
 of	O
 Kishida	B-Person
-’	O
-s	O
+’s	O
 response	O
 to	O
 the	O
@@ -1993,8 +1970,7 @@ view	O
 the	O
 prime	O
 minister	O
-’	O
-s	O
+’s	O
 reaction	O
 to	O
 the	O

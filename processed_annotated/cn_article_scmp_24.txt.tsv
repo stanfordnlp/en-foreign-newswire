@@ -11,8 +11,7 @@ additions	O
 to	O
 SM	B-Organization
 Entertainment	I-Organization
-’	O
-s	O
+’s	O
 roster	O
 ,	O
 with	O
@@ -49,8 +48,7 @@ and	O
 interviews	O
 with	O
 Women	B-Organization
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Wear	I-Organization
 Daily	I-Organization
 Korea	I-Organization	B-Location
@@ -79,19 +77,16 @@ group	O
 .	O
 
 It	O
-’	O
-s	O
+’s	O
 rumoured	O
 that	O
 they	O
-’	O
-ll	O
+’ll	O
 become	O
 part	O
 of	O
 SM	B-Organization
-’	O
-s	O
+’s	O
 NCT	B-Organization
 boy	O
 -	O
@@ -130,9 +125,8 @@ as	O
 some	O
 SM	B-Organization	B-Organization
 Rookies	I-Organization
-haven	O
-’	O
-t	O
+have	O
+n’t	O
 –	O
 the	O
 unveiling	O
@@ -328,8 +322,7 @@ NCT	B-Organization
 apparatus	O
 ,	O
 it	O
-’	O
-s	O
+’s	O
 going	O
 to	O
 be	O
@@ -413,9 +406,8 @@ soundtracks	O
 ,	O
 there	O
 simply	O
-doesn	O
-’	O
-t	O
+does	O
+n’t	O
 seem	O
 to	O
 be	O
@@ -466,20 +458,17 @@ and	O
 time	O
 ,	O
 it	O
-’	O
-s	O
+’s	O
 hard	O
 to	O
 see	O
 how	O
 NCT	B-Organization
-’	O
-s	O
+’s	O
 continued	O
 growth	O
-won	O
-’	O
-t	O
+wo	O
+n’t	O
 at	O
 one	O
 point	O
@@ -500,9 +489,8 @@ into	O
 it	O
 ,	O
 it	O
-won	O
-’	O
-t	O
+wo	O
+n’t	O
 be	O
 this	O
 new	O
@@ -519,8 +507,7 @@ that	O
 break	O
 the	O
 camel	O
-’	O
-s	O
+’s	O
 back	O
 ;	O
 as	O
@@ -597,9 +584,8 @@ please	O
 )	O
 ,	O
 I	O
-can	O
-’	O
-t	O
+ca	O
+n’t	O
 help	O
 but	O
 wonder	O
@@ -659,8 +645,7 @@ singular	O
 act	O
 ,	O
 it	O
-’	O
-s	O
+’s	O
 definitely	O
 an	O
 experiment	O
@@ -749,8 +734,7 @@ can	O
 work	O
 –	O
 Japan	B-Location
-’	O
-s	O
+’s	O
 AKB	B-Organization
 48	I-Organization
 and	O
@@ -790,8 +774,7 @@ star	O
 .	O
 
 NCT	B-Organization
-’	O
-s	O
+’s	O
 sense	O
 of	O
 limitless	O
@@ -809,8 +792,7 @@ to	O
 expand	O
 the	O
 group	O
-’	O
-s	O
+’s	O
 roster	O
 ,	O
 how	O
@@ -834,9 +816,8 @@ already	O
 know	O
 that	O
 fans	O
-aren	O
-’	O
-t	O
+are	O
+n’t	O
 necessarily	O
 feeling	O
 some	O
@@ -854,8 +835,7 @@ modular	O
 .	O
 NCT	B-Organization
 Dream	I-Organization
-’	O
-s	O
+’s	O
 entire	O
 concept	O
 was	O
@@ -1020,9 +1000,8 @@ pervasive	O
 will	O
 they	O
 ,	O
-won	O
-’	O
-t	O
+wo	O
+n’t	O
 they	O
 ?	O
 ”	O
@@ -1068,9 +1047,8 @@ to	O
 tell	O
 fans	O
 they	O
-aren	O
-’	O
-t	O
+are	O
+n’t	O
 leaving	O
 an	O
 NCT	B-Organization

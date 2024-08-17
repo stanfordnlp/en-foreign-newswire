@@ -27,8 +27,7 @@ approach	O
 the	O
 G	B-Organization
 7	I-Organization
-’	O
-s	O
+’s	O
 recent	O
 announcement	O
 of	O
@@ -185,8 +184,7 @@ can	O
 do	O
 for	O
 Africa	B-Location
-’	O
-s	O
+’s	O
 infrastructure	O
 ,	O
 the	O
@@ -205,8 +203,7 @@ it	O
 can	O
 moderate	O
 China	B-Location
-’	O
-s	O
+’s	O
 rivalry	O
 with	O
 the	O
@@ -228,8 +225,7 @@ said	O
 
 According	O
 to	O
-W	B-Person
-.	I-Person
+W.	B-Person
 Gyude	I-Person
 Moore	I-Person
 ,	O
@@ -279,9 +275,8 @@ said	O
 “	O
 because	O
 this	O
-isn	O
-’	O
-t	O
+is	O
+n’t	O
 the	O
 first	O
 proposed	O
@@ -354,9 +349,8 @@ said	O
 :	O
 “	O
 This	O
-isn	O
-’	O
-t	O
+is	O
+n’t	O
 aid	O
 or	O
 charity	O
@@ -364,8 +358,7 @@ charity	O
 .	O
 “	O
 It	O
-’	O
-s	O
+’s	O
 an	O
 investment	O
 that	O
@@ -579,8 +572,7 @@ former	O
 president	O
 Donald	B-Person
 Trump	I-Person
-’	O
-s	O
+’s	O
 era	O
 ,	O
 the	O
@@ -666,8 +658,7 @@ that	O
 like	O
 the	O
 EU	B-Organization
-’	O
-s	O
+’s	O
 Global	B-Misc
 Gateway	I-Misc
 ,	O
@@ -812,8 +803,7 @@ be	O
 positive	O
 if	O
 it	O
-’	O
-s	O
+’s	O
 soft	O
 ;	O
 touching	O
@@ -890,8 +880,7 @@ of	O
 momentum	O
 .	O
 China	B-Location
-’	O
-s	O
+’s	O
 projects	O
 may	O
 not	O
@@ -912,8 +901,7 @@ pumped	O
 billions	O
 into	O
 Africa	B-Location
-’	O
-s	O
+’s	O
 infrastructure	O
 ,	O
 those	O
@@ -936,8 +924,7 @@ nations	O
 that	O
 claimed	O
 China	B-Location
-’	O
-s	O
+’s	O
 lending	O
 practices	O
 were	O
@@ -1101,8 +1088,7 @@ clear	O
 that	O
 the	O
 EU	B-Organization
-’	O
-s	O
+’s	O
 unwillingness	O
 to	O
 invest	O
@@ -1158,8 +1144,7 @@ Gateway	I-Misc
 was	O
 the	O
 EU	B-Organization
-’	O
-s	O
+’s	O
 contribution	O
 to	O
 the	O
@@ -1338,8 +1323,7 @@ hugely	O
 sceptical	O
 since	O
 it	O
-’	O
-s	O
+’s	O
 not	O
 the	O
 first	O
@@ -1412,8 +1396,7 @@ umbrella	O
 for	O
 the	O
 EU	B-Organization
-’	O
-s	O
+’s	O
 Global	B-Misc
 Gateway	I-Misc
 .	O
@@ -1446,8 +1429,7 @@ indication	O
 that	O
 the	O
 partnership	O
-’	O
-s	O
+’s	O
 approach	O
 to	O
 mobilising	O
@@ -1587,8 +1569,7 @@ is	O
 part	O
 of	O
 Beijing	B-Location
-’	O
-s	O
+’s	O
 digital	O
 silk	O
 road	O

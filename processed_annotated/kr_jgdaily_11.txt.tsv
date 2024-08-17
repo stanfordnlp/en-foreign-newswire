@@ -109,8 +109,7 @@ day	O
 .	O
 
 Lee	B-Person
-’	O
-s	O
+’s	O
 older	O
 brother	O
 ,	O
@@ -235,8 +234,7 @@ knowing	O
 about	O
 her	O
 son	O
-’	O
-s	O
+’s	O
 death	O
 ,	O
 ”	O
@@ -299,8 +297,7 @@ truth	O
 about	O
 his	O
 brother	O
-’	O
-s	O
+’s	O
 death	O
 by	O
 whatever	O
@@ -343,8 +340,7 @@ response	O
 to	O
 the	O
 family	O
-’	O
-s	O
+’s	O
 request	O
 for	O
 information	O
@@ -400,8 +396,7 @@ Moon	B-Person
 Jae	I-Person
 -	I-Person
 in	I-Person
-’	O
-s	O
+’s	O
 administration	O
 could	O
 not	O
@@ -433,8 +428,7 @@ judge	O
 
 The	O
 family	O
-’	O
-s	O
+’s	O
 attorney	O
 Kim	B-Person
 Ki	I-Person
@@ -442,8 +436,7 @@ Ki	I-Person
 yoon	I-Person
 believes	O
 Lee	B-Person
-’	O
-s	O
+’s	O
 relatives	O
 have	O
 a	O
@@ -470,8 +463,7 @@ last	O
 year	O
 ,	O
 Lee	B-Person
-’	O
-s	O
+’s	O
 family	O
 won	O
 a	O
@@ -524,8 +516,7 @@ Yoon	B-Person
 Suk	I-Person
 -	I-Person
 yeol	I-Person
-’	O
-s	O
+’s	O
 government	O
 cancelled	O
 the	O

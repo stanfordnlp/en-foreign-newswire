@@ -1,8 +1,7 @@
 https://www.haaretz.com/israel-news/2022-07-26/ty-article/.premium/jewish-agency-crisis-is-israels-opportunity-to-take-a-moral-stance-on-ukraine/00000182-3b90-d9f7-a9e6-fbb3f9880000	O
 
 Russia	B-Location
-’	O
-s	O
+’s	O
 apparent	O
 intent	O
 to	O
@@ -23,8 +22,7 @@ doomed	O
 to	O
 failure	O
 Israel	B-Location
-’	O
-s	O
+’s	O
 attempt	O
 to	O
 walk	O
@@ -67,8 +65,7 @@ months	O
 ,	O
 the	O
 Kremlin	B-Facility
-’	O
-s	O
+’s	O
 frustration	O
 with	O
 any	O
@@ -78,8 +75,7 @@ criticism	O
 and	O
 with	O
 Israel	B-Location
-’	O
-s	O
+’s	O
 stance	O
 in	O
 particular	O
@@ -93,8 +89,7 @@ Prime	O
 Minister	O
 Naftali	B-Person
 Bennett	I-Person
-’	O
-s	O
+’s	O
 attempt	O
 to	O
 appoint	O
@@ -117,9 +112,8 @@ stand	O
 on	O
 the	O
 crisis	O
-didn	O
-’	O
-t	O
+did	O
+n’t	O
 work	O
 .	O
 Subsequently	O
@@ -131,8 +125,7 @@ Israeli	B-NORP
 condemnation	O
 of	O
 Russia	B-Location
-’	O
-s	O
+’s	O
 blatant	O
 war	O
 crimes	O
@@ -141,15 +134,13 @@ enough	O
 to	O
 spark	O
 Moscow	B-Location
-’	O
-s	O
+’s	O
 fury	O
 .	O
 The	O
 Russians	B-NORP
-weren	O
-’	O
-t	O
+were	O
+n’t	O
 impressed	O
 by	O
 the	O
@@ -189,8 +180,7 @@ the	O
 Russian	B-Organization	B-NORP
 Justice	I-Organization
 Ministry	I-Organization
-’	O
-s	O
+’s	O
 bombshell	O
 announcement	O
 about	O
@@ -211,8 +201,7 @@ Russian	B-NORP
 President	O
 Vladimir	B-Person
 Putin	I-Person
-’	O
-s	O
+’s	O
 spokesman	O
 ,	O
 Dmitry	B-Person
@@ -226,9 +215,8 @@ a	O
 legal	O
 one	O
 and	O
-shouldn	O
-’	O
-t	O
+should	O
+n’t	O
 be	O
 “	O
 projected	O
@@ -264,8 +252,7 @@ same	O
 breath	O
 that	O
 Israel	B-Location
-’	O
-s	O
+’s	O
 attitude	O
 toward	O
 Russia	B-Location
@@ -298,8 +285,7 @@ activity	O
 the	O
 Jewish	B-Organization	B-NORP
 Agency	I-Organization
-’	O
-s	O
+’s	O
 presence	O
 in	O
 Russia	B-Location
@@ -329,9 +315,8 @@ persuade	O
 them	O
 to	O
 backtrack	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 demonstrate	O
 an	O
 accurate	O
@@ -345,9 +330,8 @@ chances	O
 that	O
 the	O
 Kremlin	B-Person
-won	O
-’	O
-t	O
+wo	O
+n’t	O
 exact	O
 a	O
 price	O
@@ -360,12 +344,10 @@ refusal	O
 to	O
 support	O
 Russia	B-Location
-’	O
-s	O
+’s	O
 moves	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 seem	O
 high	O
 .	O
@@ -403,8 +385,7 @@ Ukraine	B-Location
 .	O
 
 Israel	B-Location
-’	O
-s	O
+’s	O
 main	O
 argument	O
 for	O
@@ -468,8 +449,7 @@ squadrons	O
 deployed	O
 in	O
 Syria	B-Location
-’	O
-s	O
+’s	O
 northwest	O
 in	O
 fall	O
@@ -482,8 +462,7 @@ the	O
 balance	O
 in	O
 Syria	B-Location
-’	O
-s	O
+’s	O
 civil	O
 war	O
 in	O
@@ -503,8 +482,7 @@ to	O
 step	O
 on	O
 Putin	B-Person
-’	O
-s	O
+’s	O
 toes	O
 in	O
 Syria	B-Location
@@ -594,15 +572,13 @@ cautious	O
 about	O
 affecting	O
 Russia	B-Location
-’	O
-s	O
+’s	O
 interests	O
 .	O
 
 Yet	O
 Moscow	B-Location
-’	O
-s	O
+’s	O
 decision	O
 to	O
 blame	O
@@ -622,9 +598,8 @@ missiles	O
 showed	O
 that	O
 it	O
-isn	O
-’	O
-t	O
+is	O
+n’t	O
 motivated	O
 by	O
 any	O
@@ -660,8 +635,7 @@ forces	O
 away	O
 from	O
 Israel	B-Location
-’	O
-s	O
+’s	O
 border	O
 with	O
 Syria	B-Location
@@ -745,10 +719,8 @@ ally	O
 ,	O
 America	B-Location
 .	I-Location
-U	I-Location
-.	I-Location
-S	I-Location
-.	O
+U.	I-Location
+S.	I-Location
 President	O
 Joe	B-Person
 Biden	I-Person
@@ -769,8 +741,7 @@ peak	O
 ,	O
 but	O
 there	O
-’	O
-s	O
+’s	O
 no	O
 comparison	O
 between	O
@@ -781,8 +752,7 @@ for	O
 Israel	B-Location
 and	O
 Putin	B-Person
-’	O
-s	O
+’s	O
 utterly	O
 cynical	O
 approach	O
@@ -798,8 +768,7 @@ else	O
 .	O
 
 It	O
-’	O
-s	O
+’s	O
 America	B-Location
 ,	O
 not	O
@@ -895,9 +864,8 @@ Damascus	B-Location
 Just	O
 as	O
 Israel	B-Location
-shouldn	O
-’	O
-t	O
+should	O
+n’t	O
 have	O
 pretended	O
 to	O
@@ -963,8 +931,7 @@ risk	O
 ,	O
 but	O
 it	O
-’	O
-s	O
+’s	O
 unlikely	O
 that	O
 Russia	B-Location
@@ -984,8 +951,7 @@ Air	I-Organization
 Force	I-Organization
 in	O
 Syria	B-Location
-’	O
-s	O
+’s	O
 skies	O
 .	O
 Israel	B-Location
@@ -998,8 +964,7 @@ preserving	O
 the	O
 Jewish	B-Organization	B-NORP
 Agency	I-Organization
-’	O
-s	O
+’s	O
 freedom	O
 to	O
 operate	O

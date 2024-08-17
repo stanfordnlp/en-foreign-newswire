@@ -13,8 +13,7 @@ liner	O
 service	O
 to	O
 Indonesia	B-Location
-’	O
-s	O
+’s	O
 Jakarta	B-Location
 
 As	O
@@ -56,8 +55,7 @@ Caterpillar	B-Organization
 ,	O
 the	O
 world	O
-’	O
-s	O
+’s	O
 leading	O
 manufacturer	O
 of	O
@@ -203,8 +201,7 @@ on	O
 the	O
 announcement	O
 ,	O
-Mr	O
-.	O
+Mr.	O
 Soror	B-Person
 Basalom	I-Person
 ,	O
@@ -247,8 +244,7 @@ to	O
 expand	O
 Bahri	B-Organization
 Line	I-Organization
-’	O
-s	O
+’s	O
 liner	O
 network	O
 and	O

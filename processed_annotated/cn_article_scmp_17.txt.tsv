@@ -170,8 +170,7 @@ latest	O
 case	O
 in	O
 China	B-Location
-’	O
-s	O
+’s	O
 strengthened	O
 push	O
 to	O
@@ -277,8 +276,7 @@ China	I-Organization	B-Location
 ,	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 internet	O
 watchdog	O
 ,	O
@@ -375,8 +373,7 @@ one	O
 of	O
 the	O
 platform	O
-’	O
-s	O
+’s	O
 largest	O
 discussion	O
 groups	O
@@ -491,8 +488,7 @@ the	O
 top	O
 of	O
 Douban	B-Organization
-’	O
-s	O
+’s	O
 book	O
 discussion	O
 list	O

@@ -43,8 +43,7 @@ regular	O
 meeting	O
 of	O
 China	B-Location
-’	O
-s	O
+’s	O
 cabinet	O
 ,	O
 the	O
@@ -197,8 +196,7 @@ impact	O
 on	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 economic	O
 activity	O
 in	O
@@ -224,8 +222,7 @@ employment	O
 .	O
 
 China	B-Location
-’	O
-s	O
+’s	O
 surveyed	O
 unemployment	O
 rate	O
@@ -257,8 +254,7 @@ Statistics	I-Organization
 .	O
 
 Li	B-Person
-’	O
-s	O
+’s	O
 remarks	O
 come	O
 after	O
@@ -437,8 +433,7 @@ the	O
 treatment	O
 if	O
 you	O
-’	O
-ve	O
+’ve	O
 had	O
 it	O
 is	O
@@ -464,9 +459,8 @@ year	O
 
 “	O
 Neighbours	O
-won	O
-’	O
-t	O
+wo	O
+n’t	O
 say	O
 a	O
 word	O
@@ -603,16 +597,14 @@ they	O
 know	O
 where	O
 you	O
-’	O
-ve	O
+’ve	O
 been	O
 working	O
 ,	O
 even	O
 though	O
 it	O
-’	O
-s	O
+’s	O
 just	O
 part	O
 of	O
@@ -634,8 +626,7 @@ anonymity	O
 
 “	O
 It	O
-’	O
-s	O
+’s	O
 almost	O
 an	O
 unspoken	O

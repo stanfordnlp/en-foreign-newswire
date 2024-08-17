@@ -172,14 +172,12 @@ Mahmud	B-Person
 Abbas	I-Person
 ,	O
 Tunisia	B-Location
-’	O
-s	O
+’s	O
 Kais	B-Person
 Saied	I-Person
 and	O
 Niger	B-Location
-’	O
-s	O
+’s	O
 Mohamed	B-Person
 Bazoum	I-Person
 .	O
@@ -216,8 +214,7 @@ era	O
 .	O
 
 Algeria	B-Location
-’	O
-s	O
+’s	O
 war	O
 of	O
 independence	O
@@ -260,8 +257,7 @@ period	O
 
 “	O
 There	O
-’	O
-s	O
+’s	O
 no	O
 way	O
 we	O
@@ -297,8 +293,7 @@ of	O
 the	O
 Algerian	B-NORP
 parliament	O
-’	O
-s	O
+’s	O
 upper	O
 house	O
 ,	O

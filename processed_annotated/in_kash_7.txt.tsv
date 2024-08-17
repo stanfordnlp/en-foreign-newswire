@@ -137,10 +137,8 @@ that	O
 Imam	O
 Hussain	B-Person
 (	I-Person
-A	I-Person
-.	I-Person
-S	I-Person
-.	I-Person
+A.	I-Person
+S.	I-Person
 )	I-Person
 does	O
 not	O
@@ -189,8 +187,7 @@ alive	O
 Imam	O
 Hussain	B-Person
 (	I-Person
-A	I-Person
-.	I-Person
+A.	I-Person
 S	I-Person
 )	I-Person
 is	O
@@ -272,8 +269,7 @@ that	O
 Imam	O
 Hussain	B-Person
 (	I-Person
-A	I-Person
-.	I-Person
+A.	I-Person
 S	I-Person
 )	I-Person
 has	O

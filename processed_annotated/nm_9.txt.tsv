@@ -123,7 +123,8 @@ of	I-Misc
 Trade	I-Misc
 Unions	I-Misc
 in	I-Misc
-Africa'	I-Misc	B-Location
+Africa	I-Misc	B-Location
+'	O
 is	O
 being	O
 implemented	O
@@ -508,6 +509,7 @@ of	O
 a	O
 referee	O
 .	O
+
 Investment	O
 agreements	O
 ,	O
@@ -822,6 +824,7 @@ issues	O
 of	O
 investments	O
 .	O
+
 To	O
 achieve	O
 adequate	O
@@ -919,6 +922,7 @@ workers	O
 and	O
 employers	O
 .	O
+
 We	O
 should	O
 reach	O

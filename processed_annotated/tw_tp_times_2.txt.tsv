@@ -136,8 +136,7 @@ an	I-Person
 ,	O
 the	O
 KMT	B-Organization
-’	O
-s	O
+’s	O
 Taipei	B-Location
 mayoral	O
 candidate	O
@@ -205,8 +204,7 @@ card	O
 —	O
 in	O
 the	O
-1970	B-Date
-s	O
+1970s	B-Date
 ,	O
 when	O
 Taiwan	B-Location
@@ -230,8 +228,7 @@ people	O
 ,	O
 especially	O
 Chen	B-Person
-’	O
-s	O
+’s	O
 fellow	O
 undergraduate	O
 students	O
@@ -389,8 +386,7 @@ in	O
 
 Upon	O
 Chen	B-Person
-’	O
-s	O
+’s	O
 announcement	O
 of	O
 his	O
@@ -437,8 +433,7 @@ issues	O
 related	O
 to	O
 Chen	B-Person
-’	O
-s	O
+’s	O
 disease	O
 prevention	O
 measures	O
@@ -513,8 +508,7 @@ leaf	O
 out	O
 of	O
 Chen	B-Person
-’	O
-s	O
+’s	O
 campaign	O
 book	O
 .	O
@@ -529,8 +523,7 @@ unveiled	O
 his	O
 campaign	O
 team	O
-’	O
-s	O
+’s	O
 strong	O
 lineup	O
 ,	O
@@ -563,8 +556,7 @@ general	O
 ,	O
 while	O
 Chiang	B-Person
-’	O
-s	O
+’s	O
 team	O
 is	O
 still	O
@@ -575,8 +567,7 @@ seen	O
 .	O
 
 Chen	B-Person
-’	O
-s	O
+’s	O
 dignified	O
 and	O
 composed	O
@@ -710,8 +701,7 @@ traffic	O
 jams	O
 in	O
 Taipei	B-Location
-’	O
-s	O
+’s	O
 Neihu	B-Location
 District	I-Location
 (	O

@@ -8,8 +8,7 @@ Smoore	B-Organization
 ,	O
 the	O
 world	O
-’	O
-s	O
+’s	O
 biggest	O
 contract	O
 maker	O
@@ -54,8 +53,7 @@ production	O
 licence	O
 from	O
 China	B-Location
-’	O
-s	O
+’s	O
 State	B-Organization
 Tobacco	I-Organization
 Monopoly	I-Organization
@@ -66,8 +64,7 @@ STMA	B-Organization
 ,	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 top	O
 regulator	O
 of	O
@@ -118,8 +115,7 @@ to	O
 comply	O
 with	O
 China	B-Location
-’	O
-s	O
+’s	O
 tightened	O
 rules	O
 for	O
@@ -220,8 +216,7 @@ so	O
 far	O
 ,	O
 STMA	B-Organization
-’	O
-s	O
+’s	O
 website	O
 shows	O
 .	O
@@ -290,8 +285,7 @@ China	B-Location
 ,	O
 with	O
 Smoore	B-Organization
-’	O
-s	O
+’s	O
 gross	O
 profit	O
 margin	O
@@ -320,8 +314,7 @@ according	O
 to	O
 the	O
 comany	O
-’	O
-s	O
+’s	O
 financial	O
 statements	O
 .	O
@@ -413,8 +406,7 @@ Relx	B-Organization
 Technology	I-Organization
 ,	O
 China	B-Location
-’	O
-s	O
+’s	O
 largest	O
 vaping	O
 brand	O

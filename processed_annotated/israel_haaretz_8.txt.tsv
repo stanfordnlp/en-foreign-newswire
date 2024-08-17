@@ -187,8 +187,7 @@ Ramle	B-Location
 per	O
 the	O
 municipality	O
-’	O
-s	O
+’s	O
 estimate	O
 )	O
 for	O
@@ -247,8 +246,7 @@ Hanna	I-Location
 The	O
 Tax	B-Organization
 Authority	I-Organization
-’	O
-s	O
+’s	O
 refusal	O
 in	O
 Umm	B-Location
@@ -403,8 +401,7 @@ evidence	O
 of	O
 the	O
 government	O
-’	O
-s	O
+’s	O
 discriminatory	O
 policy	O
 against	O
@@ -566,8 +563,7 @@ surrounding	O
 the	O
 Tax	B-Organization
 Authority	I-Organization
-’	O
-s	O
+’s	O
 policy	O
 .	O
 The	O
@@ -678,8 +674,7 @@ of	O
 the	O
 Tax	B-Organization
 Authority	I-Organization
-’	O
-s	O
+’s	O
 decision	O
 .	O
 ”	O

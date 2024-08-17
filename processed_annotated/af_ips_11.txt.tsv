@@ -30,9 +30,8 @@ neurological	O
 condition	O
 ,	O
 he	O
-didn	O
-’	O
-t	O
+did	O
+n’t	O
 go	O
 to	O
 school	O
@@ -109,8 +108,7 @@ back	O
 ”	O
 says	O
 Akena	B-Person
-’	O
-s	O
+’s	O
 mother	O
 ,	O
 Lili	B-Person
@@ -118,8 +116,7 @@ Iram	I-Person
 .	O
 
 Akena	B-Person
-’	O
-s	O
+’s	O
 condition	O
 ,	O
 microcephaly	O
@@ -272,8 +269,7 @@ to	O
 ensure	O
 that	O
 Graduation	O
-’	O
-s	O
+’s	O
 four	O
 key	O
 elements	O
@@ -281,8 +277,7 @@ elements	O
 including	O
 meeting	O
 people	O
-’	O
-s	O
+’s	O
 basic	O
 needs	O
 ,	O
@@ -343,8 +338,7 @@ NUWODU	B-Organization
 ensured	O
 that	O
 DIG	B-Misc	B-Organization
-’	O
-s	O
+’s	O
 services	O
 ,	O
 including	O
@@ -402,9 +396,8 @@ a	O
 cow	O
 .	O
 We	O
-didn	O
-’	O
-t	O
+did	O
+n’t	O
 have	O
 goats	O
 and	O
@@ -441,8 +434,7 @@ Iran	B-Location
 describes	O
 her	O
 son	O
-’	O
-s	O
+’s	O
 transformation	O
 ,	O
 Akena	B-Person
@@ -566,8 +558,7 @@ other	O
 villages	O
 in	O
 Oyam	B-Location
-’	O
-s	O
+’s	O
 Kamdini	B-Location	B-Location
 sub	I-Location
 -	I-Location
@@ -690,8 +681,7 @@ invest	O
 for	O
 her	O
 son	O
-’	O
-s	O
+’s	O
 future	O
 survival	O
 .	O
@@ -844,9 +834,8 @@ is	O
 possible	O
 .	O
 We	O
-shouldn	O
-’	O
-t	O
+should	O
+n’t	O
 look	O
 at	O
 the	O
@@ -879,9 +868,8 @@ be	O
 ?	O
 If	O
 you	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 bring	O
 in	O
 that	O
@@ -903,8 +891,7 @@ said	O
 .	O
 
 Uganda	B-Location
-’	O
-s	O
+’s	O
 Ministry	B-Organization
 of	I-Organization
 Gender	I-Organization
@@ -1032,8 +1019,7 @@ village	O
 next	O
 to	O
 Akuna	B-Person
-’	O
-s	O
+’s	O
 .	O
 Aboke	B-Person
 ,	O
@@ -1065,8 +1051,7 @@ IPS	B-Organization
 that	O
 without	O
 DIG	B-Misc
-’	O
-s	O
+’s	O
 intervention	O
 ,	O
 he	O
@@ -1104,8 +1089,7 @@ some	O
 farming	O
 .	O
 I	O
-’	O
-m	O
+’m	O
 now	O
 able	O
 to	O
@@ -1219,8 +1203,7 @@ Aboke	B-Person
 .	O
 
 Aboke	B-Person
-’	O
-s	O
+’s	O
 rehabilitation	O
 was	O
 performed	O
@@ -1239,8 +1222,7 @@ village	O
 .	O
 The	O
 hospital	O
-’	O
-s	O
+’s	O
 orthopaedic	O
 workshop	O
 serves	O
@@ -1302,9 +1284,8 @@ come	O
 in	O
 ,	O
 we	O
-wouldn	O
-’	O
-t	O
+would	O
+n’t	O
 be	O
 able	O
 to	O
@@ -1436,8 +1417,7 @@ it	O
 considers	O
 the	O
 recipient	O
-’	O
-s	O
+’s	O
 needs	O
 and	O
 what	O
@@ -1535,9 +1515,8 @@ thirty	O
 chickens	O
 ,	O
 you	O
-can	O
-’	O
-t	O
+ca	O
+n’t	O
 compare	O
 me	O
 with	O
@@ -1554,8 +1533,7 @@ Arinaitwe	B-Person
 .	O
 “	O
 I	O
-’	O
-m	O
+’m	O
 glad	O
 to	O
 tell	O

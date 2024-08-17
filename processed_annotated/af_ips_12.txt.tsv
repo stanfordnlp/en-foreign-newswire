@@ -154,8 +154,7 @@ of	O
 the	O
 Kawral	B-Organization	B-NORP
 Women	I-Organization
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Group	I-Organization
 of	O
 Gourel	B-Location
@@ -284,8 +283,7 @@ farming	O
 households	O
 in	O
 Senegal	B-Location
-’	O
-s	O
+’s	O
 Sedhiou	B-Location
 and	O
 Tambacounda	B-Location
@@ -615,8 +613,7 @@ training	O
 helpful	O
 .	O
 It	O
-’	O
-s	O
+’s	O
 boosted	O
 his	O
 knowledge	O
@@ -1295,8 +1292,7 @@ Climate	O
 change	O
 threatens	O
 Senegal	B-Location
-’	O
-s	O
+’s	O
 social	O
 and	O
 economic	O
@@ -1327,8 +1323,7 @@ percent	O
 of	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 workforce	O
 and	O
 contributes	O

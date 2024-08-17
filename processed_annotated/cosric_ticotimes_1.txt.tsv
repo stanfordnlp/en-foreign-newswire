@@ -2,8 +2,7 @@ https://ticotimes.net/2022/07/19/a-brief-history-of-costa-ricas-national-park-sy
 
 Costa	B-Location
 Rica	I-Location
-’	O
-s	O
+’s	O
 National	B-Organization
 Park	I-Organization
 System	I-Organization
@@ -26,8 +25,7 @@ one	O
 of	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 ultimate	O
 treasures	O
 ,	O
@@ -87,8 +85,7 @@ hosting	O
 of	O
 the	O
 world	O
-’	O
-s	O
+’s	O
 biodiversity	O
 .	O
 This	O
@@ -107,8 +104,7 @@ up	O
 of	O
 the	O
 world	O
-’	O
-s	O
+’s	O
 entire	O
 landmass	O
 .	O
@@ -145,9 +141,8 @@ extinct	O
 That	O
 Costa	B-Location
 Rica	I-Location
-couldn	O
-’	O
-t	O
+could	O
+n’t	O
 afford	O
 to	O
 lose	O
@@ -223,9 +218,8 @@ bring	O
 However	O
 ,	O
 it	O
-didn	O
-’	O
-t	O
+did	O
+n’t	O
 come	O
 without	O
 its	O
@@ -243,8 +237,7 @@ the	O
 forefront	O
 of	O
 other	O
-’	O
-s	O
+’s	O
 agendas	O
 from	O
 hunting	O
@@ -321,8 +314,7 @@ Costa	B-Organization	B-NORP
 Rican	I-Organization	I-NORP
 Electricity	I-Organization
 Institute	I-Organization
-’	O
-s	O
+’s	O
 (	O
 ICE	B-Organization
 )	O
@@ -451,8 +443,7 @@ resource	O
 of	O
 Costa	B-Location
 Rica	I-Location
-’	O
-s	O
+’s	O
 remarkable	O
 beauty	O
 would	O
@@ -578,8 +569,7 @@ that	O
 became	O
 Costa	B-Location
 Rica	I-Location
-’	O
-s	O
+’s	O
 first	O
 national	O
 park	O
@@ -624,8 +614,7 @@ sea	O
 turtles	O
 and	O
 manatee	O
-’	O
-s	O
+’s	O
 marine	O
 habitat	O
 .	O
@@ -650,8 +639,7 @@ department	O
 of	O
 Costa	B-Location
 Rica	I-Location
-’	O
-s	O
+’s	O
 Ministry	B-Organization
 of	I-Organization
 Environment	I-Organization
@@ -748,8 +736,7 @@ Park	I-Location
 is	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 smallest	O
 national	O
 park	O
@@ -796,8 +783,7 @@ holding	O
 of	O
 the	O
 world	O
-’	O
-s	O
+’s	O
 biodiversity	O
 .	O
 
@@ -877,8 +863,7 @@ time	O
 on	O
 Costa	B-Location
 Rica	I-Location
-’	O
-s	O
+’s	O
 golden	O
 coast	O
 and	O
@@ -889,8 +874,7 @@ one	O
 of	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 most	O
 active	O
 volcanoes	O
@@ -920,8 +904,7 @@ one	O
 of	O
 Costa	B-Location
 Rica	I-Location
-’	O
-s	O
+’s	O
 national	O
 parks	O
 it	O

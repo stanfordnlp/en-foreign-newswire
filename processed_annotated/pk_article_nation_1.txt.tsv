@@ -110,8 +110,7 @@ presiding	O
 over	O
 the	O
 PTI	B-Organization
-’	O
-s	O
+’s	O
 Core	B-Organization
 Committee	I-Organization
 meeting	O
@@ -266,8 +265,7 @@ has	O
 moved	O
 toward	O
 Quaid	B-Person
-’	O
-s	O
+’s	O
 vision	O
 ,	O
 ”	O
@@ -868,8 +866,7 @@ also	O
 directed	O
 the	O
 party	O
-’	O
-s	O
+’s	O
 lawmakers	O
 of	O
 Punjab	B-Organization	B-Location
@@ -972,8 +969,7 @@ was	O
 attended	O
 by	O
 party	O
-’	O
-s	O
+’s	O
 Vice	O
 Chairman	O
 Shah	B-Person
@@ -999,8 +995,7 @@ Mazari	I-Person
 .	O
 
 PTI	B-Organization
-’	O
-s	O
+’s	O
 Central	O
 Secretary	O
 Information	O

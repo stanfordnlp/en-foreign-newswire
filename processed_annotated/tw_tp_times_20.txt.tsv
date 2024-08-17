@@ -14,8 +14,7 @@ the	O
 Tainan	B-Organization	B-Location
 Police	I-Organization
 Department	I-Organization
-’	O
-s	O
+’s	O
 4th	O
 Precinct	O
 has	O
@@ -182,8 +181,7 @@ unusual	O
 entries	O
 in	O
 Liu	B-Person
-’	O
-s	O
+’s	O
 computer	O
 search	O
 history	O
@@ -195,8 +193,7 @@ who	O
 is	O
 in	O
 his	O
-20	O
-s	O
+20s	O
 and	O
 worked	O
 at	O
@@ -280,8 +277,7 @@ Police	O
 often	O
 access	O
 people	O
-’	O
-s	O
+’s	O
 personal	O
 information	O
 such	O

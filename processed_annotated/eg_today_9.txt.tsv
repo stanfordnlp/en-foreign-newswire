@@ -5,8 +5,7 @@ E	O
 %	O
 80	O
 %	O
-99	O
-s	O
+99s	O
 -	O
 transition	O
 -	O
@@ -101,8 +100,7 @@ targeted	O
 measures	O
 taken	O
 Egypt	B-Location
-’	O
-s	O
+’s	O
 transition	O
 to	O
 a	O

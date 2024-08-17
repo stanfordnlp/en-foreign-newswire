@@ -8,8 +8,7 @@ Argentina	B-Location
 ,	O
 Mario	B-Person
 Pizarro	I-Person
-’	O
-s	O
+’s	O
 office	O
 looks	O
 like	O
@@ -19,8 +18,7 @@ to	O
 China	B-Location
 .	O
 There	O
-’	O
-s	O
+’s	O
 the	O
 framed	O
 photo	O
@@ -30,8 +28,7 @@ Chinese	B-NORP
 peasant	O
 with	O
 Pizarro	B-Person
-’	O
-s	O
+’s	O
 face	O
 superimposed	O
 beneath	O
@@ -41,8 +38,7 @@ farmer	O
 hat	O
 .	O
 There	O
-’	O
-s	O
+’s	O
 the	O
 blue	O
 -	O
@@ -53,8 +49,7 @@ statue	O
 .	O
 And	O
 there	O
-’	O
-s	O
+’s	O
 the	O
 model	O
 wind	O
@@ -152,8 +147,7 @@ one	O
 of	O
 Latin	B-Location
 America	I-Location
-’	O
-s	O
+’s	O
 largest	O
 solar	O
 energy	O
@@ -262,8 +256,7 @@ making	O
 itself	O
 the	O
 continent	O
-’	O
-s	O
+’s	O
 No	O
 1	O
 trading	O
@@ -280,8 +273,7 @@ recent	O
 years	O
 to	O
 China	B-Location
-’	O
-s	O
+’s	O
 ventures	O
 in	O
 Africa	B-Location
@@ -298,8 +290,7 @@ unnoticed	O
 in	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 approach	O
 to	O
 South	B-Location
@@ -362,8 +353,7 @@ Zou	B-Person
 Xiaoli	I-Person
 ,	O
 China	B-Location
-’	O
-s	O
+’s	O
 ambassador	O
 to	O
 Argentina	B-Location
@@ -371,8 +361,7 @@ Argentina	B-Location
 said	O
 his	O
 country	O
-’	O
-s	O
+’s	O
 infrastructure	O
 push	O
 was	O
@@ -393,8 +382,7 @@ strong	O
 support	O
 to	O
 Argentina	B-Location
-’	O
-s	O
+’s	O
 economic	O
 and	O
 social	O
@@ -407,8 +395,7 @@ said	O
 
 As	O
 Argentina	B-Location
-’	I-Location
-s	I-Location
+’s	I-Location
 Jujuy	I-Location
 province	I-Location
 illustrates	O
@@ -420,8 +407,7 @@ too	O
 remote	O
 for	O
 China	B-Location
-’	O
-s	O
+’s	O
 scrupulous	O
 attention	O
 .	O
@@ -466,8 +452,7 @@ who	O
 has	O
 Xi	B-Person
 Jinping	I-Person
-’	O
-s	O
+’s	O
 phone	O
 number	O
 .	O
@@ -543,8 +528,7 @@ US	B-Organization	B-Location
 National	I-Organization
 Security	I-Organization
 Council	I-Organization
-’	O
-s	O
+’s	O
 senior	O
 director	O
 for	O
@@ -600,8 +584,7 @@ American	I-NORP
 programme	O
 at	O
 Washington	B-Location
-’	O
-s	O
+’s	O
 Wilson	B-Facility
 Centre	I-Facility
 ,	O
@@ -655,8 +638,7 @@ the	O
 enthusiasm	O
 in	O
 Jujuy	B-Location
-’	O
-s	O
+’s	O
 capital	O
 of	O
 San	B-Location
@@ -718,8 +700,7 @@ Pizarro	B-Person
 “	O
 Today	O
 it	O
-’	O
-s	O
+’s	O
 no	O
 longer	O
 a	O
@@ -745,8 +726,7 @@ adds	O
 “	O
 The	O
 sky	O
-’	O
-s	O
+’s	O
 the	O
 limit	O
 .	O
@@ -815,8 +795,7 @@ influence	O
 Well	O
 into	O
 the	O
-1980	B-Date
-s	O
+1980s	B-Date
 ,	O
 Washington	B-Location
 supported	O
@@ -884,8 +863,7 @@ muscle	O
 Much	O
 of	O
 China	B-Location
-’	O
-s	O
+’s	O
 investment	O
 began	O
 at	O
@@ -953,8 +931,7 @@ US	B-Location
 as	O
 South	B-Location
 America	I-Location
-’	O
-s	O
+’s	O
 largest	O
 trade	O
 partner	O
@@ -1079,13 +1056,11 @@ office	O
 .	O
 
 China	B-Location
-’	O
-s	O
+’s	O
 pitch	O
 :	O
 We	O
-’	O
-re	O
+’re	O
 here	O
 purely	O
 to	O
@@ -1203,8 +1178,7 @@ an	O
 alternative	O
 to	O
 China	B-Location
-’	O
-s	O
+’s	O
 global	O
 infrastructure	O
 -	O
@@ -1300,8 +1274,7 @@ he	O
 opened	O
 his	O
 state	O
-’	O
-s	O
+’s	O
 first	O
 trade	O
 office	O
@@ -1327,8 +1300,7 @@ delegation	O
 in	O
 the	O
 governor	O
-’	O
-s	O
+’s	O
 mansion	O
 .	O
 Then	O
@@ -1396,8 +1368,7 @@ decision	O
 ,	O
 not	O
 Bolsonaro	B-Person
-’	O
-s	O
+’s	O
 decision	O
 .	O
 ”	O
@@ -1418,8 +1389,7 @@ a	O
 contract	O
 with	O
 China	B-Location
-’	O
-s	O
+’s	O
 Sinovac	B-Organization
 Biotech	I-Organization
 to	O
@@ -1430,8 +1400,7 @@ CoronaVac	B-Misc
 vaccine	O
 –	O
 Brazil	B-Location
-’	O
-s	O
+’s	O
 first	O
 and	O
 ,	O
@@ -1559,13 +1528,11 @@ Paulo	I-Location
 The	O
 Brazilian	B-NORP
 people	O
-won	O
-’	O
-t	O
+wo	O
+n’t	O
 be	O
 anyone	O
-’	O
-s	O
+’s	O
 guinea	O
 pig	O
 ,	O
@@ -1609,15 +1576,13 @@ obliged	O
 .	O
 “	O
 China	B-Location
-’	O
-s	O
+’s	O
 position	O
 is	O
 :	O
 I	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 care	O
 if	O
 your	O
@@ -1646,8 +1611,7 @@ Advice	I-Organization
 .	O
 “	O
 It	O
-’	O
-s	O
+’s	O
 extremely	O
 pragmatic	O
 .	O
@@ -1763,9 +1727,8 @@ Paulo	I-Location
 “	O
 You	O
 really	O
-can	O
-’	O
-t	O
+ca	O
+n’t	O
 have	O
 the	O
 luxury	O
@@ -1809,8 +1772,7 @@ ready	O
 .	O
 In	O
 the	O
-1990	B-Date
-s	O
+1990s	B-Date
 ,	O
 Argentina	B-Location
 had	O
@@ -1882,8 +1844,7 @@ remains	O
 one	O
 of	O
 Argentina	B-Location
-’	O
-s	O
+’s	O
 poorest	O
 ,	O
 known	O
@@ -2004,8 +1965,7 @@ projects	O
 in	O
 the	O
 early	O
-2000	B-Date
-s	O
+2000s	B-Date
 ,	O
 around	O
 the	O
@@ -2077,8 +2037,7 @@ boiled	O
 in	O
 the	O
 plant	O
-’	O
-s	O
+’s	O
 husks	O
 ,	O
 a	O
@@ -2095,16 +2054,14 @@ after	O
 Xi	B-Person
 unveiled	O
 China	B-Location
-’	O
-s	O
+’s	O
 Belt	B-Misc
 and	I-Misc
 Road	I-Misc
 Initiative	I-Misc
 ,	O
 Jujuy	B-Location
-’	O
-s	O
+’s	O
 government	O
 opened	O
 its	O
@@ -2140,8 +2097,7 @@ for	O
 Cauchari	B-Facility
 .	O
 China	B-Location
-’	O
-s	O
+’s	O
 state	O
 import	O
 -	O
@@ -2196,8 +2152,7 @@ one	O
 of	O
 the	O
 world	O
-’	O
-s	O
+’s	O
 biggest	O
 solar	O
 plants	O
@@ -2322,8 +2277,7 @@ Fund	I-Organization
 
 “	O
 Argentina	B-Location
-’	O
-s	O
+’s	O
 economy	O
 is	O
 so	O
@@ -2362,8 +2316,7 @@ delegations	O
 interested	O
 in	O
 Jujuy	B-Location
-’	O
-s	O
+’s	O
 lithium	O
 salt	O
 flats	O
@@ -2401,8 +2354,7 @@ venture	O
 that	O
 became	O
 Argentina	B-Location
-’	O
-s	O
+’s	O
 second	O
 lithium	O
 producer	O
@@ -2523,8 +2475,7 @@ The	O
 contrast	O
 between	O
 Jujuy	B-Location
-’	O
-s	O
+’s	O
 past	O
 and	O
 present	O
@@ -2623,8 +2574,7 @@ At	O
 this	O
 rate	O
 we	O
-’	O
-re	O
+’re	O
 all	O
 going	O
 to	O

@@ -93,8 +93,7 @@ nature	O
 of	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 societal	O
 construct	O
 .	O
@@ -551,8 +550,7 @@ own	O
 salon	O
 called	O
 Bintou	B-Facility	B-Person
-’	I-Facility
-s	I-Facility
+’s	I-Facility
 Glowbelle	I-Facility
 and	O
 puts	O
@@ -658,8 +656,7 @@ that	O
 divides	O
 beauty	O
 queen	O
-’	O
-s	O
+’s	O
 like	O
 herself	O
 ,	O
@@ -783,8 +780,7 @@ dies	O
 down	O
 ,	O
 it	O
-’	O
-s	O
+’s	O
 back	O
 to	O
 basic	O

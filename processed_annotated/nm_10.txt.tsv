@@ -20,6 +20,7 @@ the	O
 Gam	B-Location
 settlement	O
 .	O
+
 Such	O
 services	O
 have	O
@@ -48,8 +49,7 @@ built	O
 in	O
 the	O
 early	O
-2000	B-Date
-s	O
+2000s	B-Date
 at	O
 Gam	B-Location
 .	O
@@ -111,6 +111,7 @@ have	O
 been	O
 crucial	O
 .	O
+
 It	O
 is	O
 a	O
@@ -181,6 +182,7 @@ of	O
 these	O
 kids	O
 .	O
+
 I	O
 was	O
 the	O
@@ -191,6 +193,7 @@ many	O
 of	O
 them	O
 .	O
+
 I	O
 will	O
 have	O
@@ -314,6 +317,7 @@ at	O
 the	O
 clinic	O
 .	O
+
 I	O
 only	O
 go	O
@@ -402,6 +406,7 @@ is	O
 very	O
 important	O
 .	O
+
 It	O
 is	O
 the	O
@@ -522,6 +527,7 @@ to	O
 help	O
 someone	O
 .	O
+
 You	O
 'd	O
 think	O
@@ -532,6 +538,7 @@ in	O
 my	O
 youth	O
 .	O
+
 It	O
 is	O
 the	O
@@ -610,6 +617,7 @@ one	O
 can	O
 control	O
 .	O
+
 I	O
 tell	O
 the	O
@@ -732,6 +740,7 @@ take	O
 my	O
 place	O
 .	O
+
 I	O
 enjoy	O
 what	O
@@ -825,7 +834,8 @@ says	O
 
 '	O
 SMOOTH	O
-EXPERIENCE'	O
+EXPERIENCE	O
+'	O
 
 Venoo	B-Person
 Kasupi	I-Person
@@ -840,6 +850,7 @@ a	O
 month	O
 ago	O
 .	O
+
 Despite	O
 having	O
 had	O
@@ -874,6 +885,7 @@ was	O
 very	O
 smooth	O
 .	O
+
 She	O
 's	O
 very	O
@@ -975,6 +987,7 @@ she	O
 uses	O
 them	O
 .	O
+
 I	O
 've	O
 noticed	O

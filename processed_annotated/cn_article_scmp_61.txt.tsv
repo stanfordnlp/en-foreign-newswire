@@ -104,8 +104,7 @@ small	O
 for	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 350	O
 legislators	O
 .	O
@@ -129,8 +128,7 @@ been	O
 built	O
 by	O
 China	B-Location
-’	O
-s	O
+’s	O
 Shanghai	B-Organization	B-Location
 Construction	I-Organization
 Group	I-Organization
@@ -345,8 +343,7 @@ home	O
 to	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 reserve	O
 bank	O
 ,	O
@@ -465,11 +462,9 @@ with	O
 Africa	B-Location
 between	O
 the	O
-1950	B-Date
-s	O
+1950s	B-Date
 and	O
-1970	B-Date
-s	O
+1970s	B-Date
 ,	O
 it	O
 offered	O
@@ -563,8 +558,7 @@ named	O
 after	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 first	O
 president	O
 ,	O
@@ -598,8 +592,7 @@ Zambia	B-Location
 and	O
 the	O
 People	B-Location
-’	I-Location
-s	I-Location
+’s	I-Location
 Republic	I-Location
 of	I-Location
 China	I-Location
@@ -680,8 +673,7 @@ Strategic	I-Organization
 Studies	I-Organization
 at	O
 Washington	B-Location
-’	O
-s	O
+’s	O
 National	B-Organization
 Defence	I-Organization
 University	I-Organization
@@ -772,8 +764,7 @@ at	O
 George	B-Organization	B-Person
 Washington	I-Organization	B-Location
 University	I-Organization
-’	O
-s	O
+’s	O
 Elliott	B-Organization	B-Person
 School	I-Organization
 of	I-Organization
@@ -798,8 +789,7 @@ important	O
 part	O
 of	O
 China	B-Location
-’	O
-s	O
+’s	O
 foreign	O
 policy	O
 ,	O
@@ -847,14 +837,12 @@ latter	O
 also	O
 includes	O
 Kenya	B-Location
-’	O
-s	O
+’s	O
 foreign	O
 ministry	O
 and	O
 Burundi	B-Location
-’	O
-s	O
+’s	O
 presidential	O
 palace	O
 .	O
@@ -1142,8 +1130,7 @@ the	O
 imagination	O
 of	O
 Africa	B-Location
-’	O
-s	O
+’s	O
 best	O
 architects	O
 .	O

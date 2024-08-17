@@ -79,6 +79,7 @@ terms	O
 and	O
 conditions	O
 .	O
+
 He	O
 pointed	O
 out	O
@@ -128,6 +129,7 @@ them	O
 at	O
 home	O
 .	O
+
 However	O
 ,	O
 there	O
@@ -204,6 +206,7 @@ among	O
 other	O
 issues	O
 .	O
+
 There	O
 are	O
 also	O
@@ -218,6 +221,7 @@ greenhouses	O
 without	O
 soil	O
 .	O
+
 Further	O
 ,	O
 there	O
@@ -245,6 +249,7 @@ endure	O
 local	O
 conditions	O
 .	O
+
 Around	O
 38	O
 different	O
@@ -272,7 +277,8 @@ as	O
 the	O
 '	O
 Qatari	B-NORP
-greenhouse'	O
+greenhouse	O
+'	O
 because	O
 it	O
 is	O
@@ -290,6 +296,7 @@ requirements	O
 and	O
 conditions	O
 .	O
+
 Al	B-Person
 -	I-Person
 Shammari	I-Person

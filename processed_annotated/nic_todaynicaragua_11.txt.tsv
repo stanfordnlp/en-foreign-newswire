@@ -19,8 +19,7 @@ former	O
 rock	O
 -	O
 star	O
-’	O
-s	O
+’s	O
 wife	O
 turned	O
 leftwing	O
@@ -50,10 +49,8 @@ in	O
 ?	O
 
 As	O
-P	B-Person
-.	I-Person
-J	I-Person
-.	I-Person
+P.	B-Person
+J.	I-Person
 O	I-Person
 ’	I-Person
 Rourke	I-Person
@@ -78,8 +75,7 @@ day	O
 after	O
 Violeta	B-Person
 Chamorro	I-Person
-’	O
-s	O
+’s	O
 victory	O
 over	O
 Danny	B-Person
@@ -181,9 +177,7 @@ this	O
 morning	O
 Bianca	B-Person
 looked	O
-.	O
-.	O
-.	O
+...	O
 her	O
 age	O
 .	O
@@ -278,8 +272,7 @@ BETTER	O
 Well	O
 ,	O
 she	O
-’	O
-s	O
+’s	O
 back	O
 ,	O
 this	O
@@ -301,8 +294,7 @@ to	O
 hell	O
 .	O
 She	O
-’	O
-s	O
+’s	O
 “	O
 facing	O
 down	O
@@ -413,8 +405,7 @@ extension	O
 that	O
 means	O
 she	O
-’	O
-s	O
+’s	O
 not	O
 on	O
 the	O
@@ -450,8 +441,7 @@ does	O
 ,	O
 and	O
 it	O
-’	O
-s	O
+’s	O
 for	O
 a	O
 reason	O
@@ -461,8 +451,7 @@ until	O
 now	O
 ,	O
 she	O
-’	O
-s	O
+’s	O
 always	O
 been	O
 his	O
@@ -487,8 +476,7 @@ as	O
 Jagger	B-Person
 .	O
 Ortega	B-Person
-’	O
-s	O
+’s	O
 victory	O
 in	O
 his	O
@@ -710,8 +698,7 @@ saying	O
 goes	O
 .	O
 That	O
-’	O
-s	O
+’s	O
 why	O
 the	O
 latest	O
@@ -762,8 +749,7 @@ means	O
 .	O
 
 That	O
-’	O
-s	O
+’s	O
 what	O
 socialism	O
 is	O
@@ -778,8 +764,7 @@ result	O
 every	O
 time	O
 it	O
-’	O
-s	O
+’s	O
 tried	O
 .	O
 Nobody	O
@@ -897,8 +882,7 @@ buddies	O
 how	O
 well	O
 that	O
-’	O
-s	O
+’s	O
 worked	O
 out	O
 .	O
@@ -971,10 +955,8 @@ British	B-NORP
 empire	O
 and	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 during	O
 the	O
 Democrat	B-NORP
@@ -1005,9 +987,8 @@ era	O
 .	O
 Where	O
 it	O
-doesn	O
-’	O
-t	O
+does	O
+n’t	O
 work	O
 is	O
 in	O
@@ -1093,8 +1074,7 @@ Ortega	B-Person
 .	O
 
 It	O
-’	O
-s	O
+’s	O
 all	O
 such	O
 baloney	O
@@ -1205,9 +1185,8 @@ of	O
 socialism	O
 if	O
 they	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 want	O
 another	O
 one	O

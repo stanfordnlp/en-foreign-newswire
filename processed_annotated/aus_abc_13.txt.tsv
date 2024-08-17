@@ -171,8 +171,7 @@ people	O
 Tasmania	B-Location
 of	O
 the	O
-1800	B-Date
-s	O
+1800s	B-Date
 was	O
 a	O
 world	O
@@ -188,8 +187,7 @@ here	O
 in	O
 the	O
 early	O
-1800	B-Date
-s	O
+1800s	B-Date
 —	O
 within	O
 the	O
@@ -1747,8 +1745,7 @@ to	O
 change	O
 in	O
 the	O
-1970	B-Date
-s	O
+1970s	B-Date
 and	O
 points	O
 to	O

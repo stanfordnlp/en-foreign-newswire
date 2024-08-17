@@ -175,9 +175,8 @@ misunderstandings	O
 even	O
 if	O
 that	O
-wasn	O
-’	O
-t	O
+was	O
+n’t	O
 our	O
 intention	O
 .	O
@@ -453,8 +452,7 @@ preferred	O
 option	O
 for	O
 China	B-Location
-’	O
-s	O
+’s	O
 LGBT	B-NORP
 community	O
 .	O
@@ -615,8 +613,7 @@ progress	O
 
 “	O
 It	O
-’	O
-s	O
+’s	O
 about	O
 the	O
 atmosphere	O
@@ -728,8 +725,7 @@ deleted	O
 some	O
 in	O
 China	B-Location
-’	O
-s	O
+’s	O
 LGBT	B-NORP
 community	O
 worry	O
@@ -792,8 +788,7 @@ economics	O
 student	O
 at	O
 Shanghai	B-Location
-’	O
-s	O
+’s	O
 Fudan	B-Organization
 University	I-Organization
 who	O
@@ -833,8 +828,7 @@ to	O
 the	O
 National	B-Organization
 People	I-Organization
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Congress	I-Organization
 (	O
 NPC	B-Organization
@@ -886,9 +880,8 @@ hope	O
 
 “	O
 We	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 have	O
 to	O
 achieve	O
@@ -914,9 +907,8 @@ societies	O
 ,	O
 and	O
 we	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 have	O
 to	O
 emphasise	O
@@ -971,8 +963,7 @@ which	O
 purports	O
 that	O
 one	O
-’	O
-s	O
+’s	O
 LGBT	B-NORP
 identity	O
 is	O
@@ -1169,8 +1160,7 @@ before	O
 
 “	O
 I	O
-’	O
-m	O
+’m	O
 human	O
 first	O
 before	O
@@ -1257,8 +1247,7 @@ pandemic	O
 
 “	O
 I	O
-’	O
-m	O
+’m	O
 yet	O
 to	O
 see	O
@@ -1399,8 +1388,7 @@ location	O
 and	O
 their	O
 family	O
-’	O
-s	O
+’s	O
 open	O
 -	O
 mindedness	O
@@ -1433,8 +1421,7 @@ suppressed	O
 ,	O
 then	O
 I	O
-’	O
-ll	O
+’ll	O
 feel	O
 more	O
 concerned	O
@@ -1520,8 +1507,7 @@ about	O
 politics	O
 ,	O
 there	O
-’	O
-s	O
+’s	O
 also	O
 the	O
 consideration	O
@@ -1536,8 +1522,7 @@ said	O
 .	O
 “	O
 I	O
-’	O
-m	O
+’m	O
 hopeful	O
 that	O
 when	O
@@ -1553,8 +1538,7 @@ influence	O
 in	O
 a	O
 decade	O
-’	O
-s	O
+’s	O
 time	O
 ,	O
 things	O
@@ -1716,8 +1700,7 @@ most	O
 outstanding	O
 ,	O
 that	O
-’	O
-s	O
+’s	O
 the	O
 only	O
 way	O
@@ -1890,9 +1873,8 @@ in	O
 China	B-Location
 ,	O
 we	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 often	O
 hear	O
 the	O

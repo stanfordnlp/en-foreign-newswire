@@ -90,8 +90,7 @@ authorities	O
 “	O
 Daniel	B-Person
 Ortega	I-Person
-’	O
-s	O
+’s	O
 government	O
 of	O
 is	O
@@ -181,8 +180,7 @@ demand	O
 that	O
 Daniel	B-Person
 Ortega	I-Person
-’	O
-s	O
+’s	O
 government	O
 immediately	O
 release	O
@@ -254,8 +252,7 @@ strategy	O
 of	O
 President	O
 Ortega	B-Person
-’	O
-s	O
+’s	O
 government	O
 ,	O
 which	O
@@ -338,8 +335,7 @@ of	O
 the	O
 Nicaraguan	B-NORP
 state	O
-’	O
-s	O
+’s	O
 international	O
 human	O
 rights	O
@@ -589,8 +585,7 @@ Both	O
 the	O
 Public	B-Organization
 Prosecutor	I-Organization
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Office	I-Organization
 and	O
 the	O
@@ -779,8 +774,7 @@ deprivation	O
 of	O
 a	O
 person	O
-’	O
-s	O
+’s	O
 liberty	O
 by	O
 state	O
@@ -891,8 +885,7 @@ held	O
 The	O
 anguish	O
 they	O
-’	O
-re	O
+’re	O
 experiencing	O
 is	O
 yet	O
@@ -907,8 +900,7 @@ policies	O
 of	O
 Daniel	O
 Ortega	B-Person
-’	O
-s	O
+’s	O
 government	O
 .	O
 ”	O

@@ -16,8 +16,7 @@ news	O
 that	O
 next	O
 year	O
-’	O
-s	O
+’s	O
 Group	B-Organization
 of	I-Organization
 Seven	I-Organization
@@ -161,8 +160,7 @@ Russian	B-NORP
 President	O
 Vladimir	B-Person
 Putin	I-Person
-’	O
-s	O
+’s	O
 threat	O
 to	O
 use	O
@@ -174,8 +172,7 @@ nations	O
 interfered	O
 in	O
 Russia	B-Location
-’	O
-s	O
+’s	O
 invasion	O
 of	O
 Ukraine	B-Location
@@ -344,10 +341,8 @@ world	O
 famous	O
 when	O
 then	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	O
+U.	B-Location
+S.	I-Location
 President	O
 Barack	B-Person
 Obama	I-Person
@@ -510,10 +505,8 @@ Hiroshima	B-Location
 by	O
 a	O
 sitting	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	O
+U.	B-Location
+S.	I-Location
 president	O
 .	O
 

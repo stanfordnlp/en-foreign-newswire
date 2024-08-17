@@ -89,8 +89,7 @@ COVID	B-Misc
 pandemic	O
 ,	O
 Russia	B-Location
-’	O
-s	O
+’s	O
 invasion	O
 of	O
 Ukraine	B-Location
@@ -183,8 +182,7 @@ president	O
 said	O
 the	O
 nation	O
-’	O
-s	O
+’s	O
 needs	O
 include	O
 a	O
@@ -490,8 +488,7 @@ been	O
 aggravated	O
 by	O
 Russia	B-Location
-’	O
-s	O
+’s	O
 invasion	O
 of	O
 Ukraine	B-Location
@@ -542,8 +539,7 @@ caused	O
 by	O
 the	O
 government	O
-’	O
-s	O
+’s	O
 delay	O
 in	O
 taking	O

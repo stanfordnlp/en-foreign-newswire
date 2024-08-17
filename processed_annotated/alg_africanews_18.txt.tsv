@@ -168,11 +168,9 @@ ruler	O
 France	B-Location
 in	O
 the	O
-1950	B-Date
-s	O
+1950s	B-Date
 and	O
-1960	B-Date
-s	O
+1960s	B-Date
 .	O
 
 He	O

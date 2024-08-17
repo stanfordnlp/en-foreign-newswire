@@ -3,8 +3,7 @@ https://thebogotapost.com/1000-1-exhibition/50329/	O
 Rafael	B-Person
 Barón	I-Person
 Herazo	I-Person
-’	O
-s	O
+’s	O
 show	O
 entitled	O
 1000	B-Misc
@@ -44,8 +43,7 @@ screen	O
 sirens	O
 of	O
 Hollywood	B-Organization
-’	O
-s	O
+’s	O
 Golden	B-Date
 Era	I-Date
 .	O
@@ -96,11 +94,9 @@ movie	O
 stars	O
 from	O
 the	O
-30	O
-s	O
+30s	O
 and	O
-40	O
-s	O
+40s	O
 in	O
 this	O
 work	O
@@ -215,8 +211,7 @@ series	O
 –	O
 indeed	O
 it	O
-’	O
-s	O
+’s	O
 where	O
 it	O
 got	O
@@ -237,8 +232,7 @@ Nights	I-Misc
 Barón	B-Person
 explains	O
 it	O
-’	O
-s	O
+’s	O
 about	O
 the	O
 night	O
@@ -332,8 +326,7 @@ the	O
 night	O
 ,	O
 that	O
-’	O
-s	O
+’s	O
 why	O
 all	O
 the	O
@@ -358,8 +351,7 @@ dress	O
 worn	O
 by	O
 Barón	B-Person
-’	O
-s	O
+’s	O
 glamorous	O
 divas	O
 or	O
@@ -407,8 +399,7 @@ carpet	O
 ride	O
 of	O
 Barón	B-Person
-’	O
-s	O
+’s	O
 work	O
 really	O
 does	O

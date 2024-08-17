@@ -89,8 +89,7 @@ standards	O
 ,	O
 the	O
 city	O
-’	O
-s	O
+’s	O
 leaders	O
 have	O
 attached	O
@@ -105,8 +104,7 @@ line	O
 with	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 zero	O
 -	O
 Covid	B-Misc
@@ -155,8 +153,7 @@ Fanli	I-Person
 ,	O
 the	O
 city	O
-’	O
-s	O
+’s	O
 party	O
 chief	O
 ,	O
@@ -258,8 +255,7 @@ or	O
 restrictions	O
 on	O
 people	O
-’	O
-s	O
+’s	O
 movements	O
 except	O
 for	O
@@ -364,8 +360,7 @@ village	O
 in	O
 the	O
 city	O
-’	O
-s	O
+’s	O
 Nanshan	B-Location
 district	O
 ,	O
@@ -433,9 +428,8 @@ gets	O
 worse	O
 .	O
 I	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 want	O
 to	O
 go	O
@@ -485,8 +479,7 @@ announcements	O
 
 “	O
 I	O
-’	O
-ve	O
+’ve	O
 already	O
 got	O
 used	O
@@ -610,8 +603,7 @@ any	O
 more	O
 .	O
 It	O
-’	O
-s	O
+’s	O
 centred	O
 around	O
 endless	O
@@ -621,9 +613,8 @@ PCR	B-Misc
 testing	O
 and	O
 I	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 know	O
 why	O
 ,	O

@@ -16,15 +16,12 @@ parent	O
 company	O
 of	O
 Carl	B-Organization	B-Person
-’	I-Organization
-s	I-Organization
-Jr	I-Organization
-.	I-Organization
+’s	I-Organization
+Jr.	I-Organization
 ®	I-Organization
 and	O
 Hardee	B-Organization
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 ®	I-Organization
 ,	O
 announced	O
@@ -35,8 +32,7 @@ of	O
 its	O
 second	O
 Carl	B-Organization	B-Person
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Jr	I-Organization
 .	O
 restaurant	O
@@ -91,8 +87,7 @@ COHDESA	B-Organization
 Two	O
 additional	O
 Carl	B-Organization	B-Person
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Jr	I-Organization
 .	O
 restaurants	O
@@ -105,8 +100,7 @@ one	O
 in	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 capital	O
 of	O
 Tegucigalpa	B-Location
@@ -174,8 +168,7 @@ opened	O
 our	O
 first	O
 Carl	B-Organization	B-Person
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Jr	I-Organization
 .	O
 restaurant	O
@@ -199,8 +192,7 @@ prices	O
 ,	O
 and	O
 we	O
-’	O
-re	O
+’re	O
 poised	O
 to	O
 continue	O
@@ -216,8 +208,7 @@ opening	O
 three	O
 new	O
 Carl	B-Organization	B-Person
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Jr	I-Organization
 .	O
 restaurants	O
@@ -263,8 +254,7 @@ better	O
 burgers	O
 .	O
 We	O
-’	O
-re	O
+’re	O
 also	O
 introducing	O
 a	O
@@ -272,9 +262,8 @@ delicious	O
 breakfast	O
 menu	O
 and	O
-can	O
-’	O
-t	O
+ca	O
+n’t	O
 wait	O
 for	O
 customers	O
@@ -298,8 +287,7 @@ Key	O
 facts	O
 about	O
 Carl	B-Organization	B-Person
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Jr	I-Organization
 .	O
 in	O
@@ -344,12 +332,10 @@ features	O
 :	O
 ◦	O
 Carl	B-Organization	B-Person
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Jr	I-Organization
 .	O
-’	O
-s	O
+’s	O
 signature	O
 line	O
 of	O

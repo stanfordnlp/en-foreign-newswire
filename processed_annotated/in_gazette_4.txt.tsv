@@ -30,8 +30,7 @@ in	O
 the	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 highly	O
 literate	O
 and	O
@@ -136,16 +135,14 @@ Shejin	B-Person
 .	O
 
 Joisna	B-Person
-’	O
-s	O
+’s	O
 parents	O
 had	O
 filed	O
 a	O
 missing	O
 person	O
-’	O
-s	O
+’s	O
 complaint	O
 with	O
 the	O
@@ -235,8 +232,7 @@ member	O
 of	O
 the	O
 CPM	B-Organization
-’	O
-s	O
+’s	O
 Kozhikode	B-Location
 district	O
 secretariat	O
@@ -498,9 +494,7 @@ happening	O
 targeting	O
 Christian	B-NORP
 girls	O
-.	O
-.	O
-.	O
+...	O
 Instead	O
 of	O
 seeing	O
@@ -771,8 +765,7 @@ to	O
 2006	B-Date
 when	O
 CPM	B-Organization
-’	O
-s	O
+’s	O
 MLA	O
 from	O
 Thiruvambadi	B-Location

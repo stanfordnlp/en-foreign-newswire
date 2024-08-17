@@ -25,8 +25,7 @@ Asia	B-Location
 and	O
 whose	O
 family	O
-’	O
-s	O
+’s	O
 epic	O
 showdown	O
 with	O
@@ -35,8 +34,7 @@ Tata	B-Organization
 Group	I-Organization
 sparked	O
 India	B-Location
-’	O
-s	O
+’s	O
 biggest	O
 corporate	O
 feud	O
@@ -233,8 +231,7 @@ holding	O
 company	O
 for	O
 India	B-Location
-’	O
-s	O
+’s	O
 largest	O
 conglomerate	O
 .	O
@@ -285,8 +282,7 @@ between	O
 two	O
 of	O
 India	B-Location
-’	O
-s	O
+’s	O
 most	O
 -	O
 storied	O
@@ -296,8 +292,7 @@ clans	O
 
 The	O
 country	O
-’	O
-s	O
+’s	O
 top	O
 court	O
 ruled	O
@@ -305,8 +300,7 @@ in	O
 2021	B-Date
 that	O
 Cyrus	B-Person
-’	O
-s	O
+’s	O
 ouster	O
 was	O
 legal	O
@@ -315,8 +309,7 @@ also	O
 upheld	O
 Tata	B-Organization
 Sons	I-Organization
-’	O
-s	O
+’s	O
 rules	O
 on	O
 minority	O
@@ -367,8 +360,7 @@ in	O
 when	O
 Pallonji	B-Person
 Mistry	I-Person
-’	O
-s	O
+’s	O
 grandfather	O
 started	O
 a	O
@@ -404,8 +396,7 @@ Tata	B-Organization
 family	O
 in	O
 the	O
-1920	B-Date
-s	O
+1920s	B-Date
 ;	O
 both	O
 families	O
@@ -459,8 +450,7 @@ He	O
 led	O
 the	O
 company	O
-’	O
-s	O
+’s	O
 expansion	O
 into	O
 the	O
@@ -488,8 +478,7 @@ the	O
 Sultan	B-Facility
 of	I-Facility
 Oman	I-Facility	B-Location
-’	I-Facility
-s	I-Facility
+’s	I-Facility
 palace	I-Facility
 in	O
 1971	B-Date
@@ -588,8 +577,7 @@ To	O
 protect	O
 the	O
 company	O
-’	O
-s	O
+’s	O
 reputation	O
 ,	O
 Mistry	B-Person
@@ -704,14 +692,12 @@ Oberoi	B-Location
 Hotel	I-Location
 and	O
 RBI	B-Organization
-’	O
-s	O
+’s	O
 building	O
 in	O
 the	O
 nation	O
-’	O
-s	O
+’s	O
 financial	O
 hub	O
 ,	O
@@ -788,8 +774,7 @@ Mistry	B-Person
 bought	O
 in	O
 the	O
-1980	B-Date
-s	O
+1980s	B-Date
 ,	O
 which	O
 went	O
@@ -804,15 +789,13 @@ stallions	O
 according	O
 to	O
 Namburu	B-Person
-’	O
-s	O
+’s	O
 book	O
 .	O
 
 The	O
 family	O
-’	O
-s	O
+’s	O
 stake	O
 in	O
 Tata	B-Organization
@@ -874,8 +857,7 @@ Steel	I-Organization
 .	O
 
 India	B-Location
-’	O
-s	O
+’s	O
 news	O
 outlets	O
 called	O
@@ -891,8 +873,7 @@ House	I-Location
 the	O
 Tata	B-Organization
 group	O
-’	O
-s	O
+’s	O
 head	O
 office	O
 ,	O
@@ -1025,8 +1006,7 @@ court	O
 ruling	O
 in	O
 Tata	B-Organization
-’	O
-s	O
+’s	O
 favor	O
 left	O
 burnt	O
@@ -1129,8 +1109,7 @@ acquire	O
 %	O
 of	O
 Mistry	B-Person
-’	O
-s	O
+’s	O
 Sterling	B-Organization
 &	I-Organization
 Wilson	I-Organization

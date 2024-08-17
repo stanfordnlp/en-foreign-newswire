@@ -11,8 +11,7 @@ cast	O
 the	O
 Russian	B-NORP
 government	O
-’	O
-s	O
+’s	O
 decision	O
 to	O
 close	O
@@ -30,8 +29,7 @@ as	O
 retaliation	O
 for	O
 Israel	B-Location
-’	O
-s	O
+’s	O
 support	O
 for	O
 Ukraine	B-Location
@@ -50,8 +48,7 @@ interpretation	O
 First	O
 ,	O
 Israel	B-Location
-’	O
-s	O
+’s	O
 support	O
 for	O
 Ukraine	B-Location
@@ -107,8 +104,7 @@ very	O
 critical	O
 of	O
 Russia	B-Location
-’	O
-s	O
+’s	O
 invasion	O
 and	O
 war	O
@@ -123,8 +119,7 @@ that	O
 the	O
 Jewish	B-Organization	B-NORP
 Agency	I-Organization
-’	O
-s	O
+’s	O
 problems	O
 with	O
 the	O
@@ -141,8 +136,7 @@ ago	O
 ,	O
 and	O
 there	O
-’	O
-s	O
+’s	O
 no	O
 reason	O
 at	O
@@ -199,8 +193,7 @@ surprising	O
 that	O
 Vladimir	B-Person
 Putin	I-Person
-’	O
-s	O
+’s	O
 Russia	B-Location
 is	O
 less	O
@@ -299,14 +292,12 @@ Agency	O
 .	O
 
 It	O
-’	O
-s	O
+’s	O
 easy	O
 to	O
 blame	O
 Russia	B-Location
-’	O
-s	O
+’s	O
 corrupt	O
 officials	O
 ,	O
@@ -396,8 +387,7 @@ depleted	O
 during	O
 Natan	B-Person
 Sharansky	I-Person
-’	O
-s	O
+’s	O
 nine	O
 -	O
 year	O
@@ -505,8 +495,7 @@ commercial	O
 extolling	O
 the	O
 Agency	O
-’	O
-s	O
+’s	O
 operations	O
 ,	O
 screened	O
@@ -633,8 +622,7 @@ that	O
 this	O
 time	O
 it	O
-’	O
-s	O
+’s	O
 personal	O
 .	O
 
@@ -648,8 +636,7 @@ Israeli	B-NORP
 prime	O
 minister	O
 he	O
-’	O
-s	O
+’s	O
 dealt	O
 with	O
 ,	O
@@ -757,9 +744,8 @@ was	O
 shamefully	O
 silent	O
 ,	O
-won	O
-’	O
-t	O
+wo	O
+n’t	O
 have	O
 been	O
 forgotten	O
@@ -781,16 +767,14 @@ in	O
 the	O
 Prime	O
 Minister	O
-’	O
-s	O
+’s	O
 Office	O
 in	O
 Jerusalem	B-Location
 ,	O
 but	O
 he	O
-’	O
-s	O
+’s	O
 probably	O
 got	O
 too	O
@@ -817,9 +801,8 @@ months	O
 away	O
 .	O
 You	O
-wouldn	O
-’	O
-t	O
+would	O
+n’t	O
 put	O
 it	O
 past	O
@@ -994,8 +977,7 @@ examining	O
 the	O
 Jewish	B-Organization	B-NORP
 Agency	I-Organization
-’	O
-s	O
+’s	O
 role	O
 .	O
 But	O

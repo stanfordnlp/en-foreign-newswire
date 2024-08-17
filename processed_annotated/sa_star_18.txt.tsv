@@ -27,8 +27,7 @@ Dlamini	B-Person
 ,	O
 Operation	B-Organization
 Dudula	I-Organization
-’	O
-s	O
+’s	O
 Dan	B-Person
 Radebe	I-Person
 and	O
@@ -36,8 +35,7 @@ Put	B-Organization
 South	I-Organization	B-Location
 Africa	I-Organization	I-Location
 First	I-Organization
-’	O
-s	O
+’s	O
 Faith	B-Person
 Mabusela	I-Person
 were	O

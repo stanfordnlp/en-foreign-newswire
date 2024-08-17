@@ -7,8 +7,7 @@ MONTSAME	B-Organization
 President	O
 of	O
 Mongolia	B-Location
-U	B-Person
-.	I-Person
+U.	B-Person
 Khurelsukh	I-Person
 received	O
 UNESCO	B-Organization
@@ -31,8 +30,7 @@ President	O
 expressed	O
 gratitude	O
 to	O
-Ms	O
-.	O
+Ms.	O
 Audrey	B-Person
 Azoulay	I-Person
 for	O
@@ -79,8 +77,7 @@ heritage	O
 In	O
 turn	O
 ,	O
-Ms	O
-.	O
+Ms.	O
 Audrey	B-Person
 Azoulay	I-Person
 said	O
@@ -168,8 +165,7 @@ than	O
 percent	O
 of	O
 Mongolia	B-Location
-’	O
-s	O
+’s	O
 freshwater	O
 resources	O
 and	O
@@ -178,8 +174,7 @@ percent	O
 of	O
 the	O
 world	O
-’	O
-s	O
+’s	O
 freshwater	O
 resources	O
 on	O

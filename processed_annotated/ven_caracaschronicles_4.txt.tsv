@@ -108,8 +108,7 @@ pandemic	O
 on	O
 the	O
 island	O
-’	O
-s	O
+’s	O
 tourism	O
 industry	O
 ,	O
@@ -198,8 +197,7 @@ year	O
 later	O
 ,	O
 it	O
-’	O
-s	O
+’s	O
 more	O
 difficult	O
 to	O
@@ -346,8 +344,7 @@ the	O
 contrary	O
 ,	O
 there	O
-’	O
-s	O
+’s	O
 nothing	O
 left	O
 of	O
@@ -373,8 +370,7 @@ century	O
 Now	O
 ,	O
 let	O
-’	O
-s	O
+’s	O
 look	O
 at	O
 another	O
@@ -387,8 +383,7 @@ to	O
 Cuba	B-Location
 and	O
 Venezuela	B-Location
-’	O
-s	O
+’s	O
 .	O
 In	O
 Nicaragua	B-Location
@@ -521,8 +516,7 @@ you	O
 look	O
 at	O
 what	O
-’	O
-s	O
+’s	O
 happened	O
 in	O
 Venezuela	B-Location
@@ -660,8 +654,7 @@ after	O
 ,	O
 and	O
 Moreno	B-Person
-’	O
-s	O
+’s	O
 party	O
 lost	O
 the	O
@@ -780,8 +773,7 @@ military	O
 regimes	O
 of	O
 the	O
-1980	B-Date
-s	O
+1980s	B-Date
 ,	O
 a	O
 senator	O
@@ -913,8 +905,7 @@ shattering	O
 of	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 image	O
 as	O
 a	O
@@ -1180,9 +1171,8 @@ the	O
 population	O
 ,	O
 and	O
-didn	O
-’	O
-t	O
+did	O
+n’t	O
 seem	O
 to	O
 have	O
@@ -1394,8 +1384,7 @@ everyday	O
 governance	O
 because	O
 it	O
-’	O
-s	O
+’s	O
 more	O
 expensive	O
 and	O
@@ -1422,8 +1411,7 @@ propaganda	O
 says	O
 ,	O
 it	O
-’	O
-s	O
+’s	O
 more	O
 capable	O
 of	O
@@ -1436,9 +1424,8 @@ else	O
 nowadays	O
 ,	O
 it	O
-couldn	O
-’	O
-t	O
+could	O
+n’t	O
 rest	O
 only	O
 on	O
@@ -1475,10 +1462,8 @@ been	O
 occurring	O
 in	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 can	O
 make	O
 a	O
@@ -1511,8 +1496,7 @@ Political	I-Misc
 Science	I-Misc
 by	O
 Peter	B-Person
-L	I-Person
-.	I-Person
+L.	I-Person
 Lorentzen	I-Person
 ,	O
 from	O
@@ -1835,8 +1819,7 @@ briefly	O
 believed	O
 in	O
 the	O
-1990	B-Date
-s	O
+1990s	B-Date
 .	O
 Now	O
 that	O

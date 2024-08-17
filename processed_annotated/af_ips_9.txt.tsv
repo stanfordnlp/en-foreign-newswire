@@ -48,8 +48,7 @@ a	O
 county	O
 in	O
 Kenya	B-Location
-’	O
-s	O
+’s	O
 arid	O
 north	O
 ,	O
@@ -142,8 +141,7 @@ to	O
 meet	O
 my	O
 family	O
-’	O
-s	O
+’s	O
 needs	O
 .	O
 No	O
@@ -218,8 +216,7 @@ drylands	O
 
 In	O
 Kenya	B-Location
-’	O
-s	O
+’s	O
 drylands	O
 ,	O
 human	O
@@ -355,8 +352,7 @@ help	O
 cater	O
 for	O
 children	O
-’	O
-s	O
+’s	O
 upkeep	O
 and	O
 sometimes	O
@@ -477,8 +473,7 @@ confined	O
 to	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 drylands	O
 .	O
 Gum	O
@@ -926,8 +921,7 @@ Salgi	I-Person
 the	O
 World	B-Organization
 Vision	I-Organization
-’	O
-s	O
+’s	O
 Integrated	B-Misc
 Management	I-Misc
 of	I-Misc
@@ -1130,8 +1124,7 @@ can	O
 pay	O
 her	O
 children	O
-’	O
-s	O
+’s	O
 school	O
 fees	O
 .	O

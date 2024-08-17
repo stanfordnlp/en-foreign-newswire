@@ -416,8 +416,7 @@ ransacked	O
 in	O
 West	B-Location
 Bengal	I-Location
-’	I-Location
-s	I-Location
+’s	I-Location
 Bankura	I-Location
 as	O
 well	O
@@ -490,8 +489,7 @@ top	O
 of	O
 the	O
 mosque	O
-’	O
-s	O
+’s	O
 minarets	O
 .	O
 
@@ -912,8 +910,7 @@ None	O
 of	O
 the	O
 community	O
-’	O
-s	O
+’s	O
 religious	O
 leaders	O
 made	O
@@ -1057,8 +1054,7 @@ RJD	B-Organization
 MP	O
 ,	O
 Manoj	B-Person
-K	I-Person
-.	I-Person
+K.	I-Person
 Jha	I-Person
 who	O
 said	O
@@ -1182,8 +1178,7 @@ the	O
 rooftop	O
 that	O
 it	O
-’	O
-s	O
+’s	O
 “	O
 Post	O
 -	O

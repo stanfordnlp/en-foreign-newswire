@@ -32,8 +32,7 @@ evening	O
 for	O
 what	O
 Algeria	B-Location
-’	O
-s	O
+’s	O
 state	O
 news	O
 agency	O
@@ -177,8 +176,7 @@ prosperity	O
 .	O
 
 Maduro	B-Person
-’	O
-s	O
+’s	O
 visit	O
 to	O
 Algeria	B-Location
@@ -197,8 +195,7 @@ day	O
 before	O
 US	B-Location
 president	O
-’	O
-s	O
+’s	O
 summit	O
 of	O
 the	O

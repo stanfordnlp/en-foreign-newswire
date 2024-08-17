@@ -60,8 +60,7 @@ Esplanade	B-Product
 ”	O
 commemorates	O
 Singapore	B-Location
-’	O
-s	O
+’s	O
 Golden	B-Misc
 Jubilee	I-Misc
 with	O
@@ -89,8 +88,7 @@ for	O
 the	O
 Merlion	B-Location
 state	O
-’	O
-s	O
+’s	O
 Patek	B-Misc	B-Product	B-Organization
 Philippe	I-Misc	I-Product	I-Organization
 Watch	I-Misc	I-Product
@@ -108,8 +106,7 @@ Taipei	I-Product	B-Location
 "	O
 celebrates	O
 Taipei	B-Location
-’	O
-s	O
+’s	O
 skyline	O
 in	O
 cloisonné	O
@@ -120,8 +117,7 @@ to	O
 commemorate	O
 the	O
 brand	O
-’	O
-s	O
+’s	O
 first	O
 boutique	O
 in	O
@@ -171,8 +167,7 @@ enamel	I-Product
 ,	O
 features	O
 Singapore	B-Location
-’	O
-s	O
+’s	O
 waterfront	O
 skyline	O
 from	O
@@ -230,8 +225,7 @@ Watch	I-Organization
 for	O
 the	O
 brand	O
-’	O
-s	O
+’s	O
 25th	O
 and	O
 50th	O

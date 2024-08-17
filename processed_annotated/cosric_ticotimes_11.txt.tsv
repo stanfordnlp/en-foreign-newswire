@@ -51,8 +51,7 @@ Fellow	O
 in	O
 the	O
 Edward	B-Organization	B-Person
-R	I-Organization	I-Person
-.	I-Organization	I-Person
+R.	I-Organization	I-Person
 Murrow	I-Organization	I-Person
 Center	I-Organization
 for	I-Organization
@@ -357,15 +356,13 @@ cannot	O
 .	O
 President	O
 Alvarado	B-Person
-’	O
-s	O
+’s	O
 appointment	O
 reinforces	O
 The	B-Organization
 Fletcher	I-Organization	B-Person
 School	I-Organization
-’	O
-s	O
+’s	O
 long	O
 history	O
 and	O

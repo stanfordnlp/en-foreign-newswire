@@ -67,8 +67,7 @@ democracy	O
 Lee	B-Person
 attacked	O
 Saturday	B-Date
-’	O
-s	O
+’s	O
 meeting	O
 held	O
 by	O
@@ -88,8 +87,7 @@ insubordination	O
 To	O
 leave	O
 one	O
-’	O
-s	O
+’s	O
 garrison	O
 and	O
 gather	O
@@ -186,8 +184,7 @@ and	O
 overseeing	O
 the	O
 agency	O
-’	O
-s	O
+’s	O
 plans	O
 that	O
 require	O
@@ -482,8 +479,7 @@ day	O
 .	O
 
 When	O
-Rep	O
-.	O
+Rep.	O
 Park	B-Person
 Bum	I-Person
 -	I-Person
@@ -589,8 +585,7 @@ measures	O
 
 The	O
 president	O
-’	O
-s	O
+’s	O
 comment	O
 was	O
 similar	O
@@ -670,8 +665,7 @@ own	O
 good	O
 .	O
 
-Rep	O
-.	O
+Rep.	O
 Kim	B-Person
 Ki	I-Person
 -	I-Person

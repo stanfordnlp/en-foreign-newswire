@@ -64,8 +64,7 @@ some	O
 of	O
 the	O
 world	O
-’	O
-s	O
+’s	O
 leading	O
 athletic	O
 organizations	O
@@ -149,8 +148,7 @@ to	O
 stay	O
 and	O
 Venezuela	B-Location
-’	O
-s	O
+’s	O
 making	O
 strides	O
 in	O
@@ -177,8 +175,7 @@ think	O
 of	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 relationship	O
 to	O
 videogames	O
@@ -206,8 +203,7 @@ to	O
 navigate	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 complicated	O
 economy	O
 .	O
@@ -299,8 +295,7 @@ like	O
 Zulia	B-Location
 and	O
 there	O
-’	O
-s	O
+’s	O
 a	O
 Venezuelan	B-Organization	B-NORP
 Federation	I-Organization
@@ -352,8 +347,7 @@ opening	O
 of	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 first	O
 esports	O
 academy	O
@@ -365,8 +359,7 @@ University	I-Organization
 .	O
 
 UCAB	B-Organization
-’	O
-s	O
+’s	O
 eSports	B-Organization
 Academy	I-Organization
 (	O
@@ -386,8 +379,7 @@ week	O
 Located	O
 on	O
 UCAB	B-Organization
-’	O
-s	O
+’s	O
 Montalbán	B-Location
 campus	O
 ,	O
@@ -523,8 +515,7 @@ to	O
 bridge	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 15	O
 -	O
 year	O
@@ -767,8 +758,7 @@ destroying	O
 the	O
 opposing	O
 team	O
-’	O
-s	O
+’s	O
 Nexus	O
 base	O
 in	O
@@ -785,8 +775,7 @@ in	O
 Fortnite	B-Misc
 .	O
 UCAB	B-Organization
-’	O
-s	O
+’s	O
 dean	O
 ,	O
 the	O
@@ -867,9 +856,8 @@ the	O
 esports	O
 ecosystem	O
 but	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 want	O
 to	O
 be	O
@@ -1022,8 +1010,7 @@ can	O
 implement	O
 the	O
 game	O
-’	O
-s	O
+’s	O
 educational	O
 tool	O
 :	O
@@ -1044,8 +1031,7 @@ the	O
 Jesuits	B-NORP
 in	O
 the	O
-1950	B-Date
-s	O
+1950s	B-Date
 ,	O
 with	O
 postgraduate	O

@@ -25,8 +25,7 @@ lives	O
 lost	O
 to	O
 Yukon	B-Location
-’	O
-s	O
+’s	O
 opioid	O
 crisis	O
 .	O
@@ -40,8 +39,7 @@ news	O
 release	O
 from	O
 Yukon	B-Location
-’	O
-s	O
+’s	O
 chief	O
 corner	O
 ,	O
@@ -83,9 +81,8 @@ people	O
 in	O
 the	O
 North	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 even	O
 have	O
 a	O
@@ -233,9 +230,8 @@ show	O
 While	O
 the	O
 space	O
-isn	O
-’	O
-t	O
+is	O
+n’t	O
 open	O
 to	O
 the	O
@@ -372,16 +368,14 @@ school	O
 ,	O
 something	O
 he	O
-’	O
-s	O
+’s	O
 experienced	O
 firsthand	O
 .	O
 
 “	O
 I	O
-’	O
-ve	O
+’ve	O
 personally	O
 felt	O
 the	O
@@ -423,8 +417,7 @@ of	O
 the	O
 music	O
 he	O
-’	O
-ll	O
+’ll	O
 be	O
 performing	O
 at	O
@@ -493,8 +486,7 @@ says	O
 
 The	O
 show	O
-’	O
-s	O
+’s	O
 organizers	O
 will	O
 also	O
@@ -521,8 +513,7 @@ information	O
 regarding	O
 the	O
 territory	O
-’	O
-s	O
+’s	O
 supervised	O
 consumption	O
 site	O
@@ -563,12 +554,10 @@ change	O
 ,	O
 then	O
 that	O
-’	O
-s	O
+’s	O
 what	O
 we	O
-’	O
-re	O
+’re	O
 going	O
 to	O
 do	O

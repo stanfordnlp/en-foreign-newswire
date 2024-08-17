@@ -69,8 +69,7 @@ later	O
 ,	O
 Gangnam	B-Misc
 Style	I-Misc
-’	O
-s	O
+’s	O
 legacy	O
 as	O
 a	O
@@ -105,8 +104,7 @@ records	O
 ,	O
 whether	O
 it	O
-’	O
-s	O
+’s	O
 by	O
 selling	O
 millions	O
@@ -196,8 +194,7 @@ July	B-Date
 ,	O
 South	B-Location
 Korea	I-Location
-’	O
-s	O
+’s	O
 Circle	B-Misc
 Chart	I-Misc
 ,	O
@@ -233,8 +230,7 @@ of	O
 2022	B-Date
 .	O
 That	O
-’	O
-s	O
+’s	O
 up	O
 34.6	O
 per	O
@@ -306,8 +302,7 @@ Korean	B-NORP
 acts	O
 :	O
 BTS	B-Organization
-’	O
-s	O
+’s	O
 Proof	B-Misc
 was	O
 second	O
@@ -317,8 +312,7 @@ Harry	B-Person
 Styles	I-Person
 ’	O
 Harry	B-Misc	B-Person
-’	I-Misc
-s	I-Misc
+’s	I-Misc
 House	I-Misc
 ;	O
 Stray	B-Organization
@@ -332,14 +326,12 @@ and	O
 Tomorrow	B-Misc
 X	I-Misc
 Together	I-Misc
-’	O
-s	O
+’s	O
 Minisode	B-Misc
 2	I-Misc
 :	I-Misc
 Thursday	I-Misc
-’	I-Misc
-s	I-Misc
+’s	I-Misc
 Child	I-Misc
 ranked	O
 10th	O
@@ -367,8 +359,7 @@ sales	O
 )	O
 ,	O
 BTS	B-Organization
-’	O
-s	O
+’s	O
 Proof	B-Misc
 (	O
 1st	O
@@ -385,14 +376,12 @@ and	O
 Tomorrow	B-Organization
 X	I-Organization
 Together	I-Organization
-’	O
-s	O
+’s	O
 Minisode	B-Misc
 2	I-Misc
 :	I-Misc
 Thursday	I-Misc
-’	I-Misc
-s	I-Misc
+’s	I-Misc
 Child	I-Misc
 (	O
 4th	O
@@ -401,8 +390,7 @@ were	O
 joined	O
 by	O
 Seventeen	B-Organization
-’	O
-s	O
+’s	O
 Face	B-Misc
 the	I-Misc
 Sun	I-Misc
@@ -412,8 +400,7 @@ Sun	I-Misc
 ,	O
 NCT	B-Organization
 127	I-Organization
-’	O
-s	O
+’s	O
 Sticker	B-Misc
 (	O
 9th	O
@@ -421,8 +408,7 @@ Sticker	B-Misc
 ,	O
 and	O
 Enhypen	B-Organization
-’	O
-s	O
+’s	O
 Dimension	B-Misc
 :	I-Misc
 Answer	I-Misc
@@ -456,8 +442,7 @@ the	O
 news	O
 that	O
 Aespa	B-Organization
-’	O
-s	O
+’s	O
 new	O
 Girls	B-Misc
 album	O
@@ -498,8 +483,7 @@ broken	O
 into	O
 the	O
 chart	O
-’	O
-s	O
+’s	O
 top	O
 10	O
 ,	O
@@ -514,8 +498,7 @@ ahead	O
 of	O
 the	O
 album	O
-’	O
-s	O
+’s	O
 release	O
 .	O
 
@@ -612,12 +595,10 @@ and	O
 rarer	O
 .	O
 There	O
-’	O
-s	O
+’s	O
 Luis	B-Person
 Fonzi	I-Person
-’	O
-s	O
+’s	O
 Despacito	B-Misc
 ,	O
 maybe	O
@@ -626,8 +607,7 @@ or	O
 BTS	B-Organization
 and	O
 Blackpink	B-Organization
-’	O
-s	O
+’s	O
 Butter	B-Misc
 and	O
 Ddu	B-Misc
@@ -670,9 +650,8 @@ Style	I-Misc
 
 (	O
 I	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 want	O
 to	O
 imply	O
@@ -695,8 +674,7 @@ success	O
 I	O
 think	O
 it	O
-’	O
-s	O
+’s	O
 demeaning	O
 when	O
 the	O
@@ -784,8 +762,7 @@ musical	O
 disunity	O
 ?	O
 I	O
-’	O
-m	O
+’m	O
 not	O
 sure	O
 .	O
@@ -827,9 +804,8 @@ success	O
 
 But	O
 I	O
-can	O
-’	O
-t	O
+ca	O
+n’t	O
 help	O
 missing	O
 the	O

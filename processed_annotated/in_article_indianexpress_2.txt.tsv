@@ -16,8 +16,7 @@ to	O
 dominate	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 higher	O
 education	O
 landscape	O
@@ -456,12 +455,9 @@ Technology	I-Organization
 34	O
 )	O
 ,	O
-S	B-Organization
-.	I-Organization
-R	I-Organization
-.	I-Organization
-M	I-Organization
-.	I-Organization
+S.	B-Organization
+R.	I-Organization
+M.	I-Organization
 Institute	I-Organization
 of	I-Organization
 Science	I-Organization
@@ -643,8 +639,7 @@ by	O
 St	B-Organization
 .	I-Organization
 Xavier	I-Organization	B-Person
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 College	I-Organization
 (	O
 8	O

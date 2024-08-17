@@ -174,8 +174,7 @@ Jammu	B-Location
 ,	O
 including	O
 Rehman	B-Person
-’	O
-s	O
+’s	O
 family	O
 .	O
 
@@ -337,16 +336,14 @@ yearlong	O
 detention	O
 at	O
 Jammu	B-Location
-’	O
-s	O
+’s	O
 Hira	B-Facility	B-Location
 Nagar	I-Facility	I-Location
 prison	I-Facility
 ,	O
 where	O
 Rehman	B-Person
-’	O
-s	O
+’s	O
 family	O
 members	O
 are	O
@@ -486,8 +483,7 @@ persecution	O
 .	O
 
 Rehman	B-Person
-’	O
-s	O
+’s	O
 neighbour	O
 told	O
 Al	B-Organization
@@ -599,8 +595,7 @@ Rohingya	B-NORP
 in	O
 the	O
 world	O
-’	O
-s	O
+’s	O
 largest	O
 refugee	O
 camp	O
@@ -886,8 +881,7 @@ hate	O
 campaign	O
 against	O
 India	B-Location
-’	O
-s	O
+’s	O
 Muslims	B-NORP
 by	O
 the	O
@@ -949,8 +943,7 @@ Last	O
 year	O
 ,	O
 India	B-Location
-’	O
-s	O
+’s	O
 top	O
 court	O
 refused	O
@@ -964,8 +957,7 @@ petition	O
 against	O
 the	O
 government	O
-’	O
-s	O
+’s	O
 decision	O
 to	O
 deport	O
@@ -1060,8 +1052,7 @@ continue	O
 .	O
 Our	O
 party	O
-’	O
-s	O
+’s	O
 stand	O
 is	O
 clear	O
@@ -1071,9 +1062,8 @@ it	O
 ”	O
 
 ‘	O
-Can	O
-’	O
-t	O
+Ca	O
+n’t	O
 think	O
 of	O
 losing	O
@@ -1223,8 +1213,7 @@ makeshift	O
 house	O
 in	O
 Jammu	B-Location
-’	O
-s	O
+’s	O
 Narwal	B-Location
 area	O
 .	O
@@ -1247,9 +1236,8 @@ this	O
 world	O
 .	O
 I	O
-can	O
-’	O
-t	O
+ca	O
+n’t	O
 think	O
 of	O
 losing	O
@@ -1404,9 +1392,8 @@ whereabouts	O
 
 “	O
 We	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 have	O
 any	O
 contact	O
@@ -1414,9 +1401,8 @@ with	O
 them	O
 .	O
 We	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 know	O
 where	O
 they	O

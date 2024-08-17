@@ -243,8 +243,7 @@ to	O
 clarify	O
 that	O
 Wang	B-Person
-’	O
-s	O
+’s	O
 father	O
 is	O
 a	O
@@ -312,9 +311,8 @@ and	O
 business	O
 .	O
 I	O
-haven	O
-’	O
-t	O
+have	O
+n’t	O
 asked	O
 for	O
 a	O
@@ -466,8 +464,7 @@ Wednesday	B-Date
 
 “	O
 It	O
-’	O
-s	O
+’s	O
 not	O
 a	O
 big	O
@@ -483,8 +480,7 @@ from	O
 grace	O
 .	O
 What	O
-’	O
-s	O
+’s	O
 important	O
 is	O
 we	O
@@ -501,8 +497,7 @@ said	O
 .	O
 
 Wang	B-Person
-’	O
-s	O
+’s	O
 sudden	O
 downfall	O
 is	O
@@ -517,8 +512,7 @@ Meimei	I-Person
 one	O
 of	O
 China	B-Location
-’	O
-s	O
+’s	O
 first	O
 influencers	O
 .	O

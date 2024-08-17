@@ -240,6 +240,7 @@ than	O
 tropical	O
 forests	O
 .	O
+
 However	O
 ,	O
 when	O
@@ -344,8 +345,7 @@ of	O
 2022	B-Date
 in	O
 KAUST	B-Organization
-’	O
-s	O
+’s	O
 Nature	B-Misc
 Conservation	I-Misc
 Area	I-Misc
@@ -435,6 +435,7 @@ person	O
 at	O
 KAUST	B-Organization
 .	O
+
 This	O
 incurs	O
 a	O
@@ -483,6 +484,7 @@ and	O
 exhibit	O
 resilience	O
 .	O
+
 Hence	O
 ,	O
 we	O
@@ -773,6 +775,7 @@ require	O
 freshwater	O
 irrigation	O
 .	O
+
 Mangroves	O
 do	O
 not	O

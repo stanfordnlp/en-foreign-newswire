@@ -18,8 +18,7 @@ Touch	B-Misc
 n	I-Misc
 Go	I-Misc
 eWallet	I-Misc
-’	O
-s	O
+’s	O
 operator	O
 ,	O
 TNG	B-Organization
@@ -41,8 +40,7 @@ Holdings	I-Organization
 Bhd	I-Organization
 and	O
 China	B-Location
-’	O
-s	O
+’s	O
 Ant	B-Organization
 Group	I-Organization
 .	O

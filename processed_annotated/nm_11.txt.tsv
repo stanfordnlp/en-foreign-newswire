@@ -122,6 +122,7 @@ during	O
 the	O
 pandemic	O
 .	O
+
 We	O
 noticed	O
 that	O
@@ -237,6 +238,7 @@ still	O
 in	O
 school	O
 .	O
+
 We	O
 walked	O
 around	O
@@ -251,6 +253,7 @@ promote	O
 an	O
 idea	O
 .	O
+
 Not	O
 everyone	O
 was	O
@@ -262,6 +265,7 @@ we	O
 were	O
 doing	O
 .	O
+
 At	O
 times	O
 we	O
@@ -272,6 +276,7 @@ stabbed	O
 by	O
 people	O
 .	O
+
 We	O
 have	O
 been	O
@@ -303,6 +308,7 @@ closing	O
 on	O
 us	O
 .	O
+
 It	O
 is	O
 still	O
@@ -361,9 +367,11 @@ the	O
 economical	O
 challenges	O
 .	O
+
 Start	O
 simple	O
 .	O
+
 For	O
 us	O
 ,	O
@@ -387,6 +395,7 @@ needs	O
 to	O
 start	O
 .	O
+
 We	O
 want	O
 to	O
@@ -595,8 +604,10 @@ titled	O
 Buy	B-Misc
 One	I-Misc
 Donate	I-Misc
-One'	I-Misc
+One	I-Misc
+'	O
 .	O
+
 This	O
 basically	O
 means	O
@@ -700,6 +711,7 @@ as	O
 young	O
 people	O
 .	O
+
 They	O
 also	O
 ask	O

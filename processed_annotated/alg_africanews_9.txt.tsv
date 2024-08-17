@@ -346,10 +346,8 @@ rights	O
 .	O
 
 The	O
-U	B-Organization	B-Location
-.	I-Organization	I-Location
-S	I-Organization	I-Location
-.	I-Organization	I-Location
+U.	B-Organization	B-Location
+S.	I-Organization	I-Location
 State	I-Organization
 Department	I-Organization
 's	O
@@ -389,10 +387,8 @@ In	O
 March	B-Date
 ,	O
 the	O
-U	B-Organization
-.	I-Organization
-N	I-Organization
-.	I-Organization
+U.	B-Organization
+N.	I-Organization
 High	O
 Commissioner	O
 for	O
@@ -639,9 +635,7 @@ contents	O
 of	O
 this	O
 initiative	O
-.	O
-.	O
-.	O
+...	O
 but	O
 we	O
 're	O

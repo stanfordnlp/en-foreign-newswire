@@ -135,8 +135,7 @@ tracks	O
 produced	O
 by	O
 Seo	B-Person
-’	O
-s	O
+’s	O
 writing	O
 team	O
 ,	O
@@ -161,8 +160,7 @@ coming	O
 ,	O
 but	O
 he	O
-’	O
-s	O
+’s	O
 been	O
 waiting	O
 for	O
@@ -176,8 +174,7 @@ projects	O
 .	O
 “	O
 I	O
-’	O
-ve	O
+’ve	O
 been	O
 preparing	O
 these	O
@@ -203,8 +200,7 @@ call	O
 
 “	O
 I	O
-’	O
-ve	O
+’ve	O
 been	O
 planning	O
 to	O
@@ -256,9 +252,8 @@ begins	O
 
 “	O
 I	O
-didn	O
-’	O
-t	O
+did	O
+n’t	O
 really	O
 want	O
 to	O
@@ -305,8 +300,7 @@ Seo	B-Person
 knows	O
 that	O
 they	O
-’	O
-re	O
+’re	O
 not	O
 really	O
 a	O
@@ -351,8 +345,7 @@ inspired	O
 by	O
 David	B-Person
 Foster	I-Person
-’	O
-s	O
+’s	O
 music	O
 and	O
 production	O
@@ -403,8 +396,7 @@ is	O
 key	O
 for	O
 Seo	B-Person
-’	O
-s	O
+’s	O
 new	O
 take	O
 on	O
@@ -505,8 +497,7 @@ showing	O
 people	O
 what	O
 I	O
-’	O
-m	O
+’m	O
 thinking	O
 and	O
 feeling	O
@@ -519,8 +510,7 @@ moment	O
 Right	O
 now	O
 I	O
-’	O
-m	O
+’m	O
 kind	O
 of	O
 into	O
@@ -544,8 +534,7 @@ And	O
 I	O
 think	O
 I	O
-’	O
-d	O
+’d	O
 like	O
 to	O
 put	O
@@ -568,8 +557,7 @@ would	O
 probably	O
 say	O
 it	O
-’	O
-s	O
+’s	O
 a	O
 lifetime	O
 dream	O
@@ -618,15 +606,12 @@ in	O
 the	O
 video	O
 for	O
-K	B-Person
-.	I-Person
+K.	B-Person
 Will	I-Person
-’	O
-s	O
+’s	O
 Please	B-Misc
-Don	I-Misc
-’	I-Misc
-t	I-Misc
+Do	I-Misc
+n’t	I-Misc
 …	O
 ,	O
 in	O
@@ -654,8 +639,7 @@ the	O
 end	O
 shows	O
 he	O
-’	O
-s	O
+’s	O
 in	O
 love	O
 not	O
@@ -668,9 +652,8 @@ groom	O
 ,	O
 making	O
 Please	B-Misc
-Don	I-Misc
-’	I-Misc
-t	I-Misc
+Do	I-Misc
+n’t	I-Misc
 one	O
 of	O
 the	O
@@ -813,16 +796,14 @@ love	O
 I	O
 think	O
 I	O
-’	O
-d	O
+’d	O
 be	O
 open	O
 to	O
 it	O
 .	O
 I	O
-’	O
-ll	O
+’ll	O
 try	O
 to	O
 express	O
@@ -855,8 +836,7 @@ the	O
 moment	O
 :	O
 he	O
-’	O
-s	O
+’s	O
 been	O
 in	O
 back	O
@@ -886,8 +866,7 @@ acting	O
 he	O
 admits	O
 he	O
-’	O
-s	O
+’s	O
 turned	O
 into	O
 a	O
@@ -899,8 +878,7 @@ workaholic	O
 
 “	O
 It	O
-’	O
-s	O
+’s	O
 a	O
 good	O
 busy	O
@@ -909,13 +887,11 @@ so	O
 even	O
 though	O
 I	O
-’	O
-m	O
+’m	O
 so	O
 busy	O
 I	O
-’	O
-m	O
+’m	O
 always	O
 in	O
 a	O
@@ -969,8 +945,7 @@ detective	O
 .	O
 “	O
 He	O
-’	O
-s	O
+’s	O
 a	O
 very	O
 charming	O
@@ -1102,8 +1077,7 @@ life	O
 ,	O
 now	O
 I	O
-’	O
-m	O
+’m	O
 able	O
 to	O
 react	O
@@ -1241,8 +1215,7 @@ world	O
 .	O
 So	O
 I	O
-’	O
-m	O
+’m	O
 just	O
 trying	O
 my	O

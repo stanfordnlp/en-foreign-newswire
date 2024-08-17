@@ -182,8 +182,7 @@ The	O
 Uzbek	B-Organization	B-NORP
 Prosecutor	I-Organization
 General	I-Organization
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Office	I-Organization
 this	O
 week	O
@@ -227,8 +226,7 @@ plans	O
 to	O
 revise	O
 Karakalpakstan	B-Location
-’	O
-s	O
+’s	O
 legal	O
 status	O
 as	O
@@ -362,8 +360,7 @@ detained	O
 and	O
 an	O
 ombudsman	O
-’	O
-s	O
+’s	O
 commission	O
 needs	O
 to	O

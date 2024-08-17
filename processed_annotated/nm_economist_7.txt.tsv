@@ -13,8 +13,7 @@ Usiku	I-Person
 as	O
 the	O
 company	O
-’	O
-s	O
+’s	O
 new	O
 acting	O
 Chief	O
@@ -87,8 +86,7 @@ the	O
 service	O
 rendered	O
 by	O
-Mr	O
-.	O
+Mr.	O
 Hamutenya	B-Person
 ,	O
 ”	O
@@ -124,8 +122,7 @@ it	O
 is	O
 under	O
 Hamutenya	B-Person
-’	O
-s	O
+’s	O
 stewardship	O
 ,	O
 that	O
@@ -179,8 +176,7 @@ while	O
 congratulating	O
 and	O
 wishing	O
-Ms	O
-.	O
+Ms.	O
 Usiku	B-Person
 all	O
 the	O

@@ -5,8 +5,7 @@ navy	O
 chief	O
 hails	O
 Iran	B-Location
-’	O
-s	O
+’s	O
 indigenous	O
 defense	O
 technology	O
@@ -83,8 +82,7 @@ remarked	O
 .	O
 
 Region	O
-’	O
-s	O
+’s	O
 security	O
 is	O
 provided	O
@@ -148,8 +146,7 @@ access	O
 to	O
 this	O
 region	O
-’	O
-s	O
+’s	O
 resources	O
 ,	O
 and	O
@@ -839,8 +836,7 @@ IRGC	B-Organization
 Navy	I-Organization
 announced	O
 Tehran	B-Location
-’	O
-s	O
+’s	O
 readiness	O
 to	O
 transfer	O

@@ -819,8 +819,7 @@ Syrian	B-NORP
 affairs	O
 ,	O
 Geir	B-Person
-O	I-Person
-.	I-Person
+O.	I-Person
 Pederson	I-Person
 ,	O
 as	O
@@ -1359,8 +1358,7 @@ of	O
 the	O
 Russian	B-Organization	B-NORP
 Federation	I-Organization
-Mr	O
-.	O
+Mr.	O
 Vladimir	B-Person
 Putin	I-Person
 at	O
@@ -1403,8 +1401,7 @@ Iran	I-Location
 ,	O
 His	O
 Excellency	O
-Mr	O
-.	O
+Mr.	O
 Seyyed	B-Person
 Ebrahim	I-Person
 Raisi	I-Person

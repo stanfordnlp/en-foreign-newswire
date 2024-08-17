@@ -128,8 +128,7 @@ winners	O
 support	O
 South	B-Location
 Africa	I-Location
-’	O
-s	O
+’s	O
 advancement	O
 ,	O
 economic	O
@@ -342,8 +341,7 @@ SA	B-Organization	B-Location
 Medical	I-Organization
 Research	I-Organization
 Council	I-Organization
-’	O
-s	O
+’s	O
 (	O
 SAMRC	B-Organization
 )	O

@@ -98,8 +98,7 @@ persecution	O
 of	O
 the	O
 newspaper	O
-’	O
-s	O
+’s	O
 staff	O
 who	O
 are	O
@@ -202,8 +201,7 @@ NGOs	O
 outlawed	O
 by	O
 Ortega	B-Person
-’	O
-s	O
+’s	O
 regime	O
 –	O
 namely	O
@@ -242,8 +240,7 @@ report	O
 .	O
 
 Nicaragua	B-Location
-’	O
-s	O
+’s	O
 lawmakers	O
 passed	O
 a	O
@@ -311,8 +308,7 @@ of	O
 Calcutta	B-Location
 in	O
 the	O
-1980	B-Date
-s	O
+1980s	B-Date
 ,	O
 is	O
 the	O

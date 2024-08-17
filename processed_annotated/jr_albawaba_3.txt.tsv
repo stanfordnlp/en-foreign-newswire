@@ -36,8 +36,7 @@ US	B-Location
 President	O
 Joe	B-Person
 Biden	I-Person
-’	O
-s	O
+’s	O
 visit	O
 and	O
 the	O
@@ -66,8 +65,7 @@ of	O
 the	O
 United	B-Organization	B-Organization
 Nation	I-Organization	I-Organization
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 General	I-Organization
 Assembly	I-Organization
 meetings	O
@@ -76,8 +74,7 @@ September	B-Date
 ,	O
 highlighting	O
 Jordan	B-Location
-’	O
-s	O
+’s	O
 keenness	O
 to	O
 reaffirm	O
@@ -159,8 +156,7 @@ The	O
 King	O
 reaffirmed	O
 Jordan	B-Location
-’	O
-s	O
+’s	O
 full	O
 support	O
 for	O
@@ -279,8 +275,7 @@ Palestinian	B-NORP
 issue	O
 and	O
 Jordan	B-Location
-’	O
-s	O
+’s	O
 keenness	O
 on	O
 including	O
@@ -348,8 +343,7 @@ the	O
 Palestine	B-Organization	B-Location
 Liberation	I-Organization
 Organisation	I-Organization
-’	O
-s	O
+’s	O
 Executive	O
 Committee	O
 Hussein	B-Person

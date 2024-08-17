@@ -168,8 +168,7 @@ dominates	O
 New	B-Location
 Taipei	I-Location
 City	I-Location
-’	O
-s	O
+’s	O
 Yehliu	B-Location
 Geopark	I-Location
 (	O
@@ -207,8 +206,7 @@ The	O
 rock	O
 on	O
 Badouzi	B-Location
-’	O
-s	O
+’s	O
 Daping	B-Location
 Shore	I-Location
 (	O
@@ -412,8 +410,7 @@ Marine	I-Organization
 Science	I-Organization
 and	I-Organization
 Technology	I-Organization
-’	O
-s	O
+’s	O
 underwater	O
 cameras	O
 on	O
@@ -502,8 +499,7 @@ adding	O
 that	O
 the	O
 museum	O
-’	O
-s	O
+’s	O
 volunteer	O
 divers	O
 found	O

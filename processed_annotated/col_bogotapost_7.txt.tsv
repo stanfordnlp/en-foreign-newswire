@@ -9,8 +9,7 @@ in	O
 January	B-Date
 ,	O
 Colombia	B-Location
-’	O
-s	O
+’s	O
 outlook	O
 on	O
 qualifying	O
@@ -222,8 +221,7 @@ first	O
 sight	O
 ,	O
 Colombia	B-Location
-’	O
-s	O
+’s	O
 schedule	O
 for	O
 this	O
@@ -369,9 +367,8 @@ he	O
 managed	O
 things	O
 and	O
-didn	O
-’	O
-t	O
+did	O
+n’t	O
 want	O
 to	O
 extend	O
@@ -384,9 +381,8 @@ manager	O
 and	O
 the	O
 federation	O
-didn	O
-’	O
-t	O
+did	O
+n’t	O
 end	O
 on	O
 good	O
@@ -426,9 +422,8 @@ Bolivia	B-Location
 and	O
 hope	O
 Chile	B-Location
-don	O
-’	O
-t	O
+do	O
+n’t	O
 beat	O
 Brazil	B-Location
 to	O

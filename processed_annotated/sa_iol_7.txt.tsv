@@ -65,8 +65,7 @@ alleged	O
 involvement	O
 in	O
 Cremer	B-Person
-’	O
-s	O
+’s	O
 murder	O
 and	O
 attempts	O
@@ -111,8 +110,7 @@ he	O
 pointed	O
 out	O
 Cremer	B-Person
-’	O
-s	O
+’s	O
 body	O
 .	O
 
@@ -194,8 +192,7 @@ to	O
 point	O
 out	O
 Cremer	B-Person
-’	O
-s	O
+’s	O
 remains	O
 .	O
 
@@ -295,8 +292,7 @@ to	O
 point	O
 out	O
 Cremer	B-Person
-’	O
-s	O
+’s	O
 remains	O
 ,	O
 to	O
@@ -326,8 +322,7 @@ to	O
 point	O
 out	O
 Cremer	B-Person
-’	O
-s	O
+’s	O
 body	O
 ,	O
 he	O
@@ -351,9 +346,8 @@ lesser	O
 sentence	O
 and	O
 he	O
-won	O
-’	O
-t	O
+wo	O
+n’t	O
 land	O
 in	O
 jail	O

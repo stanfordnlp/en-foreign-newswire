@@ -157,8 +157,7 @@ loved	O
 ones	O
 .	O
 It	O
-’	O
-s	O
+’s	O
 important	O
 to	O
 acknowledge	O
@@ -183,8 +182,7 @@ affected	O
 by	O
 the	O
 territory	O
-’	O
-s	O
+’s	O
 addictions	O
 crisis	O
 ,	O
@@ -214,8 +212,7 @@ and	O
 Canada	B-Location
 .	O
 It	O
-’	O
-s	O
+’s	O
 not	O
 unique	O
 to	O
@@ -224,8 +221,7 @@ small	O
 community	O
 ,	O
 it	O
-’	O
-s	O
+’s	O
 Canada	B-Location
 -	O
 wide	O
@@ -327,8 +323,7 @@ preventive	O
 care	O
 ,	O
 we	O
-’	O
-re	O
+’re	O
 looking	O
 at	O
 some	O
@@ -338,8 +333,7 @@ aftercare	O
 (	O
 as	O
 that	O
-’	O
-s	O
+’s	O
 )	O
 also	O
 needed	O
@@ -385,8 +379,7 @@ Whitehorse	B-Location
 Dickson	B-Person
 says	O
 it	O
-’	O
-s	O
+’s	O
 not	O
 always	O
 easy	O
@@ -405,16 +398,14 @@ supports	O
 “	O
 When	O
 you	O
-’	O
-re	O
+’re	O
 so	O
 close	O
 to	O
 Whitehorse	B-Location
 ,	O
 it	O
-’	O
-s	O
+’s	O
 easy	O
 for	O
 people	O
@@ -433,9 +424,8 @@ Whitehorse	B-Location
 when	O
 sometimes	O
 people	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 have	O
 the	O
 ability	O
@@ -478,8 +468,7 @@ says	O
 C	B-Organization
 /	I-Organization
 TFN	I-Organization
-’	O
-s	O
+’s	O
 health	O
 and	O
 wellness	O
@@ -487,8 +476,7 @@ department	O
 ,	O
 the	O
 territory	O
-’	O
-s	O
+’s	O
 mental	O
 wellness	O
 and	O
@@ -635,8 +623,7 @@ same	O
 way	O
 .	O
 There	O
-’	O
-s	O
+’s	O
 a	O
 general	O
 heaviness	O
@@ -653,8 +640,7 @@ Amato	B-Person
 says	O
 while	O
 she	O
-’	O
-s	O
+’s	O
 aware	O
 that	O
 Carcross	B-Location
@@ -672,15 +658,13 @@ counselling	O
 she	O
 notes	O
 it	O
-’	O
-s	O
+’s	O
 not	O
 as	O
 extensive	O
 as	O
 what	O
-’	O
-s	O
+’s	O
 provided	O
 in	O
 Whitehorse	B-Location
@@ -693,8 +677,7 @@ BloodTies	B-Organization
 and	O
 the	O
 territory	O
-’	O
-s	O
+’s	O
 only	O
 supervised	O
 consumption	O
@@ -709,17 +692,15 @@ communities	O
 the	O
 resources	O
 just	O
-aren	O
-’	O
-t	O
+are	O
+n’t	O
 enough	O
 and	O
 the	O
 opportunities	O
 ,	O
 they	O
-’	O
-re	O
+’re	O
 not	O
 happening	O
 out	O
@@ -749,12 +730,10 @@ help	O
 ”	O
 
 That	O
-’	O
-s	O
+’s	O
 why	O
 she	O
-’	O
-s	O
+’s	O
 helping	O
 plan	O
 a	O
@@ -782,8 +761,7 @@ attention	O
 to	O
 the	O
 territory	O
-’	O
-s	O
+’s	O
 addictions	O
 and	O
 mental	O
@@ -793,8 +771,7 @@ crisis	O
 
 “	O
 We	O
-’	O
-re	O
+’re	O
 all	O
 going	O
 to	O
@@ -816,8 +793,7 @@ the	O
 people	O
 that	O
 we	O
-’	O
-ve	O
+’ve	O
 lost	O
 ,	O
 the	O
@@ -891,8 +867,7 @@ Ann	I-Person
 McPhee	I-Person
 ,	O
 Yukon	B-Location
-’	O
-s	O
+’s	O
 health	O
 and	O
 social	O
@@ -901,9 +876,8 @@ minister	O
 ,	O
 said	O
 she	O
-couldn	O
-’	O
-t	O
+could	O
+n’t	O
 offer	O
 an	O
 official	O
@@ -921,8 +895,7 @@ supported	O
 the	O
 First	B-NORP
 Nation	I-NORP
-’	O
-s	O
+’s	O
 decision	O
 .	O
 
@@ -931,8 +904,7 @@ also	O
 noted	O
 the	O
 community	O
-’	O
-s	O
+’s	O
 MLA	O
 ,	O
 John	B-Person
@@ -985,8 +957,7 @@ use	O
 ,	O
 and	O
 we	O
-’	O
-ll	O
+’ll	O
 continue	O
 to	O
 do	O
@@ -1002,8 +973,7 @@ last	O
 year	O
 the	O
 territory	O
-’	O
-s	O
+’s	O
 chief	O
 coroner	O
 announced	O

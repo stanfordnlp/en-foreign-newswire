@@ -167,8 +167,7 @@ by	O
 St	B-Organization
 .	I-Organization
 John	I-Organization	B-Person
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Ambulance	I-Organization
 volunteers	O
 with	O
@@ -269,17 +268,15 @@ survivors	O
 and	O
 their	O
 families	O
-didn	O
-’	O
-t	O
+did	O
+n’t	O
 land	O
 in	O
 Iqaluit	B-Location
 until	O
 the	O
 Pope	O
-’	O
-s	O
+’s	O
 plane	O
 was	O
 taxiing	O
@@ -403,9 +400,8 @@ opportunity	O
 
 “	O
 We	O
-didn	O
-’	O
-t	O
+did	O
+n’t	O
 really	O
 tell	O
 the	O
@@ -413,9 +409,8 @@ public	O
 ,	O
 because	O
 we	O
-didn	O
-’	O
-t	O
+did	O
+n’t	O
 want	O
 it	O
 to	O
@@ -484,8 +479,7 @@ a	O
 survivor	O
 of	O
 Nunavut	B-Location
-’	O
-s	O
+’s	O
 Chesterfield	B-Location
 Inlet	I-Location
 residential	O
@@ -612,8 +606,7 @@ word	O
 for	O
 ‘	O
 I	O
-’	O
-m	O
+’m	O
 sorry	O
 ,	O
 “	O
@@ -834,9 +827,8 @@ The	O
 Pope	O
 said	O
 he	O
-didn	O
-’	O
-t	O
+did	O
+n’t	O
 think	O
 to	O
 use	O

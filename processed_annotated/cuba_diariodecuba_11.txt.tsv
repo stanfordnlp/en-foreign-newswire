@@ -491,10 +491,8 @@ War	I-Misc
 II	I-Misc
 by	O
 a	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 company	O
 ,	O
 was	O

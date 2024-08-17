@@ -17,8 +17,7 @@ June	B-Date
 Mit	B-Location
 Al	I-Location
 Korama	I-Location
-’	O
-s	O
+’s	O
 youth	O
 gathered	O
 in	O
@@ -129,8 +128,7 @@ Despite	O
 the	O
 Egyptian	B-NORP
 government	O
-’	O
-s	O
+’s	O
 warnings	O
 against	O
 illegal	O
@@ -524,8 +522,7 @@ weeks	O
 ,	O
 and	O
 we	O
-’	O
-re	O
+’re	O
 still	O
 negotiating	O
 with	O
@@ -543,8 +540,7 @@ IPS	B-Organization
 .	O
 
 Emad	B-Person
-’	O
-s	O
+’s	O
 experiences	O
 were	O
 mirrored	O
@@ -971,8 +967,7 @@ Abdullah	B-Person
 ,	O
 while	O
 Emad	B-Person
-’	O
-s	O
+’s	O
 family	O
 had	O
 to	O
@@ -1140,8 +1135,7 @@ back	O
 Even	O
 my	O
 mother	O
-’	O
-s	O
+’s	O
 gold	O
 earrings	O
 had	O

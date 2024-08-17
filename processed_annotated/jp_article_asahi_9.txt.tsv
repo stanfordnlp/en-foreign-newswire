@@ -52,8 +52,7 @@ Prime	O
 Minister	O
 Fumio	B-Person
 Kishida	I-Person
-’	O
-s	O
+’s	O
 special	O
 envoy	O
 ,	O
@@ -178,8 +177,7 @@ Japanese	B-NORP
 attended	O
 Harvard	B-Organization	B-Organization
 University	I-Organization	I-Organization
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Kennedy	I-Organization	B-Organization
 School	I-Organization	I-Organization
 of	I-Organization	I-Organization
@@ -375,8 +373,7 @@ ignored	O
 
 Taro	B-Person
 Kono	I-Person
-’	O
-s	O
+’s	O
 visit	O
 to	O
 South	B-Location

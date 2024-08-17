@@ -65,8 +65,7 @@ May	B-Date
 .	O
 
 It	O
-’	O
-s	O
+’s	O
 also	O
 the	O
 first	O
@@ -222,8 +221,7 @@ most	O
 countries	O
 ,	O
 Russia	B-Location
-’	O
-s	O
+’s	O
 invasion	O
 of	O
 Ukraine	B-Location
@@ -239,8 +237,7 @@ China	B-Location
 
 “	O
 Today	O
-’	O
-s	O
+’s	O
 increase	O
 …	O
 is	O
@@ -259,8 +256,7 @@ Australia	B-Location
 ”	O
 
 Tuesday	B-Date
-’	O
-s	O
+’s	O
 rate	O
 rise	O
 means	O
@@ -328,8 +324,7 @@ Lowe	B-Person
 said	O
 this	O
 month	O
-’	O
-s	O
+’s	O
 rate	O
 rise	O
 ,	O
@@ -474,17 +469,15 @@ mortgage	O
 “	O
 This	O
 decision	O
-doesn	O
-’	O
-t	O
+does	O
+n’t	O
 come	O
 as	O
 a	O
 surprise	O
 ;	O
 it	O
-’	O
-s	O
+’s	O
 not	O
 a	O
 shock	O
@@ -493,8 +486,7 @@ anybody	O
 ,	O
 but	O
 we	O
-’	O
-re	O
+’re	O
 still	O
 seeing	O
 families	O
@@ -568,8 +560,7 @@ holders	O
 
 “	O
 There	O
-’	O
-s	O
+’s	O
 also	O
 an	O
 impact	O

@@ -61,8 +61,7 @@ tall	O
 .	O
 
 It	O
-’	O
-s	O
+’s	O
 been	O
 dormant	O
 since	O
@@ -101,8 +100,7 @@ over	O
 meters	O
 ,	O
 it	O
-’	O
-s	O
+’s	O
 often	O
 wreathed	O
 in	O
@@ -183,8 +181,7 @@ and	O
 economic	O
 decline	O
 that	O
-’	O
-s	O
+’s	O
 still	O
 underway	O
 .	O
@@ -260,10 +257,8 @@ violent	O
 oppressive	O
 ,	O
 and	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 -	O
 allied	O
 Somoza	B-Person
@@ -367,8 +362,7 @@ García	I-Person
 then	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 leader	O
 and	O
 the	O
@@ -419,8 +413,7 @@ Home	O
 to	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 elite	O
 during	O
 the	O
@@ -462,8 +455,7 @@ a	O
 caldera	O
 ,	O
 it	O
-’	O
-s	O
+’s	O
 a	O
 huge	O
 crater	O
@@ -573,8 +565,7 @@ key	O
 draw	O
 in	O
 Nicaragua	B-Location
-’	O
-s	O
+’s	O
 western	O
 corridor	O
 .	O
@@ -588,8 +579,7 @@ party	O
 atmosphere	O
 ,	O
 it	O
-’	O
-ll	O
+’ll	O
 swallow	O
 you	O
 whole	O
@@ -602,8 +592,7 @@ long	O
 Luckily	O
 ,	O
 it	O
-’	O
-s	O
+’s	O
 only	O
 40	O
 minutes	O
@@ -741,8 +730,7 @@ us	O
 into	O
 the	O
 jungle	O
-’	O
-s	O
+’s	O
 damp	O
 green	O
 thickness	O
@@ -920,8 +908,7 @@ side	O
 and	O
 we	O
 could	O
-’	O
-ve	O
+’ve	O
 fallen	O
 off	O
 a	O
@@ -1001,8 +988,7 @@ Nahuatl	B-Misc
 speakers	O
 ,	O
 it	O
-’	O
-s	O
+’s	O
 the	O
 largest	O
 freshwater	O
@@ -1021,8 +1007,7 @@ the	O
 country	O
 ,	O
 it	O
-’	O
-s	O
+’s	O
 the	O
 stuff	O
 of	O
@@ -1063,8 +1048,7 @@ buffet	O
 
 Because	O
 there	O
-’	O
-s	O
+’s	O
 relatively	O
 little	O
 daylight	O
@@ -1073,9 +1057,8 @@ that	O
 latitude	O
 ,	O
 we	O
-couldn	O
-’	O
-t	O
+could	O
+n’t	O
 spend	O
 too	O
 long	O
@@ -1172,8 +1155,7 @@ sky	O
 ,	O
 knowing	O
 we	O
-’	O
-d	O
+’d	O
 been	O
 up	O
 there	O

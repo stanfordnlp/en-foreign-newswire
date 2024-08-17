@@ -1,8 +1,7 @@
 https://www.newsroompanama.com/business/business-chamber-wants-cortizo-to-participate-in-dialogues	O
 
 Panama	B-Location
-’	O
-s	O
+’s	O
 Chamber	B-Organization
 of	I-Organization
 Commerce	I-Organization
@@ -49,8 +48,7 @@ press	O
 conference	O
 the	O
 Chamber	O
-’	O
-s	O
+’s	O
 President	O
 Maria	B-Person
 Galindo	I-Person

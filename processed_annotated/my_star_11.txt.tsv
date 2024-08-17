@@ -21,8 +21,7 @@ personality	O
 Zalina	B-Person
 Shaharah	I-Person
 Azman	I-Person
-’	O
-s	O
+’s	O
 house	O
 here	O
 as	O
@@ -41,8 +40,7 @@ deputy	O
 police	O
 chief	O
 Datuk	B-Person
-S	I-Person
-.	I-Person
+S.	I-Person
 Sasikala	I-Person
 Devi	I-Person
 said	O
@@ -100,9 +98,7 @@ have	O
 no	O
 new	O
 leads	O
-.	O
-.	O
-.	O
+...	O
 the	O
 police	O
 inquiry	O

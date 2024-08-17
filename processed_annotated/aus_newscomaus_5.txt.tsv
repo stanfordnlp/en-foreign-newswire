@@ -15,8 +15,7 @@ has	O
 dismissed	O
 the	O
 government	O
-’	O
-s	O
+’s	O
 legislation	O
 to	O
 enshrine	O
@@ -240,8 +239,7 @@ election	O
 .	O
 
 It	O
-’	O
-s	O
+’s	O
 that	O
 prospect	O
 that	O
@@ -433,8 +431,7 @@ sources	O
 said	O
 Mr	O
 Dutton	B-Person
-’	O
-s	O
+’s	O
 pledge	O
 to	O
 lift	O
@@ -497,8 +494,7 @@ to	O
 oppose	O
 the	O
 government	O
-’	O
-s	O
+’s	O
 43	O
 per	O
 cent	O
@@ -527,8 +523,7 @@ position	O
 on	O
 the	O
 government	O
-’	O
-s	O
+’s	O
 climate	O
 legislation	O
 .	O
@@ -546,9 +541,8 @@ legislation	O
 ,	O
 arguing	O
 it	O
-doesn	O
-’	O
-t	O
+does	O
+n’t	O
 go	O
 far	O
 enough	O
@@ -655,8 +649,7 @@ June	O
 “	O
 If	O
 we	O
-’	O
-re	O
+’re	O
 serious	O
 about	O
 reducing	O
@@ -665,9 +658,8 @@ gas	O
 emissions	O
 ,	O
 we	O
-can	O
-’	O
-t	O
+ca	O
+n’t	O
 simply	O
 ignore	O
 this	O
@@ -684,8 +676,7 @@ Chris	B-Person
 Bowen	I-Person
 insists	O
 Labor	B-Organization
-’	O
-s	O
+’s	O
 43	O
 per	O
 cent	O

@@ -5,8 +5,7 @@ pgtype	O
 homepage	O
 
 China	B-Location
-’	O
-s	O
+’s	O
 Communist	B-Organization	B-NORP
 Youth	I-Organization
 League	I-Organization
@@ -62,8 +61,7 @@ They	O
 featured	O
 the	O
 league	O
-’	O
-s	O
+’s	O
 official	O
 mascot	O
 tuanbao	O
@@ -110,8 +108,7 @@ digital	O
 collectibles	O
 in	O
 China	B-Location
-’	O
-s	O
+’s	O
 closed	O
 NFT	B-Misc
 market	O
@@ -131,8 +128,7 @@ issuance	O
 came	O
 on	O
 China	B-Location
-’	O
-s	O
+’s	O
 Youth	B-Misc
 Day	I-Misc
 ,	O
@@ -176,8 +172,7 @@ Japan	B-Location
 Separately	O
 ,	O
 China	B-Location
-’	O
-s	O
+’s	O
 prestigious	O
 Peking	B-Organization	B-Location
 University	I-Organization
@@ -200,8 +195,7 @@ well	O
 as	O
 the	O
 school	O
-’	O
-s	O
+’s	O
 124th	O
 anniversary	O
 .	O
@@ -348,8 +342,7 @@ In	O
 March	B-Date
 ,	O
 Tencent	B-Organization
-’	O
-s	O
+’s	O
 WeChat	B-Product
 app	O
 froze	O
@@ -399,8 +392,7 @@ time	O
 ,	O
 Ant	B-Organization
 Group	I-Organization
-’	O
-s	O
+’s	O
 digital	O
 collectible	O
 platform	O

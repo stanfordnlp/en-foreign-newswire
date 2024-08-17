@@ -51,12 +51,10 @@ in	O
 Baghdad	B-Location
 ,	O
 SFD	B-Organization
-’	O
-s	O
+’s	O
 CEO	O
 Sultan	B-Person
-A	I-Person
-.	I-Person
+A.	I-Person
 Al	I-Person
 -	I-Person
 Marshad	I-Person
@@ -241,8 +239,7 @@ part	O
 ,	O
 the	O
 SFD	B-Organization
-’	O
-s	O
+’s	O
 CEO	O
 affirmed	O
 that	O

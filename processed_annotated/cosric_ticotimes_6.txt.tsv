@@ -4,8 +4,7 @@ The	O
 Costa	B-Organization	B-NORP
 Rican	I-Organization	I-NORP
 Women	I-Organization
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 National	I-Organization
 Soccer	I-Organization
 Team	I-Organization
@@ -170,8 +169,7 @@ excellent	O
 skills	O
 denied	O
 Jamaica	B-Location
-’	O
-s	O
+’s	O
 goals	O
 .	O
 
@@ -314,8 +312,7 @@ growth	O
 
 Costa	B-Location
 Rica	I-Location
-’	O
-s	O
+’s	O
 coach	O
 ,	O
 Amelia	B-Person
@@ -326,8 +323,7 @@ the	O
 progress	O
 of	O
 CONCACAF	B-Organization
-’	O
-s	O
+’s	O
 national	O
 teams	O
 .	O
@@ -375,8 +371,7 @@ Of	O
 course	O
 ,	O
 I	O
-’	O
-m	O
+’m	O
 not	O
 going	O
 to	O
@@ -398,9 +393,8 @@ had	O
 some	O
 chances	O
 but	O
-didn	O
-’	O
-t	O
+did	O
+n’t	O
 score	O
 ;	O
 it	O
@@ -439,9 +433,8 @@ end	O
 ,	O
 but	O
 it	O
-didn	O
-’	O
-t	O
+did	O
+n’t	O
 work	O
 out	O
 ,	O

@@ -232,8 +232,7 @@ was	O
 designated	O
 as	O
 Japan	B-Location
-’	O
-s	O
+’s	O
 first	O
 underwater	O
 cultural	O
@@ -284,8 +283,7 @@ chain	O
 has	O
 the	O
 world	O
-’	O
-s	O
+’s	O
 sixth	O
 longest	O
 coastline	O
@@ -332,8 +330,7 @@ archaeology	O
 ,	O
 but	O
 that	O
-’	O
-s	O
+’s	O
 not	O
 the	O
 case	O
@@ -377,10 +374,7 @@ in	O
 Japan	B-Location
 with	O
 a	O
-Ph	O
-.	O
-D	O
-.	O
+Ph.D.	O
 in	O
 the	O
 field	O
@@ -445,8 +439,7 @@ we	O
 can	O
 assume	O
 there	O
-’	O
-s	O
+’s	O
 one	O
 underwater	O
 heritage	O
@@ -600,8 +593,7 @@ to	O
 showcase	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 rich	O
 history	O
 as	O
@@ -699,8 +691,7 @@ lake	O
 dwelling	O
 .	O
 Hashimoto	B-Person
-’	O
-s	O
+’s	O
 finds	O
 and	O
 subsequent	O
@@ -760,10 +751,8 @@ Era	O
 10,000	O
 to	O
 200	O
-B	O
-.	O
-C	O
-.	O
+B.	O
+C.	O
 )	O
 ,	O
 the	O
@@ -771,15 +760,11 @@ Yayoi	B-Date
 Period	I-Date
 (	O
 200	O
-B	O
-.	O
-C	O
-.	O
+B.	O
+C.	O
 to	O
-A	O
-.	O
-D	O
-.	O
+A.	O
+D.	O
 250	O
 )	O
 and	O
@@ -787,10 +772,8 @@ the	O
 Kofun	B-Date
 Period	I-Date
 (	O
-A	O
-.	O
-D	O
-.	O
+A.	O
+D.	O
 250	O
 to	O
 552	O
@@ -877,8 +860,7 @@ in	O
 
 “	O
 There	O
-’	O
-s	O
+’s	O
 obviously	O
 great	O
 potential	O
@@ -969,8 +951,7 @@ sites	O
 “	O
 But	O
 there	O
-’	O
-s	O
+’s	O
 a	O
 general	O
 lack	O
@@ -1072,9 +1053,8 @@ on	O
 many	O
 occasions	O
 municipalities	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 even	O
 realize	O
 there	O
@@ -1388,8 +1368,7 @@ remnants	O
 of	O
 Kublai	B-Person
 Khan	I-Person
-’	O
-s	O
+’s	O
 fleet	O
 were	O
 discovered	O
@@ -1406,8 +1385,7 @@ developed	O
 in	O
 the	O
 early	O
-1990	B-Date
-s	O
+1990s	B-Date
 ,	O
 featuring	O
 traditional	O
@@ -1436,8 +1414,7 @@ all	O
 closed	O
 and	O
 it	O
-’	O
-s	O
+’s	O
 now	O
 essentially	O
 just	O
@@ -1457,8 +1434,7 @@ properties	O
 division	O
 of	O
 Matsuura	B-Location
-’	O
-s	O
+’s	O
 board	O
 of	O
 education	O
@@ -1479,8 +1455,7 @@ with	O
 visitors	O
 to	O
 Takashima	B-Facility	B-Location
-’	I-Facility
-s	I-Facility
+’s	I-Facility
 archaeological	I-Facility
 museum	I-Facility
 —	O
@@ -1559,8 +1534,7 @@ Takashima	B-Location
 
 “	O
 It	O
-’	O
-s	O
+’s	O
 important	O
 to	O
 introduce	O
@@ -1683,8 +1657,7 @@ abysses	O
 of	O
 the	O
 world	O
-’	O
-s	O
+’s	O
 oceans	O
 .	O
 
@@ -1874,8 +1847,7 @@ others	O
 Responding	O
 to	O
 Inamoto	B-Person
-’	O
-s	O
+’s	O
 tweet	O
 was	O
 none	O
@@ -1940,8 +1912,7 @@ endeavor	O
 Perhaps	O
 the	O
 teenager	O
-’	O
-s	O
+’s	O
 passion	O
 struck	O
 a	O
@@ -2112,8 +2083,7 @@ Prefecture	I-Location
 ,	O
 says	O
 Kyotango	B-Location
-’	O
-s	O
+’s	O
 history	O
 as	O
 an	O
@@ -2231,8 +2201,7 @@ finding	O
 something	O
 .	O
 I	O
-’	O
-m	O
+’m	O
 very	O
 excited	O
 —	O
@@ -2256,8 +2225,7 @@ discoveries	O
 According	O
 to	O
 UNESCO	B-Organization
-’	O
-s	O
+’s	O
 2001	B-Date
 Convention	B-Misc
 ,	O
@@ -2487,8 +2455,7 @@ remains	O
 one	O
 of	O
 Sweden	B-Location
-’	O
-s	O
+’s	O
 most	O
 popular	O
 tourist	O
@@ -2596,10 +2563,7 @@ overseas	O
 to	O
 attain	O
 his	O
-Ph	O
-.	O
-D	O
-.	O
+Ph.D.	O
 at	O
 Flinders	B-Organization
 University	I-Organization
@@ -2640,11 +2604,9 @@ the	O
 works	O
 ,	O
 including	O
-Mr	O
-.	O
+Mr.	O
 Sasaki	B-Person
-’	O
-s	O
+’s	O
 investigation	O
 in	O
 Kyotango	B-Location
@@ -2758,9 +2720,8 @@ says	O
 .	O
 “	O
 This	O
-can	O
-’	O
-t	O
+ca	O
+n’t	O
 be	O
 done	O
 by	O
@@ -2862,8 +2823,7 @@ to	O
 hunt	O
 for	O
 Kublai	B-Location
-’	O
-s	O
+’s	O
 lost	O
 fleet	O
 .	O
@@ -2896,8 +2856,7 @@ designed	O
 for	O
 Kublai	B-Person
 Khan	I-Person
-’	O
-s	O
+’s	O
 Yuan	B-Location
 Empire	I-Location
 .	O
@@ -2932,8 +2891,7 @@ four	O
 years	O
 before	O
 Kublai	B-Person
-’	O
-s	O
+’s	O
 second	O
 attempt	O
 at	O

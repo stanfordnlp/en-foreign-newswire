@@ -40,8 +40,7 @@ in	O
 the	O
 mid	O
 -	O
-1990	B-Date
-s	O
+1990s	B-Date
 .	O
 On	O
 occasion	O
@@ -178,10 +177,8 @@ five	O
 years	O
 of	O
 the	O
-U	B-Misc	B-Location
-.	I-Misc	I-Location
-S	I-Misc	I-Location
-.	I-Misc
+U.	B-Misc	B-Location
+S.	I-Misc	I-Location
 -	I-Misc
 Korea	I-Misc	B-Location
 Free	I-Misc
@@ -247,10 +244,8 @@ The	O
 agreement	O
 has	O
 benefited	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	O
+U.	B-Location
+S.	I-Location
 exporters	O
 of	O
 manufactured	O
@@ -270,10 +265,8 @@ a	O
 long	O
 -	O
 time	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	O
+U.	B-Location
+S.	I-Location
 ally	O
 and	O
 key	O
@@ -286,17 +279,14 @@ Asia	B-Location
 Pacific	I-Location
 .	O
 It	O
-’	O
-s	O
+’s	O
 also	O
 added	O
 jobs	O
 to	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	O
+U.	B-Location
+S.	I-Location
 economy	O
 ,	O
 paved	O
@@ -321,10 +311,8 @@ rules	O
 that	O
 all	O
 future	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	O
+U.	B-Location
+S.	I-Location
 free	O
 trade	O
 agreements	O
@@ -353,16 +341,13 @@ United	B-Location
 States	I-Location
 Trade	O
 Representative	O
-’	O
-s	O
+’s	O
 acknowledgment	O
 that	O
 “	O
 through	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	O
+U.	B-Location
+S.	I-Location
 engagement	O
 with	O
 Korea	B-Location
@@ -390,10 +375,8 @@ areas	O
 Here	O
 at	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	O
+U.	B-Location
+S.	I-Location
 -	O
 Korea	B-Organization
 Business	I-Organization
@@ -423,8 +406,7 @@ For	O
 now	O
 ,	O
 let	O
-’	O
-s	O
+’s	O
 take	O
 a	O
 look	O
@@ -478,8 +460,7 @@ Since	O
 2011	B-Date
 ,	O
 Korea	B-Location
-’	O
-s	O
+’s	O
 imports	O
 from	O
 the	O
@@ -504,8 +485,7 @@ same	O
 period	O
 ,	O
 Korea	B-Location
-’	O
-s	O
+’s	O
 imports	O
 from	O
 the	O
@@ -565,10 +545,8 @@ to	O
 a	O
 surge	O
 in	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	O
+U.	B-Location
+S.	I-Location
 service	O
 exports	O
 to	O
@@ -577,10 +555,8 @@ Korea	B-Location
 and	O
 a	O
 growing	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	O
+U.	B-Location
+S.	I-Location
 surplus	O
 in	O
 services	O
@@ -596,10 +572,8 @@ relative	O
 strengths	O
 of	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	O
+U.	B-Location
+S.	I-Location
 and	O
 Korean	B-NORP
 economies	O
@@ -615,10 +589,8 @@ Labor	I-Organization
 %	O
 of	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	O
+U.	B-Location
+S.	I-Location
 work	O
 -	O
 force	O
@@ -630,8 +602,7 @@ sector	O
 ,	O
 whereas	O
 Korea	B-Location
-’	O
-s	O
+’s	O
 service	O
 sector	O
 makes	O
@@ -662,10 +633,8 @@ and	O
 many	O
 highly	O
 competitive	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	O
+U.	B-Location
+S.	I-Location
 services	O
 firms	O
 across	O
@@ -712,8 +681,7 @@ the	O
 Department	B-Organization
 of	I-Organization
 Commerce	I-Organization
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 International	I-Organization
 Trade	I-Organization
 Administration	I-Organization
@@ -778,8 +746,7 @@ particularly	O
 impressive	O
 given	O
 Korea	B-Location
-’	O
-s	O
+’s	O
 limited	O
 market	O
 size	O
@@ -903,10 +870,8 @@ companies	O
 operating	O
 in	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	O
+U.	B-Location
+S.	I-Location
 is	O
 $	B-Money
 91,000	I-Money
@@ -981,10 +946,8 @@ defense	O
 exports	O
 from	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	O
+U.	B-Location
+S.	I-Location
 to	O
 Korea	B-Location
 over	O

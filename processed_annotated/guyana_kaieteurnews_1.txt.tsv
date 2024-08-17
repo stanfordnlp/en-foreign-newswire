@@ -21,8 +21,7 @@ hydrocarbons	O
 off	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 coasts	O
 ,	O
 Guyana	B-Location
@@ -45,8 +44,7 @@ impacted	O
 by	O
 the	O
 company	O
-’	O
-s	O
+’s	O
 operations	O
 .	O
 Yet	O
@@ -147,8 +145,7 @@ the	O
 Environmental	B-Organization
 Protection	I-Organization
 Agency	I-Organization
-’	O
-s	O
+’s	O
 (	O
 EPA	B-Organization
 )	O
@@ -249,8 +246,7 @@ data	O
 ,	O
 the	O
 EPA	B-Organization
-’	O
-s	O
+’s	O
 decision	O
 is	O
 “	O
@@ -739,9 +735,8 @@ society	O
 ,	O
 so	O
 why	O
-can	O
-’	O
-t	O
+ca	O
+n’t	O
 they	O
 pay	O
 a	O
@@ -1202,8 +1197,7 @@ conducted	O
 In	O
 the	O
 regulator	O
-’	O
-s	O
+’s	O
 screening	O
 report	O
 ,	O

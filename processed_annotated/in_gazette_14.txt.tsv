@@ -135,16 +135,14 @@ Investigation	I-Organization
 Agency	I-Organization
 ,	O
 India	B-Location
-’	O
-s	O
+’s	O
 federal	O
 counterterrorism	O
 agency	O
 ,	O
 raided	O
 Parvez	B-Person
-’	O
-s	O
+’s	O
 home	O
 and	O
 office	O
@@ -313,8 +311,7 @@ abuses	O
 .	O
 
 Parvez	B-Person
-’	O
-s	O
+’s	O
 arbitrary	O
 arrest	O
 and	O
@@ -424,8 +421,7 @@ said	O
 .	O
 
 Parvez	B-Person
-’	O
-s	O
+’s	O
 arrest	O
 comes	O
 amid	O
@@ -460,8 +456,7 @@ government	O
 revoked	O
 the	O
 state	O
-’	O
-s	O
+’s	O
 special	O
 autonomous	O
 status	O
@@ -807,8 +802,7 @@ security	O
 forces	O
 in	O
 Srinagar	B-Location
-’	I-Location
-s	I-Location
+’s	I-Location
 Hyderpora	I-Location
 area	O
 and	O
@@ -928,8 +922,7 @@ did	O
 not	O
 investigate	O
 Hussain	B-Person
-’	O
-s	O
+’s	O
 allegations	O
 ,	O
 but	O
@@ -1078,8 +1071,7 @@ claims	O
 and	O
 the	O
 teenager	O
-’	O
-s	O
+’s	O
 father	O
 said	O
 he	O
@@ -1109,8 +1101,7 @@ law	O
 against	O
 the	O
 teenager	O
-’	O
-s	O
+’s	O
 father	O
 ,	O
 who	O
@@ -1118,8 +1109,7 @@ had	O
 demanded	O
 his	O
 son	O
-’	O
-s	O
+’s	O
 body	O
 and	O
 sought	O
@@ -1249,8 +1239,7 @@ law	O
 
 As	O
 India	B-Location
-’	O
-s	O
+’s	O
 crackdown	O
 on	O
 human	O

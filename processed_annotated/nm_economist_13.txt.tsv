@@ -41,8 +41,7 @@ Bach	I-Person
 of	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 total	O
 surface	O
 area	O
@@ -70,8 +69,7 @@ is	O
 of	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 total	O
 surface	O
 area	O
@@ -342,8 +340,7 @@ depending	O
 on	O
 the	O
 farmer	O
-’	O
-s	O
+’s	O
 calculations	O
 in	O
 terms	O
@@ -736,8 +733,7 @@ constraints	O
 :	O
 
 Namibia	B-Location
-’	O
-s	O
+’s	O
 ground	O
 cover	O
 and	O
@@ -960,8 +956,7 @@ compensate	O
 for	O
 the	O
 animal	O
-’	O
-s	O
+’s	O
 daily	O
 nutritional	O
 and	O

@@ -49,8 +49,7 @@ with	O
 the	O
 city	O
 state	O
-’	O
-s	O
+’s	O
 crypto	O
 regulations	O
 .	O
@@ -86,8 +85,7 @@ rules	O
 following	O
 this	O
 year	O
-’	O
-s	O
+’s	O
 meltdown	O
 .	O
 
@@ -128,8 +126,7 @@ been	O
 the	O
 central	O
 bank	O
-’	O
-s	O
+’s	O
 warning	O
 to	O
 the	O
@@ -187,8 +184,7 @@ one	O
 of	O
 the	O
 world	O
-’	O
-s	O
+’s	O
 largest	O
 crypto	O
 hedge	O
@@ -521,8 +517,7 @@ that	O
 the	O
 central	O
 bank	O
-’	O
-s	O
+’s	O
 warnings	O
 against	O
 retail	O
@@ -716,8 +711,7 @@ large	O
 part	O
 of	O
 Menon	B-Person
-’	O
-s	O
+’s	O
 address	O
 this	O
 year	O

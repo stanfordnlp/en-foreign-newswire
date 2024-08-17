@@ -180,8 +180,7 @@ delegates	O
 had	O
 named	O
 Zikalala	B-Person
-’	O
-s	O
+’s	O
 group	O
 the	O
 “	O
@@ -334,8 +333,7 @@ openly	O
 being	O
 in	O
 Ramaphosa	B-Person
-’	O
-s	O
+’s	O
 faction	O
 .	O
 
@@ -398,8 +396,7 @@ Former	O
 president	O
 Jacob	B-Person
 Zuma	I-Person
-’	O
-s	O
+’s	O
 daughter	O
 Duduzile	B-Person
 took	O
@@ -430,8 +427,7 @@ in	O
 Nkandla	B-Person
 (	O
 Zuma	B-Person
-’	O
-s	O
+’s	O
 homestead	O
 )	O
 when	O

@@ -11,8 +11,7 @@ n	O
 roll	O
 
 Cairo	B-Location
-’	O
-s	O
+’s	O
 own	O
 music	O
 festival	O
@@ -25,8 +24,7 @@ On	O
 June	I-Date
 ,	O
 Cairo	B-Location
-’	O
-s	O
+’s	O
 11th	B-Misc
 Fête	I-Misc
 de	I-Misc
@@ -132,16 +130,14 @@ solstice	O
 .	O
 
 Cairo	B-Location
-’	O
-s	O
+’s	O
 Fête	B-Misc
 is	O
 run	O
 by	O
 the	O
 city	O
-’	O
-s	O
+’s	O
 French	B-NORP
 cultural	O
 center	O
@@ -171,8 +167,7 @@ years	O
 .	O
 Organizing	O
 Cairo	B-Location
-’	O
-s	O
+’s	O
 own	O
 Woodstock	B-Location
 or	O
@@ -188,9 +183,8 @@ explains	O
 “	O
 Egyptian	B-NORP
 audiences	O
-aren	O
-’	O
-t	O
+are	O
+n’t	O
 used	O
 to	O
 the	O
@@ -229,8 +223,7 @@ bigger	O
 than	O
 last	O
 year	O
-’	O
-s	O
+’s	O
 .	O
 
 Originally	O
@@ -254,15 +247,13 @@ present	O
 niche	O
 in	O
 Zamalek	B-Location
-’	O
-s	O
+’s	O
 Ryadi	B-Facility
 Gardens	I-Facility
 .	O
 “	O
 There	O
-’	O
-s	O
+’s	O
 a	O
 psychological	O
 barrier	O
@@ -282,15 +273,13 @@ think	O
 that	O
 if	O
 you	O
-’	O
-re	O
+’re	O
 too	O
 baladi	O
 ,	O
 they	O
-won	O
-’	O
-t	O
+wo	O
+n’t	O
 let	O
 you	O
 in	O
@@ -483,8 +472,7 @@ highlight	O
 of	O
 the	O
 show	O
-’	O
-s	O
+’s	O
 first	O
 section	O
 came	O
@@ -572,8 +560,7 @@ explains	O
 .	O
 “	O
 They	O
-’	O
-ve	O
+’ve	O
 never	O
 been	O
 written	O
@@ -605,8 +592,7 @@ vocal	O
 ,	O
 the	O
 ensemble	O
-’	O
-s	O
+’s	O
 music	O
 brought	O
 a	O
@@ -886,8 +872,7 @@ their	O
 idol	O
 around	O
 Cairo	B-Location
-’	O
-s	O
+’s	O
 live	O
 music	O
 venues	O
@@ -899,8 +884,7 @@ jazz	O
 ,	O
 and	O
 I	O
-’	O
-m	O
+’m	O
 from	O
 Shoubra	B-Location
 too	O
@@ -920,8 +904,7 @@ year	O
 -	O
 old	O
 who	O
-’	O
-d	O
+’d	O
 come	O
 with	O
 his	O
@@ -930,8 +913,7 @@ friends	O
 to	O
 see	O
 Salama	B-Person
-’	O
-s	O
+’s	O
 set	O
 .	O
 “	O
@@ -1010,8 +992,7 @@ quality	O
 I	O
 hope	O
 it	O
-’	O
-ll	O
+’ll	O
 be	O
 better	O
 for	O
@@ -1062,8 +1043,7 @@ birth	O
 of	O
 the	O
 singer	O
-’	O
-s	O
+’s	O
 daughter	O
 kept	O
 him	O
@@ -1072,8 +1052,7 @@ France	B-Location
 .	O
 This	O
 year	O
-’	O
-s	O
+’s	O
 Zamalek	B-Location
 appearance	O
 ,	O
@@ -1170,8 +1149,7 @@ machine	O
 
 Whatever	O
 M	B-Person
-’	O
-s	O
+’s	O
 physiological	O
 peculiarities	O
 ,	O
@@ -1286,8 +1264,7 @@ audience	O
 for	O
 this	O
 year	O
-’	O
-s	O
+’s	O
 show	O
 ,	O
 the	O
@@ -1298,14 +1275,12 @@ plans	O
 for	O
 the	O
 Fête	B-Misc
-’	O
-s	O
+’s	O
 future	O
 .	O
 “	O
 We	O
-’	O
-d	O
+’d	O
 like	O
 to	O
 make	O
@@ -1326,8 +1301,7 @@ France	B-Location
 but	O
 now	O
 it	O
-’	O
-s	O
+’s	O
 moved	O
 far	O
 beyond	O
@@ -1357,8 +1331,7 @@ to	O
 play	O
 with	O
 Egypt	B-Location
-’	O
-s	O
+’s	O
 best	O
 musicians	O
 .	O
@@ -1367,8 +1340,7 @@ We	O
 want	O
 all	O
 Cairo	B-Location
-’	O
-s	O
+’s	O
 people	O
 to	O
 open	O

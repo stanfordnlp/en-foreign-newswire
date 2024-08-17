@@ -153,8 +153,7 @@ learned	O
 of	O
 the	O
 gang	O
-’	O
-s	O
+’s	O
 planned	O
 movements	O
 after	O
@@ -168,8 +167,7 @@ methamphetamine	O
 pills	O
 in	O
 Songkhla	B-Location
-’	O
-s	O
+’s	O
 Rattaphum	B-Location
 district	O
 on	O
@@ -229,8 +227,7 @@ checkpoint	O
 in	O
 Ratthaphum	B-Location
 district	O
-’	O
-s	O
+’s	O
 Khuha	B-Location
 Tai	I-Location
 area	O
@@ -304,8 +301,7 @@ shipment	O
 from	O
 Nakhon	B-Location
 Pathom	I-Location
-’	O
-s	O
+’s	O
 Bang	B-Location	B-Location
 Len	I-Location	I-Location
 district	O
@@ -318,8 +314,7 @@ a	O
 contact	O
 in	O
 Narathiwat	B-Location
-’	O
-s	O
+’s	O
 Sungai	B-Location
 Kolok	I-Location
 district	O

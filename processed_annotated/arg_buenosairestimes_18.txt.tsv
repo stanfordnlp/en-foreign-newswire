@@ -12,8 +12,7 @@ soon	O
 to	O
 be	O
 Colombia	B-Location
-’	O
-s	O
+’s	O
 first	O
 leftist	O
 president	O
@@ -101,8 +100,7 @@ few	O
 hours	O
 before	O
 Guzmán	B-Person
-’	O
-s	O
+’s	O
 resignation	O
 .	O
 “	O
@@ -113,8 +111,7 @@ is	O
 exhausted	O
 ,	O
 Guzmán	B-Person
-’	O
-s	O
+’s	O
 cycle	O
 is	O
 over	O
@@ -248,8 +245,7 @@ resigning	O
 .	O
 
 Guzmán	B-Person
-’	O
-s	O
+’s	O
 letter	O
 of	O
 resignation	O
@@ -270,8 +266,7 @@ the	O
 vice	O
 -	O
 president	O
-’	O
-s	O
+’s	O
 –	O
 as	O
 the	O
@@ -352,8 +347,7 @@ of	O
 interest	O
 from	O
 Cristina	B-Person
-’	O
-s	O
+’s	O
 speech	O
 in	O
 Ensenada	B-Location
@@ -688,8 +682,7 @@ the	O
 cause	O
 of	O
 Argentina	B-Location
-’	O
-s	O
+’s	O
 disproportionate	O
 structural	O
 inflation	O
@@ -881,8 +874,7 @@ first	O
 hours	O
 after	O
 Guzmán	B-Person
-’	O
-s	O
+’s	O
 resignation	O
 to	O
 reviling	O

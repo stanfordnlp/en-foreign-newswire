@@ -450,8 +450,7 @@ approval	O
 The	O
 Indian	B-Organization	B-NORP
 Navy	I-Organization
-’	O
-s	O
+’s	O
 principal	O
 weapon	O
 ,	O
@@ -566,8 +565,7 @@ Defence	O
 Minister	O
 Rajnath	B-Person
 Singh	I-Person
-’	O
-s	O
+’s	O
 statement	O
 last	O
 Sunday	B-Date

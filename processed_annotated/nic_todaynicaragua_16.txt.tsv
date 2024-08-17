@@ -79,8 +79,7 @@ facilities	O
 administered	O
 by	O
 Nicaragua	B-Organization	B-Location
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Tourism	I-Organization
 Institute	I-Organization
 (	O

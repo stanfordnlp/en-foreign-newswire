@@ -61,8 +61,7 @@ submarine	O
 –	O
 the	O
 world	O
-’	O
-s	O
+’s	O
 first	O
 known	O
 underwater	O
@@ -225,8 +224,7 @@ Corporation	I-Organization
 ,	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 biggest	O
 naval	O
 contractor	O
@@ -285,8 +283,7 @@ reports	O
 ,	O
 the	O
 Poseidon	B-Facility
-’	O
-s	O
+’s	O
 two	O
 -	O
 megaton	O
@@ -418,8 +415,7 @@ smaller	O
 version	O
 of	O
 Russia	B-Location
-’	O
-s	O
+’s	O
 Poseidon	B-Misc
 nuclear	O
 -	O
@@ -453,8 +449,7 @@ smaller	O
 version	O
 of	O
 Russia	B-Location
-’	O
-s	O
+’s	O
 Poseidon	B-Misc
 nuclear	O
 -	O
@@ -523,8 +518,7 @@ submarine	O
 –	O
 the	O
 world	O
-’	O
-s	O
+’s	O
 first	O
 known	O
 underwater	O
@@ -687,8 +681,7 @@ Corporation	I-Organization
 ,	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 biggest	O
 naval	O
 contractor	O
@@ -747,8 +740,7 @@ reports	O
 ,	O
 the	O
 Poseidon	B-Misc
-’	O
-s	O
+’s	O
 two	O
 -	O
 megaton	O
@@ -1052,8 +1044,7 @@ fuel	O
 According	O
 to	O
 Guo	B-Person
-’	O
-s	O
+’s	O
 calculations	O
 ,	O
 only	O

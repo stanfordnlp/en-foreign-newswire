@@ -5,8 +5,7 @@ About	O
 workers	O
 at	O
 Mexico	B-Location
-’	O
-s	O
+’s	O
 largest	O
 fixed	O
 -	O
@@ -61,8 +60,7 @@ its	O
 privatization	O
 in	O
 the	O
-1990	B-Date
-s	O
+1990s	B-Date
 ,	O
 anti	O
 -	O

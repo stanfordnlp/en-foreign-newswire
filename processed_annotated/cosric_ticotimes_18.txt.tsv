@@ -11,15 +11,13 @@ qualify	O
 for	O
 this	O
 year	O
-’	O
-s	O
+’s	O
 World	B-Misc
 Cup	I-Misc
 as	O
 Joel	B-Person
 Campbell	I-Person
-’	O
-s	O
+’s	O
 early	O
 goal	O
 gave	O
@@ -200,8 +198,7 @@ challenge	O
 on	O
 Costa	B-Location
 Rica	I-Location
-’	O
-s	O
+’s	O
 Francisco	B-Person
 Calvo	I-Person
 .	O
@@ -344,8 +341,7 @@ two	O
 weeks	O
 before	O
 Tuesday	B-Date
-’	O
-s	O
+’s	O
 game	O
 and	O
 the	O
@@ -368,8 +364,7 @@ January	B-Date
 
 New	B-Location
 Zealand	I-Location
-’	O
-s	O
+’s	O
 neighbors	O
 Australia	B-Location
 took	O

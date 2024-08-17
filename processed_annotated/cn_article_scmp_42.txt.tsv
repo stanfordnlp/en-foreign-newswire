@@ -77,8 +77,7 @@ back	O
 to	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 independence	O
 from	O
 Britain	B-Location
@@ -147,8 +146,7 @@ Prime	O
 Minister	O
 Narendra	B-Person
 Modi	I-Person
-’	O
-s	O
+’s	O
 party	O
 of	O
 misusing	O
@@ -159,8 +157,7 @@ power	O
 “	O
 Our	O
 nation	O
-’	O
-s	O
+’s	O
 institutional	O
 agencies	O
 cannot	O
@@ -168,8 +165,7 @@ be	O
 pawns	O
 in	O
 BJP	B-Organization
-’	O
-s	O
+’s	O
 vendetta	O
 politics	O
 .	O
@@ -268,8 +264,7 @@ to	O
 the	O
 Enforcement	B-Organization
 Directorate	I-Organization
-’	O
-s	O
+’s	O
 office	O
 for	O
 questioning	O
@@ -303,8 +298,7 @@ investigation	O
 .	O
 
 Modi	B-Person
-’	O
-s	O
+’s	O
 government	O
 had	O
 “	O

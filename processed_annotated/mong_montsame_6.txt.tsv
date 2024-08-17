@@ -63,8 +63,7 @@ July	B-Date
 ,	O
 Prime	O
 Minister	O
-L	B-Person
-.	I-Person
+L.	B-Person
 Oyun	I-Person
 -	I-Person
 Erdene	I-Person

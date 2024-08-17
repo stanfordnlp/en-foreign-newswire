@@ -68,14 +68,12 @@ regional	O
 bloc	O
 including	O
 Uganda	B-Location
-’	O
-s	O
+’s	O
 Yoweri	B-Person
 Museveni	I-Person
 and	O
 Burundi	B-Location
-’	O
-s	O
+’s	O
 Evariste	B-Person
 Ndayishimiye	I-Person
 .	O
@@ -100,8 +98,7 @@ one	O
 of	O
 the	O
 EAC	B-Organization
-’	O
-s	O
+’s	O
 roads	O
 functioning	O
 as	O
@@ -137,8 +134,7 @@ launching	O
 ceremony	O
 ,	O
 Kenya	B-Location
-’	O
-s	O
+’s	O
 Uhuru	B-Person
 Kenyatta	I-Person
 and	O
@@ -153,8 +149,7 @@ will	O
 connect	O
 the	O
 EAC	B-Organization
-’	O
-s	O
+’s	O
 member	O
 countries	O
 and	O
@@ -231,8 +226,7 @@ and	O
 Kenya	B-Location
 towards	O
 Kenya	B-Location
-’	O
-s	O
+’s	O
 Voi	B-Misc
 .	O
 

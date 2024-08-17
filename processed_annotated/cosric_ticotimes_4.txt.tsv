@@ -94,10 +94,8 @@ training	O
 with	O
 internships	O
 in	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 companies	O
 with	O
 operations	O
@@ -153,15 +151,12 @@ with	O
 funding	O
 from	O
 the	O
-U	B-Organization	B-Location
-.	I-Organization	I-Location
-S	I-Organization	I-Location
-.	I-Organization	I-Location
+U.	B-Organization	B-Location
+S.	I-Organization	I-Location
 Department	I-Organization
 of	I-Organization
 State	I-Organization
-’	O
-s	O
+’s	O
 Opportunity	B-Organization
 Funds	I-Organization
 scholarship	O
@@ -381,10 +376,8 @@ international	O
 students	O
 bring	O
 to	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 classrooms	O
 and	O
 communities	O
@@ -449,10 +442,8 @@ Public	O
 Diplomacy	O
 Advisor	O
 at	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 Headquarters	I-Location
 .	O
 

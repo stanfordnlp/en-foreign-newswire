@@ -17,8 +17,7 @@ on	O
 in	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 hospitals	O
 .	O
 Many	O
@@ -115,8 +114,7 @@ one	O
 of	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 biggest	O
 referral	O
 hospitals	O
@@ -173,9 +171,8 @@ test	O
 tubes	O
 …	O
 We	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 even	O
 have	O
 paracetamol	O
@@ -375,8 +372,7 @@ situation	O
 is	O
 in	O
 Zimbabwe	B-Location
-’	O
-s	O
+’s	O
 hospitals	O
 .	O
 The	O
@@ -631,9 +627,8 @@ rates	O
 .	O
 
 Things	O
-aren	O
-’	O
-t	O
+are	O
+n’t	O
 much	O
 different	O
 for	O
@@ -836,8 +831,7 @@ and	O
 the	O
 target	O
 market	O
-’	O
-s	O
+’s	O
 inability	O
 to	O
 afford	O
@@ -941,8 +935,7 @@ genocide	O
 in	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 hospitals	O
 ,	O
 the	O

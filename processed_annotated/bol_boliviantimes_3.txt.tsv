@@ -6,12 +6,9 @@ Oct	B-Date
 1	I-Date
 ,	O
 the	O
-U	B-Organization
-.	I-Organization
-N	I-Organization
-.	I-Organization
-’	O
-s	O
+U.	B-Organization
+N.	I-Organization
+’s	O
 International	B-Organization
 Court	I-Organization
 of	I-Organization
@@ -66,8 +63,7 @@ them	O
 ,	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 landlocked	O
 status	O
 is	O
@@ -82,8 +78,7 @@ national	O
 pride	O
 .	O
 Here	O
-’	O
-s	O
+’s	O
 what	O
 to	O
 know	O
@@ -92,8 +87,7 @@ the	O
 history	O
 of	O
 Bolivia	B-Location
-’	O
-s	O
+’s	O
 lost	O
 coastline	O
 :	O
@@ -278,10 +272,8 @@ off	O
 vessels	O
 from	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 and	O
 China	B-Location
 .	O
@@ -322,8 +314,7 @@ They	O
 also	O
 patrol	O
 Bolivia	B-Location
-’	O
-s	O
+’s	O
 river	O
 borders	O
 with	O
@@ -356,8 +347,7 @@ In	O
 2013	B-Date
 ,	O
 Bolivia	B-Location
-’	O
-s	O
+’s	O
 President	O
 Evo	B-Person
 Morales	I-Person
@@ -391,8 +381,7 @@ land	O
 .	O
 
 Bolivia	B-Location
-’	O
-s	O
+’s	O
 representatives	O
 framed	O
 the	O
@@ -428,8 +417,7 @@ second	O
 highest	O
 .	O
 Bolivia	B-Location
-’	O
-s	O
+’s	O
 former	O
 president	O
 Eduardo	B-Person
@@ -443,8 +431,7 @@ Hague	B-Location
 that	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 annual	O
 GDP	B-Misc
 growth	O
@@ -581,8 +568,7 @@ people	O
 
 But	O
 Bolivia	B-Location
-’	O
-s	O
+’s	O
 dream	O
 of	O
 restoring	O
@@ -608,8 +594,7 @@ ICJ	B-Organization
 the	O
 Bolivian	B-NORP
 people	O
-’	O
-s	O
+’s	O
 fight	O
 continues	O
 ,	O

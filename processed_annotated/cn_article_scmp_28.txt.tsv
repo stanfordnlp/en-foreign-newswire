@@ -6,8 +6,7 @@ homepage	O
 
 Hong	B-Location
 Kong	I-Location
-’	O
-s	O
+’s	O
 daily	O
 coronavirus	B-Misc
 infections	O
@@ -129,8 +128,7 @@ deaths	O
 .	O
 The	O
 city	O
-’	O
-s	O
+’s	O
 Covid	B-Date
 -	I-Date
 19	I-Date
@@ -393,8 +391,7 @@ contrast	O
 with	O
 the	O
 city	O
-’	O
-s	O
+’s	O
 “	O
 dynamic	O
 -	O
@@ -467,8 +464,7 @@ to	O
 consider	O
 Hong	B-Location
 Kong	I-Location
-’	O
-s	O
+’s	O
 situation	O
 including	O
 age	O

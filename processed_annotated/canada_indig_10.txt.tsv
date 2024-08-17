@@ -5,8 +5,7 @@ a	O
 child	O
 of	O
 the	O
-1980	B-Date
-s	O
+1980s	B-Date
 ,	O
 Trevor	B-Person
 Gould	I-Person
@@ -40,10 +39,8 @@ Paqtnkek	B-Organization
 Mi'kmaw	I-Organization
 Nation	I-Organization
 ,	O
-N	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+N.	B-Location
+S.	I-Location
 ,	O
 has	O
 gotten	O
@@ -749,9 +746,7 @@ non	O
 -	O
 fluent	O
 speaker	O
-.	O
-.	O
-.	O
+...	O
 I	O
 learned	O
 so	O

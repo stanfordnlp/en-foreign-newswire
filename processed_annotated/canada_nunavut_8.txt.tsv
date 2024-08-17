@@ -23,8 +23,7 @@ bank	O
 
 “	O
 It	O
-’	O
-s	O
+’s	O
 really	O
 frustrating	O
 .	O
@@ -32,8 +31,7 @@ It	O
 feels	O
 like	O
 we	O
-’	O
-re	O
+’re	O
 five	O
 to	O
 10	O
@@ -56,8 +54,7 @@ remote	O
 hamlet	O
 on	O
 Nunavut	B-Location
-’	O
-s	O
+’s	O
 Cornwallis	B-Location
 Island	I-Location
 .	O
@@ -94,8 +91,7 @@ but	O
 eight	O
 of	O
 Nunavut	B-Location
-’	O
-s	O
+’s	O
 25	O
 communities	O
 .	O
@@ -114,15 +110,13 @@ Iqaluit	B-Location
 ,	O
 the	O
 territory	O
-’	O
-s	O
+’s	O
 capital	O
 .	O
 She	O
 says	O
 it	O
-’	O
-s	O
+’s	O
 exhausting	O
 and	O
 costly	O
@@ -157,9 +151,8 @@ bank	O
 branch	O
 ,	O
 people	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 get	O
 access	O
 to	O
@@ -196,8 +189,7 @@ poverty	O
 
 “	O
 Let	O
-’	O
-s	O
+’s	O
 first	O
 give	O
 Indigenous	O
@@ -368,8 +360,7 @@ Nunavut	B-Location
 communities	O
 ,	O
 that	O
-’	O
-s	O
+’s	O
 the	O
 only	O
 store	O
@@ -383,8 +374,7 @@ The	O
 Co	B-Organization
 -	I-Organization
 op	I-Organization
-’	O
-s	O
+’s	O
 competitor	O
 ,	O
 The	B-Organization
@@ -439,8 +429,7 @@ The	O
 North	B-Organization
 West	I-Organization
 Company	I-Organization
-’	O
-s	O
+’s	O
 prepaid	O
 card	O
 has	O
@@ -468,8 +457,7 @@ Arctic	B-Organization	B-Location
 Co	I-Organization
 -	I-Organization
 operative	I-Organization
-’	O
-s	O
+’s	O
 recently	O
 discontinued	O
 card	O
@@ -528,9 +516,8 @@ bank	O
 account	O
 ,	O
 she	O
-can	O
-’	O
-t	O
+ca	O
+n’t	O
 send	O
 them	O
 an	O
@@ -544,8 +531,7 @@ EMT	B-Misc
 
 “	O
 There	O
-’	O
-s	O
+’s	O
 no	O
 cash	O
 at	O
@@ -583,9 +569,8 @@ says	O
 “	O
 People	O
 who	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 have	O
 banking	O
 depend	O
@@ -603,17 +588,15 @@ addresses	O
 .	O
 Some	O
 banks	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 recognize	O
 that	O
 many	O
 Nunavut	B-Location
 addresses	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 have	O
 street	O
 names	O
@@ -644,10 +627,8 @@ and	O
 so	O
 on	O
 ,	O
-P	O
-.	O
-O	O
-.	O
+P.	O
+O.	O
 box	O
 number	O
 or	O
@@ -668,8 +649,7 @@ says	O
 it	O
 recognizes	O
 there	O
-’	O
-s	O
+’s	O
 an	O
 address	O
 problem	O
@@ -729,8 +709,7 @@ general	O
 of	O
 the	O
 territory	O
-’	O
-s	O
+’s	O
 Department	B-Organization
 of	I-Organization
 Finance	I-Organization
@@ -927,8 +906,7 @@ keep	O
 and	O
 remit	O
 people	O
-’	O
-s	O
+’s	O
 savings	O
 .	O
 Anderson	B-Person

@@ -3,8 +3,7 @@ https://indianexpress.com/article/entertainment/music/singer-bhupinder-singh-pas
 One	O
 of	O
 Gulzar	B-Person
-’	O
-s	O
+’s	O
 most	O
 memorable	O
 love	O
@@ -71,8 +70,7 @@ melody	O
 was	O
 Bhupinder	B-Person
 Singh	I-Person
-’	O
-s	O
+’s	O
 slightly	O
 sluggish	O
 ,	O
@@ -199,8 +197,7 @@ grew	O
 up	O
 in	O
 Delhi	B-Location
-’	O
-s	O
+’s	O
 West	B-Location
 Patel	I-Location
 Nagar	I-Location

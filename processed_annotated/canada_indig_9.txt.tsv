@@ -7,12 +7,9 @@ Thursday	B-Date
 in	O
 Tuktoyaktuk	B-Location
 ,	I-Location
-N	I-Location
-.	I-Location
-W	I-Location
-.	I-Location
-T	I-Location
-.	I-Location
+N.	I-Location
+W.	I-Location
+T.	I-Location
 ,	O
 last	O
 week	O
@@ -380,12 +377,9 @@ STEM	B-Misc
 programs	O
 across	O
 the	O
-N	B-Location
-.	I-Location
-W	I-Location
-.	I-Location
-T	I-Location
-.	I-Location
+N.	B-Location
+W.	I-Location
+T.	I-Location
 
 Meeka	B-Person
 Steen	I-Person

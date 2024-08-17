@@ -25,8 +25,7 @@ selecting	O
 titles	O
 for	O
 Asia	B-Location
-’	O
-s	O
+’s	O
 largest	O
 annual	O
 book	O
@@ -146,8 +145,7 @@ part	O
 in	O
 the	O
 year	O
-’	O
-s	O
+’s	O
 event	O
 ,	O
 which	O
@@ -164,8 +162,7 @@ anniversary	O
 of	O
 Hong	B-Location
 Kong	I-Location
-’	O
-s	O
+’s	O
 return	O
 to	O
 Chinese	B-NORP
@@ -196,8 +193,7 @@ event	O
 
 “	O
 There	O
-’	O
-s	O
+’s	O
 nothing	O
 political	O
 whatsoever	O
@@ -481,8 +477,7 @@ books	O
 about	O
 the	O
 city	O
-’	O
-s	O
+’s	O
 2019	B-Date
 social	O
 unrest	O
@@ -519,8 +514,7 @@ fan	I-Person
 ,	O
 the	O
 council	O
-’	O
-s	O
+’s	O
 deputy	O
 executive	O
 director	O
@@ -589,8 +583,7 @@ the	O
 investigation	O
 .	O
 It	O
-’	O
-s	O
+’s	O
 not	O
 for	O
 TDC	B-Organization
@@ -617,8 +610,7 @@ highlights	O
 of	O
 this	O
 year	O
-’	O
-s	O
+’s	O
 book	O
 fair	O
 would	O
@@ -634,8 +626,7 @@ involved	O
 of	O
 the	O
 city	O
-’	O
-s	O
+’s	O
 consulates	O
 .	O
 
@@ -676,8 +667,7 @@ participants	O
 to	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 top	O
 locations	O
 ,	O
@@ -713,8 +703,7 @@ she	O
 believed	O
 the	O
 government	O
-’	O
-s	O
+’s	O
 consumption	O
 voucher	O
 and	O
@@ -728,8 +717,7 @@ Station	I-Location
 near	O
 the	O
 event	O
-’	O
-s	O
+’s	O
 venue	O
 would	O
 help	O

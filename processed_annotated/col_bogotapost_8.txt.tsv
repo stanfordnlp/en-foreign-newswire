@@ -67,8 +67,7 @@ one	O
 of	O
 the	O
 world	O
-’	O
-s	O
+’s	O
 “	O
 100	O
 Greatest	B-Misc
@@ -165,8 +164,7 @@ and	O
 passion	O
 about	O
 Acumen	B-Organization
-’	O
-s	O
+’s	O
 projects	O
 in	O
 LATAM	B-Organization
@@ -179,8 +177,7 @@ and	O
 how	O
 the	O
 region	O
-’	O
-s	O
+’s	O
 impact	O
 ecosystem	O
 compares	O
@@ -207,8 +204,7 @@ the	O
 world	O
 in	O
 the	O
-1980	B-Date
-s	O
+1980s	B-Date
 ,	O
 she	O
 found	O
@@ -476,8 +472,7 @@ essential	O
 for	O
 the	O
 region	O
-’	O
-s	O
+’s	O
 development	O
 ?	O
 
@@ -490,9 +485,8 @@ important	O
 conversation	O
 that	O
 I	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 see	O
 happening	O
 enough	O
@@ -503,14 +497,12 @@ essential	O
 for	O
 the	O
 world	O
-’	O
-s	O
+’s	O
 development	O
 –	O
 and	O
 it	O
-’	O
-s	O
+’s	O
 nuanced	O
 .	O
 Some	O
@@ -532,8 +524,7 @@ focused	O
 on	O
 how	O
 we	O
-’	O
-ll	O
+’ll	O
 be	O
 saved	O
 by	O
@@ -699,8 +690,7 @@ Araucanos	B-NORP
 JN	B-Person
 :	O
 I	O
-’	O
-m	O
+’m	O
 lucky	O
 to	O
 work	O
@@ -711,8 +701,7 @@ courageous	O
 leaders	O
 like	O
 Acumen	B-Organization
-’	O
-s	O
+’s	O
 Latin	B-NORP
 American	I-NORP
 Director	O
@@ -916,8 +905,7 @@ said	O
 :	O
 “	O
 There	O
-’	O
-s	O
+’s	O
 always	O
 a	O
 risk	O
@@ -1129,8 +1117,7 @@ an	O
 investment	O
 .	O
 That	O
-’	O
-s	O
+’s	O
 a	O
 serious	O
 level	O
@@ -1213,8 +1200,7 @@ investing	O
 ecosystem	O
 ,	O
 there	O
-’	O
-s	O
+’s	O
 a	O
 lot	O
 of	O
@@ -1349,9 +1335,8 @@ environmental	O
 impact	O
 .	O
 It	O
-isn	O
-’	O
-t	O
+is	O
+n’t	O
 the	O
 only	O
 way	O
@@ -1369,8 +1354,7 @@ voices	O
 of	O
 those	O
 we	O
-’	O
-re	O
+’re	O
 serving	O
 ,	O
 we	O
@@ -1489,8 +1473,7 @@ Acumen	B-Organization
 Academy	I-Organization
 .	O
 There	O
-’	O
-s	O
+’s	O
 a	O
 hunger	O
 to	O
@@ -1633,8 +1616,7 @@ ice	O
 cream	O
 .	O
 That	O
-’	O
-s	O
+’s	O
 a	O
 chocolate	O
 company	O
@@ -1725,9 +1707,8 @@ more	O
 partnerships	O
 .	O
 Governments	O
-won	O
-’	O
-t	O
+wo	O
+n’t	O
 solve	O
 all	O
 the	O

@@ -43,8 +43,7 @@ China	B-Location
 although	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 supply	O
 chain	O
 remains	O
@@ -158,8 +157,7 @@ While	O
 orders	O
 at	O
 DBG	B-Organization
-’	O
-s	O
+’s	O
 Huizhou	B-Location
 plants	O
 are	O
@@ -236,8 +234,7 @@ copy	O
 [	O
 of	O
 China	B-Location
-’	O
-s	O
+’s	O
 supply	O
 chain	O
 ]	O
@@ -276,8 +273,7 @@ Xu	B-Person
 .	O
 
 Xiaomi	B-Organization
-’	O
-s	O
+’s	O
 decision	O
 to	O
 tap	O
@@ -451,8 +447,7 @@ Vietnam	B-Location
 .	O
 While	O
 DBG	B-Organization
-’	O
-s	O
+’s	O
 own	O
 Vietnam	B-Location
 project	O
@@ -500,8 +495,7 @@ cent	O
 of	O
 the	O
 company	O
-’	O
-s	O
+’s	O
 total	O
 business	O
 ,	O
@@ -572,8 +566,7 @@ the	O
 expansion	O
 of	O
 Samsung	B-Organization
-’	O
-s	O
+’s	O
 manufacturing	O
 base	O
 there	O
@@ -618,8 +611,7 @@ the	O
 sophistication	O
 of	O
 China	B-Location
-’	O
-s	O
+’s	O
 own	O
 supply	O
 chain	O
@@ -635,8 +627,7 @@ The	O
 comprehensiveness	O
 of	O
 China	B-Location
-’	O
-s	O
+’s	O
 [	O
 smartphone	O
 ]	O
@@ -693,8 +684,7 @@ scratch	O
 within	O
 one	O
 hour	O
-’	O
-s	O
+’s	O
 drive	O
 of	O
 our	O
@@ -702,8 +692,7 @@ Huizhou	B-Location
 factory	O
 .	O
 There	O
-’	O
-s	O
+’s	O
 no	O
 other	O
 place	O

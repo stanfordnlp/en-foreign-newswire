@@ -161,8 +161,7 @@ David	B-Person
 Tan	I-Person
 Siong	I-Person
 Sun	I-Person
-’	O
-s	O
+’s	O
 allegation	O
 during	O
 cross	O
@@ -203,8 +202,7 @@ company	O
 Chan	B-Person
 said	O
 Tan	B-Person
-’	O
-s	O
+’s	O
 claims	O
 were	O
 highly	O
@@ -223,8 +221,7 @@ given	O
 his	O
 (	O
 Chan	B-Person
-’	O
-s	O
+’s	O
 )	O
 name	O
 has	O

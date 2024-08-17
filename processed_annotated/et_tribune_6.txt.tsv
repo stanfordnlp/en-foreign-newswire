@@ -34,8 +34,7 @@ suspiciously	O
 cheap	O
 .	O
 Let	O
-’	O
-s	O
+’s	O
 face	O
 it	O
 –	O
@@ -655,8 +654,7 @@ DD	B-Location
 ,	O
 where	O
 Mohammed	B-Person
-’	O
-s	O
+’s	O
 mother	O
 died	O
 and	O
@@ -861,9 +859,8 @@ Oda	I-Location
 
 If	O
 you	O
-haven	O
-’	O
-t	O
+have	O
+n’t	O
 heard	O
 of	O
 the	O
@@ -873,9 +870,8 @@ near	O
 Dire	B-Location
 Dawa	I-Location
 ,	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 feel	O
 bad	O
 ,	O
@@ -884,9 +880,8 @@ people	O
 in	O
 DD	B-Location
 itself	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 know	O
 about	O
 it	O
@@ -897,8 +892,7 @@ told	O
 ,	O
 although	O
 I	O
-’	O
-m	O
+’m	O
 not	O
 sure	O
 whether	O
@@ -933,8 +927,7 @@ in	O
 the	O
 early	O
 1970	B-Date
-’	O
-s	O
+’s	O
 .	O
 Fortunately	O
 the	O
@@ -1463,9 +1456,8 @@ years	O
 old	O
 and	O
 he	O
-didn	O
-’	O
-t	O
+did	O
+n’t	O
 know	O
 who	O
 made	O
@@ -1516,9 +1508,8 @@ head	O
 –	O
 although	O
 they	O
-aren	O
-’	O
-t	O
+are	O
+n’t	O
 exactly	O
 the	O
 same	O

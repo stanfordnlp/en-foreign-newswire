@@ -588,8 +588,7 @@ Development	I-Organization
 “	O
 The	O
 Institute	O
-’	O
-s	O
+’s	O
 fundamental	O
 purpose	O
 —	O
@@ -611,8 +610,7 @@ inspiration	O
 of	O
 Beyond	B-Organization
 Zero	I-Organization
-’	O
-s	O
+’s	O
 work	O
 ,	O
 as	O
@@ -674,8 +672,7 @@ Noting	O
 that	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 health	O
 sector	O
 had	O
@@ -762,8 +759,7 @@ and	O
 again	O
 ,	O
 I	O
-’	O
-ve	O
+’ve	O
 seen	O
 Kenyans	B-NORP
 rise	O
@@ -855,8 +851,7 @@ First	O
 Lady	O
 Margaret	O
 Kenyatta	O
-’	O
-s	O
+’s	O
 charity	O
 work	O
 ,	O
@@ -865,8 +860,7 @@ the	O
 Head	O
 of	O
 State	O
-’	O
-s	O
+’s	O
 involvement	O
 in	O
 the	O
@@ -879,8 +873,7 @@ mobilisation	O
 and	O
 International	B-Misc
 Women	I-Misc
-’	I-Misc
-s	I-Misc
+’s	I-Misc
 Day	I-Misc
 activities	O
 among	O
@@ -895,8 +888,7 @@ First	O
 Lady	O
 Margaret	B-Person
 Kenyatta	I-Person
-’	O
-s	O
+’s	O
 charity	O
 activities	O
 had	O
@@ -927,8 +919,7 @@ diversity	O
 She	O
 said	O
 Kenya	B-Location
-’	O
-s	O
+’s	O
 gender	O
 gap	O
 had	O
@@ -949,8 +940,7 @@ to	O
 the	O
 First	O
 Lady	O
-’	O
-s	O
+’s	O
 Beyond	B-NORP
 Zero	I-NORP
 charity	O
@@ -960,8 +950,7 @@ and	O
 cited	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 winning	O
 of	O
 African	B-Misc	B-NORP
@@ -1001,8 +990,7 @@ pillar	O
 of	O
 President	O
 Kenyatta	B-Person
-’	O
-s	O
+’s	O
 Big	B-Misc
 4	I-Misc
 Agenda	I-Misc

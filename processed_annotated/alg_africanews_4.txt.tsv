@@ -278,10 +278,7 @@ body	O
 is	O
 female	O
 (	O
-.	O
-.	O
-.	O
-.	O
+....	O
 )	O
 But	O
 I	O
@@ -289,11 +286,9 @@ remember	O
 that	O
 in	O
 the	O
-1970	B-Date
-s	O
+1970s	B-Date
 and	O
-1980	B-Date
-s	O
+1980s	B-Date
 ,	O
 in	O
 technological	O
@@ -334,9 +329,7 @@ start	O
 ups	O
 ,	O
 incubators	O
-.	O
-.	O
-.	O
+...	O
 Our	O
 university	O
 has	O
@@ -437,9 +430,7 @@ which	O
 everyone	O
 would	O
 buy	O
-.	O
-.	O
-.	O
+...	O
 that	O
 's	O
 my	O

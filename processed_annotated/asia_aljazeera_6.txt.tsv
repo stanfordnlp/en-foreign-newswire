@@ -270,8 +270,7 @@ Indian	B-NORP
 billionaire	O
 Gautam	B-Person
 Adani	I-Person
-’	O
-s	O
+’s	O
 enterprise	O
 owns	O
 Talabira	B-Location
@@ -350,9 +349,8 @@ million	O
 tonnes	O
 ,	O
 India	B-Location
-doesn	O
-’	O
-t	O
+does	O
+n’t	O
 really	O
 have	O
 a	O
@@ -486,8 +484,7 @@ coal	O
 blocks	O
 when	O
 it	O
-’	O
-s	O
+’s	O
 not	O
 required	O
 ,	O
@@ -525,8 +522,7 @@ until	O
 ,	O
 when	O
 India	B-Location
-’	O
-s	O
+’s	O
 top	O
 court	O
 cancelled	O
@@ -595,8 +591,7 @@ Energen	I-Organization
 Limited	I-Organization
 .	O
 It	O
-’	O
-s	O
+’s	O
 yet	O
 to	O
 start	O
@@ -1312,8 +1307,7 @@ respond	O
 to	O
 Al	B-Organization
 Jazeera	I-Organization
-’	O
-s	O
+’s	O
 questions	O
 about	O
 whether	O

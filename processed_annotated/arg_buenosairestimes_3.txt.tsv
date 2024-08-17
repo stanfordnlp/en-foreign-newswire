@@ -15,8 +15,7 @@ after	O
 the	O
 economy	O
 minister	O
-’	O
-s	O
+’s	O
 exit	O
 triggered	O
 overnight	O
@@ -229,8 +228,7 @@ percent	O
 
 Before	O
 Guzmán	B-Person
-’	O
-s	O
+’s	O
 exit	O
 ,	O
 economists	O
@@ -333,8 +331,7 @@ prices	O
 .	O
 
 Argentina	B-Location
-’	O
-s	O
+’s	O
 powerful	O
 labour	O
 unions	O
@@ -353,8 +350,7 @@ too	O
 .	O
 
 Here	O
-’	O
-s	O
+’s	O
 what	O
 economists	O
 are	O
@@ -401,9 +397,8 @@ not	O
 .	O
 If	O
 it	O
-doesn	O
-’	O
-t	O
+does	O
+n’t	O
 ,	O
 inflation	O
 could	O
@@ -440,8 +435,7 @@ pace	O
 than	O
 what	O
 they	O
-’	O
-ve	O
+’ve	O
 been	O
 doing	O
 .	O
@@ -451,8 +445,7 @@ annualised	O
 rate	O
 ,	O
 they	O
-’	O
-ve	O
+’ve	O
 devalued	O
 at	O
 a	O
@@ -481,8 +474,7 @@ percent	O
 –	O
 After	O
 Guzmán	B-Person
-’	O
-s	O
+’s	O
 resignation	O
 ,	O
 “	O
@@ -517,8 +509,7 @@ next	O
 year	O
 ,	O
 it	O
-’	O
-s	O
+’s	O
 hard	O
 to	O
 imagine	O
@@ -529,9 +520,8 @@ in	O
 prices	O
 .	O
 We	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 see	O
 inflation	O
 in	O
@@ -611,15 +601,13 @@ floor	O
 The	O
 traditional	O
 anchors	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 work	O
 :	O
 You	O
-can	O
-’	O
-t	O
+ca	O
+n’t	O
 keep	O
 appreciating	O
 the	O
@@ -627,9 +615,8 @@ exchange	O
 rate	O
 because	O
 you	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 have	O
 net	O
 reserves	O

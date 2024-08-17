@@ -98,8 +98,7 @@ initiative	O
 
 Saudi	B-Location
 Arabia	I-Location
-’	O
-s	O
+’s	O
 diplomacy	O
 has	O
 succeeded	O
@@ -210,8 +209,7 @@ for	O
 US	B-Location
 President	O
 Biden	B-Person
-’	O
-s	O
+’s	O
 visit	O
 to	O
 the	O
@@ -335,8 +333,7 @@ established	O
 in	O
 the	O
 mid	O
-1940	B-Date
-s	O
+1940s	B-Date
 were	O
 the	O
 accomplishment	O
@@ -375,8 +372,7 @@ advantage	O
 of	O
 some	O
 people	O
-’	O
-s	O
+’s	O
 ignorance	O
 of	O
 the	O
@@ -433,8 +429,7 @@ threat	O
 to	O
 the	O
 world	O
-’	O
-s	O
+’s	O
 security	O
 if	O
 it	O

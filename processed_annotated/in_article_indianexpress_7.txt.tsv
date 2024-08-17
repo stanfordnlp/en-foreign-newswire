@@ -126,8 +126,7 @@ he	O
 said	O
 on	O
 Inzamam	B-Person
-’	O
-s	O
+’s	O
 YouTube	B-Product
 channel	O
 .	O
@@ -138,8 +137,7 @@ effort	O
 ”	O
 
 It	O
-’	O
-s	O
+’s	O
 a	O
 lovely	O
 chat	O
@@ -190,9 +188,8 @@ were	O
 interesting	O
 .	O
 Babar	B-Person
-doesn	O
-’	O
-t	O
+does	O
+n’t	O
 shy	O
 away	O
 from	O
@@ -232,8 +229,7 @@ Inzamam	B-Person
 quizzes	O
 about	O
 Babar	B-Person
-’	O
-s	O
+’s	O
 failure	O
 to	O
 get	O
@@ -252,9 +248,8 @@ The	O
 ‘	O
 nephew	O
 ’	O
-doesn	O
-’	O
-t	O
+does	O
+n’t	O
 turn	O
 shy	O
 .	O
@@ -305,9 +300,8 @@ and	O
 asked	O
 :	O
 Why	O
-isn	O
-’	O
-t	O
+is	O
+n’t	O
 it	O
 happening	O
 for	O
@@ -340,13 +334,11 @@ says	O
 .	O
 “	O
 That	O
-’	O
-s	O
+’s	O
 why	O
 runs	O
-weren	O
-’	O
-t	O
+were	O
+n’t	O
 coming	O
 .	O
 In	O
@@ -435,9 +427,8 @@ nahi	O
 karega	O
 .	O
 (	O
-Won	O
-’	O
-t	O
+Wo	O
+n’t	O
 perform	O
 in	O
 games	O
@@ -645,8 +636,7 @@ effective	O
 as	O
 Salim	B-Person
 Malik	I-Person
-’	O
-s	O
+’s	O
 ,	O
 a	O
 wonderful	O
@@ -658,8 +648,7 @@ spin	O
 Such	O
 was	O
 Malik	B-Person
-’	O
-s	O
+’s	O
 drive	O
 and	O
 cut	O
@@ -707,8 +696,7 @@ that	O
 Not	O
 quite	O
 Malik	B-Person
-’	O
-s	O
+’s	O
 wrist	O
 ,	O
 of	O
@@ -840,8 +828,7 @@ Test	O
 cricket	O
 .	O
 It	O
-’	O
-s	O
+’s	O
 worth	O
 hitting	O
 YouTube	B-Product
@@ -860,9 +847,8 @@ in	O
 .	O
 
 This	O
-wasn	O
-’	O
-t	O
+was	O
+n’t	O
 peak	O
 Steyn	B-Person
 but	O
@@ -928,9 +914,8 @@ attempted	O
 .	O
 Babar	B-Person
 just	O
-didn	O
-’	O
-t	O
+did	O
+n’t	O
 block	O
 ;	O
 he	O
@@ -955,8 +940,7 @@ hands	O
 .	O
 When	O
 Steyn	B-Person
-’	O
-s	O
+’s	O
 deliveries	O
 were	O
 treading	O
@@ -1055,9 +1039,8 @@ he	O
 cuts	O
 .	O
 He	O
-hasn	O
-’	O
-t	O
+has	O
+n’t	O
 gone	O
 the	O
 full	O
@@ -1251,9 +1234,8 @@ era	O
 
 The	O
 Pakistanis	B-NORP
-wouldn	O
-’	O
-t	O
+would	O
+n’t	O
 do	O
 that	O
 .	O
@@ -1291,8 +1273,7 @@ at	O
 stance	O
 .	O
 It	O
-’	O
-s	O
+’s	O
 distinctively	O
 different	O
 to	O
@@ -1448,8 +1429,7 @@ length	O
 to	O
 thwart	O
 Babar	B-Person
-’	O
-s	O
+’s	O
 balance	O
 ,	O
 Styen	B-Person
@@ -1472,9 +1452,8 @@ always	O
 there	O
 but	O
 he	O
-didn	O
-’	O
-t	O
+did	O
+n’t	O
 take	O
 it	O
 .	O
@@ -1528,9 +1507,8 @@ body	O
 ,	O
 the	O
 feet	O
-aren	O
-’	O
-t	O
+are	O
+n’t	O
 there	O
 quite	O
 ,	O
@@ -1667,8 +1645,7 @@ four	O
 .	O
 
 Babar	B-Person
-’	O
-s	O
+’s	O
 relationship	O
 with	O
 his	O
@@ -1748,17 +1725,15 @@ khelna	O
 !	O
 (	O
 I	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 want	O
 to	O
 get	O
 out	O
 .	O
-Don	O
-’	O
-t	O
+Do	O
+n’t	O
 want	O
 to	O
 play	O
@@ -1801,9 +1776,8 @@ out	O
 .	O
 As	O
 he	O
-hadn	O
-’	O
-t	O
+had	O
+n’t	O
 seen	O
 it	O
 .	O
@@ -1876,8 +1850,7 @@ came	O
 from	O
 an	O
 uncle	O
-’	O
-s	O
+’s	O
 largesse	O
 .	O
 “	O
@@ -1942,8 +1915,7 @@ need	O
 ”	O
 
 Babar	B-Person
-’	O
-s	O
+’s	O
 father	O
 would	O
 invariably	O
@@ -1956,9 +1928,8 @@ At	O
 times	O
 ,	O
 Babar	B-Person
-wouldn	O
-’	O
-t	O
+would	O
+n’t	O
 have	O
 the	O
 heart	O
@@ -1979,9 +1950,8 @@ Because	O
 I	O
 knew	O
 he	O
-hadn	O
-’	O
-t	O
+had	O
+n’t	O
 eaten	O
 anything	O
 .	O

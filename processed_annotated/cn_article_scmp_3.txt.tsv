@@ -162,8 +162,7 @@ part	O
 of	O
 my	O
 mother	O
-’	O
-s	O
+’s	O
 repertoire	O
 ,	O
 ”	O
@@ -184,9 +183,8 @@ was	O
 :	O
 ‘	O
 Why	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 people	O
 prepare	O
 this	O
@@ -202,8 +200,7 @@ The	O
 ethos	O
 of	O
 Pangium	B-Location
-’	O
-s	O
+’s	O
 cuisine	O
 is	O
 to	O
@@ -299,8 +296,7 @@ into	O
 the	O
 city	O
 state	O
-’	O
-s	O
+’s	O
 culinary	O
 history	O
 in	O
@@ -321,8 +317,7 @@ or	O
 by	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 food	O
 hawkers	O
 .	O
@@ -470,8 +465,7 @@ less	O
 popular	O
 among	O
 today	O
-’	O
-s	O
+’s	O
 families	O
 are	O
 being	O
@@ -521,8 +515,7 @@ passes	O
 away	O
 ,	O
 it	O
-’	O
-s	O
+’s	O
 like	O
 a	O
 library	O
@@ -783,8 +776,7 @@ historic	O
 mansion	O
 in	O
 Singapore	B-Location
-’	O
-s	O
+’s	O
 Kampong	B-Location
 Glam	I-Location
 enclave	O
@@ -941,8 +933,7 @@ process	O
 
 Permata	B-Location
 Singapore	I-Location
-’	O
-s	O
+’s	O
 version	O
 of	O
 this	O
@@ -968,8 +959,7 @@ more	O
 appealing	O
 to	O
 today	O
-’	O
-s	O
+’s	O
 diners	O
 .	O
 
@@ -1331,8 +1321,7 @@ At	O
 D	B-Person
 ’	I-Person
 Silva	I-Person
-’	O
-s	O
+’s	O
 Rempapa	B-Organization
 restaurant	O
 ,	O
@@ -1421,8 +1410,7 @@ is	O
 to	O
 honour	O
 Singapore	B-Location
-’	O
-s	O
+’s	O
 cultural	O
 diversity	O
 by	O
@@ -1444,8 +1432,7 @@ explains	O
 
 For	O
 Singapore	B-Location
-’	O
-s	O
+’s	O
 National	B-Misc
 Day	I-Misc
 in	O
@@ -1497,8 +1484,7 @@ A	O
 highlight	O
 is	O
 Vasunthara	B-Person
-’	O
-s	O
+’s	O
 exceptional	O
 Indian	B-NORP
 thosai	O
@@ -1619,8 +1605,7 @@ mushrooms	O
 ,	O
 and	O
 pig	O
-’	O
-s	O
+’s	O
 brain	O
 in	O
 a	O

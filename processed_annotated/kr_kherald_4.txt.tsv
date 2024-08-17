@@ -13,8 +13,7 @@ Suk	I-Person
 -	I-Person
 yeol	I-Person
 administration	O
-’	O
-s	O
+’s	O
 first	O
 interpellation	O
 began	O
@@ -77,8 +76,7 @@ Korean	I-NORP
 fishermen	O
 and	O
 Yoon	B-Person
-’	O
-s	O
+’s	O
 controversial	O
 personnel	O
 appointments	O
@@ -265,8 +263,7 @@ minister	O
 .	O
 
 When	O
-Rep	O
-.	O
+Rep.	O
 Park	B-Person
 asked	O
 whether	O
@@ -284,8 +281,7 @@ includes	O
 the	O
 Justice	B-Organization
 Ministry	I-Organization
-’	O
-s	O
+’s	O
 personnel	O
 affairs	O
 ,	O
@@ -305,8 +301,7 @@ what	O
 Cheong	B-Person
 Wa	I-Person
 Dae	I-Person
-’	O
-s	O
+’s	O
 senior	O
 presidential	O
 secretary	O
@@ -501,8 +496,7 @@ change	O
 of	O
 tone	O
 ,	O
-Rep	O
-.	O
+Rep.	O
 Yoon	B-Person
 Sang	I-Person
 -	I-Person
@@ -542,8 +536,7 @@ Moon	B-Person
 administration	O
 .	O
 Yoon	B-Person
-’	O
-s	O
+’s	O
 questions	O
 were	O
 meant	O
@@ -554,8 +547,7 @@ criticize	O
 the	O
 previous	O
 administration	O
-’	O
-s	O
+’s	O
 handling	O
 of	O
 key	O
@@ -571,8 +563,7 @@ up	O
 the	O
 Moon	B-Person
 administration	O
-’	O
-s	O
+’s	O
 repatriation	O
 of	O
 two	O
@@ -625,8 +616,7 @@ added	O
 that	O
 the	O
 government	O
-’	O
-s	O
+’s	O
 decision	O
 to	O
 repatriate	O
@@ -680,8 +670,7 @@ the	O
 hiring	O
 of	O
 Yoon	B-Person
-’	O
-s	O
+’s	O
 personal	O
 acquaintances	O
 and	O
@@ -723,8 +712,7 @@ way	O
 around	O
 ,	O
 ”	O
-Rep	O
-.	O
+Rep.	O
 Park	B-Person
 said	O
 .	O
@@ -788,15 +776,13 @@ over	O
 the	O
 new	O
 bureau	O
-’	O
-s	O
+’s	O
 launch	O
 ,	O
 with	O
 the	O
 nation	O
-’	O
-s	O
+’s	O
 police	O
 chiefs	O
 holding	O

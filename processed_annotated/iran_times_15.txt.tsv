@@ -274,8 +274,7 @@ on	O
 Head	O
 of	O
 Turkey	B-Location
-’	O
-s	O
+’s	O
 Small	B-Organization
 and	I-Organization
 Medium	I-Organization
@@ -363,8 +362,7 @@ parks	O
 in	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 special	O
 economic	O
 zones	O

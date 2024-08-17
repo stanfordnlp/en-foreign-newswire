@@ -69,9 +69,8 @@ June	B-Date
 22	I-Date
 when	O
 she	O
-didn	O
-’	O
-t	O
+did	O
+n’t	O
 come	O
 to	O
 school	O
@@ -133,8 +132,7 @@ May	B-Date
 30	I-Date
 showed	O
 Cho	B-Person
-’	O
-s	O
+’s	O
 mother	O
 carrying	O
 her	O
@@ -241,8 +239,7 @@ Service	I-Organization
 said	O
 that	O
 Cho	B-Person
-’	O
-s	O
+’s	O
 parents	O
 seem	O
 to	O
@@ -268,14 +265,12 @@ search	O
 history	O
 of	O
 Cho	B-Person
-’	O
-s	O
+’s	O
 parents	O
 .	O
 
 Cho	B-Person
-’	O
-s	O
+’s	O
 parents	O
 often	O
 looked	O
@@ -297,8 +292,7 @@ recently	O
 .	O
 
 Cho	B-Person
-’	O
-s	O
+’s	O
 father	O
 lost	O
 20	B-Money

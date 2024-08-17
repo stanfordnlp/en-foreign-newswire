@@ -71,8 +71,7 @@ Sacheon	I-Location
 ,	I-Location
 South	I-Location
 Korea	I-Location
-’	O
-s	O
+’s	O
 Defence	B-Organization
 Acquisition	I-Organization
 programme	I-Organization
@@ -119,8 +118,7 @@ Lockheed	B-Organization
 Martin	I-Organization
 Corp	I-Organization
 .	O
-’	O
-s	O
+’s	O
 F	B-Product
 -	I-Product
 35	I-Product
@@ -145,8 +143,7 @@ one	O
 of	O
 the	O
 US	B-Location
-’	O
-s	O
+’s	O
 closest	O
 security	O
 allies	O

@@ -9,8 +9,7 @@ to	O
 the	O
 Prime	O
 Minister	O
-’	O
-s	O
+’s	O
 Office	O
 for	O
 his	O
@@ -26,8 +25,7 @@ his	O
 way	O
 to	O
 Bennett	B-Person
-’	O
-s	O
+’s	O
 office	O
 ,	O
 he	O
@@ -39,8 +37,7 @@ Meir	I-Person
 the	O
 prime	O
 minister	O
-’	O
-s	O
+’s	O
 then	O
 -	O
 diplomatic	O
@@ -60,8 +57,7 @@ the	O
 PMO	B-Organization
 during	O
 Bennett	B-Person
-’	O
-s	O
+’s	O
 year	O
 as	O
 prime	O
@@ -503,8 +499,7 @@ operation	O
 ,	O
 and	O
 Meir	B-Person
-’	O
-s	O
+’s	O
 name	O
 came	O
 up	O
@@ -524,8 +519,7 @@ place	O
 ;	O
 the	O
 leaker	O
-’	O
-s	O
+’s	O
 identity	O
 ,	O
 and	O
@@ -566,8 +560,7 @@ with	O
 the	O
 prime	O
 minister	O
-’	O
-s	O
+’s	O
 approval	O
 .	O
 
@@ -597,9 +590,8 @@ Israel	B-Location
 .	O
 “	O
 I	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 know	O
 where	O
 that	O
@@ -618,22 +610,19 @@ my	O
 watch	O
 ,	O
 it	O
-didn	O
-’	O
-t	O
+did	O
+n’t	O
 happen	O
 .	O
 It	O
-’	O
-s	O
+’s	O
 not	O
 good	O
 at	O
 all	O
 .	O
 There	O
-’	O
-s	O
+’s	O
 a	O
 fundamental	O
 question	O
@@ -644,8 +633,7 @@ be	O
 done	O
 .	O
 It	O
-’	O
-s	O
+’s	O
 not	O
 my	O
 area	O
@@ -653,8 +641,7 @@ area	O
 And	O
 afterwards	O
 there	O
-’	O
-s	O
+’s	O
 the	O
 matter	O
 of	O
@@ -729,8 +716,7 @@ was	O
 appointed	O
 as	O
 Bennett	B-Person
-’	O
-s	O
+’s	O
 diplomatic	O
 adviser	O
 when	O
@@ -935,8 +921,7 @@ from	O
 the	O
 prime	O
 minister	O
-’	O
-s	O
+’s	O
 political	O
 troubles	O
 .	O
@@ -1015,8 +1000,7 @@ he	O
 decided	O
 in	O
 Bar	B-Person
-’	O
-s	O
+’s	O
 favor	O
 and	O
 instructed	O
@@ -1102,8 +1086,7 @@ meeting	O
 to	O
 protest	O
 Bennett	B-Person
-’	O
-s	O
+’s	O
 having	O
 discussed	O
 the	O
@@ -1111,18 +1094,15 @@ effort	O
 to	O
 halt	O
 Iran	B-Location
-’	O
-s	O
+’s	O
 nuclear	O
 program	O
 with	O
 members	O
 of	O
 the	O
-U	B-Organization	B-Location
-.	I-Organization	I-Location
-S	I-Organization	I-Location
-.	I-Organization	I-Location
+U.	B-Organization	B-Location
+S.	I-Organization	I-Location
 Congress	I-Organization
 without	O
 informing	O
@@ -1130,8 +1110,7 @@ him	O
 or	O
 his	O
 ministry	O
-’	O
-s	O
+’s	O
 director	O
 -	O
 general	O
@@ -1150,14 +1129,12 @@ meeting	O
 
 When	O
 Lapid	B-Person
-’	O
-s	O
+’s	O
 people	O
 checked	O
 with	O
 Bennett	B-Person
-’	O
-s	O
+’s	O
 office	O
 to	O
 understand	O
@@ -1327,15 +1304,13 @@ ridiculous	O
 ,	O
 and	O
 I	O
-’	O
-m	O
+’m	O
 having	O
 difficulty	O
 understanding	O
 what	O
 Bennett	B-Person
-’	O
-s	O
+’s	O
 and	O
 my	O
 interest	O
@@ -1377,9 +1352,8 @@ business	O
 ,	O
 and	O
 I	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 remember	O
 any	O
 argument	O
@@ -1416,10 +1390,8 @@ anything	O
 he	O
 wants	O
 with	O
-U	B-Organization	B-Location
-.	I-Organization	I-Location
-S	I-Organization	I-Location
-.	I-Organization	I-Location
+U.	B-Organization	B-Location
+S.	I-Organization	I-Location
 Congress	I-Organization
 members	O
 .	O
@@ -1446,10 +1418,8 @@ issue	O
 with	O
 the	O
 [	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 ]	O
 administration	O
 wisely	O
@@ -1491,8 +1461,7 @@ the	O
 former	O
 prime	O
 minister	O
-’	O
-s	O
+’s	O
 circle	O
 ,	O
 of	O
@@ -1617,8 +1586,7 @@ greatly	O
 to	O
 the	O
 government	O
-’	O
-s	O
+’s	O
 political	O
 and	O
 security	O
@@ -1726,8 +1694,7 @@ Prime	O
 Minister	O
 Yair	B-Person
 Lapid	I-Person
-’	O
-s	O
+’s	O
 bureau	O
 responded	O
 :	O

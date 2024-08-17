@@ -13,8 +13,7 @@ July	B-Date
 ,	O
 the	O
 world	O
-’	O
-s	O
+’s	O
 biggest	O
 Afrobeats	B-Misc
 festival	O
@@ -25,8 +24,7 @@ follow	O
 up	O
 to	O
 2019	B-Date
-’	O
-s	O
+’s	O
 African	B-NORP
 debut	O
 event	O
@@ -73,8 +71,7 @@ the	O
 West	B-NORP
 African	I-NORP
 country	O
-’	O
-s	O
+’s	O
 capital	O
 will	O
 host	O
@@ -112,8 +109,7 @@ in	O
 ,	O
 the	O
 festival	O
-’	O
-s	O
+’s	O
 giant	O
 new	O
 mainstage	O
@@ -156,8 +152,7 @@ continent	O
 
 Afro	B-Misc
 Nation	I-Misc
-’	O
-s	O
+’s	O
 aim	O
 has	O
 always	O
@@ -259,8 +254,7 @@ positive	O
 impact	O
 to	O
 Ghana	B-Location
-’	O
-s	O
+’s	O
 cultural	O
 and	O
 tourism	O
@@ -375,8 +369,7 @@ the	O
 spot	O
 where	O
 Ghana	B-Location
-’	O
-s	O
+’s	O
 Independence	O
 was	O
 declared	O
@@ -592,8 +585,7 @@ we	O
 launched	O
 the	O
 world	O
-’	O
-s	O
+’s	O
 first	O
 official	O
 Afrobeats	B-Product	B-Misc

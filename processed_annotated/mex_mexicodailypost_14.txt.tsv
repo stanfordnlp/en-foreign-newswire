@@ -13,8 +13,7 @@ whose	O
 dedication	O
 to	O
 Mexico	B-Location
-’	O
-s	O
+’s	O
 culinary	O
 heritage	O
 helped	O
@@ -53,8 +52,7 @@ paid	O
 tribute	O
 to	O
 Kennedy	B-Person
-’	O
-s	O
+’s	O
 legacy	O
 ,	O
 saying	O
@@ -225,8 +223,7 @@ York	I-Organization	I-Location
 Times	I-Organization
 journalist	O
 Paul	B-Person
-P	I-Person
-.	I-Person
+P.	I-Person
 Kennedy	I-Person
 .	O
 Her	O
@@ -372,8 +369,7 @@ Gonzalez	I-Person
 Blanco	I-Person
 ,	O
 Mexico	B-Location
-’	O
-s	O
+’s	O
 ambassador	O
 to	O
 Britain	B-Location
@@ -438,8 +434,7 @@ Eagle	I-Misc
 ,	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 highest	O
 award	O
 for	O

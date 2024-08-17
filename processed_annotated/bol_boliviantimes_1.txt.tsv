@@ -81,8 +81,7 @@ America	I-Location
 .	O
 The	O
 country	O
-’	O
-s	O
+’s	O
 first	O
 indigenous	O
 leader	O
@@ -217,8 +216,7 @@ president	O
 ,	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 military	O
 chief	O
 joined	O
@@ -289,8 +287,7 @@ peace	O
 .	O
 ”	O
 Here	O
-’	O
-s	O
+’s	O
 what	O
 to	O
 know	O
@@ -309,8 +306,7 @@ in	O
 2005	B-Date
 ,	O
 Bolivia	B-Location
-’	O
-s	O
+’s	O
 indigenous	O
 people	O
 —	O
@@ -409,8 +405,7 @@ responded	O
 to	O
 Latin	B-Location	B-NORP
 America	I-Location
-’	O
-s	O
+’s	O
 commodities	O
 boom	O
 more	O
@@ -424,8 +419,7 @@ region	O
 ,	O
 marshalling	O
 Bolivia	B-Location
-’	O
-s	O
+’s	O
 gas	O
 and	O
 mineral	O
@@ -443,8 +437,7 @@ Bolivia	B-Location
 remains	O
 South	B-Location
 America	I-Location
-’	O
-s	O
+’s	O
 poorest	O
 country	O
 after	O
@@ -655,8 +648,7 @@ Morales	B-Person
 But	O
 then	O
 Bolivia	B-Location
-’	O
-s	O
+’s	O
 electoral	O
 board	O
 abruptly	O
@@ -682,8 +674,7 @@ with	O
 %	O
 to	O
 Mesa	B-Person
-’	O
-s	O
+’s	O
 36.73	O
 %	O
 ,	O
@@ -776,8 +767,7 @@ on	O
 a	O
 government	O
 minister	O
-’	O
-s	O
+’s	O
 home	O
 and	O
 a	O
@@ -841,8 +831,7 @@ the	O
 head	O
 of	O
 Bolivia	B-Location
-’	O
-s	O
+’s	O
 armed	O
 forces	O
 backed	O
@@ -1055,8 +1044,7 @@ are	O
 mandated	O
 by	O
 Bolivia	B-Location
-’	O
-s	O
+’s	O
 constitution	O
 to	O
 take	O
@@ -1108,8 +1096,7 @@ houses	O
 .	O
 Per	O
 Bolivia	B-Location
-’	O
-s	O
+’s	O
 constitution	O
 ,	O
 an	O

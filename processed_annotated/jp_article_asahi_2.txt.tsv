@@ -392,10 +392,8 @@ to	O
 be	O
 held	O
 at	O
-U	B-Organization
-.	I-Organization
-N	I-Organization
-.	I-Organization
+U.	B-Organization
+N.	I-Organization
 headquarters	O
 in	O
 New	B-Location

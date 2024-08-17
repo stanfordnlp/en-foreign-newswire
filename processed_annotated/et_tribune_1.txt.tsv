@@ -81,8 +81,7 @@ Addis	B-Location
 
 Fortunately	O
 it	O
-’	O
-s	O
+’s	O
 worth	O
 it	O
 .	O
@@ -97,9 +96,8 @@ to	O
 Arba	B-Location
 Minch	I-Location
 I	O
-didn	O
-’	O
-t	O
+did	O
+n’t	O
 get	O
 past	O
 Sodo	B-Location
@@ -118,9 +116,8 @@ lake	O
 ,	O
 the	O
 place	O
-didn	O
-’	O
-t	O
+did	O
+n’t	O
 sound	O
 interesting	O
 enough	O
@@ -342,8 +339,7 @@ nearby	O
 restaurant	O
 ,	O
 Rosa	B-Organization
-’	O
-s	O
+’s	O
 ,	O
 had	O
 been	O
@@ -400,9 +396,8 @@ out	O
 that	O
 the	O
 waitress	O
-hadn	O
-’	O
-t	O
+had	O
+n’t	O
 been	O
 wearing	O
 any	O
@@ -411,9 +406,8 @@ underwear	O
 Regrettably	O
 ,	O
 I	O
-hadn	O
-’	O
-t	O
+had	O
+n’t	O
 noticed	O
 
 Nechisar	B-Facility
@@ -520,9 +514,8 @@ South	O
 ,	O
 but	O
 they	O
-didn	O
-’	O
-t	O
+did	O
+n’t	O
 enforce	O
 this	O
 on	O
@@ -667,8 +660,7 @@ saw	O
 gazelle	O
 ,	O
 Swayne	B-Misc	B-Person
-’	I-Misc
-s	I-Misc
+’s	I-Misc
 Hartebeest	I-Misc
 ,	O
 lots	O
@@ -822,8 +814,7 @@ must	O
 know	O
 what	O
 they	O
-’	O
-re	O
+’re	O
 doing	O
 !	O
 
@@ -877,8 +868,7 @@ improved	O
 access	O
 .	O
 I	O
-’	O
-m	O
+’m	O
 sure	O
 they	O
 are	O
@@ -968,9 +958,8 @@ they	O
 had	O
 spares	O
 We	O
-weren	O
-’	O
-t	O
+were	O
+n’t	O
 around	O
 ,	O
 so	O
@@ -1001,9 +990,8 @@ of	O
 .	O
 
 We	O
-didn	O
-’	O
-t	O
+did	O
+n’t	O
 see	O
 any	O
 lions	O
@@ -1051,9 +1039,8 @@ the	O
 morning	O
 .	O
 We	O
-didn	O
-’	O
-t	O
+did	O
+n’t	O
 worry	O
 about	O
 it	O
@@ -1248,9 +1235,8 @@ mumbled	O
 sleepily	O
 that	O
 they	O
-wouldn	O
-’	O
-t	O
+would	O
+n’t	O
 bother	O
 us	O
 if	O
@@ -1315,9 +1301,8 @@ I	O
 was	O
 glad	O
 they	O
-weren	O
-’	O
-t	O
+were	O
+n’t	O
 attracted	O
 by	O
 snoring	O
@@ -1338,19 +1323,16 @@ survive	O
 these	O
 things	O
 they	O
-’	O
-re	O
+’re	O
 great	O
 .	O
 If	O
 you	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 ,	O
 it	O
-’	O
-s	O
+’s	O
 another	O
 story	O
 .	O

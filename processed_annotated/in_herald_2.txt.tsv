@@ -5,8 +5,7 @@ political	O
 debate	O
 on	O
 Delhi	B-Location
-’	O
-s	O
+’s	O
 newly	O
 adopted	O
 Excise	B-Misc
@@ -326,8 +325,7 @@ what	O
 is	O
 the	O
 Opposition	O
-’	O
-s	O
+’s	O
 opinion	O
 ?	O
 
@@ -491,8 +489,7 @@ reason	O
 .	O
 
 AAP	B-Organization
-’	O
-s	O
+’s	O
 response	O
 
 AAP	B-Organization

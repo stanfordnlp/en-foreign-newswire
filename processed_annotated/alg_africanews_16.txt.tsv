@@ -185,8 +185,7 @@ staff	O
 of	O
 Liberté	B-Organization
 to	O
-Mr	O
-.	O
+Mr.	O
 Rebrab	B-Person
 ,	O
 the	O
@@ -355,8 +354,7 @@ the	O
 end	O
 of	O
 the	O
-1980	B-Date
-s	O
+1980s	B-Date
 ,	O
 Algeria	B-Location
 has	O

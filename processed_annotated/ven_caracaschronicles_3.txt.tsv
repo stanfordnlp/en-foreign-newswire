@@ -12,17 +12,15 @@ consultant	O
 who	O
 headed	O
 Sotheby	B-Organization
-’	O
-s	O
+’s	O
 Department	B-Organization
 of	I-Organization
 Latin	I-Organization	B-NORP
 American	I-Organization	I-NORP
 Art	I-Organization
 ,	O
-didn	O
-’	O
-t	O
+did	O
+n’t	O
 expect	O
 that	O
 a	O
@@ -140,8 +138,7 @@ was	O
 painted	O
 during	O
 Michelena	B-Person
-’	O
-s	O
+’s	O
 time	O
 in	O
 Paris	B-Location
@@ -287,8 +284,7 @@ Laurens	I-Person
 who	O
 mentored	O
 Michelena	B-Person
-’	O
-s	O
+’s	O
 work	O
 at	O
 the	O
@@ -299,8 +295,7 @@ discovered	O
 the	O
 young	O
 man	O
-’	O
-s	O
+’s	O
 talent	O
 .	O
 In	O
@@ -437,8 +432,7 @@ Tovar	I-Person
 “	O
 Guzmán	B-Person
 Blanco	I-Person
-’	O
-s	O
+’s	O
 favorite	O
 artist	O
 ,	O
@@ -463,8 +457,7 @@ Blanco	I-Person
 would	O
 revoke	O
 Michelena	B-Person
-’	O
-s	O
+’s	O
 scholarship	O
 at	O
 some	O
@@ -704,8 +697,7 @@ art	O
 critic	O
 Juan	B-Person
 Röhl	I-Person
-’	O
-s	O
+’s	O
 investigations	O
 tracing	O
 The	B-Misc
@@ -849,8 +841,7 @@ the	O
 English	B-NORP
 house	O
 Sotheby	B-Organization
-’	O
-s	O
+’s	O
 —	O
 the	O
 oldest	O
@@ -895,8 +886,7 @@ entire	O
 trajectory	O
 of	O
 Michelena	B-Person
-’	O
-s	O
+’s	O
 painting	O
 .	O
 He	O
@@ -945,8 +935,7 @@ be	O
 at	O
 the	O
 Sotheby	B-Organization
-’	O
-s	O
+’s	O
 archives	O
 .	O
 “	O
@@ -1012,8 +1001,7 @@ a	O
 researcher	O
 at	O
 Sotheby	B-Organization
-’	O
-s	O
+’s	O
 Impressionist	B-Organization
 and	I-Organization
 Modern	I-Organization
@@ -1118,8 +1106,7 @@ searched	O
 the	O
 internet	O
 for	O
-Mr	O
-.	O
+Mr.	O
 Burns	B-Person
 ,	O
 the	O
@@ -1157,8 +1144,7 @@ of	O
 acquaintances	O
 in	O
 Sotheby	B-Organization
-’	O
-s	O
+’s	O
 Old	B-Organization
 Master	I-Organization
 Painting	I-Organization
@@ -1262,8 +1248,7 @@ Sarasota	B-Location
 Stein	B-Person
 called	O
 Burns	B-Person
-’	O
-s	O
+’s	O
 descendants	O
 ’	O
 lawyer	O
@@ -1280,8 +1265,7 @@ a	O
 painting	O
 purchased	O
 by	O
-Mr	O
-.	O
+Mr.	O
 Owen	B-Person
 Burns	I-Person
 .	O
@@ -1362,8 +1346,7 @@ their	O
 deposits	O
 .	O
 Burns	B-Person
-’	O
-s	O
+’s	O
 descendants	O
 ,	O
 very	O
@@ -1469,8 +1452,7 @@ in	O
 Accompanied	O
 by	O
 Burns	B-Person
-’	O
-s	O
+’s	O
 heirs	O
 ,	O
 a	O
@@ -1669,8 +1651,7 @@ says	O
 .	O
 So	O
 Stein	B-Person
-’	O
-s	O
+’s	O
 partner	O
 in	O
 Caracas	B-Location
@@ -1704,8 +1685,7 @@ Stein	B-Person
 “	O
 the	O
 minister	O
-’	O
-s	O
+’s	O
 response	O
 was	O
 :	O
@@ -1786,8 +1766,7 @@ this	O
 day	O
 ,	O
 it	O
-’	O
-s	O
+’s	O
 the	O
 Venezuelan	B-NORP
 painting	O
@@ -2123,9 +2102,8 @@ The	O
 original	O
 Sick	B-Misc
 Child	I-Misc
-hasn	O
-’	O
-t	O
+has	O
+n’t	O
 been	O
 to	O
 Venezuela	B-Location

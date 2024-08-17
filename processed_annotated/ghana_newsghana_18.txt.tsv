@@ -13,8 +13,7 @@ has	O
 stated	O
 that	O
 Ghana	B-Location
-’	O
-s	O
+’s	O
 public	O
 debt	O
 is	O
@@ -41,9 +40,8 @@ of	O
 Mr	O
 Speaker	O
 I	O
-won	O
-’	O
-t	O
+wo	O
+n’t	O
 be	O
 surprised	O
 that	O
@@ -184,10 +182,8 @@ Financial	I-Misc
 Management	I-Misc
 Regulations	I-Misc
 (	I-Misc
-L	I-Misc
-.	I-Misc
-I	I-Misc
-.	I-Misc
+L.	I-Misc
+I.	I-Misc
 2378	I-Misc
 )	I-Misc
 .	O

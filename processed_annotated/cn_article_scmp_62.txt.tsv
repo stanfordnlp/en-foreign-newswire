@@ -40,8 +40,7 @@ recalibrates	O
 the	O
 African	B-NORP
 country	O
-’	O
-s	O
+’s	O
 relationship	O
 with	O
 China	B-Location
@@ -74,8 +73,7 @@ to	O
 fund	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 reconstruction	O
 .	O
 That	O
@@ -84,8 +82,7 @@ with	O
 the	O
 Chinese	B-NORP
 government	O
-’	O
-s	O
+’s	O
 going	O
 -	O
 out	O
@@ -261,14 +258,12 @@ power	O
 In	O
 the	O
 early	O
-2000	B-Date
-s	O
+2000s	B-Date
 ,	O
 Angola	B-Location
 became	O
 Africa	B-Location
-’	O
-s	O
+’s	O
 biggest	O
 destination	O
 for	O
@@ -290,8 +285,7 @@ a	O
 quarter	O
 of	O
 China	B-Location
-’	O
-s	O
+’s	O
 total	O
 lending	O
 to	O
@@ -398,8 +392,7 @@ to	O
 reverse	O
 the	O
 nation	O
-’	O
-s	O
+’s	O
 dwindling	O
 fortunes	O
 ,	O
@@ -431,8 +424,7 @@ death	O
 ”	O
 for	O
 Angola	B-Location
-’	O
-s	O
+’s	O
 long	O
 -	O
 term	O
@@ -537,8 +529,7 @@ campaign	O
 targeting	O
 his	O
 predecessor	O
-’	O
-s	O
+’s	O
 family	O
 and	O
 close	O
@@ -561,8 +552,7 @@ the	O
 ex	O
 -	O
 president	O
-’	O
-s	O
+’s	O
 eldest	O
 daughter	O
 ,	O
@@ -590,8 +580,7 @@ say	O
 the	O
 new	O
 government	O
-’	O
-s	O
+’s	O
 change	O
 in	O
 attitude	O
@@ -606,8 +595,7 @@ decline	O
 in	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 Chinese	B-NORP
 population	O
 ,	O
@@ -822,8 +810,7 @@ said	O
 Analysts	O
 say	O
 Angola	B-Location
-’	O
-s	O
+’s	O
 relationship	O
 with	O
 China	B-Location

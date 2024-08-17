@@ -77,8 +77,7 @@ continuation	O
 of	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 achievements	O
 in	O
 the	O
@@ -348,10 +347,8 @@ drones	O
 had	O
 rendered	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 operating	O
 without	O
 the	O
@@ -372,8 +369,7 @@ War	I-Misc
 Enemies	O
 say	O
 Iran	B-Location
-’	O
-s	O
+’s	O
 aerospace	O
 ,	O
 drone	O

@@ -87,10 +87,8 @@ living	O
 in	O
 Sydney	B-Location
 ,	I-Location
-N	I-Location
-.	I-Location
-S	I-Location
-.	I-Location
+N.	I-Location
+S.	I-Location
 ,	O
 Paul	B-Person
 is	O

@@ -89,8 +89,7 @@ latest	O
 crisis	O
 for	O
 Israel	B-Location
-’	O
-s	O
+’s	O
 education	O
 system	O
 ,	O
@@ -213,8 +212,7 @@ skills	O
 .	O
 
 That	O
-’	O
-s	O
+’s	O
 an	O
 existential	O
 problem	O
@@ -295,8 +293,7 @@ world	O
 .	O
 Then	O
 there	O
-’	O
-s	O
+’s	O
 the	O
 other	O
 Israel	B-Location
@@ -341,8 +338,7 @@ economy	O
 ”	O
 
 Israel	B-Location
-’	O
-s	O
+’s	O
 education	O
 system	O
 does	O
@@ -438,8 +434,7 @@ first	O
 decade	O
 of	O
 the	O
-2000	O
-s	O
+2000s	O
 ,	O
 but	O
 since	O
@@ -488,9 +483,8 @@ ultra	B-NORP
 -	I-NORP
 Orthodox	I-NORP
 students	O
-aren	O
-’	O
-t	O
+are	O
+n’t	O
 tested	O
 at	O
 all	O
@@ -512,9 +506,8 @@ lower	O
 since	O
 Haredi	B-NORP
 schools	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 for	O
 the	O
 most	O
@@ -661,8 +654,7 @@ OECD	B-Organization
 average	O
 ,	O
 Israel	B-Location
-’	O
-s	O
+’s	O
 student	O
 -	O
 teacher	O
@@ -772,9 +764,8 @@ Israeli	B-NORP
 schools	O
 contend	O
 with	O
-isn	O
-’	O
-t	O
+is	O
+n’t	O
 a	O
 lack	O
 of	O
@@ -844,9 +835,8 @@ older	O
 But	O
 increased	O
 pay	O
-isn	O
-’	O
-t	O
+is	O
+n’t	O
 connected	O
 with	O
 job	O
@@ -865,8 +855,7 @@ advanced	O
 training	O
 .	O
 There	O
-’	O
-s	O
+’s	O
 no	O
 such	O
 thing	O
@@ -1029,8 +1018,7 @@ many	O
 discover	O
 that	O
 they	O
-’	O
-re	O
+’re	O
 not	O
 suited	O
 for	O
@@ -1068,8 +1056,7 @@ leave	O
 –	O
 and	O
 that	O
-’	O
-s	O
+’s	O
 because	O
 of	O
 low	O
@@ -1157,9 +1144,8 @@ cases	O
 ,	O
 the	O
 schools	O
-aren	O
-’	O
-t	O
+are	O
+n’t	O
 even	O
 aspiring	O
 to	O
@@ -1214,9 +1200,8 @@ worse	O
 
 Those	O
 shortages	O
-can	O
-’	O
-t	O
+ca	O
+n’t	O
 be	O
 easily	O
 solved	O
@@ -1255,8 +1240,7 @@ teachers	O
 ,	O
 because	O
 there	O
-’	O
-s	O
+’s	O
 so	O
 much	O
 demand	O
@@ -1455,9 +1439,8 @@ educational	O
 system	O
 ,	O
 it	O
-hasn	O
-’	O
-t	O
+has	O
+n’t	O
 happened	O
 .	O
 We	O
@@ -1495,9 +1478,8 @@ Today	O
 the	O
 teaching	O
 profession	O
-doesn	O
-’	O
-t	O
+does	O
+n’t	O
 attract	O
 the	O
 best	O
@@ -1553,8 +1535,7 @@ by	O
 Ben	B-Person
 -	I-Person
 David	I-Person
-’	O
-s	O
+’s	O
 Shoresh	B-Organization
 Institution	I-Organization
 for	I-Organization
@@ -1661,9 +1642,8 @@ people	O
 but	O
 the	O
 average	O
-isn	O
-’	O
-t	O
+is	O
+n’t	O
 good	O
 enough	O
 .	O
@@ -1694,8 +1674,7 @@ In	O
 part	O
 ,	O
 that	O
-’	O
-s	O
+’s	O
 because	O
 it	O
 is	O
@@ -1707,8 +1686,7 @@ and	O
 community	O
 that	O
 it	O
-’	O
-s	O
+’s	O
 hard	O
 to	O
 address	O
@@ -1799,8 +1777,7 @@ fact	O
 ,	O
 the	O
 OECD	B-Organization
-’	O
-s	O
+’s	O
 assessment	O
 of	O
 Israeli	B-NORP

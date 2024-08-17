@@ -73,8 +73,7 @@ went	O
 to	O
 the	O
 man	O
-’	O
-s	O
+’s	O
 home	O
 around	O
 12	O
@@ -215,10 +214,8 @@ of	O
 the	O
 Dr	O
 .	O
-A	B-Facility	B-Person
-.	I-Facility	I-Person
-G	I-Facility	I-Person
-.	I-Facility	I-Person
+A.	B-Facility	B-Person
+G.	I-Facility	I-Person
 Jeetoo	I-Facility	I-Person
 Hospital	I-Facility
 in	O

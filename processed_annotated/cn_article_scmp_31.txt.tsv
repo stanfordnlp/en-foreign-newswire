@@ -5,8 +5,7 @@ pgtype	O
 homepage	O
 
 China	B-Location
-’	O
-s	O
+’s	O
 banking	O
 watchdog	O
 has	O
@@ -194,8 +193,7 @@ files	O
 posted	O
 to	O
 Microsoft	B-Organization
-’	O
-s	O
+’s	O
 collaborative	O
 code	O
 -	O
@@ -352,8 +350,7 @@ to	O
 assuage	O
 the	O
 public	O
-’	O
-s	O
+’s	O
 concerns	O
 about	O
 the	O
@@ -403,8 +400,7 @@ clean	O
 up	O
 the	O
 province	O
-’	O
-s	O
+’s	O
 property	O
 mess	O
 ,	O
@@ -418,8 +414,7 @@ the	O
 asset	O
 management	O
 firm	O
-’	O
-s	O
+’s	O
 website	O
 .	O
 
@@ -457,8 +452,7 @@ added	O
 .	O
 
 China	B-Location
-’	O
-s	O
+’s	O
 property	O
 sector	O
 went	O
@@ -594,8 +588,7 @@ of	O
 being	O
 the	O
 world	O
-’	O
-s	O
+’s	O
 most	O
 indebted	O
 developer	O
@@ -654,8 +647,7 @@ per	O
 cent	O
 of	O
 China	B-Location
-’	O
-s	O
+’s	O
 distressed	O
 developers	O
 ,	O

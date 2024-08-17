@@ -72,8 +72,7 @@ a	O
 member	O
 of	O
 Parliament	B-Organization
-’	O
-s	O
+’s	O
 National	B-Organization
 Security	I-Organization
 and	I-Organization
@@ -83,8 +82,7 @@ Committee	I-Organization
 ,	O
 told	O
 Iran	B-Location
-’	O
-s	O
+’s	O
 state	O
 news	O
 agency	O
@@ -436,8 +434,7 @@ said	O
 .	O
 
 Iran	B-Location
-’	O
-s	O
+’s	O
 drone	O
 capabilities	O
 are	O
@@ -489,8 +486,7 @@ when	O
 the	O
 Iranian	B-Organization	B-NORP
 Army	I-Organization
-’	O
-s	O
+’s	O
 navy	O
 inaugurated	O
 its	O

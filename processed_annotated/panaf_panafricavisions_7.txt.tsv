@@ -153,8 +153,7 @@ partners	O
 BP	B-Organization
 ,	O
 Senegal	B-Location
-’	O
-s	O
+’s	O
 state	O
 -	O
 owned	O
@@ -165,8 +164,7 @@ Petrosen	B-Organization
 ;	O
 and	O
 Mauritania	B-Location
-’	O
-s	O
+’s	O
 Societe	B-Organization
 Mauritanienne	I-Organization
 des	I-Organization
@@ -267,8 +265,7 @@ contracted	O
 
 And	O
 that	O
-’	O
-s	O
+’s	O
 more	O
 than	O
 we	O
@@ -276,8 +273,7 @@ can	O
 say	O
 for	O
 BP	B-Organization
-’	O
-s	O
+’s	O
 BirAllah	B-Misc
 project	O
 in	O
@@ -331,9 +327,8 @@ uncontracted	O
 .	O
 
 I	O
-can	O
-’	O
-t	O
+ca	O
+n’t	O
 understate	O
 the	O
 importance	O
@@ -366,8 +361,7 @@ for	O
 example	O
 ,	O
 they	O
-’	O
-re	O
+’re	O
 much	O
 more	O
 likely	O
@@ -378,8 +372,7 @@ the	O
 investor	O
 support	O
 they	O
-’	O
-ll	O
+’ll	O
 need	O
 to	O
 produce	O
@@ -388,8 +381,7 @@ natural	O
 gas	O
 that	O
 they	O
-’	O
-ll	O
+’ll	O
 eventually	O
 be	O
 liquifying	O
@@ -461,8 +453,7 @@ the	O
 end	O
 of	O
 the	O
-2020	B-Date
-s	O
+2020s	B-Date
 .	O
 That	O
 momentum	O
@@ -496,8 +487,7 @@ rise	O
 well	O
 into	O
 the	O
-2040	B-Date
-s	O
+2040s	B-Date
 .	O
 
 This	O
@@ -688,8 +678,7 @@ Right	O
 While	O
 Kosmos	B-Organization
 Energy	I-Organization
-’	O
-s	O
+’s	O
 long	O
 -	O
 term	O
@@ -731,8 +720,7 @@ on	O
 hold	O
 ,	O
 there	O
-’	O
-s	O
+’s	O
 every	O
 reason	O
 to	O

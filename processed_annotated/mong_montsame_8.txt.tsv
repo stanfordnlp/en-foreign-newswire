@@ -10,8 +10,7 @@ Prime	O
 Minister	O
 of	O
 Mongolia	B-Location
-S	B-Person
-.	I-Person
+S.	B-Person
 Amarsaikhan	I-Person
 received	O
 Ambassador	O
@@ -21,8 +20,7 @@ Plenipotentiary	O
 of	O
 the	O
 People	B-Organization
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Republic	I-Organization
 of	I-Organization
 China	I-Organization

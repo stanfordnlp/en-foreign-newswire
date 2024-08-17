@@ -1,11 +1,9 @@
 https://allafrica.com/stories/202207260395.html	O
 
 When	O
-Mr	O
-.	O
+Mr.	O
 Benoni	B-Person
-W	I-Person
-.	I-Person
+W.	I-Person
 Urey	I-Person
 took	O
 the	O
@@ -83,18 +81,15 @@ of	O
 the	O
 rainbow	O
 with	O
-Mrs	O
-.	O
+Mrs.	O
 Mai	B-Person
 Urey	I-Person
 ,	O
 wife	O
 of	O
-Mr	O
-.	O
+Mr.	O
 Benoni	B-Person
-W	I-Person
-.	I-Person
+W.	I-Person
 Urey	I-Person
 saying	O
 she	O
@@ -107,8 +102,7 @@ her	O
 husband	O
 .	O
 
-Mr	O
-.	O
+Mr.	O
 Urey	B-Person
 is	O
 the	O
@@ -124,8 +118,7 @@ ALP	B-Organization
 )	O
 .	O
 
-Mrs	O
-.	O
+Mrs.	O
 Urey	B-Person
 ,	O
 the	O
@@ -172,8 +165,7 @@ be	O
 former	O
 wife	O
 of	O
-Mr	O
-.	O
+Mr.	O
 Urey	B-Person
 is	O
 called	O
@@ -218,8 +210,7 @@ of	O
 their	O
 marriage	O
 ,	O
-Mr	O
-.	O
+Mr.	O
 Urey	B-Person
 was	O
 handsome	O
@@ -290,8 +281,7 @@ has	O
 to	O
 do	O
 with	O
-Mr	O
-.	O
+Mr.	O
 Urey	B-Person
 's	O
 temper	O
@@ -300,15 +290,13 @@ Also	O
 of	O
 late	O
 ,	O
-Mr	O
-.	O
+Mr.	O
 Urey	B-Person
 's	O
 decision	O
 to	O
 take	O
-Mr	O
-.	O
+Mr.	O
 Alexander	B-Person
 Cummings	I-Person
 ,	O
@@ -333,15 +321,13 @@ too	O
 Another	O
 source	O
 said	O
-Mr	O
-.	O
+Mr.	O
 Urey	B-Person
 was	O
 unhappy	O
 to	O
 see	O
-Mr	O
-.	O
+Mr.	O
 Cummings	B-Person
 visit	O
 his	O
@@ -382,8 +368,7 @@ Church	I-Organization
 ,	O
 of	O
 which	O
-Mrs	O
-.	O
+Mrs.	O
 Urey	B-Person
 is	O
 a	O
@@ -417,8 +402,7 @@ Catholic	I-Organization	B-NORP
 Church	I-Organization
 ,	O
 where	O
-Mrs	O
-.	O
+Mrs.	O
 Urey	B-Person
 is	O
 a	O
@@ -432,8 +416,7 @@ When	O
 this	O
 paper	O
 contacted	O
-Mr	O
-.	O
+Mr.	O
 Urey	B-Person
 for	O
 comment	O

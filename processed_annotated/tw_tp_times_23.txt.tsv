@@ -218,9 +218,7 @@ What	O
 you	O
 did	O
 violated	O
-.	O
-.	O
-.	O
+...	O
 ”	O
 
 The	O
@@ -234,8 +232,7 @@ Okay	O
 ,	O
 well	O
 you	O
-’	O
-ve	O
+’ve	O
 just	O
 called	O
 me	O
@@ -384,8 +381,7 @@ The	O
 Taoyuan	B-Organization	B-Location
 Police	I-Organization
 Department	I-Organization
-’	O
-s	O
+’s	O
 Jhongli	B-Location
 Precinct	I-Location
 vowed	O

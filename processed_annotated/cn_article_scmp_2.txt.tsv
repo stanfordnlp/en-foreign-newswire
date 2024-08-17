@@ -189,8 +189,7 @@ of	O
 ,	O
 Hong	B-Location
 Kong	I-Location
-’	O
-s	O
+’s	O
 overall	O
 consumer	B-Misc
 price	I-Misc
@@ -328,8 +327,7 @@ year	O
 
 Hong	B-Location
 Kong	I-Location
-’	O
-s	O
+’s	O
 overall	O
 CPI	B-Misc
 in	O
@@ -648,8 +646,7 @@ of	O
 ,	O
 Hong	B-Location
 Kong	I-Location
-’	O
-s	O
+’s	O
 overall	O
 consumer	B-Misc
 price	I-Misc
@@ -787,8 +784,7 @@ year	O
 
 Hong	B-Location
 Kong	I-Location
-’	O
-s	O
+’s	O
 overall	O
 CPI	B-Misc
 in	O
@@ -933,8 +929,7 @@ affected	O
 by	O
 mainland	O
 China	B-Location
-’	O
-s	O
+’s	O
 lockdown	O
 -	O
 weakened	O
@@ -982,8 +977,7 @@ costs	O
 ,	O
 putting	O
 June	B-Date
-’	O
-s	O
+’s	O
 inflation	O
 in	O
 a	O
@@ -1115,8 +1109,7 @@ cent	O
 “	O
 The	O
 city	O
-’	O
-s	O
+’s	O
 inflation	O
 will	O
 be	O
@@ -1125,9 +1118,8 @@ and	O
 slow	O
 .	O
 I	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 worry	O
 at	O
 all	O
@@ -1147,9 +1139,8 @@ of	O
 visitors	O
 so	O
 prices	O
-won	O
-’	O
-t	O
+wo	O
+n’t	O
 suddenly	O
 jump	O
 up	O
@@ -1199,18 +1190,16 @@ can	O
 be	O
 homeowners	O
 who	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 need	O
 to	O
 pay	O
 rent	O
 ,	O
 they	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 mind	O
 the	O
 rising	O
@@ -1230,8 +1219,7 @@ large	O
 portion	O
 of	O
 people	O
-’	O
-s	O
+’s	O
 income	O
 ,	O
 ”	O
@@ -1265,8 +1253,7 @@ could	O
 stimulate	O
 the	O
 city	O
-’	O
-s	O
+’s	O
 property	O
 market	O
 .	O
@@ -1468,8 +1455,7 @@ lower	O
 prices	O
 .	O
 That	O
-’	O
-s	O
+’s	O
 when	O
 they	O
 can	O
@@ -1570,8 +1556,7 @@ said	O
 “	O
 But	O
 it	O
-’	O
-s	O
+’s	O
 tough	O
 to	O
 find	O
@@ -1632,8 +1617,7 @@ and	O
 stuff	O
 .	O
 It	O
-’	O
-s	O
+’s	O
 tough	O
 to	O
 live	O
@@ -1648,8 +1632,7 @@ Sin	B-Person
 ,	O
 in	O
 her	O
-70	O
-s	O
+70s	O
 ,	O
 appreciated	O
 the	O
@@ -1675,8 +1658,7 @@ and	O
 I	O
 think	O
 it	O
-’	O
-s	O
+’s	O
 a	O
 good	O
 policy	O

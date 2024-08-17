@@ -29,8 +29,7 @@ officials	O
 
 Sun	B-Person
 Ruiwen	I-Person
-’	O
-s	O
+’s	O
 second	O
 trip	O
 to	O
@@ -44,8 +43,7 @@ came	O
 as	O
 China	B-Organization	B-Location
 Moly	I-Organization
-’	O
-s	O
+’s	O
 copper	O
 and	O
 cobalt	O
@@ -110,8 +108,7 @@ support	O
 as	O
 the	O
 company	O
-’	O
-s	O
+’s	O
 mining	O
 contracts	O
 face	O
@@ -155,8 +152,7 @@ Moly	I-Organization
 –	O
 the	O
 world	O
-’	O
-s	O
+’s	O
 No	O
 2	O
 cobalt	O
@@ -165,8 +161,7 @@ producer	O
 said	O
 following	O
 Tuesday	B-Date
-’	O
-s	O
+’s	O
 talks	O
 .	O
 
@@ -242,8 +237,7 @@ Gecamines	B-Organization
 Although	O
 China	B-Organization	B-Location
 Moly	I-Organization
-’	O
-s	O
+’s	O
 readout	O
 of	O
 the	O
@@ -329,8 +323,7 @@ value	O
 of	O
 the	O
 government	O
-’	O
-s	O
+’s	O
 shareholding	O
 through	O
 Gecamines	B-Organization
@@ -582,8 +575,7 @@ Apart	O
 from	O
 China	B-Organization	B-Location
 Moly	I-Organization
-’	O
-s	O
+’s	O
 contracts	O
 ,	O
 Kinshasa	B-Location
@@ -718,8 +710,7 @@ with	O
 both	O
 the	O
 court	O
-’	O
-s	O
+’s	O
 decision	O
 to	O
 appoint	O
@@ -748,8 +739,7 @@ commission	O
 piloted	O
 by	O
 Tshisekedi	B-Person
-’	O
-s	O
+’s	O
 chief	O
 of	O
 staff	O
@@ -839,8 +829,7 @@ China	B-Organization	B-Location
 Moly	I-Organization
 because	O
 it	O
-’	O
-s	O
+’s	O
 one	O
 of	O
 the	O
@@ -925,8 +914,7 @@ investigation	O
 ,	O
 but	O
 it	O
-’	O
-s	O
+’s	O
 hard	O
 to	O
 say	O
@@ -1032,8 +1020,7 @@ TFM	B-Facility
 is	O
 the	O
 world	O
-’	O
-s	O
+’s	O
 second	O
 -	O
 largest	O
@@ -1045,8 +1032,7 @@ Anglo	B-Organization	B-NORP
 -	I-Organization
 Swiss	I-Organization	B-NORP
 Glencore	I-Organization
-’	O
-s	O
+’s	O
 Mutanda	B-Facility
 mine	I-Facility
 –	O
@@ -1127,8 +1113,7 @@ said	O
 From	O
 the	O
 DRC	B-Location
-’	O
-s	O
+’s	O
 perspective	O
 ,	O
 Tenke	B-Facility

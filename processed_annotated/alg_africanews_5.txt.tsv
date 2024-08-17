@@ -84,9 +84,8 @@ it	O
 the	O
 decision	O
 )	O
-didn	O
-’	O
-t	O
+did	O
+n’t	O
 surprise	O
 me	O
 .	O
@@ -122,8 +121,7 @@ in	O
 support	O
 of	O
 Morocco	B-Location
-’	O
-s	O
+’s	O
 attempts	O
 to	O
 keep	O
@@ -137,8 +135,7 @@ Algeria	B-Location
 supports	O
 the	O
 territory	O
-’	O
-s	O
+’s	O
 independence	O
 movement	O
 .	O
@@ -310,8 +307,7 @@ soon	O
 .	O
 
 Spain	B-Location
-’	O
-s	O
+’s	O
 chief	O
 worry	O
 has	O
@@ -337,9 +333,8 @@ governments	O
 have	O
 said	O
 this	O
-won	O
-’	O
-t	O
+wo	O
+n’t	O
 happen	O
 .	O
 Algeria	B-Location
@@ -348,8 +343,7 @@ supplies	O
 %	O
 of	O
 Spain	B-Location
-’	O
-s	O
+’s	O
 gas	O
 needs	O
 .	O
@@ -376,8 +370,7 @@ imports	O
 to	O
 protest	O
 Russia	B-Location
-’	O
-s	O
+’s	O
 war	O
 in	O
 Ukraine	B-Location

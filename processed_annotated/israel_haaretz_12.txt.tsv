@@ -115,11 +115,9 @@ came	O
 to	O
 Y	B-Person
 .	O
-’	O
-s	O
+’s	O
 father	O
-’	O
-s	O
+’s	O
 shivah	O
 .	O
 Something	O
@@ -214,8 +212,7 @@ law	O
 One	O
 of	O
 Israel	B-Location
-’	O
-s	O
+’s	O
 foundational	O
 laws	O
 is	O
@@ -399,8 +396,7 @@ is	O
 basically	O
 why	O
 it	O
-’	O
-s	O
+’s	O
 so	O
 easy	O
 for	O
@@ -605,8 +601,7 @@ Leifer	B-Person
 and	O
 Y	B-Person
 .	O
-’	O
-s	O
+’s	O
 alleged	O
 abuser	O
 are	O
@@ -963,10 +958,8 @@ says	O
 “	O
 And	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 Registry	O
 is	O
 powerless	O
@@ -978,8 +971,7 @@ Israel	B-Location
 ,	O
 because	O
 it	O
-’	O
-s	O
+’s	O
 beyond	O
 its	O
 jurisdiction	O
@@ -1049,8 +1041,7 @@ Haaretz	B-Organization
 .	O
 “	O
 It	O
-’	O
-s	O
+’s	O
 a	O
 hole	O
 in	O
@@ -1059,8 +1050,7 @@ system	O
 —	O
 and	O
 it	O
-’	O
-s	O
+’s	O
 truly	O
 problematic	O
 .	O
@@ -1100,10 +1090,8 @@ Interpol	B-Organization
 he	O
 has	O
 both	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 and	O
 Israeli	B-NORP
 nationality	O
@@ -1131,8 +1119,7 @@ February	B-Date
 report	O
 by	O
 Israel	B-Location
-’	O
-s	O
+’s	O
 Channel	B-Organization
 Ten	I-Organization
 News	I-Organization
@@ -1222,8 +1209,7 @@ In	O
 February	B-Date
 ,	O
 Australia	B-Location
-’	O
-s	O
+’s	O
 Seven	B-Organization
 News	I-Organization
 aired	O
@@ -1261,8 +1247,7 @@ daughter	O
 .	O
 And	O
 Israel	B-Location
-’	O
-s	O
+’s	O
 Channel	B-Organization
 11	I-Organization
 reported	O
@@ -1311,8 +1296,7 @@ new	O
 allegations	O
 ,	O
 Leifer	B-Person
-’	O
-s	O
+’s	O
 lawyer	O
 ,	O
 Yehuda	B-Person
@@ -1347,8 +1331,7 @@ ago	O
 ”	O
 
 Leifer	B-Person
-’	O
-s	O
+’s	O
 story	O
 became	O
 headline	O
@@ -1364,8 +1347,7 @@ in	O
 February	B-Date
 that	O
 Israel	B-Location
-’	O
-s	O
+’s	O
 deputy	O
 health	O
 minister	O
@@ -1511,8 +1493,7 @@ year	O
 ,	O
 determined	O
 that	O
-Mrs	O
-.	O
+Mrs.	O
 Leifer	B-Person
 was	O
 mentally	O
@@ -1524,6 +1505,7 @@ a	O
 psychotic	O
 state	O
 .	O
+
 And	O
 someone	O
 in	O
@@ -1604,8 +1586,7 @@ statement	O
 .	O
 
 Leifer	B-Person
-’	O
-s	O
+’s	O
 prime	O
 accusers	O
 in	O
@@ -1878,8 +1859,7 @@ explains	O
 .	O
 “	O
 It	O
-’	O
-s	O
+’s	O
 not	O
 something	O
 that	O
@@ -2101,8 +2081,7 @@ institution	O
 
 Yeshiva	B-Organization
 University	I-Organization
-’	O
-s	O
+’s	O
 Rabbi	O
 Yosef	B-Person
 Blau	I-Person
@@ -2249,9 +2228,8 @@ they	O
 have	O
 repented	O
 and	O
-won	O
-’	O
-t	O
+wo	O
+n’t	O
 abuse	O
 again	O
 .	O
@@ -2286,8 +2264,7 @@ case	O
 ,	O
 and	O
 it	O
-’	O
-s	O
+’s	O
 putting	O
 a	O
 focus	O
@@ -2409,8 +2386,7 @@ go	O
 citing	O
 the	O
 community	O
-’	O
-s	O
+’s	O
 insularity	O
 and	O
 ignorance	O

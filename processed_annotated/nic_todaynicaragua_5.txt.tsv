@@ -150,8 +150,7 @@ Ortega	B-Person
 -	I-Person
 Murillo	I-Person
 regime	O
-’	O
-s	O
+’s	O
 efforts	O
 to	O
 undermine	O
@@ -266,8 +265,7 @@ organizations	O
 President	O
 Joe	B-Person
 Biden	I-Person
-’	O
-s	O
+’s	O
 top	O
 adviser	O
 for	O

@@ -75,8 +75,7 @@ argue	O
 that	O
 if	O
 Argentina	B-Location
-’	O
-s	O
+’s	O
 ultra	O
 -	O
 presidential	O
@@ -170,8 +169,7 @@ little	O
 to	O
 envy	O
 Argentina	B-Location
-’	O
-s	O
+’s	O
 tragicomic	O
 politics	O
 .	O
@@ -184,8 +182,7 @@ managed	O
 to	O
 match	O
 Argentina	B-Location
-’	O
-s	O
+’s	O
 uncanny	O
 knack	O
 for	O
@@ -229,8 +226,7 @@ more	O
 seriously	O
 ,	O
 Johnson	B-Person
-’	O
-s	O
+’s	O
 reckless	O
 “	O
 tax	O
@@ -374,8 +370,7 @@ course	O
 ,	O
 the	O
 latter	O
-’	O
-s	O
+’s	O
 ability	O
 precisely	O
 to	O
@@ -516,8 +511,7 @@ Guzmán	I-Person
 .	O
 The	O
 latter	O
-’	O
-s	O
+’s	O
 successor	O
 Silvina	B-Person
 Batakis	I-Person
@@ -729,8 +723,7 @@ evidence	O
 for	O
 The	B-Organization
 Economist	I-Organization
-’	O
-s	O
+’s	O
 conclusion	O
 that	O
 this	O
@@ -800,8 +793,7 @@ on	O
 the	O
 United	B-Location
 Kingdom	I-Location
-’	O
-s	O
+’s	O
 contributions	O
 to	O
 the	O

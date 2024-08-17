@@ -144,8 +144,7 @@ nepotism	O
 of	O
 the	O
 coalition	O
-’	O
-s	O
+’s	O
 appointed	O
 Iraqi	B-Organization	B-NORP
 Governing	I-Organization
@@ -268,8 +267,7 @@ that	O
 the	O
 new	O
 government	O
-’	O
-s	O
+’s	O
 composition	O
 was	O
 not	O
@@ -306,8 +304,7 @@ final	O
 selector	O
 of	O
 Iraq	B-Location
-’	O
-s	O
+’s	O
 new	O
 leaders	O
 ,	O
@@ -694,10 +691,8 @@ they	O
 cooperate	O
 with	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 military	O
 ,	O
 but	O
@@ -751,9 +746,8 @@ methods	O
 that	O
 the	O
 Americans	B-NORP
-can	O
-’	O
-t	O
+ca	O
+n’t	O
 use	O
 .	O
 However	O
@@ -874,8 +868,7 @@ Abu	B-Person
 Mousab	I-Person
 Al	I-Person
 Zarqawi	I-Person
-’	O
-s	O
+’s	O
 Tawhid	B-Organization
 Wa	I-Organization
 Jihad	I-Organization
@@ -926,8 +919,7 @@ cripple	O
 the	O
 interim	O
 government	O
-’	O
-s	O
+’s	O
 ability	O
 to	O
 project	O
@@ -1137,10 +1129,8 @@ Faluja	B-Organization	B-Location
 Protection	I-Organization
 Brigade	I-Organization
 in	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 -	O
 issued	O
 fatigues	O
@@ -1162,10 +1152,8 @@ patrols	O
 .	O
 
 The	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 military	O
 was	O
 unwilling	O
@@ -1221,8 +1209,7 @@ that	O
 formed	O
 the	O
 coalition	O
-’	O
-s	O
+’s	O
 main	O
 supply	O
 routes	O
@@ -1269,8 +1256,7 @@ have	O
 to	O
 convince	O
 Faluja	B-Location
-’	O
-s	O
+’s	O
 new	O
 rulers	O
 —	O
@@ -1341,8 +1327,7 @@ condemned	O
 many	O
 of	O
 Zarqawi	B-Person
-’	O
-s	O
+’s	O
 tactics	O
 but	O
 which	O
@@ -1387,8 +1372,7 @@ central	O
 authority	O
 since	O
 Saddam	B-Person
-’	O
-s	O
+’s	O
 time	O
 and	O
 where	O
@@ -1461,8 +1445,7 @@ son	O
 of	O
 the	O
 neighborhood	O
-’	O
-s	O
+’s	O
 martyred	O
 namesake	O
 ,	O
@@ -1587,8 +1570,7 @@ the	O
 venerable	O
 Al	B-Person
 Sistani	I-Person
-’	O
-s	O
+’s	O
 .	O
 
 A	O
@@ -1677,8 +1659,7 @@ quo	O
 guaranteed	O
 by	O
 Iraq	B-Location
-’	O
-s	O
+’s	O
 interim	O
 constitution	O
 .	O
@@ -1701,8 +1682,7 @@ the	O
 Kurdish	B-Organization	B-NORP
 Democratic	I-Organization	B-NORP
 Parties	I-Organization
-’	O
-s	O
+’s	O
 (	O
 KDP	B-Organization
 )	O
@@ -1711,8 +1691,7 @@ Patriotic	B-Organization	B-NORP
 Union	I-Organization
 of	I-Organization
 Kurdistan	I-Organization
-’	O
-s	O
+’s	O
 (	O
 PUK	B-Organization
 )	O
@@ -2259,8 +2238,7 @@ the	O
 weakness	O
 of	O
 Iraq	B-Location
-’	O
-s	O
+’s	O
 government	O
 and	O
 its	O
@@ -2296,8 +2274,7 @@ elections	O
 the	O
 new	O
 government	O
-’	O
-s	O
+’s	O
 legitimacy	O
 will	O
 dwindle	O
@@ -2351,8 +2328,7 @@ will	O
 resolve	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 security	O
 woes	O
 .	O

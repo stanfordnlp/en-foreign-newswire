@@ -57,8 +57,7 @@ experiences	O
 during	O
 the	O
 subcontinent	O
-’	O
-s	O
+’s	O
 tumultuous	O
 partition	O
 into	O
@@ -330,8 +329,7 @@ funny	O
 ”	O
 
 Shree	B-Person
-’	O
-s	O
+’s	O
 book	O
 beat	O
 five	O
@@ -505,8 +503,7 @@ for	O
 translating	O
 Han	B-Person
 Kang	I-Person
-’	O
-s	O
+’s	O
 The	B-Misc
 Vegetarian	I-Misc
 –	O
@@ -560,9 +557,8 @@ be	O
 gobsmacked	O
 if	O
 it	O
-didn	O
-’	O
-t	O
+did	O
+n’t	O
 increase	O
 its	O
 sales	O

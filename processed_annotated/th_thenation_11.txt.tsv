@@ -44,6 +44,7 @@ on	O
 Zipmex	B-Organization
 platform	O
 .	O
+
 Here	O
 is	O
 his	O
@@ -54,6 +55,7 @@ clarification	O
 Sawasdee	O
 Krab	O
 .	O
+
 Due	O
 to	O
 the	O
@@ -111,6 +113,7 @@ faced	O
 liquidity	O
 problems	O
 .	O
+
 Recently	O
 ,	O
 it	O
@@ -124,6 +127,7 @@ ZipUp	B-Product
 +	I-Product
 only	O
 .	O
+
 Liquidity	O
 problems	O
 ,	O
@@ -132,9 +136,7 @@ would	O
 like	O
 to	O
 disclose	O
-.	O
-.	O
-.	O
+...	O
 I	O
 want	O
 to	O
@@ -151,6 +153,7 @@ Finance	I-Organization
 and	O
 Celsius	B-Organization
 .	O
+
 The	O
 amount	O
 of	O
@@ -184,6 +187,7 @@ USDC	B-Money
 have	O
 problems	O
 .	O
+
 But	O
 the	O
 digital	O
@@ -201,12 +205,14 @@ not	O
 a	O
 problem	O
 .	O
+
 Customers	O
 can	O
 still	O
 trade	O
 normally	O
 .	O
+
 They	O
 can	O
 withdraw	O
@@ -216,11 +222,13 @@ the	O
 Trade	B-Product
 Wallet	I-Product
 .	O
+
 Everything	O
 is	O
 the	O
 same	O
 .	O
+
 But	O
 the	O
 products	O
@@ -262,6 +270,7 @@ the	O
 platform	O
 normally	O
 .	O
+
 However	O
 ,	O
 the	O
@@ -312,6 +321,7 @@ to	O
 do	O
 so	O
 .	O
+
 This	O
 is	O
 what	O
@@ -320,6 +330,7 @@ is	O
 working	O
 on	O
 .	O
+
 Please	O
 allow	O
 me	O
@@ -339,6 +350,7 @@ trade	O
 digital	O
 assets	O
 .	O
+
 And	O
 the	O
 baht	B-Money
@@ -349,6 +361,7 @@ is	O
 still	O
 safe	O
 .	O
+
 They	O
 can	O
 still	O
@@ -358,6 +371,7 @@ withdraw	O
 as	O
 before	O
 .	O
+
 But	O
 Z	B-Product
 Wallet	I-Product
@@ -367,6 +381,7 @@ baht	B-Money
 in	O
 it	O
 .	O
+
 Therefore	O
 ,	O
 if	O
@@ -385,6 +400,7 @@ withdraw	O
 as	O
 usual	O
 .	O
+
 The	O
 problem	O
 is	O
@@ -438,6 +454,7 @@ digital	O
 assets	O
 back	O
 .	O
+
 Back	O
 to	O
 customers	O
@@ -475,6 +492,7 @@ customers	O
 can	O
 join	O
 .	O
+
 Zipmex	B-Organization
 Thailand	B-Location
 will	O
@@ -485,6 +503,7 @@ legal	O
 fees	O
 here	O
 .	O
+
 To	O
 get	O
 our	O
@@ -538,6 +557,7 @@ to	O
 come	O
 first	O
 .	O
+
 We	O
 must	O
 do	O
@@ -556,6 +576,7 @@ has	O
 been	O
 planned	O
 .	O
+
 We	O
 have	O
 been	O
@@ -581,6 +602,7 @@ discussion	O
 is	O
 ongoing	O
 .	O
+
 I	O
 still	O
 ca	O
@@ -591,6 +613,7 @@ company	O
 it	O
 is	O
 .	O
+
 But	O
 it	O
 's	O
@@ -605,6 +628,7 @@ buying	O
 this	O
 company	O
 .	O
+
 And	O
 the	O
 money	O
@@ -633,6 +657,7 @@ bail	O
 -	O
 out	O
 .	O
+
 It	O
 's	O
 about	O
@@ -648,6 +673,7 @@ customers	O
 in	O
 full	O
 .	O
+
 But	O
 if	O
 we	O
@@ -688,6 +714,7 @@ have	O
 a	O
 problem	O
 .	O
+
 We	O
 are	O
 suspending	O
@@ -699,6 +726,7 @@ and	O
 Trade	B-Product
 Wallet	I-Product
 .	O
+
 All	O
 digital	O
 assets	O
@@ -717,6 +745,7 @@ deposited	O
 and	O
 withdrawn	O
 .	O
+
 It	O
 can	O
 still	O
@@ -740,6 +769,7 @@ back	O
 to	O
 normal	O
 .	O
+
 Clients	O
 who	O
 have	O
@@ -784,6 +814,7 @@ full	O
 legal	O
 action	O
 .	O
+
 We	O
 have	O
 already	O
@@ -799,6 +830,7 @@ Exchange	I-Organization
 Commission	I-Organization
 )	O
 .	O
+
 We	O
 will	O
 always	O
@@ -807,6 +839,7 @@ information	O
 to	O
 SEC	B-Organization
 .	O
+
 At	O
 the	O
 same	O
@@ -817,6 +850,7 @@ will	O
 be	O
 transparent	O
 .	O
+
 We	O
 will	O
 always	O
@@ -836,6 +870,7 @@ announce	O
 news	O
 updates	O
 .	O
+
 If	O
 I	O
 can	O
@@ -854,6 +889,7 @@ fix	O
 the	O
 situation	O
 .	O
+
 Customers	O
 will	O
 be	O
@@ -892,6 +928,7 @@ have	O
 to	O
 apologize	O
 .	O
+
 And	O
 I	O
 sincerely	O
@@ -905,6 +942,7 @@ have	O
 caused	O
 disappointment	O
 .	O
+
 But	O
 I	O
 would	O
@@ -942,6 +980,7 @@ taking	O
 a	O
 lawsuit	O
 .	O
+
 However	O
 ,	O
 digital	O
@@ -955,6 +994,7 @@ come	O
 back	O
 first	O
 .	O
+
 I	O
 would	O
 like	O
@@ -976,6 +1016,7 @@ an	O
 updated	O
 statement	O
 .	O
+
 If	O
 possible	O
 ,	O
@@ -996,6 +1037,7 @@ can	O
 be	O
 tracked	O
 .	O
+
 Thank	O
 you	O
 .	O

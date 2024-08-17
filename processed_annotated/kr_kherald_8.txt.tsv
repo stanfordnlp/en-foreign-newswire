@@ -35,8 +35,7 @@ Shipbuilding	I-Organization
 &	I-Organization
 Marine	I-Organization
 Engineering	I-Organization
-’	O
-s	O
+’s	O
 subcontractors	O
 on	O
 Thursday	B-Date
@@ -44,8 +43,7 @@ Thursday	B-Date
 
 Although	O
 Yoon	B-Person
-’	O
-s	O
+’s	O
 tone	O
 was	O
 more	O
@@ -74,8 +72,7 @@ occupation	O
 of	O
 the	O
 company	O
-’	O
-s	O
+’s	O
 shipyard	O
 in	O
 Okpo	B-Location

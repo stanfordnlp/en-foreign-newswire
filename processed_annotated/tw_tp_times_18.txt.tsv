@@ -17,8 +17,7 @@ report	O
 on	O
 the	O
 military	O
-’	O
-s	O
+’s	O
 killing	O
 of	O
 20	O
@@ -110,8 +109,7 @@ military	O
 
 The	O
 report	O
-’	O
-s	O
+’s	O
 summary	O
 said	O
 that	O
@@ -159,8 +157,7 @@ orders	O
 from	O
 the	O
 army	O
-’	O
-s	O
+’s	O
 Kinmen	B-Organization	B-Location
 Defense	I-Organization
 Command	I-Organization
@@ -210,8 +207,7 @@ from	O
 Xiamen	B-Location
 in	O
 China	B-Location
-’	O
-s	O
+’s	O
 Fujian	B-Location
 Province	I-Location
 .	O
@@ -299,8 +295,7 @@ officers	O
 of	O
 the	O
 army	O
-’	O
-s	O
+’s	O
 158th	O
 Division	O
 ,	O
@@ -641,8 +636,7 @@ islands	O
 Up	O
 to	O
 early	O
-1980	B-Date
-s	O
+1980s	B-Date
 ,	O
 Taiwan	B-Location
 had	O

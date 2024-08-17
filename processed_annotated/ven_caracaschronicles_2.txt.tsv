@@ -56,8 +56,7 @@ up	O
 %	O
 of	O
 Venezuela	B-Location
-’	O
-s	O
+’s	O
 GDP	B-Misc
 last	O
 year	O
@@ -88,8 +87,7 @@ Freitas	I-Person
 ,	O
 Transparencia	B-Organization	B-Organization
 Venezuela	I-Organization	B-Location
-’	O
-s	O
+’s	O
 executive	O
 director	O
 .	O
@@ -367,8 +365,7 @@ aspect	O
 .	O
 ”	O
 It	O
-’	O
-s	O
+’s	O
 money	O
 that	O
 feeds	O
@@ -511,8 +508,7 @@ Oliveros	B-Person
 .	O
 “	O
 It	O
-’	O
-s	O
+’s	O
 an	O
 approximation	O
 to	O
@@ -528,8 +524,7 @@ in	O
 Venezuela	B-Location
 .	O
 It	O
-’	O
-s	O
+’s	O
 not	O
 crazy	O
 to	O
@@ -689,8 +684,7 @@ around	O
 of	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 production	O
 is	O
 diverted	O
@@ -908,8 +902,7 @@ the	I-Organization
 Republic	I-Organization
 (	O
 Colombia	B-Location
-’	O
-s	O
+’s	O
 central	O
 bank	O
 )	O
@@ -918,8 +911,7 @@ adapted	O
 it	O
 to	O
 Venezuela	B-Location
-’	O
-s	O
+’s	O
 transit	O
 country	O
 status	O
@@ -1023,8 +1015,7 @@ other	O
 countries	O
 to	O
 people	O
-’	O
-s	O
+’s	O
 homes	O
 in	O
 Venezuela	B-Location
@@ -1057,9 +1048,8 @@ Transparency	B-Organization
 ,	O
 courier	O
 companies	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 declare	O
 the	O
 value	O
@@ -1185,8 +1175,7 @@ extortion	O
 The	B-Misc
 Mining	I-Misc
 Arc	I-Misc
-’	O
-s	O
+’s	O
 Pax	B-Misc
 Mafiosa	I-Misc
 
@@ -1223,9 +1212,8 @@ accountability	O
 Even	O
 if	O
 gold	O
-won	O
-’	O
-t	O
+wo	O
+n’t	O
 fill	O
 the	O
 state	O
@@ -1258,13 +1246,11 @@ in	O
 according	O
 to	O
 Ecoanalítica	B-Organization
-’	O
-s	O
+’s	O
 estimations	O
 (	O
 Venezuela	B-Location
-’	O
-s	O
+’s	O
 oil	O
 revenue	O
 in	O
@@ -1276,10 +1262,8 @@ billion	I-Money
 according	O
 to	O
 the	O
-U	B-Organization	B-Location
-.	I-Organization	I-Location
-S	I-Organization	I-Location
-.	I-Organization	I-Location
+U.	B-Organization	B-Location
+S.	I-Organization	I-Location
 Energy	I-Organization
 Information	I-Organization
 Administration	I-Organization
@@ -1377,8 +1361,7 @@ Thus	O
 %	O
 of	O
 Venezuela	B-Location
-’	O
-s	O
+’s	O
 gold	O
 production	O
 goes	O
@@ -1560,9 +1543,8 @@ companies	O
 payrolls	O
 .	O
 They	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 comply	O
 with	O
 security	O
@@ -2146,8 +2128,7 @@ Oliveros	B-Person
 ,	O
 “	O
 That	O
-’	O
-s	O
+’s	O
 how	O
 we	O
 got	O
@@ -2289,8 +2270,7 @@ in	O
 .	O
 “	O
 It	O
-’	O
-s	O
+’s	O
 an	O
 asset	O
 depredation	O
@@ -2334,8 +2314,7 @@ higher	O
 share	O
 of	O
 Venezuela	B-NORP
-’	O
-s	O
+’s	O
 GDP	B-Misc
 than	O
 oil	O
@@ -2346,8 +2325,7 @@ economic	O
 activity	O
 ,	O
 it	O
-’	O
-s	O
+’s	O
 clear	O
 that	O
 these	O
@@ -2358,8 +2336,7 @@ not	O
 only	O
 shaping	O
 Venezuela	B-Location
-’	O
-s	O
+’s	O
 present	O
 but	O
 also	O
@@ -2447,9 +2424,8 @@ says	O
 ,	O
 “	O
 I	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 believe	O
 this	O
 will	O
@@ -2457,8 +2433,7 @@ happen	O
 overnight	O
 but	O
 it	O
-’	O
-s	O
+’s	O
 an	O
 important	O
 factor	O

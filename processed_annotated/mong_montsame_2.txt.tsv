@@ -11,8 +11,7 @@ August	B-Date
 ,	O
 Prime	O
 Minister	O
-L	B-Person
-.	I-Person
+L.	B-Person
 Oyun	I-Person
 -	I-Person
 Erdene	I-Person
@@ -20,8 +19,7 @@ received	O
 World	B-Organization
 Health	I-Organization
 Organization	I-Organization
-’	O
-s	O
+’s	O
 Representative	O
 to	O
 Mongolia	B-Location
@@ -34,8 +32,7 @@ connection	O
 with	O
 the	O
 latter	O
-’	O
-s	O
+’s	O
 completion	O
 of	O
 mission	O
@@ -79,8 +76,7 @@ meeting	O
 ,	O
 Prime	O
 Minister	O
-L	B-Person
-.	I-Person
+L.	B-Person
 Oyun	I-Person
 -	I-Person
 Erdene	I-Person

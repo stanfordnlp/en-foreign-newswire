@@ -121,12 +121,9 @@ Black	B-Organization
 Eyed	I-Organization
 Peas	I-Organization
 ,	O
-H	B-Person
-.	I-Person
-E	I-Person
-.	I-Person
-R	I-Person
-.	O
+H.	B-Person
+E.	I-Person
+R.	I-Person
 ,	O
 Don	B-Person
 Diable	I-Person
@@ -320,10 +317,7 @@ phenomena	O
 as	O
 powerful	O
 as	O
-H	B-Person
-.	I-Person
-E	I-Person
-.	I-Person
-R	I-Person
-.	O
+H.	B-Person
+E.	I-Person
+R.	I-Person
 

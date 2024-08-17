@@ -7,8 +7,7 @@ After	O
 President	O
 Cyril	B-Person
 Ramaphosa	I-Person
-’	O
-s	O
+’s	O
 response	O
 to	O
 the	O
@@ -231,8 +230,7 @@ optimistic	O
 about	O
 the	O
 president	O
-’	O
-s	O
+’s	O
 plan	O
 .	O
 
@@ -340,14 +338,12 @@ Town	I-Location
 
 “	O
 I	O
-’	O
-m	O
+’m	O
 concerned	O
 that	O
 the	O
 president	O
-’	O
-s	O
+’s	O
 plan	O
 continues	O
 to	O
@@ -362,8 +358,7 @@ solution	O
 to	O
 the	O
 nation	O
-’	O
-s	O
+’s	O
 power	O
 crisis	O
 –	O

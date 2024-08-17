@@ -87,10 +87,8 @@ states	O
 The	O
 project	O
 worth	O
-U	B-Money	B-Location
-.	I-Money	I-Location
-S	I-Money	I-Location
-.	I-Money
+U.	B-Money	B-Location
+S.	I-Money	I-Location
 93	I-Money
 Million	I-Money
 from	O

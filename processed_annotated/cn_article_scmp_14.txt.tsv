@@ -6,8 +6,7 @@ homepage	O
 
 The	O
 world	O
-’	O
-s	O
+’s	O
 largest	O
 iPhone	B-Product
 factory	O
@@ -98,8 +97,7 @@ companies	O
 in	O
 the	O
 city	O
-’	O
-s	O
+’s	O
 main	O
 districts	O
 will	O
@@ -135,16 +133,14 @@ Foxconn	B-Organization
 ,	O
 the	O
 world	O
-’	O
-s	O
+’s	O
 largest	O
 electronics	O
 contract	O
 manufacturer	O
 and	O
 Apple	B-Organization
-’	O
-s	O
+’s	O
 prime	O
 supplier	O
 ,	O
@@ -197,8 +193,7 @@ of	O
 the	O
 Taiwanese	B-NORP
 company	O
-’	O
-s	O
+’s	O
 plans	O
 earlier	O
 this	O
@@ -271,8 +266,7 @@ production	O
 requirements	O
 for	O
 Apple	B-Organization
-’	O
-s	O
+’s	O
 upcoming	O
 iPhone	B-Product
 14	I-Product
@@ -281,8 +275,7 @@ of	O
 models	O
 ,	O
 Foxconn	B-Organization
-’	O
-s	O
+’s	O
 Zhengzhou	B-Location
 operation	O
 earlier	O
@@ -402,8 +395,7 @@ to	O
 posts	O
 that	O
 Foxconn	B-Organization
-’	O
-s	O
+’s	O
 Zhengzhou	B-Location
 operation	O
 published	O
@@ -437,8 +429,7 @@ Reuters	B-Organization
 
 The	O
 company	O
-’	O
-s	O
+’s	O
 smartphone	O
 and	O
 components	O
@@ -446,8 +437,7 @@ manufacturing	O
 operations	O
 in	O
 Henan	B-Location
-’	O
-s	O
+’s	O
 provincial	O
 capital	O
 are	O
@@ -490,14 +480,12 @@ most	O
 of	O
 the	O
 world	O
-’	O
-s	O
+’s	O
 iPhones	B-Product
 .	O
 
 Foxconn	B-Organization
-’	O
-s	O
+’s	O
 plant	O
 inside	O
 the	O
@@ -515,8 +503,7 @@ cent	O
 of	O
 the	O
 world	O
-’	O
-s	O
+’s	O
 iPhones	B-Product
 ,	O
 so	O
@@ -528,8 +515,7 @@ big	O
 impact	O
 to	O
 Apple	B-Organization
-’	O
-s	O
+’s	O
 supply	O
 chain	O
 if	O
@@ -571,8 +557,7 @@ Based	O
 on	O
 the	O
 company	O
-’	O
-s	O
+’s	O
 latest	O
 statement	O
 ,	O

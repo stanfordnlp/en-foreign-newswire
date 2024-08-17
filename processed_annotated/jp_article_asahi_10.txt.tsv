@@ -95,8 +95,7 @@ party	O
 became	O
 the	O
 nation	O
-’	O
-s	O
+’s	O
 first	O
 city	O
 mayor	O
@@ -126,8 +125,7 @@ Osaka	B-Organization	B-Location
 Ishin	I-Organization
 no	I-Organization
 Kai	I-Organization
-’	O
-s	O
+’s	O
 fast	O
 expansion	O
 of	O
@@ -148,8 +146,7 @@ in	O
 of	O
 the	O
 prefecture	O
-’	O
-s	O
+’s	O
 43	O
 municipalities	O
 with	O
@@ -211,8 +208,7 @@ cut	O
 in	O
 the	O
 mayor	O
-’	O
-s	O
+’s	O
 salary	O
 and	O
 zero	O

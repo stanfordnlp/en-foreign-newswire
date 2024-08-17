@@ -49,8 +49,7 @@ quite	O
 disguise	O
 Joe	B-Person
 Biden	I-Person
-’	O
-s	O
+’s	O
 isolation	O
 ,	O
 an	O
@@ -252,8 +251,7 @@ has	O
 resulted	O
 in	O
 India	B-Location
-’	O
-s	O
+’s	O
 200	O
 million	O
 Muslims	B-NORP
@@ -300,8 +298,7 @@ will	O
 be	O
 in	O
 everyone	O
-’	O
-s	O
+’s	O
 interest	O
 .	O
 
@@ -453,8 +450,7 @@ spell	O
 in	O
 Yogi	O
 Adityanath	B-Person
-’	O
-s	O
+’s	O
 jail	O
 had	O
 imparted	O
@@ -497,8 +493,7 @@ fell	O
 for	O
 the	O
 BJP	B-Organization
-’	O
-s	O
+’s	O
 social	O
 engineering	O
 .	O
@@ -659,8 +654,7 @@ Congress	B-Organization
 and	O
 sought	O
 SP	B-Organization
-’	O
-s	O
+’s	O
 protection	O
 .	O
 Just	O
@@ -764,8 +758,7 @@ tone	O
 down	O
 the	O
 BJP	B-Organization
-’	O
-s	O
+’s	O
 saffron	O
 ,	O
 smoothen	O
@@ -797,8 +790,7 @@ incompatible	O
 with	O
 the	O
 Yogi	O
-’	O
-s	O
+’s	O
 habitual	O
 excesses	O
 ?	O
@@ -1001,8 +993,7 @@ focus	O
 
 Remember	O
 AAP	B-Organization
-’	O
-s	O
+’s	O
 67	O
 seats	O
 out	O

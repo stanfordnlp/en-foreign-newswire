@@ -5,8 +5,7 @@ pgtype	O
 homepage	O
 
 China	B-Location
-’	O
-s	O
+’s	O
 third	O
 aircraft	O
 carrier	O
@@ -201,9 +200,8 @@ was	O
 launched	O
 because	O
 it	O
-wouldn	O
-’	O
-t	O
+would	O
+n’t	O
 have	O
 been	O
 good	O
@@ -229,8 +227,7 @@ completion	O
 of	O
 the	O
 vessel	O
-’	O
-s	O
+’s	O
 main	O
 structure	O
 and	O
@@ -243,8 +240,7 @@ also	O
 said	O
 the	O
 warship	O
-’	O
-s	O
+’s	O
 delayed	O
 launch	O
 “	O
@@ -367,8 +363,7 @@ on	O
 the	O
 aircraft	O
 carrier	O
-’	O
-s	O
+’s	O
 prow	O
 during	O
 the	O
@@ -414,8 +409,7 @@ and	O
 activating	O
 the	O
 vessel	O
-’	O
-s	O
+’s	O
 propulsion	O
 system	O
 .	O
@@ -424,9 +418,8 @@ system	O
 The	O
 aircraft	O
 carrier	O
-doesn	O
-’	O
-t	O
+does	O
+n’t	O
 have	O
 power	O
 at	O
@@ -436,9 +429,8 @@ because	O
 its	O
 propulsion	O
 system	O
-isn	O
-’	O
-t	O
+is	O
+n’t	O
 active	O
 ,	O
 so	O
@@ -530,12 +522,10 @@ Fujian	I-Facility
 is	O
 the	O
 People	B-Organization
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Liberation	I-Organization
 Army	I-Organization
-’	O
-s	O
+’s	O
 first	O
 domestically	O
 designed	O
@@ -560,8 +550,7 @@ to	O
 the	O
 US	B-Organization	B-Location
 Navy	I-Organization
-’	O
-s	O
+’s	O
 retired	O
 Kitty	B-Facility
 Hawk	I-Facility
@@ -586,8 +575,7 @@ after	O
 the	O
 USS	B-Facility
 Gerald	I-Facility
-R	I-Facility
-.	I-Facility
+R.	I-Facility
 Ford	I-Facility	B-Organization
 –	O
 to	O
@@ -695,20 +683,17 @@ difficulties	O
 to	O
 the	O
 Gerald	B-Facility
-R	I-Facility
-.	I-Facility
+R.	I-Facility
 Ford	I-Facility
 .	O
 
 The	O
 Gerald	B-Person
-R	I-Person
-.	I-Person
+R.	I-Person
 Ford	I-Person
 is	O
 America	B-Location
-’	O
-s	O
+’s	O
 most	O
 expensive	O
 warship	O

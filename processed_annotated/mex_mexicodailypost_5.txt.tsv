@@ -106,8 +106,7 @@ abided	O
 by	O
 the	O
 man	O
-’	O
-s	O
+’s	O
 requests	O
 or	O
 dealt	O
@@ -127,8 +126,7 @@ line	O
 had	O
 García	B-Person
 Davish	I-Person
-’	O
-s	O
+’s	O
 home	O
 ,	O
 work	O
@@ -203,8 +201,7 @@ Since	O
 June	B-Date
 ,	O
 they	O
-’	O
-ve	O
+’ve	O
 been	O
 trying	O
 to	O
@@ -253,9 +250,8 @@ me	O
 nervous	O
 ,	O
 I	O
-didn	O
-’	O
-t	O
+did	O
+n’t	O
 fall	O
 for	O
 his	O
@@ -311,8 +307,7 @@ with	O
 the	O
 general	O
 attorney	O
-’	O
-s	O
+’s	O
 office	O
 .	O
 ”	O
@@ -324,8 +319,7 @@ the	O
 Specialized	B-Organization
 General	I-Organization
 Attorney	I-Organization
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Office	I-Organization
 for	I-Organization
 the	I-Organization
@@ -542,9 +536,8 @@ However	O
 ,	O
 immediate	O
 approval	O
-wasn	O
-’	O
-t	O
+was	O
+n’t	O
 guaranteed	O
 .	O
 
@@ -580,10 +573,8 @@ international	O
 colleagues	O
 ,	O
 the	O
-U	B-Organization
-.	I-Organization
-S	I-Organization
-.	I-Organization
+U.	B-Organization
+S.	I-Organization
 Embassy	I-Organization
 in	O
 Mexico	B-Location
@@ -630,8 +621,7 @@ that	O
 safeguard	O
 their	O
 life	O
-’	O
-s	O
+’s	O
 work	O
 —	O
 the	O
@@ -653,8 +643,7 @@ late	O
 June	B-Date
 ,	O
 they	O
-’	O
-ve	O
+’ve	O
 been	O
 living	O
 in	O
@@ -673,8 +662,7 @@ local	O
 specialized	O
 general	O
 attorney	O
-’	O
-s	O
+’s	O
 office	O
 never	O
 came	O
@@ -692,8 +680,7 @@ The	O
 Specialized	B-Organization
 General	I-Organization
 Attorney	I-Organization
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Office	I-Organization
 for	I-Organization
 the	I-Organization

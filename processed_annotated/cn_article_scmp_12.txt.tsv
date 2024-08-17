@@ -56,8 +56,7 @@ audience	O
 .	O
 
 Netflix	B-Organization
-’	O
-s	O
+’s	O
 new	O
 Remarriage	B-Misc
 and	I-Misc
@@ -170,8 +169,7 @@ Jung	B-Person
 Eugene	I-Person
 ,	O
 who	O
-’	O
-s	O
+’s	O
 best	O
 known	O
 for	O
@@ -289,8 +287,7 @@ KPlus	I-Organization
 .	O
 
 Jung	B-Person
-’	O
-s	O
+’s	O
 acting	O
 was	O
 well	O
@@ -430,8 +427,7 @@ pronunciation	O
 ,	O
 and	O
 it	O
-’	O
-s	O
+’s	O
 why	O
 they	O
 are	O
@@ -450,8 +446,7 @@ commented	O
 that	O
 with	O
 Jung	B-Person
-’	O
-s	O
+’s	O
 pronunciation	O
 ,	O
 she	O
@@ -528,8 +523,7 @@ top	O
 class	O
 .	O
 She	O
-’	O
-s	O
+’s	O
 a	O
 character	O
 who	O
@@ -553,8 +547,7 @@ min	I-Person
 ,	O
 the	O
 show	O
-’	O
-s	O
+’s	O
 director	O
 ,	O
 remarked	O
@@ -599,8 +592,7 @@ Jung	B-Person
 admitted	O
 that	O
 she	O
-’	O
-s	O
+’s	O
 a	O
 homebody	O
 at	O
@@ -625,8 +617,7 @@ but	O
 these	O
 days	O
 she	O
-’	O
-s	O
+’s	O
 happy	O
 to	O
 venture	O

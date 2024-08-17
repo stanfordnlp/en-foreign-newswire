@@ -152,8 +152,7 @@ he	O
 also	O
 visited	O
 Jinnah	B-Facility	B-Person
-’	I-Facility
-s	I-Facility
+’s	I-Facility
 Mausoleum	I-Facility
 .	O
 
@@ -400,8 +399,7 @@ Jinnah	B-Person
 That	O
 way	O
 Jinnah	B-Person
-’	O
-s	O
+’s	O
 political	O
 career	O
 is	O
@@ -588,8 +586,7 @@ a	O
 major	O
 turn	O
 after	O
-1920	B-Date
-s	O
+1920s	B-Date
 ,	O
 when	O
 Gandhi	B-Person
@@ -926,8 +923,7 @@ Around	O
 this	O
 time	O
 Jinnah	B-Person
-’	O
-s	O
+’s	O
 separatism	O
 got	O
 a	O
@@ -966,8 +962,7 @@ selective	O
 presentation	O
 of	O
 Jinnah	B-Person
-’	O
-s	O
+’s	O
 role	O
 in	O
 freedom	O
@@ -1044,8 +1039,7 @@ Hindu	B-NORP
 nationalists	O
 present	O
 Savarkar	B-Person
-’	O
-s	O
+’s	O
 anti	O
 British	B-NORP
 activities	O

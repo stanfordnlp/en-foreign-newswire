@@ -41,8 +41,7 @@ tell	O
 her	O
 that	O
 there	O
-’	O
-s	O
+’s	O
 at	O
 least	O
 a	O
@@ -104,12 +103,12 @@ Escalante	I-Person
 but	O
 the	O
 prosecutor	O
-didn	O
-’	O
-t	O
+did	O
+n’t	O
 see	O
 her	O
 .	O
+
 Ivonne	B-Person
 Parra	I-Person
 went	O
@@ -289,21 +288,18 @@ victims	O
 
 “	O
 There	O
-’	O
-s	O
+’s	O
 also	O
 Rosa	B-Person
 Pérez	I-Person
 ,	O
 Genyill	B-Person
 Chacón	I-Person
-’	O
-s	O
+’s	O
 mother	O
 ,	O
 who	O
-’	O
-s	O
+’s	O
 abroad	O
 ;	O
 Sharon	B-Person
@@ -312,8 +308,7 @@ Duque	I-Person
 Jesús	B-Person
 and	O
 Pablo	B-Person
-’	O
-s	O
+’s	O
 poderosa	O
 sister	O
 ;	O
@@ -330,8 +325,7 @@ Enrique	I-Person
 González	I-Person
 ,	O
 who	O
-’	O
-s	O
+’s	O
 in	O
 Barrancas	B-Location
 del	I-Location
@@ -341,10 +335,10 @@ Orinoco	I-Location
 Ivonne	B-Person
 explains	O
 .	O
+
 “	O
 There	O
-’	O
-s	O
+’s	O
 only	O
 a	O
 few	O
@@ -359,8 +353,7 @@ got	O
 together	O
 ,	O
 we	O
-’	O
-re	O
+’re	O
 stronger	O
 ,	O
 because	O
@@ -374,8 +367,7 @@ other	O
 ”	O
 
 They	O
-’	O
-re	O
+’re	O
 also	O
 becoming	O
 more	O
@@ -405,8 +397,7 @@ front	O
 of	O
 the	O
 Prosecutor	O
-’	O
-s	O
+’s	O
 Office	O
 in	O
 downtown	O
@@ -416,8 +407,7 @@ Caracas	O
 “	O
 Because	O
 we	O
-’	O
-re	O
+’re	O
 all	O
 united	O
 !	O
@@ -458,8 +448,7 @@ each	O
 other	O
 what	O
 we	O
-’	O
-re	O
+’re	O
 doing	O
 and	O
 what	O
@@ -473,8 +462,7 @@ walk	O
 from	O
 one	O
 prosecutor	O
-’	O
-s	O
+’s	O
 office	O
 to	O
 the	O
@@ -492,9 +480,8 @@ Square	I-Location
 …	O
 if	O
 one	O
-can	O
-’	O
-t	O
+ca	O
+n’t	O
 afford	O
 the	O
 bus	O
@@ -548,8 +535,7 @@ request	O
 justifying	O
 what	O
 we	O
-’	O
-re	O
+’re	O
 asking	O
 and	O
 how	O
@@ -661,17 +647,15 @@ knows	O
 .	O
 Those	O
 boys	O
-weren	O
-’	O
-t	O
+were	O
+n’t	O
 even	O
 criminals	O
 ,	O
 and	O
 they	O
-weren	O
-’	O
-t	O
+were	O
+n’t	O
 involved	O
 in	O
 weird	O
@@ -712,9 +696,8 @@ files	O
 ,	O
 when	O
 they	O
-didn	O
-’	O
-t	O
+did	O
+n’t	O
 even	O
 have	O
 a	O
@@ -737,12 +720,10 @@ courthouse	O
 
 These	O
 men	O
-’	O
-s	O
+’s	O
 deaths	O
-aren	O
-’	O
-t	O
+are	O
+n’t	O
 isolated	O
 murders	O
 .	O
@@ -764,8 +745,7 @@ connect	O
 them	O
 ,	O
 you	O
-’	O
-ll	O
+’ll	O
 see	O
 that	O
 these	O
@@ -898,8 +878,7 @@ limitations	O
 But	O
 if	O
 they	O
-’	O
-re	O
+’re	O
 understood	O
 as	O
 systematic	O
@@ -939,8 +918,7 @@ emphatically	O
 .	O
 “	O
 It	O
-’	O
-s	O
+’s	O
 the	O
 first	O
 thing	O
@@ -949,10 +927,10 @@ have	O
 to	O
 do	O
 .	O
+
 Fear	O
-doesn	O
-’	O
-t	O
+does	O
+n’t	O
 cut	O
 it	O
 ,	O
@@ -978,9 +956,8 @@ I	O
 live	O
 …	O
 This	O
-can	O
-’	O
-t	O
+ca	O
+n’t	O
 happen	O
 again	O
 ,	O
@@ -1009,9 +986,8 @@ but	O
 if	O
 the	O
 mothers	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 speak	O
 up	O
 ,	O
@@ -1181,9 +1157,8 @@ practice	O
 ,	O
 but	O
 it	O
-wasn	O
-’	O
-t	O
+was	O
+n’t	O
 systematic	O
 ,	O
 meaning	O
@@ -1213,20 +1188,20 @@ This	O
 changed	O
 after	O
 Chávez	B-Person
-’	O
-s	O
+’s	O
 death	O
 and	O
 Maduro	B-Person
-’	O
-z	O
+’z	O
 arrival	O
 to	O
 power	O
 .	O
+
 What	O
 happened	O
 ?	O
+
 Maduro	B-Person
 quashed	O
 all	O
@@ -1256,8 +1231,7 @@ to	O
 modify	O
 the	O
 police	O
-’	O
-s	O
+’s	O
 performance	O
 profile	O
 .	O
@@ -1299,8 +1273,7 @@ went	O
 to	O
 the	O
 Prosecutor	O
-’	O
-s	O
+’s	O
 Office	O
 ,	O
 the	O
@@ -1309,9 +1282,8 @@ laughed	O
 at	O
 me	O
 and	O
-didn	O
-’	O
-t	O
+did	O
+n’t	O
 even	O
 give	O
 me	O
@@ -1608,9 +1580,8 @@ Guillermo	B-Person
 ’s	O
 human	O
 rights	O
-weren	O
-’	O
-t	O
+were	O
+n’t	O
 enough	O
 ,	O
 they	O
@@ -1621,6 +1592,7 @@ in	O
 his	O
 hand	O
 .	O
+
 His	O
 mother	O
 ,	O
@@ -1792,8 +1764,7 @@ explains	O
 “	O
 Now	O
 we	O
-’	O
-re	O
+’re	O
 Alfavic	B-Organization	B-Organization
 Venezuela	I-Organization	B-Location
 and	O
@@ -1803,8 +1774,7 @@ Alfavic	B-Organization
 ,	O
 because	O
 we	O
-’	O
-re	O
+’re	O
 not	O
 only	O
 the	O
@@ -1817,9 +1787,9 @@ the	O
 2017	B-Date
 protests	O
 .	O
+
 We	O
-’	O
-re	O
+’re	O
 joining	O
 and	O
 organizing	O
@@ -1861,9 +1831,8 @@ El	B-Location
 Tocuyo	I-Location
 ,	O
 it	O
-isn	O
-’	O
-t	O
+is	O
+n’t	O
 like	O
 the	O
 capital	O
@@ -1873,9 +1842,8 @@ adds	O
 Fanny	B-Person
 .	O
 There	O
-aren	O
-’	O
-t	O
+are	O
+n’t	O
 a	O
 lot	O
 of	O
@@ -1900,8 +1868,7 @@ being	O
 killed	O
 .	O
 I	O
-’	O
-m	O
+’m	O
 the	O
 only	O
 grandmother	O
@@ -1926,9 +1893,8 @@ because	O
 if	O
 the	O
 boys	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 leave	O
 ,	O
 they	O
@@ -2000,9 +1966,8 @@ is	O
 that	O
 if	O
 they	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 have	O
 a	O
 prisoner	O
@@ -2036,8 +2001,7 @@ go	O
 through	O
 what	O
 we	O
-’	O
-re	O
+’re	O
 going	O
 through	O
 .	O
@@ -2144,9 +2108,8 @@ in	O
 the	O
 poorest	O
 families	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 elicit	O
 an	O
 approach	O
@@ -2222,8 +2185,7 @@ because	O
 ‘	O
 they	O
 must	O
-’	O
-ve	O
+’ve	O
 done	O
 something	O
 ,	O
@@ -2313,8 +2275,7 @@ sons	O
 ,	O
 but	O
 they	O
-’	O
-ve	O
+’ve	O
 also	O
 had	O
 to	O
@@ -2377,8 +2338,7 @@ that	O
 sometimes	O
 ,	O
 we	O
-’	O
-ve	O
+’ve	O
 been	O
 used	O
 as	O
@@ -2424,6 +2384,7 @@ or	O
 guarimberos	O
 ’	O
 .	O
+
 That	O
 ’s	O
 disrespectful	O
@@ -2527,9 +2488,8 @@ Cubas	B-Person
 ,	O
 other	O
 paradoxes	O
-aren	O
-’	O
-t	O
+are	O
+n’t	O
 as	O
 visible	O
 :	O
@@ -2723,19 +2683,19 @@ the	O
 protests	O
 ,	O
 it	O
-doesn	O
-’	O
-t	O
+does	O
+n’t	O
 mean	O
 that	O
 the	O
 OLP	B-Organization
 ’s	O
-can	O
-’t	O
+ca	O
+n’t	O
 be	O
 included	O
 .	O
+
 ICC	B-Organization
 Chief	O
 Prosecutor	O
@@ -2915,8 +2875,7 @@ the	O
 national	O
 justice	O
 system	O
-’	O
-s	O
+’s	O
 deficiency	O
 in	O
 stride	O
@@ -2965,9 +2924,8 @@ office	O
 ,	O
 while	O
 Carmen	B-Person
-doesn	O
-’	O
-t	O
+does	O
+n’t	O
 cry	O
 in	O
 front	O
@@ -2983,8 +2941,7 @@ she	O
 sees	O
 her	O
 son	O
-’	O
-s	O
+’s	O
 killer	O
 .	O
 
@@ -3070,9 +3027,8 @@ demands	O
 by	O
 these	O
 mothers	O
-aren	O
-’	O
-t	O
+are	O
+n’t	O
 a	O
 topic	O
 to	O
@@ -3115,8 +3071,7 @@ country	O
 .	O
 
 It	O
-’	O
-s	O
+’s	O
 all	O
 about	O
 a	O
@@ -3151,8 +3106,7 @@ basis	O
 think	O
 ‘	O
 What	O
-’	O
-s	O
+’s	O
 the	O
 use	O
 of	O
@@ -3339,8 +3293,7 @@ day	O
 help	O
 repair	O
 Venezuela	B-Location
-’	O
-s	O
+’s	O
 social	O
 fabric	O
 .	O

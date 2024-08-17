@@ -72,8 +72,7 @@ legislation	O
 related	O
 to	O
 women	O
-’	O
-s	O
+’s	O
 political	O
 and	O
 economic	O
@@ -116,8 +115,7 @@ Petra	I-Organization
 
 The	O
 minister	O
-’	O
-s	O
+’s	O
 remarks	O
 came	O
 at	O
@@ -213,8 +211,7 @@ gender	O
 gap	O
 in	O
 Jordan	B-Location
-’	O
-s	O
+’s	O
 labour	O
 force	O
 participation	O
@@ -247,8 +244,7 @@ cent	O
 increase	O
 in	O
 women	O
-’	O
-s	O
+’s	O
 participation	O
 in	O
 the	O
@@ -263,8 +259,7 @@ years	O
 will	O
 help	O
 Jordan	B-Location
-’	O
-s	O
+’s	O
 GDP	B-Misc
 grow	O
 annually	O
@@ -277,8 +272,7 @@ cent	O
 As	O
 for	O
 Jordan	B-Location
-’	O
-s	O
+’s	O
 ranking	O
 in	O
 economic	O
@@ -289,8 +283,7 @@ to	O
 the	O
 World	B-Organization
 Bank	I-Organization
-’	O
-s	O
+’s	O
 2021	B-Date
 Gender	B-Misc
 Gap	I-Misc
@@ -343,8 +336,7 @@ indicator	O
 of	O
 increasing	O
 women	O
-’	O
-s	O
+’s	O
 economic	O
 participation	O
 and	O
@@ -352,8 +344,7 @@ coordinating	O
 efforts	O
 with	O
 Jordan	B-Location
-’	O
-s	O
+’s	O
 private	O
 sector	O
 to	O
@@ -367,8 +358,7 @@ contribute	O
 to	O
 boosting	O
 women	O
-’	O
-s	O
+’s	O
 economic	O
 presence	O
 .	O
@@ -388,8 +378,7 @@ importance	O
 of	O
 increasing	O
 Jordan	B-Location
-’	O
-s	O
+’s	O
 ranking	O
 on	O
 global	O
@@ -419,8 +408,7 @@ mechanisms	O
 to	O
 enhance	O
 Jordan	B-Location
-’	O
-s	O
+’s	O
 position	O
 on	O
 its	O
@@ -462,15 +450,13 @@ to	O
 focus	O
 on	O
 women	O
-’	O
-s	O
+’s	O
 economic	O
 empowerment	O
 in	O
 the	O
 vision	O
-’	O
-s	O
+’s	O
 initiatives	O
 .	O
 
@@ -480,8 +466,7 @@ also	O
 highlighted	O
 the	O
 vision	O
-’	O
-s	O
+’s	O
 contribution	O
 to	O
 improving	O
@@ -514,8 +499,7 @@ National	I-Organization
 Commission	I-Organization
 for	I-Organization
 Women	I-Organization
-’	I-Organization
-s	I-Organization
+’s	I-Organization
 Affairs	I-Organization
 (	O
 JNCW	B-Organization
@@ -526,8 +510,7 @@ Nims	I-Person
 said	O
 that	O
 women	O
-’	O
-s	O
+’s	O
 participation	O
 in	O
 the	O

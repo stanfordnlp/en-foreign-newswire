@@ -13,8 +13,7 @@ go	O
 ?	O
 
 China	B-Location
-’	O
-s	O
+’s	O
 draconian	O
 Covid	B-Misc	B-Misc
 -	I-Misc
@@ -93,8 +92,7 @@ country	O
 Scarred	O
 by	O
 Shanghai	B-Location
-’	O
-s	O
+’s	O
 chaotic	O
 lockdown	O
 under	O
@@ -168,16 +166,14 @@ now	O
 hanging	O
 over	O
 China	B-Location
-’	O
-s	O
+’s	O
 rich	O
 is	O
 whether	O
 President	O
 Xi	B-Person
 Jinping	I-Person
-’	O
-s	O
+’s	O
 government	O
 will	O
 let	O
@@ -188,9 +184,8 @@ leave	O
 While	O
 policy	O
 makers	O
-haven	O
-’	O
-t	O
+have	O
+n’t	O
 explicitly	O
 tightened	O
 curbs	O
@@ -248,8 +243,7 @@ residents	O
 sidestep	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 capital	O
 controls	O
 via	O
@@ -259,8 +253,7 @@ arrangements	O
 .	O
 
 That	O
-’	O
-s	O
+’s	O
 setting	O
 the	O
 stage	O
@@ -287,8 +280,7 @@ amid	O
 President	O
 Xi	B-Person
 Jinping	I-Person
-’	O
-s	O
+’s	O
 populist	O
 campaign	O
 for	O
@@ -347,8 +339,7 @@ ultimate	O
 scope	O
 of	O
 China	B-Location
-’	O
-s	O
+’s	O
 talent	O
 and	O
 wealth	O
@@ -435,8 +426,7 @@ leaving	O
 Hu	B-Person
 said	O
 he	O
-’	O
-s	O
+’s	O
 intent	O
 on	O
 relocating	O
@@ -634,8 +624,7 @@ business	O
 .	O
 “	O
 I	O
-’	O
-ve	O
+’ve	O
 seen	O
 those	O
 who	O
@@ -715,8 +704,7 @@ Chinese	B-NORP
 media	O
 that	O
 Huang	B-Person
-’	O
-s	O
+’s	O
 move	O
 was	O
 for	O
@@ -967,8 +955,7 @@ In	O
 May	B-Date
 ,	O
 China	B-Location
-’	O
-s	O
+’s	O
 National	B-Organization
 Immigration	I-Organization
 Administration	I-Organization
@@ -1278,8 +1265,7 @@ money	O
 I	O
 think	O
 China	B-Location
-’	O
-s	O
+’s	O
 economy	O
 is	O
 going	O
@@ -1497,9 +1483,8 @@ restaurateur	O
 the	O
 slight	O
 relaxation	O
-isn	O
-’	O
-t	O
+is	O
+n’t	O
 giving	O
 him	O
 any	O
@@ -1511,8 +1496,7 @@ plans	O
 
 “	O
 I	O
-’	O
-ve	O
+’ve	O
 thought	O
 about	O
 leaving	O
@@ -1529,8 +1513,7 @@ up	O
 but	O
 now	O
 I	O
-’	O
-m	O
+’m	O
 determined	O
 to	O
 leave	O
@@ -1555,9 +1538,8 @@ month	O
 ago	O
 ,	O
 he	O
-hasn	O
-’	O
-t	O
+has	O
+n’t	O
 yet	O
 heard	O
 back	O

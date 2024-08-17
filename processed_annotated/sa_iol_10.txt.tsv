@@ -7,8 +7,7 @@ Following	O
 President	O
 Cyril	B-Person
 Ramaphosa	I-Person
-’	O
-s	O
+’s	O
 announcement	O
 on	O
 the	O
@@ -18,8 +17,7 @@ to	O
 deal	O
 with	O
 Eskom	B-Organization
-’	O
-s	O
+’s	O
 energy	O
 crisis	O
 ,	O
@@ -52,8 +50,7 @@ to	O
 combat	O
 the	O
 country	O
-’	O
-s	O
+’s	O
 energy	O
 crisis	O
 on	O
@@ -213,8 +210,7 @@ partners	O
 China	B-Location
 and	O
 India	B-Location
-’	O
-s	O
+’s	O
 renewable	O
 energy	O
 and	O
@@ -242,8 +238,7 @@ Mumbai	B-Location
 said	O
 that	O
 India	B-Location
-’	O
-s	O
+’s	O
 main	O
 challenges	O
 in	O
@@ -383,8 +378,7 @@ the	O
 launch	O
 of	O
 China	B-Location
-’	O
-s	O
+’s	O
 national	O
 carbon	O
 market	O
@@ -442,8 +436,7 @@ The	O
 development	O
 of	O
 china	B-Location
-’	O
-s	O
+’s	O
 voluntary	O
 carbon	O
 emission	O

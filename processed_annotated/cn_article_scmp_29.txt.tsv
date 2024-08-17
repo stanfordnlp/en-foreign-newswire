@@ -109,8 +109,7 @@ Fast	I-Location
 Laser	I-Location
 in	O
 Wuhan	B-Location
-’	I-Location
-s	I-Location
+’s	I-Location
 optics	I-Location
 valley	I-Location
 ,	O
@@ -281,8 +280,7 @@ power	O
 peaks	O
 of	O
 Cao	B-Person
-’	O
-s	O
+’s	O
 laser	O
 pen	O
 can	O
@@ -439,8 +437,7 @@ air	O
 .	O
 
 Cao	B-Person
-’	O
-s	O
+’s	O
 team	O
 hopes	O
 that	O
@@ -494,8 +491,7 @@ validated	O
 by	O
 Wuhan	B-Organization	B-Location
 University	I-Organization
-’	O
-s	O
+’s	O
 National	B-Organization
 Laboratory	I-Organization
 of	I-Organization

@@ -51,8 +51,7 @@ his	O
 work	O
 from	O
 the	O
-1950	B-Date
-s	O
+1950s	B-Date
 to	O
 the	O
 modern	O
@@ -126,8 +125,7 @@ Boca	I-Location
 neighbourhood	O
 from	O
 the	O
-1950	B-Date
-s	O
+1950s	B-Date
 and	O
 portraits	O
 of	O
@@ -179,15 +177,13 @@ and	O
 life	O
 ,	O
 it	O
-’	O
-s	O
+’s	O
 the	O
 same	O
 thing	O
 .	O
 It	O
-’	O
-s	O
+’s	O
 the	O
 form	O
 of	O
@@ -353,9 +349,8 @@ I	O
 participated	O
 .	O
 They	O
-didn	O
-’	O
-t	O
+did	O
+n’t	O
 tell	O
 me	O
 ,	O
@@ -547,8 +542,7 @@ years	O
 
 "	O
 I	O
-’	O
-ve	O
+’ve	O
 had	O
 many	O
 occupations	O

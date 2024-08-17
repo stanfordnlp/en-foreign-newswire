@@ -129,8 +129,7 @@ She	O
 also	O
 reiterated	O
 Taiwan	B-Location
-’	O
-s	O
+’s	O
 claims	O
 in	O
 the	O
@@ -254,8 +253,7 @@ Borough	I-Location
 )	O
 in	O
 Kaohsiung	B-Location
-’	O
-s	O
+’s	O
 Cijin	B-Location
 District	I-Location
 (	O
@@ -367,8 +365,7 @@ Agency	I-Organization
 ,	O
 the	O
 station	O
-’	O
-s	O
+’s	O
 Web	O
 site	O
 says	O

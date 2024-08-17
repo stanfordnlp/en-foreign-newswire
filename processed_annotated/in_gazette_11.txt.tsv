@@ -146,8 +146,7 @@ administration	O
 which	O
 recognized	O
 Israel	B-Organization
-’	O
-s	O
+’s	O
 illegal	O
 annexation	O
 of	O
@@ -291,8 +290,7 @@ opportunity	O
 especially	O
 as	O
 Israel	B-Location
-’	O
-s	O
+’s	O
 new	O
 Prime	O
 Minister	O
@@ -306,8 +304,7 @@ to	O
 break	O
 the	O
 Right	O
-’	O
-s	O
+’s	O
 historic	O
 dominance	O
 over	O
@@ -481,8 +478,7 @@ peaceful	O
 resolution	O
 to	O
 Israel	B-Location
-’	O
-s	O
+’s	O
 illegal	O
 occupation	O
 of	O
@@ -504,8 +500,7 @@ Arab	B-Organization	B-NORP
 League	I-Organization
 ,	O
 Israel	B-Location
-’	O
-s	O
+’s	O
 massive	O
 push	O
 to	O
@@ -524,8 +519,7 @@ unnoticed	O
 Not	O
 only	O
 Israel	B-Location
-’	O
-s	O
+’s	O
 right	O
 -	O
 wing	O
@@ -541,8 +535,7 @@ also	O
 welcoming	O
 the	O
 government	O
-’	O
-s	O
+’s	O
 investment	O
 -	O
 estimated	O
@@ -557,8 +550,7 @@ title	O
 of	O
 David	B-Person
 Rosenberg	I-Person
-’	O
-s	O
+’s	O
 article	O
 in	O
 Haaretz	B-Organization
@@ -602,8 +594,7 @@ and	O
 merely	O
 challenges	O
 Bennett	B-Person
-’	O
-s	O
+’s	O
 government	O
 on	O
 whether	O
@@ -651,8 +642,7 @@ coverage	O
 Namely	O
 ,	O
 Israel	B-Organization
-’	O
-s	O
+’s	O
 main	O
 focus	O
 currently	O
@@ -745,8 +735,7 @@ the	O
 Golan	B-Location
 ,	O
 Israel	B-Organization
-’	O
-s	O
+’s	O
 intention	O
 was	O
 ,	O
@@ -1034,8 +1023,7 @@ PA	O
 soon	O
 after	O
 Biden	B-Person
-’	O
-s	O
+’s	O
 inauguration	O
 .	O
 
@@ -1121,8 +1109,7 @@ political	O
 gamble	O
 for	O
 Biden	B-Person
-’	O
-s	O
+’s	O
 embattled	O
 administration	O
 .	O
@@ -1228,8 +1215,7 @@ hand	O
 and	O
 that	O
 people	O
-’	O
-s	O
+’s	O
 resistance	O
 has	O
 been	O

@@ -49,8 +49,7 @@ court	O
 in	O
 Brooklyn	B-Location
 ,	O
-Mr	O
-.	O
+Mr.	O
 Callejas	B-Person
 admitted	O
 he	O
@@ -76,8 +75,7 @@ Honduran	B-NORP
 national	O
 team	O
 .	O
-Mr	O
-.	O
+Mr.	O
 Callejas	B-Person
 paid	O
 much	O
@@ -95,8 +93,7 @@ delegates	O
 of	O
 his	O
 country	O
-’	O
-s	O
+’s	O
 soccer	O
 federation	O
 to	O
@@ -130,8 +127,7 @@ years	O
 in	O
 prison	O
 —	O
-Mr	O
-.	O
+Mr.	O
 Callejas	B-Person
 became	O
 the	O
@@ -143,8 +139,7 @@ the	O
 United	B-Location
 States	I-Location
 government	O
-’	O
-s	O
+’s	O
 continuing	O
 case	O
 .	O
@@ -160,8 +155,7 @@ and	O
 authority	O
 ,	O
 ”	O
-Mr	O
-.	O
+Mr.	O
 Callejas	B-Person
 ,	O
 72	O
@@ -169,8 +163,7 @@ Callejas	B-Person
 told	O
 Judge	O
 Robert	B-Person
-M	I-Person
-.	I-Person
+M.	I-Person
 Levy	I-Person
 in	O
 United	B-Facility	B-Location
@@ -200,8 +193,7 @@ payments	O
 .	O
 ”	O
 
-Mr	O
-.	O
+Mr.	O
 Callejas	B-Person
 spent	O
 13	O
@@ -231,8 +223,7 @@ of	I-Location
 Honduras	I-Location
 in	O
 the	O
-1990	B-Date
-s	O
+1990s	B-Date
 .	O
 At	O
 the	O
@@ -258,14 +249,12 @@ FIFA	B-Organization
 ,	O
 global	O
 soccer	O
-’	O
-s	O
+’s	O
 governing	O
 body	O
 .	O
 FIFA	B-Organization
-’	O
-s	O
+’s	O
 leadership	O
 has	O
 been	O
@@ -295,8 +284,7 @@ suit	O
 and	O
 tie	O
 ,	O
-Mr	O
-.	O
+Mr.	O
 Callejas	B-Person
 said	O
 in	O
@@ -347,8 +335,7 @@ According	O
 to	O
 prosecutors	O
 ,	O
-Mr	O
-.	O
+Mr.	O
 Callejas	B-Person
 and	O
 a	O
@@ -434,8 +421,7 @@ his	O
 guilty	O
 plea	O
 ,	O
-Mr	O
-.	O
+Mr.	O
 Callejas	O
 agreed	O
 to	O
@@ -509,8 +495,7 @@ December	B-Date
 The	O
 Justice	B-Organization
 Department	I-Organization
-’	O
-s	O
+’s	O
 case	O
 was	O
 announced	O
@@ -538,8 +523,7 @@ that	O
 second	O
 round	O
 ,	O
-Mr	O
-.	O
+Mr.	O
 Callejas	B-Person
 is	O
 the	O
@@ -574,11 +558,9 @@ to	O
 charges	O
 .	O
 
-Mr	O
-.	O
+Mr.	O
 Callejas	B-Person
-’	O
-s	O
+’s	O
 plea	O
 may	O
 signal	O
@@ -613,8 +595,7 @@ Babcock	B-Organization
 website	O
 ,	O
 Manuel	B-Person
-J	I-Person
-.	I-Person
+J.	I-Person
 Retureta	I-Person
 ,	O
 declined	O
@@ -635,8 +616,7 @@ Monday	B-Date
 Judge	O
 Levy	B-Person
 complimented	O
-Mr	O
-.	O
+Mr.	O
 Callejas	B-Person
 on	O
 the	O
@@ -668,8 +648,7 @@ months	O
 after	O
 the	O
 government	O
-’	O
-s	O
+’s	O
 FIFA	B-Organization
 case	O
 was	O

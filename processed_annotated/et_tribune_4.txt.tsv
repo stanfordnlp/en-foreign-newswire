@@ -44,8 +44,7 @@ the	O
 leader	O
 of	O
 Africa	B-Location
-’	O
-s	O
+’s	O
 oldest	O
 independent	O
 country	O
@@ -92,8 +91,7 @@ in	O
 Marseille	B-Location
 .	O
 Skinner	B-Person
-’	O
-s	O
+’s	O
 mission	O
 launched	O
 an	O
@@ -181,8 +179,7 @@ Ethiopia	B-Location
 was	O
 probably	O
 Henry	B-Person
-W	I-Person
-.	I-Person
+W.	I-Person
 Stanley	I-Person
 of	O
 Stanley	B-Person
@@ -223,11 +220,9 @@ colorful	O
 connection	O
 in	O
 the	O
-1870	B-Date
-s	O
+1870s	B-Date
 and	O
-1880	B-Date
-s	O
+1880s	B-Date
 between	O
 Ethiopia	B-Location
 and	O
@@ -354,10 +349,8 @@ an	O
 American	B-NORP
 geologist	O
 ,	O
-L	B-Person
-.	I-Person
-H	I-Person
-.	I-Person
+L.	B-Person
+H.	I-Person
 Mitchell	I-Person
 ,	O
 involved	O
@@ -399,8 +392,7 @@ served	O
 as	O
 the	O
 Khedive	B-Organization
-’	O
-s	O
+’s	O
 Governor	O
 of	O
 Massawa	B-Location
@@ -420,8 +412,7 @@ in	O
 the	O
 mid	O
 -	O
-1880	B-Date
-s	O
+1880s	B-Date
 .	O
 
 Although	O
@@ -443,8 +434,7 @@ in	O
 the	O
 mid	O
 -	O
-1890	B-Date
-s	O
+1890s	B-Date
 .	O
 Arthur	B-Person
 Donaldson	I-Person
@@ -500,8 +490,7 @@ Lake	B-Location
 Rudolph	I-Location
 .	O
 Oscar	B-Person
-T	I-Person
-.	I-Person
+T.	I-Person
 Crosby	I-Person
 ,	O
 an	O
@@ -534,10 +523,8 @@ An	O
 American	B-NORP
 hunter	O
 ,	O
-W	B-Person
-.	I-Person
-N	I-Person
-.	I-Person
+W.	B-Person
+N.	I-Person
 McMillan	I-Person
 ,	O
 tried	O
@@ -562,8 +549,7 @@ visit	O
 Ethiopia	B-Location
 was	O
 William	B-Person
-H	I-Person
-.	I-Person
+H.	I-Person
 Ellis	I-Person
 ,	O
 an	O

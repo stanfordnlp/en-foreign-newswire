@@ -768,8 +768,7 @@ one	O
 of	O
 Biscayne	B-Organization
 Capital	I-Organization
-’	O
-s	O
+’s	O
 financial	O
 advisors	O
 ,	O
@@ -781,8 +780,7 @@ million	I-Money
 from	O
 Royalty	B-Organization
 RE	I-Organization
-’	O
-s	O
+’s	O
 account	O
 in	O
 Panama	B-Location
@@ -831,8 +829,7 @@ services	O
 .	O
 Ribas	B-Person
 Domenech	I-Person
-’	O
-s	O
+’s	O
 front	O
 company	O
 was	O
@@ -1013,8 +1010,7 @@ to	O
 one	O
 of	O
 Madison	B-Organization
-’	O
-s	O
+’s	O
 accounts	O
 at	O
 Deutsche	B-Organization	B-NORP

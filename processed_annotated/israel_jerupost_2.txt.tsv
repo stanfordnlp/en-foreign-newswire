@@ -151,8 +151,7 @@ Netanyahu	I-Person
 She	O
 mentioned	O
 Netanyahu	B-Person
-’	O
-s	O
+’s	O
 name	O
 only	O
 once	O
@@ -474,8 +473,7 @@ him	O
 
 Regarding	O
 Netanyahu	B-Person
-’	O
-s	O
+’s	O
 trial	O
 ,	O
 Hendel	B-Person
@@ -606,8 +604,7 @@ was	O
 absent	O
 from	O
 Shaked	B-Person
-’	O
-s	O
+’s	O
 speech	O
 .	O
 
@@ -660,8 +657,7 @@ unlike	O
 Shaked	B-Person
 ,	O
 Hendel	B-Person
-’	O
-s	O
+’s	O
 criticism	O
 was	O
 directed	O
@@ -772,8 +768,7 @@ but	O
 because	O
 of	O
 Netanyahu	B-Person
-’	O
-s	O
+’s	O
 attempt	O
 to	O
 call	O
@@ -840,8 +835,7 @@ put	O
 off	O
 by	O
 Shaked	B-Person
-’	O
-s	O
+’s	O
 rhetoric	O
 ,	O
 while	O
@@ -856,8 +850,7 @@ put	O
 off	O
 by	O
 Hendel	B-Person
-’	O
-s	O
+’s	O
 strong	O
 sentiments	O
 against	O
@@ -984,8 +977,7 @@ Moshe	B-Person
 Ya	I-Person
 ’	I-Person
 alon	I-Person
-’	O
-s	O
+’s	O
 Telem	B-Organization
 Party	I-Organization
 in	O
@@ -1006,8 +998,7 @@ despite	O
 Ya	B-Person
 ’	I-Person
 alon	I-Person
-’	O
-s	O
+’s	O
 pledge	O
 to	O
 voters	O

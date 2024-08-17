@@ -256,8 +256,7 @@ terrorism	O
 ,	O
 Tel	B-Location
 Aviv	I-Location
-’	O
-s	O
+’s	O
 attacks	O
 on	O
 the	O
@@ -457,10 +456,8 @@ It	O
 emphasized	O
 that	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 aggression	O
 and	O
 violations	O
@@ -548,10 +545,8 @@ regime	O
 together	O
 with	O
 the	O
-U	B-Location
-.	I-Location
-S	I-Location
-.	I-Location
+U.	B-Location
+S.	I-Location
 and	O
 other	O
 Western	B-Location
