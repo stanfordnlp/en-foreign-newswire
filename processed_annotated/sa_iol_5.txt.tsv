@@ -77,9 +77,7 @@ Commission	I-Organization
 (	O
 JSC	B-Organization
 )	O
-.	O
-.	O
-.	O
+...	O
 deliberated	O
 and	O
 resolved	O
@@ -106,9 +104,7 @@ August	B-Date
 25	I-Date
 ,	I-Date
 2021	I-Date
-.	O
-.	O
-.	O
+...	O
 that	O
 Judge	O
 President	O

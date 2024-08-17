@@ -2983,131 +2983,6 @@ latter	O
 group	O
 .	O
 
-SUBSCRIBER	O
-ONLY	O
-STORIESView	O
-All	O
-
-ExplainSpeaking	O
-|	O
-Yield	O
-inversion	O
-,	O
-soft	O
--	O
-landing	O
-and	O
-reverse	O
-currency	O
-wars	O
-.	O
-.	O
-.	O
-Premium	O
-
-ExplainSpeaking	O
-|	O
-Yield	O
-inversion	O
-,	O
-soft	O
--	O
-landing	O
-and	O
-reverse	O
-currency	O
-wars	O
-.	O
-.	O
-.	O
-
-New	O
-challenge	O
-for	O
-Delhi	B-Location
-cyber	O
-unit	O
-:	O
-CryptoPremium	B-Product
-
-New	O
-challenge	O
-for	O
-Delhi	B-Location
-cyber	O
-unit	O
-:	O
-Crypto	O
-
-Aviation	O
-upturn	O
-sees	O
-new	O
-trends	O
-:	O
-tourism	O
-routes	O
-popular	O
-;	O
-curbs	O
-in	O
-China	B-Location
-b	O
-.	O
-.	O
-.	O
-Premium	O
-
-Aviation	O
-upturn	O
-sees	O
-new	O
-trends	O
-:	O
-tourism	O
-routes	O
-popular	O
-;	O
-curbs	O
-in	O
-China	B-Location
-b	O
-.	O
-.	O
-.	O
-
-From	O
-hospital	O
-gate	O
-to	O
-upmarket	O
-store	O
-,	O
-fuel	O
-squeeze	O
-chokes	O
-ColomboPremium	B-Product
-
-From	O
-hospital	O
-gate	O
-to	O
-upmarket	O
-store	O
-,	O
-fuel	O
-squeeze	O
-chokes	O
-Colombo	B-Location
-
-Subscribe	O
-Now	O
-to	O
-get	O
-66	O
-%	O
-OFF	O
-
 Despite	O
 having	O
 lived	O
@@ -3116,8 +2991,7 @@ the	O
 UK	B-Location
 since	O
 the	O
-1700	B-Date
-s	O
+1700s	B-Date
 ,	O
 British	B-NORP
 Indians	I-NORP
@@ -3129,6 +3003,7 @@ force	O
 only	O
 recently	O
 .	O
+
 Back	O
 when	O
 they	O
@@ -3170,6 +3045,7 @@ East	B-Organization
 India	I-Organization	B-Location
 Company	I-Organization
 .	O
+
 According	O
 to	O
 American	B-NORP
@@ -3200,6 +3076,7 @@ subordinate	O
 population	O
 .	O
 ”	O
+
 He	O
 adds	O
 that	O
@@ -3242,6 +3119,7 @@ rationalise	O
 it	O
 .	O
 ”	O
+
 Namely	O
 a	O
 theory	O
@@ -3275,6 +3153,7 @@ East	B-Organization
 India	I-Organization	B-Location
 Company	I-Organization
 .	O
+
 These	O
 sea	O
 workers	O
@@ -3304,6 +3183,7 @@ or	O
 menial	O
 workers	O
 .	O
+
 A	O
 2021	B-Date
 Gateway	B-Organization
@@ -3404,6 +3284,7 @@ Indian	B-Location	B-NORP
 Ocean	I-Location
 economy	O
 .	O
+
 These	O
 merchant	O
 classes	O
@@ -3447,6 +3328,7 @@ the	O
 allied	O
 forces	O
 .	O
+
 Sikhs	B-NORP
 ,	O
 who	O
@@ -3481,6 +3363,7 @@ families	O
 stayed	O
 behind	O
 .	O
+
 Speaking	O
 to	O
 the	O
@@ -3548,6 +3431,7 @@ British	I-Misc	B-NORP
 Education	I-Misc
 .	O
 ’	O
+
 During	O
 his	O
 famous	O
@@ -3614,6 +3498,7 @@ lived	O
 in	O
 Britain	B-Location
 .	O
+
 This	O
 list	O
 includes	O
@@ -3637,6 +3522,7 @@ Subhas	B-Person
 Chandra	I-Person
 Bose	I-Person
 .	O
+
 By	O
 1830	B-Date
 ,	O
@@ -3671,6 +3557,7 @@ Britain	B-Location
 was	O
 negligible	O
 .	O
+
 In	O
 fact	O
 ,	O
@@ -3740,6 +3627,7 @@ stood	O
 at	O
 483,000	O
 .	O
+
 This	O
 started	O
 with	O
@@ -3770,6 +3658,7 @@ army	O
 remained	O
 behind	O
 .	O
+
 Punjabis	B-NORP
 and	O
 Sikhs	B-NORP
@@ -3799,6 +3688,7 @@ or	O
 police	O
 forces	O
 .	O
+
 These	O
 migrants	O
 filled	O
@@ -3844,6 +3734,7 @@ Uganda	B-Location
 in	O
 1972	B-Date
 .	O
+
 Amin	B-Person
 ’s	O
 actions	O
@@ -3861,6 +3752,7 @@ may	O
 follow	O
 suit	O
 .	O
+
 Instead	O
 of	O
 returning	O
@@ -3883,6 +3775,7 @@ London	I-Location
 and	O
 Leicester	B-Location
 .	O
+
 Harrow	B-Location
 alone	O
 took	O
@@ -3891,6 +3784,7 @@ refugees	O
 from	O
 Uganda	B-Location
 .	O
+
 These	O
 relatively	O
 wealthy	O
@@ -3910,6 +3804,7 @@ and	O
 Indian	B-NORP
 restaurants	O
 .	O
+
 Their	O
 attempts	O
 to	O
@@ -3953,6 +3848,7 @@ the	O
 British	B-NORP
 government	O
 .	O
+
 Before	O
 1962	B-Date
 ,	O
@@ -3970,6 +3866,7 @@ the	O
 UK	B-Location
 freely	O
 .	O
+
 However	O
 ,	O
 following	O
@@ -4019,6 +3916,7 @@ migrants	O
 that	O
 arrived	O
 .	O
+
 On	O
 one	O
 hand	O
@@ -4146,6 +4044,7 @@ out	O
 in	O
 Punjab	B-Location
 .	O
+
 It	O
 states	O
 that	O
@@ -4223,6 +4122,7 @@ generations	O
 of	O
 migrants	O
 .	O
+
 North	B-NORP
 Indians	I-NORP
 and	O
@@ -4247,6 +4147,7 @@ Gujarati	B-NORP
 communities	O
 there	O
 .	O
+
 However	O
 ,	O
 while	O
@@ -4315,6 +4216,7 @@ irregulars	O
 ’	O
 ”	O
 .	O
+
 These	O
 agents	O
 included	O
@@ -4359,6 +4261,7 @@ in	O
 the	O
 UK	B-Location
 .	O
+
 The	O
 irregular	O
 migrants	O
@@ -4385,6 +4288,7 @@ semi	O
 skilled	O
 youth	O
 .	O
+
 Being	O
 in	O
 the	O
@@ -4435,6 +4339,7 @@ as	O
 a	O
 whole	O
 .	O
+
 According	O
 to	O
 Schaefer	B-Person
@@ -4459,6 +4364,7 @@ or	O
 West	B-NORP
 Indians	I-NORP
 .	O
+
 He	O
 writes	O
 that	O
@@ -4529,6 +4435,7 @@ Indians	B-NORP
 and	O
 Chinese	B-NORP
 .	O
+
 The	O
 data	O
 ,	O
@@ -4562,6 +4469,7 @@ of	O
 per	O
 cent	O
 .	O
+
 This	O
 is	O
 the	O
@@ -4584,6 +4492,7 @@ at	O
 per	O
 cent	O
 .	O
+
 The	O
 same	O
 study	O
@@ -4615,6 +4524,7 @@ us	O
 three	O
 things	O
 .	O
+
 The	O
 first	O
 is	O
@@ -4633,6 +4543,7 @@ socio	O
 economic	O
 level	O
 .	O
+
 The	O
 second	O
 is	O
@@ -4655,6 +4566,7 @@ for	O
 future	O
 success	O
 .	O
+
 Lastly	O
 ,	O
 we	O
@@ -4702,6 +4614,7 @@ is	O
 Rishi	B-Person
 Sunak	I-Person
 .	O
+
 As	O
 a	O
 third	O
@@ -4737,6 +4650,7 @@ succeed	O
 in	O
 politics	O
 .	O
+
 But	O
 Sunak	B-Person
 ’s	O
@@ -4805,6 +4719,7 @@ any	O
 political	O
 office	O
 .	O
+
 Until	O
 last	O
 week	O
@@ -4845,6 +4760,7 @@ House	B-Organization
 of	I-Organization
 Lords	I-Organization
 .	O
+
 Back	O
 in	O
 the	O
@@ -4885,6 +4801,7 @@ from	O
 Central	B-Location
 Finsbury	I-Location
 .	O
+
 Mancherji	B-Person
 Bhownaggree	I-Person
 ,	O
@@ -4902,6 +4819,7 @@ elected	O
 to	O
 Parliament	B-Organization
 .	O
+
 While	O
 both	O
 advocated	O
@@ -4925,6 +4843,7 @@ suited	O
 for	O
 India	B-Location
 .	O
+
 Naoroji	B-Person
 was	O
 therefore	O
@@ -5024,6 +4943,7 @@ an	O
 English	B-NORP
 constituency	O
 .	O
+
 Despite	O
 losing	O
 reelection	O
@@ -5071,6 +4991,7 @@ other	O
 political	O
 capacities	O
 .	O
+
 Lal	B-Person
 Mohan	I-Person
 Ghose	I-Person
@@ -5095,6 +5016,7 @@ British	B-NORP
 in	O
 India	B-Location
 .	O
+
 Additionally	O
 ,	O
 Madame	O
@@ -5192,6 +5114,7 @@ casting	O
 their	O
 votes	O
 .	O
+
 According	O
 to	O
 a	O
@@ -5226,6 +5149,7 @@ to	O
 pay	O
 attention	O
 .	O
+
 In	O
 2015	B-Date
 ,	O
@@ -5245,6 +5169,7 @@ first	O
 Sikh	B-NORP
 member	O
 .	O
+
 The	O
 Conservative	B-Organization	B-NORP
 party	I-Organization
@@ -5328,6 +5253,7 @@ at	O
 per	O
 cent	O
 .	O
+
 Moreover	O
 ,	O
 only	O
@@ -5415,6 +5341,7 @@ terms	O
 of	O
 religion	O
 .	O
+
 While	O
 39	O
 per	O
@@ -5451,6 +5378,7 @@ of	O
 Christians	B-NORP
 agreed	O
 .	O
+
 Hindus	B-NORP
 are	O
 inclined	O
@@ -5478,6 +5406,7 @@ Muslims	B-NORP
 in	O
 general	O
 .	O
+
 This	O
 split	O
 is	O
@@ -5507,6 +5436,7 @@ days	O
 of	O
 migration	O
 .	O
+
 However	O
 as	O
 the	O
@@ -5540,6 +5470,7 @@ a	O
 sizeable	O
 lead	O
 .	O
+
 The	O
 Carnegie	B-Organization
 survey	O
@@ -5694,6 +5625,7 @@ up	O
 racial	O
 tensions	O
 .	O
+
 For	O
 example	O
 ,	O
@@ -5729,6 +5661,7 @@ violence	O
 against	O
 Hindus	B-NORP
 .	O
+
 His	O
 Twitter	B-Product
 picture	O
@@ -5799,9 +5732,9 @@ they	O
 were	O
 in	O
 the	O
-1970	B-Date
-s	O
+1970s	B-Date
 .	O
+
 They	O
 therefore	O
 have	O
@@ -5824,6 +5757,7 @@ grandparents	O
 would	O
 have	O
 .	O
+
 Sunak	B-Person
 was	O
 born	O
@@ -5845,6 +5779,7 @@ with	O
 domestic	O
 help	O
 .	O
+
 He	O
 is	O
 far	O
@@ -5887,6 +5822,7 @@ of	O
 Prime	O
 Minister	O
 .	O
+
 However	O
 ,	O
 while	O
@@ -5913,6 +5849,7 @@ victory	O
 for	O
 India	B-Location
 .	O
+
 The	O
 British	B-NORP
 Indian	I-NORP
@@ -5957,6 +5894,7 @@ Prime	O
 Minister	O
 Modi	B-Person
 .	O
+
 As	O
 the	O
 former	O
@@ -6014,6 +5952,7 @@ in	O
 intellect	O
 .	O
 ”	O
+
 Nearly	O
 two	O
 centuries	O
