@@ -318,8 +318,7 @@ food	O
 producer	O
 in	O
 the	O
-1970	B-Date
-s	O
+1970s	B-Date
 to	O
 an	O
 overly	O
@@ -568,8 +567,7 @@ food	O
 exporter	O
 until	O
 the	O
-1970	B-Date
-s	O
+1970s	B-Date
 ,	O
 the	O
 continent	O
@@ -734,8 +732,7 @@ subjected	O
 to	O
 from	O
 the	O
-1980	B-Date
-s	O
+1980s	B-Date
 .	O
 The	O
 Washington	B-Location
@@ -784,11 +781,9 @@ oversold	O
 ,	O
 ensuring	O
 the	O
-1980	B-Date
-s	O
+1980s	B-Date
 and	O
-1990	B-Date
-s	O
+1990s	B-Date
 were	O
 ‘	O
 lost	O
@@ -874,8 +869,7 @@ abandoned	O
 in	O
 the	O
 late	O
-1990	B-Date
-s	O
+1990s	B-Date
 following	O
 growing	O
 criticism	O

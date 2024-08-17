@@ -246,8 +246,7 @@ the	O
 UK	B-Location
 since	O
 the	O
-1700	B-Date
-s	O
+1700s	B-Date
 ,	O
 British	B-NORP	B-NORP
 Indians	I-NORP	B-NORP
@@ -1284,8 +1283,7 @@ the	O
 aftermath	O
 of	O
 the	O
-1980	B-Date
-s	O
+1980s	B-Date
 insurgency	O
 in	O
 Punjab	B-Location
@@ -4045,8 +4043,7 @@ the	O
 aftermath	O
 of	O
 the	O
-1980	B-Date
-s	O
+1980s	B-Date
 insurgency	O
 in	O
 Punjab	B-Location

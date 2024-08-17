@@ -396,8 +396,7 @@ Tata	B-Organization
 family	O
 in	O
 the	O
-1920	B-Date
-s	O
+1920s	B-Date
 ;	O
 both	O
 families	O
@@ -775,8 +774,7 @@ Mistry	B-Person
 bought	O
 in	O
 the	O
-1980	B-Date
-s	O
+1980s	B-Date
 ,	O
 which	O
 went	O

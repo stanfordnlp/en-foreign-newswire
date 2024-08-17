@@ -483,13 +483,11 @@ held	O
 to	O
 during	O
 the	O
-1970	B-Date
-s	O
+1970s	B-Date
 and	O
 early	O
 '	B-Date
-80	I-Date
-s	O
+80s	I-Date
 .	O
 The	O
 joke	O
@@ -534,8 +532,7 @@ died	O
 in	O
 the	O
 late	O
-2000	B-Date
-s	O
+2000s	B-Date
 and	O
 the	O
 final	O
@@ -1366,13 +1363,14 @@ through	O
 F	B-Product
 -	I-Product
 16	I-Product
-s	O
+s	I-Product
 and	O
 F	B-Product
 -	I-Product
 35	I-Product
-s	O
+s	I-Product
 .	O
+
 The	O
 air	O
 defense	O
@@ -1496,12 +1494,10 @@ the	O
 confines	O
 of	O
 the	O
-1990	B-Date
-s	O
+1990s	B-Date
 and	O
 early	O
-2000	B-Date
-s	O
+2000s	B-Date
 .	O
 
 Q	O

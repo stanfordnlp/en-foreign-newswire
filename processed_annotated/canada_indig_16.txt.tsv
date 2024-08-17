@@ -1024,8 +1024,7 @@ case	O
 from	O
 the	O
 early	O
-2000	B-Date
-s	O
+2000s	B-Date
 when	O
 a	O
 group	O

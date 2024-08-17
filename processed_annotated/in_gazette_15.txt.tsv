@@ -586,8 +586,7 @@ a	O
 major	O
 turn	O
 after	O
-1920	B-Date
-s	O
+1920s	B-Date
 ,	O
 when	O
 Gandhi	B-Person

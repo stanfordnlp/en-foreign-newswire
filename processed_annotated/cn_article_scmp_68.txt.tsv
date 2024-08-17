@@ -795,8 +795,7 @@ influence	O
 Well	O
 into	O
 the	O
-1980	B-Date
-s	O
+1980s	B-Date
 ,	O
 Washington	B-Location
 supported	O
@@ -1773,8 +1772,7 @@ ready	O
 .	O
 In	O
 the	O
-1990	B-Date
-s	O
+1990s	B-Date
 ,	O
 Argentina	B-Location
 had	O
@@ -1967,8 +1965,7 @@ projects	O
 in	O
 the	O
 early	O
-2000	B-Date
-s	O
+2000s	B-Date
 ,	O
 around	O
 the	O

@@ -462,11 +462,9 @@ with	O
 Africa	B-Location
 between	O
 the	O
-1950	B-Date
-s	O
+1950s	B-Date
 and	O
-1970	B-Date
-s	O
+1970s	B-Date
 ,	O
 it	O
 offered	O
