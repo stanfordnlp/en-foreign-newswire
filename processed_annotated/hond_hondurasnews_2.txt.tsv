@@ -17,8 +17,7 @@ company	O
 of	O
 Carl	B-Organization	B-Person
 ’s	I-Organization
-Jr	I-Organization
-.	I-Organization
+Jr.	I-Organization
 ®	I-Organization
 and	O
 Hardee	B-Organization
