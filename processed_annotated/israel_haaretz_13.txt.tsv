@@ -760,13 +760,13 @@ the	O
 mental	O
 health	O
 of	O
-Mrs	O
-.	O
+Mrs.	O
 Leifer	B-Person
 or	O
 anyone	O
 else	O
 .	O
+
 Over	O
 a	O
 long	O
@@ -813,15 +813,14 @@ give	O
 their	O
 assessment	O
 of	O
-Mrs	O
-.	O
+Mrs.	O
 Leifer	B-Person
 .	O
+
 They	O
 have	O
 found	O
-Mrs	O
-.	O
+Mrs.	O
 Leifer	B-Person
 has	O
 a	O

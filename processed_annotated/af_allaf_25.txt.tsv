@@ -82,8 +82,7 @@ of	O
 the	O
 rainbow	O
 with	O
-Mrs	O
-.	O
+Mrs.	O
 Mai	B-Person
 Urey	I-Person
 ,	O
@@ -121,8 +120,7 @@ ALP	B-Organization
 )	O
 .	O
 
-Mrs	O
-.	O
+Mrs.	O
 Urey	B-Person
 ,	O
 the	O
@@ -372,8 +370,7 @@ Church	I-Organization
 ,	O
 of	O
 which	O
-Mrs	O
-.	O
+Mrs.	O
 Urey	B-Person
 is	O
 a	O
@@ -407,8 +404,7 @@ Catholic	I-Organization	B-NORP
 Church	I-Organization
 ,	O
 where	O
-Mrs	O
-.	O
+Mrs.	O
 Urey	B-Person
 is	O
 a	O
