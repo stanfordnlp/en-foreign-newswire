@@ -18,11 +18,11 @@ of	O
 Carl	B-Organization	B-Person
 ’s	I-Organization
 Jr.	I-Organization
-®	I-Organization
+®	O
 and	O
 Hardee	B-Organization
 ’s	I-Organization
-®	I-Organization
+®	O
 ,	O
 announced	O
 today	O
@@ -351,7 +351,7 @@ Black	O
 Angus	O
 beef	O
 Thickburgers	B-Product
-®	I-Product
+®	O
 
 ◦	O
 High	O
@@ -368,7 +368,7 @@ Hand	B-Product
 Breaded	I-Product
 Chicken	I-Product
 Tenders	I-Product
-™	I-Product
+™	O
 
 ◦	O
 Made	B-Product
@@ -384,7 +384,7 @@ Scooped	I-Product
 Ice	I-Product
 Cream	I-Product
 Shakes	I-Product
-™	I-Product
+™	O
 
 ◦	O
 Special	O
