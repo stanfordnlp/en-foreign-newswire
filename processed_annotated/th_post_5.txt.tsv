@@ -128,6 +128,7 @@ many	O
 Asian	B-NORP
 counties	O
 .	O
+
 The	O
 series	O
 has	O
@@ -290,6 +291,7 @@ to	O
 the	O
 owner	O
 .	O
+
 I	O
 remind	O
 you	O
@@ -305,6 +307,7 @@ your	O
 own	O
 stuff	O
 .	O
+
 If	O
 you	O
 do	O
@@ -367,6 +370,7 @@ about	O
 a	O
 flower	O
 ?	O
+
 Lamduan	B-Location
 flowers	O
 are	O

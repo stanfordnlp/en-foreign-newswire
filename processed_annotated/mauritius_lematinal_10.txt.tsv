@@ -9,6 +9,7 @@ has	O
 been	O
 reconstituted	O
 .	O
+
 Me	B-Person
 Maxime	I-Person
 Sauzier	I-Person
@@ -17,6 +18,7 @@ the	O
 new	O
 president	O
 .	O
+
 He	O
 replaces	O
 Nayen	B-Person
@@ -75,6 +77,7 @@ have	O
 been	O
 replaced	O
 .	O
+
 The	O
 new	O
 members	O

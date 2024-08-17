@@ -6,6 +6,7 @@ News	I-Organization
 26	B-Date
 June	I-Date
 -	O
+
 In	O
 Madagascar	B-Location
 ,	O
@@ -35,6 +36,7 @@ the	O
 large	O
 island	O
 .	O
+
 If	O
 not	O
 checked	O
@@ -80,6 +82,7 @@ development	O
 in	O
 Madagascar	B-Location
 .	O
+
 The	O
 agency	O
 warns	O
@@ -127,6 +130,7 @@ island	O
 total	O
 population	O
 .	O
+
 Nine	O
 million	O
 of	O
@@ -147,6 +151,7 @@ according	O
 to	O
 FAO	B-Organization
 .	O
+
 The	O
 UN	B-Organization
 agency	O
@@ -184,6 +189,7 @@ for	O
 financial	O
 support	O
 .	O
+
 FAO	B-Organization
 Director	O
 -	O
@@ -205,6 +211,7 @@ meet	O
 locust	O
 plagues	O
 .	O
+
 "	O
 If	O
 we	O
@@ -226,6 +233,7 @@ millions	I-Money
 of	I-Money
 dollars	I-Money
 .	O
+
 This	O
 could	O
 very	O
@@ -268,6 +276,7 @@ of	O
 the	O
 island	O
 .	O
+
 According	O
 to	O
 FAO	B-Organization
@@ -324,6 +333,7 @@ the	O
 swarming	O
 locusts	O
 .	O
+
 According	O
 to	O
 FAO	B-Organization
@@ -372,6 +382,7 @@ spraying	O
 of	O
 insecticides	O
 .	O
+
 Swarming	O
 locusts	O
 occur	O
@@ -395,6 +406,7 @@ use	O
 of	O
 insecticides	O
 .	O
+
 When	O
 they	O
 first	O

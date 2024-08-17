@@ -46,6 +46,7 @@ on	O
 the	O
 cards	O
 .	O
+
 And	O
 it	O
 wo	O
@@ -151,6 +152,7 @@ the	O
 Southern	B-Location
 Ocean	I-Location
 .	O
+
 And	O
 it	O
 ’s	O
@@ -391,6 +393,7 @@ with	O
 possible	O
 storms	O
 .	O
+
 The	O
 moisture	O
 will	O
@@ -665,6 +668,7 @@ east	O
 around	O
 Remark	B-Location
 .	O
+
 Damaging	O
 wind	O
 gusts	O
@@ -695,6 +699,7 @@ in	O
 the	O
 evening	O
 .	O
+
 Showers	O
 can	O
 be	O
@@ -851,6 +856,7 @@ from	O
 midweek	O
 onwards	O
 .	O
+
 Canberra	B-Location
 is	O
 looking	O
@@ -885,6 +891,7 @@ reaches	O
 the	O
 capital	O
 .	O
+
 Thunderstorms	O
 are	O
 also	O
@@ -909,6 +916,7 @@ mm	O
 on	O
 Thursday	B-Date
 .	O
+
 Prepare	O
 for	O
 a	O

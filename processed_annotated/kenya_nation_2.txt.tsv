@@ -87,6 +87,7 @@ girlfriend	O
 Agnes	B-Person
 Kagwira	I-Person
 .	O
+
 The	O
 couple	O
 died	O
@@ -137,6 +138,7 @@ for	O
 dowry	O
 negotiations	O
 .	O
+
 They	O
 were	O
 returning	O
@@ -217,6 +219,7 @@ on	O
 Tuesday	B-Misc
 evening	O
 .	O
+
 He	O
 was	O
 taking	O
@@ -426,6 +429,7 @@ to	O
 full	O
 capacity	O
 .	O
+
 It	O
 is	O
 at	O
@@ -731,6 +735,7 @@ he	O
 lost	O
 consciousness	O
 .	O
+
 He	O
 broke	O
 his	O

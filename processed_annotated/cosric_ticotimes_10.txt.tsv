@@ -16,6 +16,7 @@ him	O
 a	O
 surprise	O
 .	O
+
 So	O
 ,	O
 I	O
@@ -55,6 +56,7 @@ across	O
 3	O
 kilometers	O
 .	O
+
 It	O
 is	O
 located	O
@@ -114,6 +116,7 @@ in	O
 Costa	B-Location
 Rica	I-Location
 .	O
+
 It	O
 is	O
 also	O
@@ -152,6 +155,7 @@ from	O
 San	B-Location
 Jose	I-Location
 .	O
+
 The	O
 Pulmitan	B-Location
 de	I-Location

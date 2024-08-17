@@ -22,6 +22,7 @@ led	O
 to	O
 failure	O
 .	O
+
 But	O
 now	O
 the	O
@@ -35,6 +36,7 @@ extreme	O
 of	O
 inefficiency	O
 .	O
+
 In	O
 terms	O
 of	O
@@ -297,6 +299,7 @@ the	O
 Family	B-Misc
 Code	I-Misc
 .	O
+
 In	O
 practice	O
 ,	O
@@ -366,6 +369,7 @@ of	I-Organization
 Popular	I-Organization
 Power	I-Organization
 .	O
+
 The	O
 law	O
 ,	O
@@ -448,6 +452,7 @@ example	O
 ,	O
 femicides	O
 .	O
+
 Because	O
 Cuba	B-Location
 is	O
@@ -589,6 +594,7 @@ Advancement	I-Misc
 of	I-Misc
 Women	I-Misc
 .	O
+
 A	O
 month	O
 later	O
@@ -777,6 +783,7 @@ male	O
 and	O
 female	O
 .	O
+
 This	O
 was	O
 also	O
@@ -937,6 +944,7 @@ children	O
 in	O
 Cuba	B-Location
 .	O
+
 At	O
 the	O
 beginning	O
@@ -1164,6 +1172,7 @@ of	O
 their	O
 children	O
 .	O
+
 They	O
 are	O
 often	O
@@ -1300,6 +1309,7 @@ gender	O
 issues	O
 ?	O
 "	O
+
 What	O
 good	O
 has	O
@@ -1312,6 +1322,7 @@ advancement	O
 program	O
 been	O
 ?	O
+
 Its	O
 only	O
 contribution	O

@@ -147,6 +147,7 @@ very	O
 little	O
 nickel	O
 .	O
+
 Thus	O
 ,	O
 it	O
@@ -250,6 +251,7 @@ electric	O
 car	O
 batteries	O
 .	O
+
 Now	O
 it	O
 has	O
@@ -380,6 +382,7 @@ in	O
 and	O
 2021	B-Date
 .	O
+
 It	O
 expects	O
 to	O
@@ -421,6 +424,7 @@ century	O
 before	O
 receding	O
 .	O
+
 Lately	O
 it	O
 has	O
@@ -518,6 +522,7 @@ and	O
 Soviet	B-NORP
 investments	O
 .	O
+
 A	O
 technician	O
 at	O
@@ -750,6 +755,7 @@ to	O
 reach	O
 120,000	O
 .	O
+
 Now	O
 the	O
 objective	O
@@ -759,6 +765,7 @@ reach	O
 50,000	O
 tons	O
 .	O
+
 Obviously	O
 ,	O
 all	O
@@ -857,6 +864,7 @@ Sherrit	B-Organization
 International	I-Organization
 Corporation	I-Organization
 .	O
+
 Ramiro	B-Person
 Valdés	I-Person
 chided	O
@@ -933,6 +941,7 @@ $	B-Money
 156	I-Money
 million	I-Money
 .	O
+
 It	O
 has	O
 also	O
@@ -954,6 +963,7 @@ and	O
 unplanned	O
 repairs	O
 .	O
+
 Although	O
 it	O
 has	O
@@ -1192,6 +1202,7 @@ dollars	I-Money
 a	O
 year	O
 .	O
+
 Now	O
 it	O
 is	O
@@ -1250,6 +1261,7 @@ at	O
 17.9	O
 %	O
 .	O
+
 In	O
 2019	B-Date
 ,	O
@@ -1267,6 +1279,7 @@ overall	O
 Cuban	B-NORP
 exports	O
 .	O
+
 The	O
 main	O
 buyer	O
@@ -1313,6 +1326,7 @@ increase	O
 nickel	O
 exports	O
 ?	O
+
 The	O
 magic	O
 recipe	O
@@ -1340,6 +1354,7 @@ human	O
 capital	O
 .	O
 "	O
+
 He	O
 demanded	O
 "	O

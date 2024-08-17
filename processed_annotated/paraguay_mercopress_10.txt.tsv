@@ -117,6 +117,7 @@ capital	O
 of	O
 Amambay	B-Location
 .	O
+
 He	O
 is	O
 the	O
@@ -158,6 +159,7 @@ hours	O
 of	O
 surgery	O
 .	O
+
 He	O
 was	O
 shot	O
@@ -184,6 +186,7 @@ the	O
 left	O
 arm	O
 .	O
+
 A	O
 part	O
 of	O
@@ -193,6 +196,7 @@ was	O
 also	O
 affected	O
 .	O
+
 He	O
 has	O
 already	O
@@ -203,12 +207,14 @@ once	O
 doctors	O
 said	O
 .	O
+
 “	O
 He	O
 is	O
 still	O
 delicate	O
 .	O
+
 Now	O
 we	O
 are	O
@@ -251,6 +257,7 @@ PJC	B-Facility
 's	I-Facility
 Courthouse	I-Facility
 .	O
+
 According	O
 to	O
 video	O
@@ -314,6 +321,7 @@ on	O
 his	O
 brother	O
 .	O
+
 “	O
 We	O
 can	O
@@ -359,6 +367,7 @@ Government	O
 called	O
 me	O
 .	O
+
 I	O
 do	O
 n't	O
@@ -374,6 +383,7 @@ for	O
 he	O
 added	O
 .	O
+
 What	O
 can	O
 you	O
@@ -418,6 +428,7 @@ their	O
 presence	O
 for	O
 ?	O
+
 So	O
 when	O
 they	O
@@ -440,6 +451,7 @@ stop	O
 fucking	O
 around	O
 .	O
+
 We	O
 need	O
 blood	O

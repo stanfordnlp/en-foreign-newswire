@@ -69,6 +69,7 @@ Walls	I-Misc
 in	O
 Gaza	O
 .	O
+
 After	O
 the	O
 war	O
@@ -152,6 +153,7 @@ Ramle	B-Location
 and	O
 Acre	B-Location
 .	O
+
 It	O
 paid	O
 3.8	B-Money
@@ -174,6 +176,7 @@ shekels	I-Money
 to	O
 Ramle	B-Location
 .	O
+
 It	O
 also	O
 pledged	O
@@ -197,6 +200,7 @@ and	O
 receipts	O
 submitted	O
 .	O
+
 Lod	B-Location
 is	O
 still	O
@@ -243,6 +247,7 @@ and	O
 Deir	B-Location
 Hanna	I-Location
 .	O
+
 The	O
 Tax	B-Organization
 Authority	I-Organization
@@ -286,6 +291,7 @@ reported	O
 last	O
 month	O
 .	O
+
 Legal	O
 experts	O
 told	O
@@ -362,6 +368,7 @@ the	O
 Gaza	B-Location
 conflict	O
 .	O
+
 The	O
 Tax	B-Organization
 Authority	I-Organization
@@ -409,6 +416,7 @@ the	O
 Arab	B-NORP
 public	O
 .	O
+
 After	O
 designating	O
 some	O
@@ -466,6 +474,7 @@ discriminated	O
 against	O
 .	O
 ”	O
+
 Yunas	B-Person
 added	O
 :	O
@@ -488,6 +497,7 @@ the	O
 Arab	B-NORP
 public	O
 .	O
+
 We	O
 are	O
 prepared	O
@@ -548,6 +558,7 @@ very	O
 disturbing	O
 picture	O
 .	O
+
 Our	O
 inquiries	O
 to	O

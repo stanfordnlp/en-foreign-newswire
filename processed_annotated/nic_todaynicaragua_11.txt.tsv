@@ -8,6 +8,7 @@ Remember	O
 Bianca	B-Person
 Jagger	I-Person
 ?	O
+
 You	O
 know	O
 ,	O
@@ -101,6 +102,7 @@ in	O
 the	O
 lobby	O
 .	O
+
 Bianca	B-Person
 had	O
 been	O
@@ -110,6 +112,7 @@ the	O
 election	O
 campaign	O
 :	O
+
 There	O
 was	O
 Bianca	B-Person
@@ -172,6 +175,7 @@ sunglasses	O
 after	O
 dark	O
 .	O
+
 But	O
 this	O
 morning	O
@@ -181,6 +185,7 @@ looked	O
 her	O
 age	O
 .	O
+
 Here	O
 we	O
 had	O
@@ -243,6 +248,7 @@ all	O
 the	O
 world	O
 .	O
+
 But	O
 then	O
 the	O
@@ -293,6 +299,7 @@ goes	O
 to	O
 hell	O
 .	O
+
 She	O
 ’s	O
 “	O
@@ -326,6 +333,7 @@ phone	O
 from	O
 Nicaragua	B-Location
 .	O
+
 Over	O
 the	O
 past	O
@@ -359,6 +367,7 @@ on	O
 to	O
 power	O
 .	O
+
 We	O
 had	O
 talked	O
@@ -398,6 +407,7 @@ Oh	O
 ,	O
 barf	O
 .	O
+
 And	O
 by	O
 extension	O
@@ -433,6 +443,7 @@ the	O
 Daily	B-Organization
 Beast	I-Organization
 .	O
+
 Yep	O
 ,	O
 that	O
@@ -475,6 +486,7 @@ such	O
 as	O
 Jagger	B-Person
 .	O
+
 Ortega	B-Person
 ’s	O
 victory	O
@@ -499,6 +511,7 @@ a	O
 communist	O
 dictatorship	O
 .	O
+
 Never	O
 again	O
 would	O
@@ -522,6 +535,7 @@ election	O
 of	O
 1990	B-Date
 .	O
+
 Polls	O
 at	O
 the	O
@@ -547,6 +561,7 @@ of	O
 socialist	O
 ideas	O
 .	O
+
 Nicaraguans	B-NORP
 ,	O
 on	O
@@ -602,6 +617,7 @@ dictator	O
 for	O
 life	O
 .	O
+
 Ortega	B-Person
 watched	O
 and	O
@@ -643,6 +659,7 @@ in	O
 by	O
 elections	O
 .	O
+
 This	O
 time	O
 ,	O
@@ -658,6 +675,7 @@ free	O
 election	O
 again	O
 .	O
+
 Everything	O
 that	O
 has	O
@@ -684,6 +702,7 @@ rigging	O
 and	O
 cheating	O
 .	O
+
 One	O
 man	O
 ,	O
@@ -697,6 +716,7 @@ the	O
 saying	O
 goes	O
 .	O
+
 That	O
 ’s	O
 why	O
@@ -723,6 +743,7 @@ in	O
 the	O
 streets	O
 .	O
+
 Ortega	B-Person
 ,	O
 as	O
@@ -737,6 +758,7 @@ give	O
 up	O
 power	O
 .	O
+
 Raul	B-Person
 Castro	I-Person
 and	O

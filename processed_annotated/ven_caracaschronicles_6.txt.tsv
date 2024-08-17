@@ -12,6 +12,7 @@ politics	O
 is	O
 discouraging	O
 .	O
+
 Although	O
 the	O
 recent	O
@@ -77,6 +78,7 @@ parties	O
 and	O
 institutions	O
 .	O
+
 Of	O
 the	O
 fifteen	O
@@ -112,6 +114,7 @@ led	O
 by	O
 women	O
 .	O
+
 Women	O
 are	O
 excluded	O
@@ -164,6 +167,7 @@ political	O
 leadership	O
 positions	O
 .	O
+
 Excluding	O
 women	O
 hurts	O
@@ -176,6 +180,7 @@ Venezuelan	B-NORP
 parties	O
 themselves	O
 .	O
+
 Parties	O
 benefit	O
 from	O
@@ -244,6 +249,7 @@ unique	O
 to	O
 Venezuela	B-Location
 .	O
+
 Many	O
 of	O
 our	O
@@ -259,6 +265,7 @@ in	O
 empowering	O
 women	O
 .	O
+
 Building	O
 on	O
 their	O

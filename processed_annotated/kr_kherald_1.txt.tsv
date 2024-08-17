@@ -80,6 +80,7 @@ prices	O
 in	O
 Korea	B-Location
 .	O
+
 Inflation	O
 hit	O
 a	O
@@ -305,6 +306,7 @@ citing	O
 little	O
 data	O
 .	O
+
 The	O
 Korean	B-NORP
 finance	O

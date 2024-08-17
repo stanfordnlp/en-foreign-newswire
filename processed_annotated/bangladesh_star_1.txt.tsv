@@ -92,6 +92,7 @@ Rabindranath	B-Person
 Tagore	I-Person
 )	O
 .	O
+
 I	O
 came	O
 upon	O
@@ -181,6 +182,7 @@ of	O
 the	O
 original	O
 .	O
+
 Now	O
 ,	O
 how	O
@@ -200,6 +202,7 @@ completely	O
 their	O
 business	O
 .	O
+
 But	O
 to	O
 hear	O
@@ -226,6 +229,7 @@ had	O
 me	O
 fuming	O
 .	O
+
 I	O
 did	O
 not	O
@@ -294,6 +298,7 @@ verse	O
 of	O
 Tagore	B-Person
 .	O
+
 And	O
 so	O
 I	O
@@ -315,6 +320,7 @@ songeet	O
 and	O
 clicked	O
 .	O
+
 I	O
 listened	O
 objectively	O
@@ -347,6 +353,7 @@ blue	O
 satin	O
 shirts	O
 .	O
+
 Otherwise	O
 ,	O
 my	O
@@ -372,6 +379,7 @@ pretended	O
 to	O
 )	O
 .	O
+
 There	O
 were	O
 no	O
@@ -392,6 +400,7 @@ electric	O
 guitar	O
 riffs	O
 .	O
+
 Granted	O
 ,	O
 Hero	B-Person
@@ -425,6 +434,7 @@ singing	O
 similar	O
 classics	O
 .	O
+
 If	O
 it	O
 is	O
@@ -557,6 +567,7 @@ others	O
 like	O
 his	O
 ?	O
+
 Well	O
 ,	O
 first	O
@@ -592,6 +603,7 @@ purists	O
 /	O
 police	O
 .	O
+
 But	O
 he	O
 is	O
@@ -608,6 +620,7 @@ self	O
 -	O
 made	O
 .	O
+
 However	O
 distasteful	O
 his	O
@@ -634,6 +647,7 @@ he	O
 is	O
 now	O
 .	O
+
 Yet	O
 ,	O
 given	O
@@ -665,6 +679,7 @@ is	O
 not	O
 popular	O
 .	O
+
 So	O
 much	O
 so	O
@@ -725,6 +740,7 @@ different	O
 than	O
 ours	O
 ?	O
+
 Who	O
 are	O
 "	O
@@ -754,6 +770,7 @@ others	O
 like	O
 him	O
 ?	O
+
 Who	O
 do	O
 we	O
@@ -766,6 +783,7 @@ like	O
 him	O
 "	O
 ?	O
+
 Surely	O
 not	O
 those	O
@@ -807,6 +825,7 @@ art	O
 and	O
 literature	O
 .	O
+
 It	O
 is	O
 sadly	O
@@ -897,6 +916,7 @@ humble	O
 socioeconomic	O
 background	O
 .	O
+
 As	O
 developed	O
 as	O

@@ -150,6 +150,7 @@ million	O
 units	O
 shipped	O
 .	O
+
 Collectively	O
 ,	O
 Chinese	B-NORP
@@ -324,6 +325,7 @@ million	O
 units	O
 shipped	O
 .	O
+
 Collectively	O
 ,	O
 Chinese	B-NORP
@@ -405,6 +407,7 @@ analyst	O
 at	O
 Canalys	B-Organization
 .	O
+
 He	O
 added	O
 that	O
@@ -462,6 +465,7 @@ earlier	O
 this	O
 month	O
 .	O
+
 The	O
 Enforcement	B-Organization
 Directorate	I-Organization
@@ -493,6 +497,7 @@ $	I-Money
 58.7	I-Money
 million	I-Money
 .	O
+
 The	O
 move	O
 followed	O

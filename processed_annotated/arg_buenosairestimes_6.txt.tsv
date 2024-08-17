@@ -47,6 +47,7 @@ when	O
 going	O
 wrong	O
 .	O
+
 Almost	O
 immediately	O
 Britain	B-Location
@@ -148,6 +149,7 @@ with	O
 everything	O
 )	O
 .	O
+
 Yet	O
 the	O
 “	O
@@ -173,6 +175,7 @@ Argentina	B-Location
 tragicomic	O
 politics	O
 .	O
+
 That	O
 nemesis	O
 of	O
@@ -220,6 +223,7 @@ of	O
 all	O
 names	O
 .	O
+
 But	O
 rather	O
 more	O
@@ -296,6 +300,7 @@ a	O
 century	O
 ago	O
 .	O
+
 The	O
 newspaper	O
 reading	O
@@ -349,6 +354,7 @@ the	O
 budget	O
 deficit	O
 .	O
+
 The	O
 difference	O
 between	O
@@ -433,6 +439,7 @@ and	O
 far	O
 between	O
 .	O
+
 Debt	O
 be	O
 not	O
@@ -509,6 +516,7 @@ minister	O
 Martín	B-Person
 Guzmán	I-Person
 .	O
+
 The	O
 latter	O
 ’s	O
@@ -653,6 +661,7 @@ percent	O
 since	O
 then	O
 .	O
+
 And	O
 yet	O
 in	O
@@ -696,6 +705,7 @@ Bolsover	B-Location
 or	O
 Workington	B-Location
 .	O
+
 But	O
 you	O
 can	O
@@ -738,6 +748,7 @@ and	O
 conventions	O
 .	O
 ”	O
+
 When	O
 Argentina	B-Location
 chaired	O
@@ -764,6 +775,7 @@ G	B-Organization
 foreign	O
 ministers	O
 .	O
+
 While	O
 off	O
 duty	O
@@ -826,6 +838,7 @@ after	O
 its	O
 builders	O
 .	O
+
 BoJo	B-Person
 was	O
 taken	O
@@ -866,6 +879,7 @@ in	O
 a	O
 flash	O
 .	O
+
 Breaking	O
 rules	O
 would	O
@@ -936,6 +950,7 @@ so	O
 chivalrous	O
 )	O
 .	O
+
 Plenty	O
 of	O
 time	O

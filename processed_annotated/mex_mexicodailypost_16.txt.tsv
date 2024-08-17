@@ -55,6 +55,7 @@ the	O
 World	I-NORP
 Cup	I-NORP
 .	O
+
 He	O
 contributed	O
 nothing	O
@@ -77,6 +78,7 @@ the	O
 expected	O
 results	O
 .	O
+
 Now	O
 ,	O
 to	O
@@ -164,6 +166,7 @@ fans	O
 and	O
 press	O
 .	O
+
 As	O
 a	O
 result	O
@@ -210,6 +213,7 @@ matter	O
 of	O
 time	O
 .	O
+
 However	O
 ,	O
 the	O
@@ -241,6 +245,7 @@ in	O
 El	B-Organization
 Tri	I-Organization
 .	O
+
 He	O
 assured	O
 that	O

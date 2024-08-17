@@ -117,6 +117,7 @@ drives	O
 up	O
 prices	O
 .	O
+
 Recall	O
 BP	B-Organization
 ’s	O
@@ -161,6 +162,7 @@ a	O
 distant	O
 memory	O
 .	O
+
 Indeed	O
 ,	O
 a	O
@@ -238,6 +240,7 @@ the	O
 climate	O
 crisis	O
 .	O
+
 However	O
 ,	O
 the	O
@@ -463,6 +466,7 @@ of	O
 Big	B-Organization
 Oil	I-Organization
 .	O
+
 Instead	O
 ,	O
 let	O
@@ -482,6 +486,7 @@ decentralised	O
 renewable	O
 energies	O
 .	O
+
 Whether	O
 it	O
 ’s	O
@@ -539,6 +544,7 @@ hardship	O
 for	O
 Africans	B-NORP
 .	O
+
 It	O
 has	O
 only	O
@@ -600,6 +606,7 @@ access	O
 to	O
 electricity	O
 .	O
+
 Instead	O
 of	O
 following	O
@@ -653,6 +660,7 @@ from	O
 climate	O
 destruction	O
 .	O
+
 Yet	O
 shamefully	O
 ,	O
@@ -770,6 +778,7 @@ targets	O
 no	O
 action	O
 .	O
+
 Speeches	O
 are	O
 made	O

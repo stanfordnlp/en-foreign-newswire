@@ -62,6 +62,7 @@ have	O
 some	O
 value	O
 .	O
+
 It	O
 's	O
 not	O
@@ -74,6 +75,7 @@ flip	O
 -	O
 flop	O
 .	O
+
 That	O
 's	O
 not	O
@@ -110,6 +112,7 @@ confidence	O
 in	O
 us	O
 .	O
+
 And	O
 do	O
 n't	O
@@ -124,9 +127,11 @@ faith	O
 in	O
 us	O
 .	O
+
 Be	O
 vigilant	O
 .	O
+
 Are	O
 we	O
 saints	O
@@ -135,6 +140,7 @@ are	O
 we	O
 dishonest	O
 ?	O
+
 If	O
 you	O
 do	O
@@ -254,6 +260,7 @@ and	O
 fair	O
 manner	O
 .	O
+
 As	O
 of	O
 yesterday	O
@@ -299,12 +306,14 @@ power	O
 of	O
 money	O
 ?	O
+
 You	O
 give	O
 me	O
 some	O
 ideas	O
 .	O
+
 Many	O
 spend	O
 sacks	O
@@ -313,12 +322,14 @@ money	O
 during	O
 elections	O
 .	O
+
 How	O
 can	O
 I	O
 control	O
 this	O
 ?	O
+
 In	O
 public	O
 ,	O
@@ -334,6 +345,7 @@ Tk	B-Money
 5	I-Money
 lakh	I-Money
 .	O
+
 How	O
 can	O
 they	O
@@ -430,6 +442,7 @@ power	O
 during	O
 elections	O
 .	O
+
 Besides	O
 ,	O
 the	O

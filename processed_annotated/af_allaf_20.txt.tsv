@@ -262,6 +262,7 @@ N	B-Location
 )	O
 1.2	O
 KM	O
+
 Suame	B-Facility	B-Location
 Roundabout	I-Facility
 -	O
@@ -287,6 +288,7 @@ IR	I-Facility
 )	I-Facility
 1.9	O
 KM	O
+
 Suame	B-Facility
 Roundabout	I-Facility
 -	O

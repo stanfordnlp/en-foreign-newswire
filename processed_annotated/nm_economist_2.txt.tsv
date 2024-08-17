@@ -31,6 +31,7 @@ vast	O
 African	B-NORP
 population	O
 .	O
+
 On	O
 this	O
 day	O
@@ -94,6 +95,7 @@ the	O
 planning	O
 phase	O
 .	O
+
 Commenting	O
 after	O
 the	O
@@ -115,6 +117,7 @@ is	O
 currently	O
 available	O
 .	O
+
 The	O
 cable	O
 is	O
@@ -160,6 +163,7 @@ national	O
 telecommunications	O
 infrastructure	O
 .	O
+
 This	O
 cable	O
 will	O
@@ -198,6 +202,7 @@ current	O
 WACS	B-Organization
 cable	O
 .	O
+
 The	O
 cable	O
 will	O
@@ -281,6 +286,7 @@ connectivity	O
 until	O
 now	O
 .	O
+
 The	O
 landing	O
 of	O
@@ -304,6 +310,7 @@ larger	O
 than	O
 WACS	B-Organization
 .	O
+
 This	O
 will	O
 not	O

@@ -107,6 +107,7 @@ Tizya	B-Person
 Tramm	I-Person
 says	O
 .	O
+
 “	O
 For	O
 this	O
@@ -343,6 +344,7 @@ is	O
 extremely	O
 dangerous	O
 .	O
+
 He	O
 notes	O
 he	O
@@ -379,6 +381,7 @@ degrees	O
 Celsius	O
 )	O
 .	O
+
 Our	O
 hunters	O
 know	O
@@ -443,6 +446,7 @@ could	O
 be	O
 found	O
 .	O
+
 Tizya	B-Person
 -	I-Person
 Tramm	I-Person
@@ -769,6 +773,7 @@ almost	O
 three	O
 months	O
 .	O
+
 Weather	O
 and	O
 seasonal	O
@@ -958,6 +963,7 @@ impacted	O
 by	O
 overflow	O
 .	O
+
 However	O
 ,	O
 he	O

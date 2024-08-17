@@ -128,6 +128,7 @@ Tema	B-Location
 and	O
 Debre	B-Location
 .	O
+
 The	O
 Debre	B-Facility	B-Location
 Inland	I-Facility
@@ -163,6 +164,7 @@ many	O
 other	O
 benefits	O
 .	O
+
 The	O
 entire	O
 project	O
@@ -242,6 +244,7 @@ and	O
 industrial	O
 park	O
 .	O
+
 Using	O
 the	O
 Volta	B-Location
@@ -262,6 +265,7 @@ the	O
 Tema	B-Facility	B-Location
 Port	I-Facility
 .	O
+
 These	O
 containers	O
 will	O
@@ -288,6 +292,7 @@ Debre	B-Facility
 Inland	I-Facility
 Port	I-Facility
 .	O
+
 In	O
 Debre	B-Location
 ,	O

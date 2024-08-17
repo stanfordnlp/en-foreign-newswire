@@ -31,6 +31,7 @@ President	O
 Yoweri	B-Person
 Museveni	I-Person
 .	O
+
 But	O
 will	O
 the	O
@@ -109,6 +110,7 @@ result	O
 will	O
 be	O
 .	O
+
 Currently	O
 ,	O
 President	O
@@ -124,6 +126,7 @@ of	O
 votes	O
 cast	O
 .	O
+
 Opposition	O
 leader	O
 Besigye	B-Person
@@ -232,6 +235,7 @@ own	O
 rap	O
 song	O
 .	O
+
 Bullying	O
 and	O
 intimidation	O
@@ -273,6 +277,7 @@ be	O
 less	O
 peaceful	O
 .	O
+
 The	O
 opposition	O
 ,	O
@@ -334,6 +339,7 @@ publishing	O
 of	O
 results	O
 .	O
+
 All	O
 demands	O
 were	O
@@ -395,6 +401,7 @@ for	O
 President	O
 Museveni	B-Person
 .	O
+
 But	O
 the	O
 group	O
@@ -430,6 +437,7 @@ Commission	I-Organization
 's	O
 results	O
 .	O
+
 But	O
 they	O
 soon	O
@@ -468,6 +476,7 @@ Museveni	B-Person
 in	O
 office	O
 .	O
+
 He	O
 has	O
 however	O
@@ -519,6 +528,7 @@ again	O
 was	O
 manipulated	O
 .	O
+
 President	O
 Museveni	B-Person
 ,	O
@@ -537,6 +547,7 @@ a	O
 protest	O
 movement	O
 .	O
+
 So	O
 far	O
 ,	O

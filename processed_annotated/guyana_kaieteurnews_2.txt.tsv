@@ -211,6 +211,7 @@ the	O
 illegal	O
 activity	O
 .	O
+
 Jagdeo	B-Person
 ,	O
 who	O
@@ -298,6 +299,7 @@ has	O
 died	O
 down	O
 .	O
+
 “	O
 If	O
 alacrity	O
@@ -425,6 +427,7 @@ corruption	O
 framework	O
 .	O
 ”	O
+
 On	O
 Saturday	B-Date
 June	I-Date
@@ -482,6 +485,7 @@ no	O
 questions	O
 entertained	O
 .	O
+
 We	O
 were	O
 impressed	O
@@ -659,6 +663,7 @@ to	O
 the	O
 nation	O
 .	O
+
 It	O
 noted	O
 however	O
@@ -718,6 +723,7 @@ the	O
 allegations	O
 made	O
 .	O
+
 Former	O
 Auditor	O
 General	O
@@ -751,6 +757,7 @@ it	O
 was	O
 requested	O
 .	O
+
 Other	O
 stakeholders	O
 had	O
@@ -770,6 +777,7 @@ the	O
 Parliamentary	B-Organization
 Opposition	I-Organization
 .	O
+
 In	O
 fact	O
 ,	O
@@ -806,6 +814,7 @@ into	O
 the	O
 matter	O
 .	O
+
 House	O
 Speaker	O
 Manzoor	B-Person
@@ -825,6 +834,7 @@ urgency	O
 and	O
 basis	O
 .	O
+
 He	O
 stated	O
 the	O

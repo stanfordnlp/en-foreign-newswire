@@ -40,6 +40,7 @@ Igloolik	B-Location
 ,	I-Location
 NU	I-Location
 .	O
+
 It	O
 also	O
 put	O
@@ -105,6 +106,7 @@ The	I-Misc
 Fast	I-Misc
 Runner	I-Misc
 .	O
+
 It	O
 was	O
 the	O
@@ -156,6 +158,7 @@ with	O
 APTN	B-Organization
 News	I-Organization
 .	O
+
 “	O
 And	O
 sometimes	O
@@ -205,6 +208,7 @@ to	O
 be	O
 right	O
 .	O
+
 I	O
 had	O
 to	O
@@ -212,6 +216,7 @@ show	O
 them	O
 that	O
 .	O
+
 The	O
 sled	O
 had	O
@@ -234,6 +239,7 @@ of	O
 their	O
 journey	O
 .	O
+
 But	O
 Kunuk	B-Misc
 struggled	O
@@ -258,6 +264,7 @@ human	O
 bone	O
 ladder	O
 ?	O
+
 So	O
 I	O
 asked	O
@@ -276,6 +283,7 @@ away	O
 he	O
 said	O
 .	O
+
 “	O
 She	O
 asked	O
@@ -293,6 +301,7 @@ to	O
 Hell	O
 ?	O
 ’	O
+
 Oh	O
 ,	O
 OK	O
@@ -320,6 +329,7 @@ International	I-Misc
 Film	I-Misc
 Festival	I-Misc
 .	O
+
 The	O
 Canadian	B-Misc	B-NORP
 Screen	I-Misc

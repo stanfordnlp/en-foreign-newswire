@@ -59,6 +59,7 @@ a	O
 sobering	O
 reality	O
 .	O
+
 While	O
 Shaked	B-Person
 ’s	O
@@ -144,6 +145,7 @@ for	O
 a	O
 year	O
 .	O
+
 A	O
 new	O
 interior	O
@@ -206,6 +208,7 @@ and	O
 work	O
 here	O
 .	O
+
 Without	O
 a	O
 registry	O
@@ -235,6 +238,7 @@ lives	O
 in	O
 Israel	B-Location
 .	O
+
 Her	O
 history	O
 with	O
@@ -259,6 +263,7 @@ of	I-Organization
 Synagogue	I-Organization
 Youth	I-Organization
 .	O
+
 She	O
 complained	O
 about	O
@@ -275,6 +280,7 @@ but	O
 was	O
 ignored	O
 .	O
+
 She	O
 went	O
 on	O
@@ -340,6 +346,7 @@ the	O
 Orthodox	B-Organization
 Union	I-Organization
 .	O
+
 He	O
 has	O
 never	O
@@ -430,6 +437,7 @@ refuge	O
 in	O
 Israel	B-Location
 .	O
+
 When	O
 she	O
 began	O
@@ -480,6 +488,7 @@ her	O
 list	O
 vary	O
 .	O
+
 Some	O
 left	O
 a	O
@@ -570,6 +579,7 @@ cases	O
 Aaronson	B-Person
 says	O
 .	O
+
 There	O
 are	O
 numerous	O
@@ -593,6 +603,7 @@ to	O
 take	O
 action	O
 .	O
+
 There	O
 are	O
 also	O
@@ -695,6 +706,7 @@ abusing	O
 female	O
 students	O
 .	O
+
 She	O
 was	O
 ultimately	O
@@ -750,6 +762,7 @@ to	O
 make	O
 aliyah	O
 .	O
+
 Under	O
 the	O
 Law	B-Misc
@@ -778,6 +791,7 @@ right	O
 to	O
 immigrate	O
 .	O
+
 Problematically	O
 ,	O
 however	O
@@ -835,6 +849,7 @@ a	O
 decade	O
 ago	O
 .	O
+
 It	O
 maintains	O
 a	O
@@ -900,6 +915,7 @@ a	O
 difficult	O
 task	O
 .	O
+
 “	O
 There	O
 are	O

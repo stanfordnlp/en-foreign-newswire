@@ -73,6 +73,7 @@ year	O
 he	O
 said	O
 .	O
+
 The	O
 World	B-Organization
 Bank	I-Organization
@@ -161,6 +162,7 @@ of	O
 the	O
 Ukraine	B-Location
 .	O
+
 The	O
 ICRC	B-Organization
 warned	O
@@ -174,6 +176,7 @@ set	O
 to	O
 worsen	O
 .	O
+
 It	O
 said	O
 conflict	O

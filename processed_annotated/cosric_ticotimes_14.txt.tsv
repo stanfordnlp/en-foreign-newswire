@@ -26,6 +26,7 @@ System	I-Misc
 SATT	B-Misc
 )	O
 .	O
+
 The	O
 institution	O
 is	O
@@ -73,6 +74,7 @@ the	O
 Central	B-Location
 Valley	I-Location
 .	O
+
 The	O
 alerts	O
 would	O
@@ -91,6 +93,7 @@ or	O
 TV	O
 screens	O
 .	O
+
 This	O
 will	O
 allow	O
@@ -159,6 +162,7 @@ working	O
 quite	O
 well	O
 .	O
+
 It	O
 is	O
 a	O
@@ -181,6 +185,7 @@ and	O
 Costa	B-Location
 Rica	I-Location
 .	O
+
 Each	O
 nation	O
 must	O
@@ -254,6 +259,7 @@ to	O
 receive	O
 it	O
 .	O
+
 Without	O
 adequate	O
 training	O
@@ -307,6 +313,7 @@ reduce	O
 false	O
 alarms	O
 .	O
+
 While	O
 the	O
 system	O
@@ -347,6 +354,7 @@ a	O
 susceptible	O
 service	O
 .	O
+
 It	O
 will	O
 be	O
@@ -386,6 +394,7 @@ will	O
 activate	O
 it	O
 .	O
+
 Currently	O
 ,	O
 as	O
@@ -490,6 +499,7 @@ a	O
 worthwhile	O
 notice	O
 .	O
+
 However	O
 ,	O
 with	O
@@ -536,6 +546,7 @@ completed	O
 this	O
 year	O
 .	O
+
 Subsequently	O
 ,	O
 the	O

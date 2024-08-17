@@ -411,6 +411,7 @@ Climate	O
 Change	O
 Minister	O
 James	B-Person
+
 Shaw	I-Person
 said	O
 the	O
@@ -506,6 +507,7 @@ what	O
 can	O
 unfold	O
 .	O
+
 Severe	O
 weather	O
 events	O
@@ -751,6 +753,7 @@ country	O
 he	O
 said	O
 .	O
+
 "	O
 We	O
 have	O
@@ -813,6 +816,7 @@ a	O
 major	O
 role	O
 .	O
+
 It	O
 will	O
 require	O
@@ -901,6 +905,7 @@ will	O
 be	O
 increased	O
 .	O
+
 This	O
 means	O
 decisions	O
@@ -951,6 +956,7 @@ to	O
 go	O
 )	O
 .	O
+
 The	O
 Climate	B-Misc
 Adaptation	I-Misc
@@ -995,6 +1001,7 @@ of	O
 climate	O
 change	O
 .	O
+
 Regulatory	O
 frameworks	O
 and	O
@@ -1016,6 +1023,7 @@ include	O
 RMA	B-Misc
 reform	O
 -	O
+
 This	O
 will	O
 be	O
@@ -1028,6 +1036,7 @@ gets	O
 built	O
 where	O
 .	O
+
 In	O
 2023	B-Date
 ,	O

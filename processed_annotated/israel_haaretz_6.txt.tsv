@@ -87,6 +87,7 @@ both	O
 nations	O
 !	O
 ”	O
+
 Adani	B-Person
 tweeted	O
 ,	O
@@ -125,6 +126,7 @@ for	O
 the	O
 prize	O
 .	O
+
 The	O
 benefit	O
 to	O
@@ -132,6 +134,7 @@ Israel	B-Location
 is	O
 clear	O
 .	O
+
 For	O
 India	B-Location
 ,	O
@@ -194,6 +197,7 @@ some	O
 time	O
 before	O
 .	O
+
 Today	O
 ,	O
 India	B-Location
@@ -215,6 +219,7 @@ $	B-Money
 billion	I-Money
 annually	O
 .	O
+
 It	O
 also	O
 partners	O
@@ -273,6 +278,7 @@ States	I-Location
 and	O
 China	B-Location
 .	O
+
 Israel	B-Location
 ’s	O
 share	O

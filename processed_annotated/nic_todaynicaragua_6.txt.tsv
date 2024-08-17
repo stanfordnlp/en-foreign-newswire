@@ -3,6 +3,7 @@ https://todaynicaragua.com/ortega-not-a-legitimately-elected-president-but-the-j
 TODAY	B-Organization
 NICARAGUA	I-Organization	B-Location
 –	O
+
 In	O
 an	O
 opinion	O
@@ -138,6 +139,7 @@ the	O
 Ortega	B-Person
 regime	O
 .	O
+
 In	O
 August	B-Date
 2021	I-Date

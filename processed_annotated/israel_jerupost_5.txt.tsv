@@ -26,6 +26,7 @@ Minister	O
 Yair	B-Person
 Lapid	I-Person
 .	O
+
 The	O
 three	O
 -	O
@@ -213,6 +214,7 @@ of	O
 sexual	O
 assault	O
 .	O
+
 The	O
 technologies	O
 will	O
@@ -237,6 +239,7 @@ medical	O
 care	O
 provision	O
 .	O
+
 The	O
 inpatient	O
 hall	O
@@ -290,6 +293,7 @@ service	O
 is	O
 significant	O
 .	O
+
 We	O
 are	O
 determined	O
@@ -316,6 +320,7 @@ during	O
 busy	O
 periods	O
 .	O
+
 After	O
 over	O
 five	O
@@ -345,6 +350,7 @@ treatment	O
 in	O
 Israel	B-Location
 .	O
+
 I	O
 am	O
 grateful	O
@@ -416,6 +422,7 @@ of	O
 its	O
 kind	O
 .	O
+
 The	O
 innovative	O
 technology	O

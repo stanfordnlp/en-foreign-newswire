@@ -6,6 +6,7 @@ News	I-Organization
 26	B-Date
 March	I-Date
 -	O
+
 The	O
 UN	B-Organization
 's	O
@@ -36,6 +37,7 @@ be	O
 imploding	O
 "	O
 .	O
+
 Relief	O
 officials	O
 are	O
@@ -97,6 +99,7 @@ currently	O
 need	O
 assistance	O
 .	O
+
 This	O
 represents	O
 a	O
@@ -142,6 +145,7 @@ in	O
 New	B-Location
 York	I-Location
 .	O
+
 The	O
 situation	O
 was	O
@@ -162,6 +166,7 @@ numbers	O
 of	O
 civilians	O
 .	O
+
 Almost	O
 400,000	O
 persons	O
@@ -265,6 +270,7 @@ the	O
 international	O
 community	O
 .	O
+
 So	O
 far	O
 this	O
@@ -483,6 +489,7 @@ checkpoints	O
 for	O
 convoys	O
 .	O
+
 "	O
 You	O
 have	O
@@ -544,6 +551,7 @@ season	O
 draws	O
 near	O
 .	O
+
 "	O
 We	O
 are	O

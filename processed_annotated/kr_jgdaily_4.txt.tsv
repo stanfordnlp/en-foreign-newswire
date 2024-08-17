@@ -52,6 +52,7 @@ Sports	I-Organization
 on	O
 Monday	B-Date
 .	O
+
 Ko	B-Person
 ’s	O
 agency	O
@@ -154,6 +155,7 @@ well	O
 respected	O
 athlete	O
 .	O
+
 She	O
 won	O
 the	O
@@ -197,6 +199,7 @@ throughout	O
 her	O
 career	O
 .	O
+
 She	O
 retired	O
 in	O
@@ -216,6 +219,7 @@ vocal	O
 quartet	O
 Forestella	B-Organization
 .	O
+
 The	O
 quartet	O
 was	O
@@ -231,6 +235,7 @@ program	O
 Phantom	B-Misc
 Singer	I-Misc
 .	O
+
 Ko	B-Person
 is	O
 a	O
@@ -287,6 +292,7 @@ relatives	O
 and	O
 acquaintances	O
 .	O
+
 We	O
 plan	O
 to	O

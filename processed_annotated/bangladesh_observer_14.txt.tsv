@@ -129,6 +129,7 @@ a	O
 political	O
 humor	O
 .	O
+
 For	O
 example	O
 ,	O
@@ -148,6 +149,7 @@ Padma	B-Facility	B-Location
 Bridge	I-Facility
 )	O
 .	O
+
 They	O
 (	O
 BNP	B-Organization
@@ -162,6 +164,7 @@ office	O
 stage	O
 movement	O
 .	O
+
 This	O
 is	O
 what	O
@@ -227,6 +230,7 @@ comments	O
 on	O
 it	O
 .	O
+
 “	O
 When	O
 the	O
@@ -245,6 +249,7 @@ will	O
 be	O
 informed	O
 .	O
+
 It	O
 is	O
 an	O

@@ -12,6 +12,7 @@ everyone	O
 's	O
 power	O
 .	O
+
 But	O
 today	O
 ,	O
@@ -37,6 +38,7 @@ chosen	O
 ones	O
 ”	O
 .	O
+
 The	O
 former	O
 Panamanian	B-NORP
@@ -96,6 +98,7 @@ keeping	O
 state	O
 money	O
 .	O
+
 It	O
 was	O
 limited	O
@@ -110,6 +113,7 @@ and	O
 their	O
 relatives	O
 .	O
+
 But	O
 the	O
 border	O
@@ -197,6 +201,7 @@ during	O
 the	O
 pandemic	O
 .	O
+
 And	O
 this	O
 included	O
@@ -259,6 +264,7 @@ of	O
 the	O
 Republic	O
 .	O
+
 But	O
 let	O
 us	O
@@ -274,6 +280,7 @@ in	O
 other	O
 countries	O
 .	O
+
 I	O
 make	O
 the	O
@@ -302,6 +309,7 @@ in	O
 the	O
 world	O
 .	O
+
 The	O
 list	O
 is	O
@@ -330,6 +338,7 @@ $	B-Money
 per	O
 month	O
 .	O
+
 They	O
 are	O
 followed	O
@@ -363,6 +372,7 @@ $	B-Money
 a	O
 month	O
 .	O
+
 That	O
 's	O
 $	B-Money
@@ -409,6 +419,7 @@ $	B-Money
 13,640	I-Money
 )	O
 .	O
+
 But	O
 ,	O
 according	O
@@ -490,6 +501,7 @@ their	O
 respective	O
 pockets	O
 .	O
+
 That	O
 is	O
 more	O
@@ -505,6 +517,7 @@ and	O
 Paris	B-Location
 earn	O
 .	O
+
 and	O
 London	B-Location
 and	O
@@ -513,6 +526,7 @@ Governor	O
 of	O
 Tokyo	B-Location
 .	O
+
 Hats	O
 off	O
 to	O
@@ -529,6 +543,7 @@ our	O
 local	O
 rascals	O
 .	O
+
 –	O
 Rolando	B-Person
 Rodriguez	I-Person

@@ -144,6 +144,7 @@ into	O
 South	B-Location
 Africa	I-Location
 .	O
+
 The	O
 escalation	O
 of	O
@@ -301,6 +302,7 @@ are	O
 already	O
 struggling	O
 .	O
+
 The	O
 Tobacco	B-Misc
 Atlas	I-Misc
@@ -360,6 +362,7 @@ and	O
 youth	O
 smoking	O
 .	O
+
 What	O
 we	O
 ’ve	O
@@ -411,6 +414,7 @@ aware	O
 of	O
 this	O
 .	O
+
 They	O
 are	O
 working	O
@@ -428,6 +432,7 @@ for	O
 the	O
 economy	O
 .	O
+
 Unfortunately	O
 ,	O
 they	O
@@ -581,6 +586,7 @@ through	O
 flavour	O
 products	O
 .	O
+
 And	O
 through	O
 social	O
@@ -637,6 +643,7 @@ global	O
 deaths	O
 annually	O
 .	O
+
 More	O
 than	O
 “	O
@@ -842,6 +849,7 @@ afford	O
 to	O
 smoke	O
 .	O
+
 We	O
 know	O
 from	O
@@ -916,6 +924,7 @@ Dope	B-Person
 told	O
 IPS	B-Organization
 .	O
+
 “	O
 These	O
 modest	O

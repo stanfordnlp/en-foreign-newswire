@@ -20,6 +20,7 @@ of	O
 two	O
 years	O
 .	O
+
 He	O
 was	O
 a	O
@@ -72,6 +73,7 @@ Mortgage	I-Organization
 Corporation	I-Organization
 Limited	I-Organization
 .	O
+
 He	O
 is	O
 an	O

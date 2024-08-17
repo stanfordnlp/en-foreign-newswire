@@ -78,6 +78,7 @@ programme	I-Organization
 Administration	I-Organization
 said	O
 .	O
+
 The	O
 aircraft	O
 ,	O
@@ -136,6 +137,7 @@ to	O
 market	O
 overseas	O
 .	O
+
 Seoul	B-Location
 ,	O
 as	O

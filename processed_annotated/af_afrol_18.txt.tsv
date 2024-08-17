@@ -3,6 +3,7 @@ http://www.afrol.com/features/37682	O
 afrol	B-Organization
 News	I-Organization
 -	O
+
 The	O
 market	O
 in	O
@@ -21,6 +22,7 @@ creative	O
 Creole	B-NORP
 dish	O
 .	O
+
 Fish	O
 most	O
 people	O
@@ -61,6 +63,7 @@ main	O
 island	O
 Mahé	B-Location
 .	O
+
 Mostly	O
 ,	O
 she	O
@@ -80,6 +83,7 @@ hot	O
 lava	O
 stones	O
 .	O
+
 But	O
 today	O
 ,	O
@@ -121,6 +125,7 @@ or	O
 nature	O
 herself	O
 .	O
+
 A	O
 few	O
 of	O
@@ -143,6 +148,7 @@ Maria	B-Person
 's	O
 kitchen	O
 .	O
+
 The	O
 pimente	O
 kabrí	O
@@ -208,6 +214,7 @@ help	O
 them	O
 with	O
 .	O
+
 It	O
 is	O
 a	O
@@ -330,6 +337,7 @@ elaborate	O
 way	O
 today	O
 .	O
+
 Indeed	O
 ,	O
 Seychellois	B-NORP
@@ -419,6 +427,7 @@ the	O
 hot	O
 pan	O
 .	O
+
 Chopped	O
 onion	O
 ,	O
@@ -431,6 +440,7 @@ some	O
 five	O
 minutes	O
 .	O
+
 Then	O
 ,	O
 the	O
@@ -463,6 +473,7 @@ turmeric	O
 )	O
 powder	O
 .	O
+
 As	O
 this	O
 mix	O
@@ -484,6 +495,7 @@ is	O
 softly	O
 added	O
 .	O
+
 The	O
 dish	O
 is	O
@@ -565,6 +577,7 @@ are	O
 still	O
 hard	O
 .	O
+
 The	O
 papayas	O
 are	O
@@ -588,6 +601,7 @@ bath	O
 to	O
 soften	O
 .	O
+
 She	O
 adds	O
 fresh	O
@@ -619,6 +633,7 @@ of	O
 lemon	O
 juice	O
 .	O
+
 The	O
 chutney	O
 now	O
@@ -648,6 +663,7 @@ the	O
 octopus	O
 curry	O
 .	O
+
 Breadfruit	O
 could	O
 easily	O
@@ -687,6 +703,7 @@ among	O
 Seychellois	B-NORP
 youth	O
 .	O
+
 Typically	O
 ,	O
 locals	O
@@ -703,6 +720,7 @@ as	O
 octopus	O
 curry	O
 .	O
+
 In	O
 up	O
 -	O
@@ -746,6 +764,7 @@ for	O
 something	O
 old	O
 .	O
+
 Indeed	O
 ,	O
 the	O
@@ -799,6 +818,7 @@ mouth	O
 and	O
 stomach	O
 .	O
+
 It	O
 is	O
 a	O
@@ -821,6 +841,7 @@ wines	O
 are	O
 described	O
 .	O
+
 And	O
 as	O
 is	O
@@ -918,6 +939,7 @@ kebab	O
 or	O
 stews	O
 .	O
+
 On	O
 Mahé's	B-Location
 popular	O
@@ -959,6 +981,7 @@ as	O
 grilled	O
 fish	O
 .	O
+
 Here	O
 ,	O
 chilli	O
@@ -1075,6 +1098,7 @@ at	O
 any	O
 restaurant	O
 .	O
+
 Jean	B-Person
 Baptist	I-Person
 ,	O
@@ -1110,6 +1134,7 @@ on	O
 the	O
 beach	O
 .	O
+
 This	O
 is	O
 still	O
@@ -1139,6 +1164,7 @@ fish	O
 and	O
 seafood	O
 .	O
+
 The	O
 lively	O
 Victoria	B-Location
@@ -1205,6 +1231,7 @@ not	O
 only	O
 grilled	O
 .	O
+
 A	O
 pleasant	O
 surprise	O
@@ -1222,6 +1249,7 @@ or	O
 even	O
 paninis	O
 .	O
+
 In	O
 traditional	O
 cooking	O
@@ -1232,6 +1260,7 @@ may	O
 be	O
 spicy	O
 .	O
+
 In	O
 modern	O
 cooking	O
@@ -1255,6 +1284,7 @@ presentation	O
 is	O
 king	O
 .	O
+
 Both	O
 ways	O
 are	O
@@ -1313,6 +1343,7 @@ new	O
 Seychellois	B-NORP
 kitchen	O
 .	O
+
 He	O
 takes	O
 great	O
@@ -1340,6 +1371,7 @@ ingredients	O
 in	O
 Seychelles	B-Location
 .	O
+
 His	O
 mother	O
 taught	O
@@ -1393,6 +1425,7 @@ education	O
 from	O
 France	B-Location
 .	O
+
 Uniting	O
 traditional	O
 Creole	B-NORP
@@ -1451,6 +1484,7 @@ matter	O
 of	O
 minutes	O
 .	O
+
 OK	O
 ,	O
 Mr	O
@@ -1477,6 +1511,7 @@ in	O
 the	O
 fridge	O
 .	O
+
 But	O
 efficiency	O
 is	O
@@ -1519,6 +1554,7 @@ into	O
 small	O
 cubes	O
 .	O
+
 He	O
 chops	O
 fresh	O
@@ -1531,6 +1567,7 @@ mint	O
 and	O
 onion	O
 .	O
+
 Garlic	O
 and	O
 fresh	O
@@ -1541,6 +1578,7 @@ into	O
 a	O
 mass	O
 .	O
+
 A	O
 medium	O
 hot	O
@@ -1560,6 +1598,7 @@ than	O
 a	O
 minute	O
 .	O
+
 Then	O
 ,	O
 the	O
@@ -1585,6 +1624,7 @@ and	O
 masala	O
 powder	O
 .	O
+
 Coconut	O
 milk	O
 is	O
@@ -1612,6 +1652,7 @@ some	O
 five	O
 minutes	O
 .	O
+
 And	O
 voilá	O
 -	O
@@ -1622,6 +1663,7 @@ curry	O
 is	O
 done	O
 !	O
+
 You	O
 can	O
 find	O
@@ -1640,6 +1682,7 @@ than	O
 ten	O
 minutes	O
 .	O
+
 The	O
 curry	O
 fusion	O
@@ -1666,6 +1709,7 @@ the	O
 last	O
 moment	O
 .	O
+
 "	O
 Chilli	O
 is	O
@@ -1687,6 +1731,7 @@ Mr	O
 Denis	B-Person
 emphasises	O
 .	O
+
 Also	O
 ,	O
 "	O
@@ -1710,6 +1755,7 @@ flavours	O
 he	O
 holds	O
 .	O
+
 Not	O
 without	O
 reason	O
@@ -1747,6 +1793,7 @@ in	O
 the	O
 mouth	O
 .	O
+
 "	O
 Yes	O
 ,	O
@@ -1775,6 +1822,7 @@ flavours	O
 he	O
 reveals	O
 .	O
+
 Nevertheless	O
 ,	O
 the	O
@@ -1826,6 +1874,7 @@ an	O
 exciting	O
 experience	O
 .	O
+
 No	O
 doubt	O
 ,	O
@@ -1915,6 +1964,7 @@ if	O
 at	O
 all	O
 .	O
+
 Even	O
 ingredients	O
 are	O
@@ -1979,6 +2029,7 @@ paradise	O
 own	O
 cuisine	O
 .	O
+
 Their	O
 argument	O
 is	O
@@ -2030,6 +2081,7 @@ live	O
 in	O
 paradise	O
 .	O
+
 In	O
 Maria	B-Person
 's	O
@@ -2057,6 +2109,7 @@ a	O
 delicious	O
 meal	O
 .	O
+
 Maria	B-Person
 tells	O
 me	O
@@ -2098,6 +2151,7 @@ home	O
 grown	O
 ?	O
 "	O
+
 I	O
 had	O
 noted	O
@@ -2124,6 +2178,7 @@ imported	O
 Maria	B-Person
 answers	O
 .	O
+
 Finally	O
 ,	O
 I	O
@@ -2154,6 +2209,7 @@ in	O
 her	O
 face	O
 .	O
+
 "	O
 Hah	O
 ,	O
@@ -2172,6 +2228,7 @@ cannot	O
 be	O
 paradise	O
 .	O
+
 Paradise	O
 without	O
 garlic	O
@@ -2204,6 +2261,7 @@ the	O
 bus	O
 station	O
 .	O
+
 It	O
 is	O
 especially	O
@@ -2239,6 +2297,7 @@ friends	O
 and	O
 gossip	O
 .	O
+
 The	O
 market	O
 on	O
@@ -2276,6 +2335,7 @@ cafes	O
 and	O
 restaurants	O
 .	O
+
 Visitors	O
 will	O
 be	O
@@ -2342,6 +2402,7 @@ on	O
 Mahé	B-Location
 island	I-Location
 .	O
+
 The	O
 exotic	O
 restaurant	O
@@ -2370,6 +2431,7 @@ hot	O
 lava	O
 stones	O
 .	O
+
 Creole	B-NORP
 sauces	O
 ,	O
@@ -2408,6 +2470,7 @@ very	O
 reasonable	O
 price	O
 .	O
+
 Larger	O
 groups	O
 or	O

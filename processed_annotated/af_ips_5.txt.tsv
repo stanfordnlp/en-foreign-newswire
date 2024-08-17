@@ -122,6 +122,7 @@ everything	O
 is	O
 interconnected	O
 .	O
+
 In	O
 Kenya	B-Location
 ,	O
@@ -145,6 +146,7 @@ to	O
 April	B-Date
 ]	O
 .	O
+
 That	O
 ’s	O
 more	O
@@ -166,6 +168,7 @@ last	O
 15	O
 years	O
 .	O
+
 Elephants	O
 are	O
 a	O
@@ -196,6 +199,7 @@ butterflies	O
 the	O
 trees	O
 .	O
+
 They	O
 are	O
 a	O
@@ -210,6 +214,7 @@ of	O
 the	O
 ecosystem	O
 .	O
+
 The	O
 elephant	O
 can	O
@@ -245,6 +250,7 @@ make	O
 different	O
 choices	O
 .	O
+
 They	O
 are	O
 going	O
@@ -255,6 +261,7 @@ way	O
 they	O
 live	O
 .	O
+
 In	O
 many	O
 cases	O
@@ -263,6 +270,7 @@ the	O
 resources	O
 suffer	O
 .	O
+
 Smaller	O
 choices	O
 mean	O
@@ -284,6 +292,7 @@ cut	O
 more	O
 trees	O
 .	O
+
 When	O
 there	O
 is	O
@@ -301,6 +310,7 @@ hunting	O
 for	O
 protein	O
 …	O
+
 For	O
 many	O
 Africans	B-NORP
@@ -318,6 +328,7 @@ that	O
 their	O
 livelihood	O
 .	O
+
 If	O
 there	O
 is	O
@@ -330,6 +341,7 @@ pick	O
 other	O
 options	O
 .	O
+
 If	O
 the	O
 Maasai	B-NORP
@@ -351,6 +363,7 @@ look	O
 for	O
 alternatives	O
 …	O
+
 The	O
 nearest	O
 resource	O
@@ -369,6 +382,7 @@ the	O
 same	O
 budgets	O
 .	O
+
 If	O
 there	O
 is	O
@@ -378,6 +392,7 @@ will	O
 change	O
 priorities	O
 .	O
+
 Always	O
 environment	O
 and	O
@@ -390,12 +405,14 @@ the	O
 last	O
 choice	O
 .	O
+
 Education	O
 is	O
 going	O
 to	O
 suffer	O
 .	O
+
 All	O
 these	O
 other	O
@@ -431,6 +448,7 @@ impact	O
 on	O
 migration	O
 .	O
+
 We	O
 see	O
 rural	O
@@ -447,6 +465,7 @@ with	O
 no	O
 skills	O
 .	O
+
 Especially	O
 women	O
 and	O
@@ -455,6 +474,7 @@ girls	O
 suffer	O
 more	O
 .	O
+
 The	O
 young	O
 boys	O
@@ -468,6 +488,7 @@ trafficked	O
 to	O
 Europe	B-Location
 .	O
+
 So	O
 the	O
 repercussions	O
@@ -505,6 +526,7 @@ down	O
 government	O
 systems	O
 …	O
+
 It	O
 ’s	O
 larger	O
@@ -512,11 +534,13 @@ than	O
 just	O
 food	O
 …	O
+
 Societies	O
 are	O
 broken	O
 down	O
 .	O
+
 Bringing	O
 food	O
 in	O
@@ -525,6 +549,7 @@ destroying	O
 local	O
 agriculture	O
 .	O
+
 This	O
 is	O
 why	O

@@ -93,6 +93,7 @@ for	O
 two	O
 broadcasters	O
 .	O
+
 The	O
 official	O
 result	O
@@ -124,6 +125,7 @@ on	O
 31.5	O
 %	O
 .	O
+
 Arce	B-Person
 ,	O
 whose	O
@@ -173,6 +175,7 @@ tense	O
 in	O
 Bolivia	B-Location
 .	O
+
 The	O
 rightwing	O
 -	O
@@ -200,6 +203,7 @@ COVID	B-Misc
 19	I-Misc
 pandemic	O
 .	O
+
 The	O
 delays	O
 ,	O
@@ -246,6 +250,7 @@ of	O
 its	O
 own	O
 .	O
+
 But	O
 Añez	B-Person
 congratulated	O
@@ -253,6 +258,7 @@ Arce	B-Person
 on	O
 Monday	B-Date
 .	O
+
 “	O
 I	O
 ask	O
@@ -307,6 +313,7 @@ of	O
 Americas	B-Organization	B-NORP
 Quarterly	I-Organization
 .	O
+
 “	O
 This	O
 is	O
@@ -323,6 +330,7 @@ strong	O
 he	O
 says	O
 .	O
+
 “	O
 The	O
 result	O
@@ -339,6 +347,7 @@ for	O
 Morales	B-Person
 ]	O
 .	O
+
 It	O
 speaks	O
 to	O
@@ -426,6 +435,7 @@ of	O
 Indigenous	O
 rights	O
 .	O
+
 But	O
 when	O
 he	O

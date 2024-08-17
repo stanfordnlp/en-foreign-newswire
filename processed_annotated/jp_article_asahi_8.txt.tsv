@@ -105,6 +105,7 @@ after	O
 the	O
 ceremony	O
 .	O
+
 “	O
 I	O
 am	O
@@ -281,6 +282,7 @@ election	O
 in	O
 September	B-Date
 .	O
+
 He	O
 no	O
 longer	O
@@ -363,6 +365,7 @@ East	B-Location
 China	I-Location
 Sea	I-Location
 .	O
+
 And	O
 Russia	B-Location
 ,	O
@@ -555,6 +558,7 @@ burden	O
 he	O
 said	O
 .	O
+
 “	O
 We	O
 ,	O
@@ -799,6 +803,7 @@ of	O
 million	I-Money
 yen	I-Money
 .	O
+
 It	O
 was	O
 the	O
@@ -884,6 +889,7 @@ the	O
 Futenma	B-Location
 functions	O
 .	O
+
 Part	O
 of	O
 the	O

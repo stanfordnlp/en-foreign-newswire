@@ -85,6 +85,7 @@ visitors	O
 each	O
 summer	O
 .	O
+
 Then	O
 ,	O
 the	O
@@ -114,6 +115,7 @@ now	O
 what	O
 ?	O
 ’	O
+
 I	O
 felt	O
 like	O
@@ -296,6 +298,7 @@ to	O
 do	O
 this	O
 .	O
+
 People	O
 are	O
 ready	O
@@ -366,6 +369,7 @@ Okanagan	B-Organization	B-NORP
 Indian	I-Organization	B-NORP
 Band	I-Organization
 .	O
+
 Her	O
 mother	O
 owns	O
@@ -385,6 +389,7 @@ cruise	O
 ship	O
 traffic	O
 .	O
+
 While	O
 Isaac	O
 is	O
@@ -414,6 +419,7 @@ are	O
 coming	O
 in	O
 .	O
+
 It	O
 ’s	O
 obviously	O
@@ -471,6 +477,7 @@ are	O
 springing	O
 up	O
 .	O
+
 “	O
 I	O
 guess	O
@@ -482,6 +489,7 @@ is	O
 gas	O
 prices	O
 .	O
+
 Life	O
 is	O
 more	O

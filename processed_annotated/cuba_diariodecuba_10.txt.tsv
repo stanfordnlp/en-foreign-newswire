@@ -125,6 +125,7 @@ produced	O
 608,364	O
 tons	O
 .	O
+
 This	O
 last	O
 "	O
@@ -164,6 +165,7 @@ It	O
 gets	O
 worse	O
 .	O
+
 In	O
 1894	B-Date
 ,	O
@@ -233,6 +235,7 @@ has	O
 ever	O
 seen	O
 .	O
+
 In	O
 a	O
 single	O
@@ -371,6 +374,7 @@ tons	O
 of	O
 sugar	O
 .	O
+
 with	O
 500,000	O
 allotted	O
@@ -452,6 +456,7 @@ commitment	O
 to	O
 China	B-Location
 .	O
+
 If	O
 Cubans	B-NORP
 in	O

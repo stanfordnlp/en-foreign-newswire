@@ -32,6 +32,7 @@ of	O
 the	O
 latter	O
 .	O
+
 However	O
 ,	O
 incrementally	O
@@ -132,6 +133,7 @@ the	O
 overall	O
 population	O
 .	O
+
 Indians	B-NORP
 have	O
 been	O
@@ -179,6 +181,7 @@ World	B-Misc
 War	I-Misc
 II	I-Misc
 .	O
+
 The	O
 second	O
 wave	O
@@ -218,6 +221,7 @@ Kenya	B-Location
 and	O
 Tanzania	B-Location
 .	O
+
 The	O
 families	O
 of	O
@@ -258,6 +262,7 @@ force	O
 only	O
 recently	O
 .	O
+
 Back	O
 when	O
 they	O
@@ -299,6 +304,7 @@ East	B-Organization
 India	I-Organization	B-Location
 Company	I-Organization
 .	O
+
 According	O
 to	O
 American	B-NORP
@@ -329,6 +335,7 @@ subordinate	O
 population	O
 .	O
 ”	O
+
 He	O
 adds	O
 that	O
@@ -371,6 +378,7 @@ rationalise	O
 it	O
 .	O
 ”	O
+
 Namely	O
 a	O
 theory	O
@@ -404,6 +412,7 @@ East	B-Organization
 India	I-Organization	B-Location
 Company	I-Organization
 .	O
+
 These	O
 sea	O
 workers	O
@@ -433,6 +442,7 @@ or	O
 menial	O
 workers	O
 .	O
+
 A	O
 2021	B-Date
 Gateway	B-Organization
@@ -533,6 +543,7 @@ Indian	B-Location	B-NORP
 Ocean	I-Location
 economy	O
 .	O
+
 These	O
 merchant	O
 classes	O
@@ -576,6 +587,7 @@ the	O
 allied	O
 forces	O
 .	O
+
 Sikhs	B-NORP
 ,	O
 who	O
@@ -610,6 +622,7 @@ families	O
 stayed	O
 behind	O
 .	O
+
 Speaking	O
 to	O
 the	O
@@ -660,6 +673,7 @@ pursuing	O
 higher	O
 education	O
 .	O
+
 This	O
 trend	O
 stems	O
@@ -677,6 +691,7 @@ British	I-Misc	B-NORP
 Education	I-Misc
 .	O
 ’	O
+
 During	O
 his	O
 famous	O
@@ -743,6 +758,7 @@ lived	O
 in	O
 Britain	B-Location
 .	O
+
 This	O
 list	O
 includes	O
@@ -766,6 +782,7 @@ Subhas	B-Person
 Chandra	I-Person
 Bose	I-Person
 .	O
+
 By	O
 1830	B-Date
 ,	O
@@ -800,6 +817,7 @@ Britain	B-Location
 was	O
 negligible	O
 .	O
+
 In	O
 fact	O
 ,	O
@@ -823,6 +841,7 @@ for	O
 Indian	B-NORP
 immigration	O
 .	O
+
 This	O
 changed	O
 radically	O
@@ -869,6 +888,7 @@ stood	O
 at	O
 483,000	O
 .	O
+
 This	O
 started	O
 with	O
@@ -899,6 +919,7 @@ army	O
 remained	O
 behind	O
 .	O
+
 Punjabis	B-NORP
 and	O
 Sikhs	B-NORP
@@ -928,6 +949,7 @@ or	O
 police	O
 forces	O
 .	O
+
 These	O
 migrants	O
 filled	O
@@ -973,6 +995,7 @@ Uganda	B-Location
 in	O
 1972	B-Date
 .	O
+
 Amin	B-Person
 ’s	O
 actions	O
@@ -990,6 +1013,7 @@ may	O
 follow	O
 suit	O
 .	O
+
 Instead	O
 of	O
 returning	O
@@ -1012,6 +1036,7 @@ London	I-Location
 and	O
 Leicester	B-Location
 .	O
+
 Harrow	B-Location
 alone	O
 took	O
@@ -1020,6 +1045,7 @@ refugees	O
 from	O
 Uganda	B-Location
 .	O
+
 These	O
 relatively	O
 wealthy	O
@@ -1039,6 +1065,7 @@ and	O
 Indian	B-NORP
 restaurants	O
 .	O
+
 Their	O
 attempts	O
 to	O
@@ -1082,6 +1109,7 @@ the	O
 British	B-NORP
 government	O
 .	O
+
 Before	O
 1962	B-Date
 ,	O
@@ -1099,6 +1127,7 @@ the	O
 UK	B-Location
 freely	O
 .	O
+
 However	O
 ,	O
 following	O
@@ -1148,6 +1177,7 @@ migrants	O
 that	O
 arrived	O
 .	O
+
 On	O
 one	O
 hand	O
@@ -1275,6 +1305,7 @@ out	O
 in	O
 Punjab	B-Location
 .	O
+
 It	O
 states	O
 that	O
@@ -1351,6 +1382,7 @@ generations	O
 of	O
 migrants	O
 .	O
+
 North	B-NORP
 Indians	I-NORP
 and	O
@@ -1375,6 +1407,7 @@ Gujarati	B-NORP
 communities	O
 there	O
 .	O
+
 However	O
 ,	O
 while	O
@@ -1443,6 +1476,7 @@ irregulars	O
 ’	O
 ”	O
 .	O
+
 These	O
 agents	O
 included	O
@@ -1487,6 +1521,7 @@ in	O
 the	O
 UK	B-Location
 .	O
+
 The	O
 irregular	O
 migrants	O

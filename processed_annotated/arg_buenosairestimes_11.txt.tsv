@@ -199,6 +199,7 @@ election	O
 Bolsonaro	B-Person
 said	O
 .	O
+
 "	O
 We	O
 cannot	O
@@ -302,6 +303,7 @@ tweeted	O
 later	O
 Monday	B-Date
 .	O
+
 "	O
 Employment	O
 ,	O
@@ -316,6 +318,7 @@ hunger	O
 for	O
 example	O
 .	O
+
 Instead	O
 ,	O
 he	O

@@ -20,6 +20,7 @@ of	O
 a	O
 twist	O
 .	O
+
 Usually	O
 the	O
 months	O
@@ -115,6 +116,7 @@ wicked	O
 in	O
 Argentina	B-Location
 .	O
+
 The	O
 Liga	B-Organization
 Profesional	I-Organization
@@ -143,6 +145,7 @@ and	O
 the	O
 dance	O
 .	O
+
 And	O
 while	O
 there	O
@@ -217,6 +220,7 @@ each	O
 Superclásico	B-Misc
 giant	O
 .	O
+
 The	O
 Millonario	B-Organization
 struck	O
@@ -246,6 +250,7 @@ leaving	O
 Atlético	B-Organization
 Madrid	I-Organization	B-Location
 .	O
+
 Not	O
 to	O
 be	O
@@ -343,6 +348,7 @@ an	O
 outside	O
 bet	O
 .	O
+
 Vidal	B-Person
 's	O
 first	O
@@ -392,6 +398,7 @@ make	O
 an	O
 offer	O
 .	O
+
 Suárez	B-Person
 similarly	O
 is	O
@@ -420,6 +427,7 @@ Pistolero	I-Person
 's	O
 head	O
 .	O
+
 At	O
 35	O
 he	O
@@ -450,6 +458,7 @@ the	O
 World	B-Misc
 Cup	I-Misc
 .	O
+
 In	O
 the	O
 meantime	O
@@ -531,6 +540,7 @@ duo	O
 only	O
 indirectly	O
 .	O
+
 The	O
 revelation	O
 that	O
@@ -590,6 +600,7 @@ on	O
 the	O
 bench	O
 .	O
+
 But	O
 his	O
 mind	O
@@ -647,6 +658,7 @@ Gigante	B-Facility
 del	I-Facility
 Arroyito	I-Facility
 .	O
+
 This	O
 week	O
 Leandro	B-Person
@@ -696,6 +708,7 @@ opening	O
 two	O
 games	O
 .	O
+
 In	O
 the	O
 entire	O
@@ -740,6 +753,7 @@ of	O
 their	O
 funk	O
 .	O
+
 Tevez	B-Person
 never	O
 shirked	O

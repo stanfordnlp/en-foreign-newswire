@@ -90,6 +90,7 @@ the	O
 educational	O
 community	O
 .	O
+
 An	O
 example	O
 of	O
@@ -118,6 +119,7 @@ Metapán	B-Location
 Santa	I-Location
 Ana	I-Location
 .	O
+
 In	O
 addition	O
 ,	O
@@ -142,8 +144,10 @@ and	O
 problem	O
 solving	O
 .	O
+
 problems	O
 .	O
+
 El	B-Location
 Salvador	I-Location
 is	O
@@ -182,6 +186,7 @@ in	O
 our	O
 country	O
 .	O
+
 Technological	O
 development	O
 is	O
@@ -192,6 +197,7 @@ President	O
 Nayib	B-Person
 Bukele	I-Person
 .	O
+
 Count	O
 on	O
 us	O

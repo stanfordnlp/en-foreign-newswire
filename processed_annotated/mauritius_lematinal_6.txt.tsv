@@ -15,6 +15,7 @@ from	O
 their	O
 positions	O
 .	O
+
 In	O
 a	O
 press	O
@@ -97,6 +98,7 @@ Telecom	I-Organization
 Sherry	B-Person
 Singh	I-Person
 .	O
+
 He	O
 asks	O
 them	O
@@ -118,6 +120,7 @@ Me	B-Person
 Rama	I-Person
 Valayden	I-Person
 .	O
+
 According	O
 to	O
 him	O
@@ -174,6 +177,7 @@ high	O
 treason	O
 ”	O
 .	O
+
 He	O
 also	O
 sent	O
@@ -190,6 +194,7 @@ initiate	O
 an	O
 investigation	O
 .	O
+
 He	O
 added	O
 that	O

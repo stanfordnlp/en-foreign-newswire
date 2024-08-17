@@ -104,6 +104,7 @@ on	O
 July	B-Date
 8	I-Date
 .	O
+
 Police	O
 suspect	O
 Yamagami	B-Person
@@ -186,6 +187,7 @@ to	O
 the	O
 sources	O
 .	O
+
 “	O
 My	O
 connection	O
@@ -259,6 +261,7 @@ the	O
 letter	O
 says	O
 .	O
+
 “	O
 It	O
 is	O
@@ -308,6 +311,7 @@ the	O
 sources	O
 said	O
 .	O
+
 The	O
 statement	O
 showed	O
@@ -497,6 +501,7 @@ politician	O
 that	O
 day	O
 .	O
+
 Instead	O
 ,	O
 he	O
@@ -556,6 +561,7 @@ over	O
 the	O
 letter	O
 .	O
+
 But	O
 police	O
 seized	O

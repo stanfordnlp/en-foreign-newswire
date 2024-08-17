@@ -71,6 +71,7 @@ unjustifiably	O
 criticizing	O
 it	O
 .	O
+
 The	O
 summit	O
 is	O
@@ -170,6 +171,7 @@ towards	O
 oil	O
 alone	O
 .	O
+
 Rather	O
 ,	O
 it	O
@@ -220,6 +222,7 @@ including	O
 Saudi	B-Location
 Arabia	I-Location
 .	O
+
 They	O
 are	O
 blind	O
@@ -440,6 +443,7 @@ a	O
 nuclear	O
 weapon	O
 .	O
+
 These	O
 are	O
 the	O
@@ -491,6 +495,7 @@ with	O
 its	O
 ally	O
 .	O
+
 The	O
 Saudi	B-Organization	B-NORP
 Ministry	I-Organization
@@ -555,6 +560,7 @@ and	O
 regional	O
 issues	O
 .	O
+
 Even	O
 if	O
 it	O
@@ -582,6 +588,7 @@ interests	O
 and	O
 sovereignty	O
 .	O
+
 Perhaps	O
 the	O
 most	O
@@ -637,6 +644,7 @@ or	O
 individual	O
 basis	O
 .	O
+
 Rather	O
 ,	O
 it	O
@@ -651,6 +659,7 @@ both	O
 the	O
 parties	O
 .	O
+
 These	O
 are	O
 interests	O
@@ -676,6 +685,7 @@ adapting	O
 their	O
 nature	O
 .	O
+
 And	O
 this	O
 time	O
@@ -750,6 +760,7 @@ Mohammed	B-Person
 Bin	I-Person
 Salman	I-Person
 .	O
+
 He	O
 will	O
 also	O
@@ -783,6 +794,7 @@ Salman	B-Person
 to	O
 Riyadh	B-Location
 .	O
+
 They	O
 are	O
 the	O
@@ -799,6 +811,7 @@ Iraqi	B-NORP
 prime	O
 minister	O
 .	O
+
 This	O
 will	O
 increase	O
@@ -858,6 +871,7 @@ its	O
 fateful	O
 choices	O
 .	O
+
 It	O
 never	O
 lost	O
@@ -878,6 +892,7 @@ and	O
 the	O
 world	O
 .	O
+
 And	O
 even	O
 in	O

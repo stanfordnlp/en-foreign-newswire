@@ -32,6 +32,7 @@ to	O
 step	O
 down	O
 .	O
+
 The	O
 events	O
 marked	O
@@ -79,6 +80,7 @@ in	O
 Latin	B-Location	B-Misc
 America	I-Location
 .	O
+
 The	O
 country	O
 ’s	O
@@ -145,6 +147,7 @@ Oct	B-Date
 national	O
 elections	O
 .	O
+
 He	O
 claimed	O
 to	O
@@ -190,6 +193,7 @@ Morales	B-Person
 political	O
 allies	O
 .	O
+
 Morales	B-Person
 agreed	O
 to	O
@@ -256,6 +260,7 @@ the	O
 armed	O
 forces	O
 .	O
+
 But	O
 he	O
 said	O
@@ -286,6 +291,7 @@ seek	O
 peace	O
 .	O
 ”	O
+
 Here	O
 ’s	O
 what	O
@@ -377,6 +383,7 @@ for	O
 their	O
 cultures	O
 .	O
+
 He	O
 also	O
 delivered	O
@@ -433,6 +440,7 @@ programs	O
 and	O
 businesses	O
 .	O
+
 Bolivia	B-Location
 remains	O
 South	B-Location
@@ -504,6 +512,7 @@ presidential	O
 term	O
 limits	O
 .	O
+
 Voters	O
 narrowly	O
 rejected	O
@@ -511,6 +520,7 @@ Morales	B-Person
 ’	O
 proposal	O
 .	O
+
 The	O
 president	O
 then	O
@@ -548,6 +558,7 @@ term	O
 this	O
 year	O
 .	O
+
 Since	O
 then	O
 critics	O
@@ -607,6 +618,7 @@ to	O
 win	O
 outright	O
 .	O
+
 The	O
 opposition	O
 celebrated	O

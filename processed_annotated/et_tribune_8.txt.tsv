@@ -49,6 +49,7 @@ HABASHA	I-Misc
 or	O
 16th	O
 .	O
+
 century	O
 “	O
 Conquest	B-Misc
@@ -100,6 +101,7 @@ as	O
 Arab	B-Person	B-NORP
 Faqih	I-Person
 .	O
+
 He	O
 was	O
 ,	O
@@ -264,6 +266,7 @@ the	O
 Ethiopian	B-Organization	B-NORP
 Church	I-Organization
 .	O
+
 And	O
 ,	O
 perhaps	O
@@ -306,6 +309,7 @@ most	O
 productive	O
 scholars	O
 .	O
+
 He	O
 earned	O
 a	O
@@ -360,6 +364,7 @@ respect	O
 Ethiopian	B-NORP
 churches	O
 .	O
+
 We	O
 saw	O
 too	O
@@ -461,6 +466,7 @@ other	O
 available	O
 source	O
 .	O
+
 Even	O
 that	O
 is	O

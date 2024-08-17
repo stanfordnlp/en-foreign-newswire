@@ -59,6 +59,7 @@ Dene	I-Organization
 First	I-Organization
 Nation	I-Organization
 .	O
+
 She	O
 calls	O
 it	O
@@ -73,6 +74,7 @@ of	O
 about	O
 300	O
 .	O
+
 About	O
 42	O
 boats	O
@@ -123,6 +125,7 @@ a	O
 small	O
 community	O
 .	O
+
 Enzoe	B-Person
 's	O
 grandfather	O
@@ -260,6 +263,7 @@ on	O
 the	O
 land	O
 .	O
+
 Last	O
 year	O
 ,	O

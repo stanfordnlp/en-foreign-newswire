@@ -32,6 +32,7 @@ live	O
 in	O
 Egypt	B-Location
 ?	O
+
 That	O
 ’s	O
 the	O
@@ -60,6 +61,7 @@ the	O
 Shura	B-Organization
 Council	I-Organization
 .	O
+
 “	O
 I	O
 believe	O
@@ -108,6 +110,7 @@ his	O
 June	I-Date
 publication	O
 .	O
+
 “	O
 In	O
 addition	O
@@ -138,6 +141,7 @@ the	O
 country	O
 .	O
 ”	O
+
 Huh	O
 ?	O
 
@@ -166,6 +170,7 @@ as	O
 a	O
 whole	O
 .	O
+
 In	O
 the	O
 opposition	O
@@ -197,6 +202,7 @@ to	O
 political	O
 paralysis	O
 .	O
+
 “	O
 If	O
 it	O
@@ -215,6 +221,7 @@ have	O
 been	O
 changed	O
 .	O
+
 That	O
 ’s	O
 what	O
@@ -222,6 +229,7 @@ people	O
 are	O
 saying	O
 .	O
+
 They	O
 also	O
 say	O
@@ -250,6 +258,7 @@ the	O
 June	I-Date
 issue	O
 .	O
+
 “	O
 What	O
 we	O
@@ -280,6 +289,7 @@ for	O
 its	O
 interests	O
 .	O
+
 We	O
 want	O
 a	O
@@ -290,6 +300,7 @@ a	O
 democratic	O
 manner	O
 .	O
+
 We	O
 do	O
 n’t	O
@@ -312,6 +323,7 @@ Egypt	B-Location
 tragedy	O
 before	O
 .	O
+
 There	O
 ’s	O
 a	O
@@ -328,6 +340,7 @@ gone	O
 beyond	O
 fixing	O
 .	O
+
 The	O
 only	O
 solution	O
@@ -358,6 +371,7 @@ about	O
 at	O
 all	O
 .	O
+
 We	O
 need	O
 complete	O
@@ -396,6 +410,7 @@ is	O
 upon	O
 us	O
 .	O
+
 “	O
 It	O
 ’s	O
@@ -442,6 +457,7 @@ in	O
 he	O
 wrote	O
 .	O
+
 “	O
 But	O
 this	O
@@ -484,6 +500,7 @@ American	B-NORP
 Zionist	B-NORP
 alliance	O
 .	O
+
 This	O
 only	O
 confirms	O
@@ -559,6 +576,7 @@ S.	I-Location
 Israeli	B-NORP
 domination	O
 .	O
+
 With	O
 the	O
 descent	O
@@ -580,6 +598,7 @@ also	O
 under	O
 attack	O
 .	O
+
 Al	B-Organization
 Jazeera	I-Organization
 ’s	O
@@ -629,6 +648,7 @@ the	O
 Arab	B-NORP
 regimes	O
 .	O
+
 Last	O
 month	O
 ’s	O
@@ -721,6 +741,7 @@ how	O
 to	O
 handle	O
 .	O
+
 But	O
 the	O
 Saudis	B-NORP
@@ -782,6 +803,7 @@ of	O
 extremist	O
 movements	O
 .	O
+
 There	O
 is	O
 a	O
@@ -823,6 +845,7 @@ Arab	B-NORP
 daily	O
 wrote	O
 .	O
+
 “	O
 Al	B-Organization
 Qaeda	I-Organization
@@ -870,6 +893,7 @@ of	O
 its	O
 land	O
 .	O
+
 Chaos	O
 is	O
 Al	B-Organization

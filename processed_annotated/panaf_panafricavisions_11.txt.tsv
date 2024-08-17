@@ -149,6 +149,7 @@ Football	I-Misc
 Truly	I-Misc
 Global	I-Misc
 .	O
+
 As	O
 part	O
 of	O
@@ -210,6 +211,7 @@ director	O
 Steven	B-Person
 Martens	I-Person
 .	O
+
 “	O
 It	O
 ’s	O

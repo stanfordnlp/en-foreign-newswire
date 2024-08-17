@@ -88,6 +88,7 @@ one	O
 -	O
 sided	O
 .	O
+
 It	O
 claims	O
 that	O
@@ -109,6 +110,7 @@ two	O
 persons	O
 ”	O
 .	O
+
 This	O
 is	O
 utterly	O
@@ -117,6 +119,7 @@ of	O
 the	O
 mark	O
 .	O
+
 I	O
 am	O
 writing	O
@@ -234,6 +237,7 @@ to	O
 claim	O
 that	O
 ]	O
+
 Mr	O
 Navaid	B-Person
 Hamid	I-Person
@@ -276,6 +280,7 @@ the	O
 incumbent	O
 president	O
 .	O
+
 The	O
 fact	O
 is	O
@@ -303,6 +308,7 @@ forum	O
 was	O
 held	O
 .	O
+
 Moreover	O
 ,	O
 the	O
@@ -326,6 +332,7 @@ matter	O
 has	O
 ended	O
 .	O
+
 A	O
 personal	O
 opinion	O
@@ -393,6 +400,7 @@ the	O
 principles	O
 ”	O
 .	O
+
 This	O
 only	O
 shows	O
@@ -463,12 +471,14 @@ years	O
 ago	O
 .	O
 "	O
+
 Who	O
 are	O
 these	O
 expelled	O
 members	O
 ?	O
+
 He	O
 has	O
 expelled	O
@@ -498,6 +508,7 @@ clarify	O
 his	O
 position	O
 .	O
+
 Hence	O
 his	O
 “	O
@@ -509,6 +520,7 @@ merit	O
 in	O
 law	O
 .	O
+
 In	O
 any	O
 case	O
@@ -646,6 +658,7 @@ strewn	O
 with	O
 thorns	O
 .	O
+
 I	O
 had	O
 double	O
@@ -662,11 +675,13 @@ the	O
 Mushawarat	B-Organization
 .	O
 ”	O
+
 These	O
 are	O
 crocodile	O
 tears	O
 .	O
+
 The	O
 fact	O
 is	O
@@ -691,6 +706,7 @@ and	O
 my	O
 tenures	O
 .	O
+
 It	O
 is	O
 Mr	O
@@ -765,13 +781,16 @@ SGC	B-Organization
 advice	O
 .	O
 ”	O
+
 Wrong	O
 .	O
+
 The	O
 fact	O
 is	O
 different	O
 .	O
+
 Did	O
 I	O
 not	O
@@ -829,6 +848,7 @@ Imam	I-Person
 Salafi	O
 saheb	O
 ?	O
+
 As	O
 per	O
 the	O
@@ -894,6 +914,7 @@ on	O
 6-1-2020	B-Date
 )	O
 .	O
+
 So	O
 decide	O
 who	O
@@ -1118,6 +1139,7 @@ was	O
 destroying	O
 it	O
 .	O
+
 He	O
 was	O
 so	O
@@ -1144,6 +1166,7 @@ Hamid	I-Person
 ruinous	O
 politics	O
 .	O
+
 Mr	O
 Hamid	B-Person
 has	O
@@ -1155,6 +1178,7 @@ to	O
 this	O
 day	O
 .	O
+
 I	O
 am	O
 releasing	O
@@ -1222,6 +1246,7 @@ AIMMM	B-Organization
 until	O
 then	O
 .	O
+
 I	O
 was	O
 elected	O
@@ -1265,6 +1290,7 @@ President	O
 of	O
 Mushawarat	B-Organization
 .	O
+
 I	O
 have	O
 made	O
@@ -1279,6 +1305,7 @@ here	O
 once	O
 again	O
 :	O
+
 Thank	O
 you	O
 ,	O
@@ -1287,6 +1314,7 @@ am	O
 not	O
 interested	O
 .	O
+
 I	O
 was	O
 elected	O
@@ -1311,10 +1339,12 @@ one	O
 year	O
 each	O
 .	O
+
 That	O
 was	O
 enough	O
 .	O
+
 I	O
 have	O
 many	O
@@ -1323,6 +1353,7 @@ things	O
 to	O
 do	O
 .	O
+
 Let	O
 others	O
 play	O
@@ -1342,6 +1373,7 @@ on	O
 its	O
 tracks	O
 .	O
+
 It	O
 remains	O
 stuck	O
@@ -1380,6 +1412,7 @@ lead	O
 any	O
 organisation	O
 .	O
+
 He	O
 is	O
 an	O
@@ -1387,6 +1420,7 @@ undertaker	O
 of	O
 organisations	O
 .	O
+
 He	O
 killed	O
 MOEMIN	B-Organization
@@ -1414,6 +1448,7 @@ took	O
 over	O
 )	O
 .	O
+
 He	O
 killed	O
 South	B-Organization	B-NORP
@@ -1448,6 +1483,7 @@ in	O
 May	B-Date
 2008	I-Date
 .	O
+
 Should	O
 I	O
 say	O

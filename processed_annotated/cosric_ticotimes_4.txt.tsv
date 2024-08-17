@@ -43,6 +43,7 @@ the	O
 United	B-Location
 States	I-Location
 .	O
+
 These	O
 students	O
 must	O
@@ -81,6 +82,7 @@ mathematics	O
 STEM	B-Misc
 )	O
 .	O
+
 They	O
 will	O
 also	O
@@ -188,6 +190,7 @@ engineering	O
 and	O
 mathematics	O
 .	O
+
 She	O
 also	O
 explained	O
@@ -217,6 +220,7 @@ of	O
 these	O
 scholarships	O
 .	O
+
 We	O
 call	O
 on	O
@@ -270,6 +274,7 @@ in	O
 strategic	O
 areas	O
 .	O
+
 This	O
 is	O
 the	O
@@ -306,6 +311,7 @@ the	O
 aforementioned	O
 fields	O
 .	O
+
 Therefore	O
 ,	O
 training	O
@@ -384,6 +390,7 @@ communities	O
 are	O
 invaluable	O
 .	O
+
 Student	O
 exchange	O
 strengthens	O
@@ -404,6 +411,7 @@ to	O
 world	O
 peace	O
 .	O
+
 We	O
 invite	O
 young	O

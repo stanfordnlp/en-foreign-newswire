@@ -34,6 +34,7 @@ born	O
 around	O
 1470	B-Date
 .	O
+
 Several	O
 foreign	O
 scholars	O
@@ -50,6 +51,7 @@ contrary	O
 from	O
 Iraq	B-Location
 .	O
+
 His	O
 father	O
 is	O
@@ -129,6 +131,7 @@ some	O
 time	O
 earlier	O
 .	O
+
 Together	O
 they	O
 decided	O
@@ -192,6 +195,7 @@ highlands	O
 currently	O
 Eritrea	B-Location
 .	O
+
 There	O
 they	O
 remained	O
@@ -231,6 +235,7 @@ the	O
 Emperor	O
 died	O
 .	O
+
 A	O
 power	O
 struggle	O
@@ -302,6 +307,7 @@ Ethiopian	B-NORP
 Christian	B-NORP
 faith	O
 .	O
+
 He	O
 accordingly	O
 made	O
@@ -316,6 +322,7 @@ of	O
 Debra	B-Location
 Libanos	I-Location
 .	O
+
 There	O
 he	O
 was	O
@@ -341,6 +348,7 @@ Enbaqom	B-Person
 or	O
 Habakuk	B-Person
 .	O
+
 A	O
 man	O
 of	O
@@ -382,6 +390,7 @@ dialect	O
 of	O
 Italian	B-NORP
 .	O
+
 (	O
 On	O
 this	O

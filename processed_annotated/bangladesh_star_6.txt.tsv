@@ -104,6 +104,7 @@ a	O
 long	O
 time	O
 .	O
+
 On	O
 July	B-Date
 21	I-Date
@@ -118,6 +119,7 @@ centring	O
 the	O
 issue	O
 .	O
+
 At	O
 one	O
 point	O
@@ -237,6 +239,7 @@ quit	O
 her	O
 job	O
 .	O
+
 Apart	O
 from	O
 this	O
@@ -329,6 +332,7 @@ of	O
 this	O
 year	O
 .	O
+
 Sumi	B-Person
 had	O
 been	O

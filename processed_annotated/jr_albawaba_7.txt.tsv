@@ -152,6 +152,7 @@ products	O
 to	O
 Afghanistan	B-Location
 .	O
+
 The	O
 outcome	O
 was	O
@@ -229,6 +230,7 @@ facilities	O
 for	O
 traders	O
 .	O
+
 An	O
 agreement	O
 was	O
@@ -249,6 +251,7 @@ constructing	O
 joint	O
 refineries	O
 .	O
+
 The	O
 import	O
 deal	O
@@ -389,6 +392,7 @@ relations	O
 as	O
 satisfactory	O
 .	O
+
 He	O
 suggested	O
 that	O
@@ -421,6 +425,7 @@ for	O
 many	O
 countries	O
 .	O
+
 The	O
 Taliban	B-Organization
 takeover	O

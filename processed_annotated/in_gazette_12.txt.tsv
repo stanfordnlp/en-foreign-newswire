@@ -28,6 +28,7 @@ voice	O
 of	O
 reason	O
 .	O
+
 The	O
 92	O
 -	O
@@ -70,6 +71,7 @@ and	O
 backbreaking	O
 work	O
 .	O
+
 A	O
 legend	O
 in	O
@@ -222,6 +224,7 @@ justice	O
 for	O
 all	O
 .	O
+
 He	O
 was	O
 an	O
@@ -271,6 +274,7 @@ highly	O
 competitive	O
 world	O
 .	O
+
 It	O
 took	O
 him	O
@@ -281,6 +285,7 @@ achieve	O
 his	O
 dream	O
 .	O
+
 He	O
 was	O
 a	O
@@ -296,6 +301,7 @@ London	B-Facility	B-Location
 Islamic	I-Facility	B-NORP
 Centre	I-Facility
 .	O
+
 He	O
 also	O
 contributed	O
@@ -345,6 +351,7 @@ siege	O
 in	O
 1980	B-Date
 .	O
+
 People	O
 remember	O
 his	O
@@ -396,6 +403,7 @@ of	O
 the	O
 community	O
 .	O
+
 The	O
 Muslim	B-Organization	B-NORP
 News	I-Organization
@@ -410,6 +418,7 @@ award	O
 in	O
 2013	B-Date
 .	O
+
 Describing	O
 his	O
 work	O
@@ -479,6 +488,7 @@ and	O
 balanced	O
 reporting	O
 .	O
+
 With	O
 meager	O
 resources	O
@@ -510,6 +520,7 @@ sincerity	O
 and	O
 humility	O
 .	O
+
 The	O
 wages	O
 were	O
@@ -558,6 +569,7 @@ the	O
 Muslim	B-NORP
 world	O
 .	O
+
 Newspapers	O
 published	O
 in	O
@@ -592,6 +604,7 @@ in	O
 their	O
 region	O
 .	O
+
 Moreover	O
 ,	O
 his	O
@@ -611,6 +624,7 @@ facts	O
 and	O
 fiction	O
 .	O
+
 During	O
 his	O
 long	O
@@ -646,17 +660,20 @@ in	O
 your	O
 writing	O
 .	O
+
 Never	O
 compromise	O
 on	O
 facts	O
 .	O
+
 Always	O
 stand	O
 for	O
 human	O
 dignity	O
 .	O
+
 Do	O
 n't	O
 ever	O
@@ -672,6 +689,7 @@ through	O
 serving	O
 humanity	O
 .	O
+
 These	O
 were	O
 the	O
@@ -779,6 +797,7 @@ a	O
 selfless	O
 person	O
 .	O
+
 His	O
 death	O
 is	O
@@ -790,6 +809,7 @@ the	O
 Muslim	B-NORP
 ummah	O
 .	O
+
 Once	O
 I	O
 walked	O
@@ -801,6 +821,7 @@ Finsbury	B-Location
 Street	I-Location
 uninvited	O
 .	O
+
 He	O
 welcomed	O
 a	O
@@ -836,6 +857,7 @@ lunch	O
 with	O
 him	O
 .	O
+
 He	O
 continued	O
 to	O
@@ -850,6 +872,7 @@ to	O
 his	O
 emails	O
 .	O
+
 His	O
 death	O
 will	O
@@ -867,6 +890,7 @@ credible	O
 Muslim	B-NORP
 media	O
 .	O
+
 Before	O
 Aljazeera	B-Organization
 and	O
@@ -929,6 +953,7 @@ in	O
 London	B-Location
 today	O
 .	O
+
 I	O
 worked	O
 with	O
@@ -939,6 +964,7 @@ than	O
 eight	O
 years	O
 .	O
+
 Not	O
 only	O
 was	O
@@ -959,6 +985,7 @@ favors	O
 to	O
 me	O
 .	O
+
 May	O
 Allah	B-Person
 SWT	I-Person
@@ -1042,6 +1069,7 @@ of	O
 the	O
 Impact	B-Organization
 .	O
+
 His	O
 wife	O
 ,	O
@@ -1055,6 +1083,7 @@ few	O
 years	O
 ago	O
 .	O
+
 The	O
 following	O
 website	O
@@ -1062,5 +1091,6 @@ has	O
 his	O
 writings	O
 .	O
+
 http://www.salaam.co.uk/impact-internation/	O
 

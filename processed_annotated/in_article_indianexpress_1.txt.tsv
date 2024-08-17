@@ -73,6 +73,7 @@ then	O
 state	O
 government	O
 .	O
+
 It	O
 stated	O
 that	O
@@ -130,6 +131,7 @@ Ahmedabad	B-Location
 on	O
 Friday	B-Date
 .	O
+
 It	O
 states	O
 that	O
@@ -272,6 +274,7 @@ own	O
 knowledge	O
 ”	O
 .	O
+
 It	O
 had	O
 said	O
@@ -567,6 +570,7 @@ Gujarat	B-Organization	B-Location
 Relief	I-Organization
 Committee	I-Organization
 .	O
+
 The	O
 presence	O
 of	O
@@ -684,6 +688,7 @@ really	O
 unfortunate	O
 ”	O
 .	O
+
 “	O
 All	O
 I	O
@@ -711,6 +716,7 @@ headlines	O
 and	O
 sensationalism	O
 .	O
+
 He	O
 is	O
 not	O
@@ -918,6 +924,7 @@ various	O
 media	O
 personnel	O
 .	O
+
 During	O
 this	O
 visit	O
@@ -1063,6 +1070,7 @@ of	O
 consideration	O
 ”	O
 .	O
+
 It	O
 claims	O
 that	O

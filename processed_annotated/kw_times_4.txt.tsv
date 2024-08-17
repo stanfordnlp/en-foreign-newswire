@@ -26,6 +26,7 @@ told	O
 Kuwait	B-Organization	B-Location
 Times	I-Organization
 .	O
+
 To	O
 deal	O
 with	O
@@ -113,6 +114,7 @@ of	O
 the	O
 state	O
 .	O
+
 The	O
 current	O
 parliamentary	O
@@ -367,6 +369,7 @@ told	O
 Kuwait	B-Organization	B-Location
 Times	I-Organization
 .	O
+
 This	O
 caused	O
 a	O
@@ -458,6 +461,7 @@ the	O
 private	O
 sector	O
 .	O
+
 This	O
 body	O
 will	O
@@ -513,6 +517,7 @@ Private	B-Organization
 Universities	I-Organization
 Council	I-Organization
 .	O
+
 These	O
 entities	O
 will	O

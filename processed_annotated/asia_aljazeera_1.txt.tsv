@@ -64,6 +64,7 @@ foreign	O
 forces	O
 ”	O
 .	O
+
 It	O
 was	O
 the	O
@@ -178,6 +179,7 @@ were	O
 still	O
 missing	O
 .	O
+
 The	O
 Uzbek	B-Organization	B-NORP
 Prosecutor	I-Organization
@@ -409,6 +411,7 @@ of	O
 Uzbek	B-NORP
 territory	O
 .	O
+
 The	O
 republic	O
 is	O

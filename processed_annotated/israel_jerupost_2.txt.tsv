@@ -26,6 +26,7 @@ from	O
 each	O
 other	O
 .	O
+
 While	O
 they	O
 hope	O
@@ -148,6 +149,7 @@ leader	O
 Benjamin	B-Person
 Netanyahu	I-Person
 .	O
+
 She	O
 mentioned	O
 Netanyahu	B-Person
@@ -253,6 +255,7 @@ democratic	B-NORP
 state	O
 .	O
 ”	O
+
 The	O
 Left	B-Organization
 sometimes	O
@@ -308,6 +311,7 @@ on	O
 Arab	B-NORP
 parties	O
 .	O
+
 But	O
 she	O
 did	O
@@ -365,6 +369,7 @@ a	O
 Zionist	B-NORP
 spirit	O
 .	O
+
 Citizens	O
 of	O
 Israel	B-Location
@@ -385,6 +390,7 @@ Zionist	B-NORP
 spirit	O
 .	O
 ”	O
+
 The	O
 Religious	B-NORP
 Zionist	I-NORP
@@ -415,6 +421,7 @@ a	O
 different	O
 tune	O
 .	O
+
 Toward	O
 the	O
 beginning	O
@@ -530,6 +537,7 @@ Center	B-NORP
 -	I-NORP
 Left	I-NORP
 .	O
+
 Hendel	B-Person
 also	O
 bluntly	O
@@ -551,6 +559,7 @@ Center	B-NORP
 -	I-NORP
 Left	I-NORP
 .	O
+
 Religious	B-NORP
 Zionism	I-NORP
 was	O
@@ -594,6 +603,7 @@ their	O
 joint	O
 party	O
 .	O
+
 In	O
 contrast	O
 ,	O

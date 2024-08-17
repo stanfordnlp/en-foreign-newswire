@@ -155,6 +155,7 @@ Israel	B-Location
 and	O
 Palestine	B-Location
 ?	O
+
 Is	O
 there	O
 any	O
@@ -213,6 +214,7 @@ Party	I-Organization
 policy	O
 positions	O
 .	O
+
 What	O
 has	O
 become	O
@@ -246,6 +248,7 @@ the	O
 wider	O
 region	O
 .	O
+
 The	O
 difference	O
 here	O
@@ -332,6 +335,7 @@ peace	O
 process	O
 "	O
 .	O
+
 The	O
 trip	O
 seemed	O
@@ -397,6 +401,7 @@ A	O
 :	O
 No	O
 .	O
+
 It	O
 's	O
 not	O
@@ -419,6 +424,7 @@ the	O
 Biden	B-Person
 administration	O
 .	O
+
 The	O
 Oslo	B-Misc
 Accords	I-Misc

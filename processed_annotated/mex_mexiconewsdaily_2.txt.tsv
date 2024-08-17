@@ -104,12 +104,14 @@ and	O
 on	O
 dates	O
 .	O
+
 Domínguez	B-Person
 allegedly	O
 persisted	O
 despite	O
 refusals	O
 .	O
+
 The	O
 newspaper	O
 Proceso	B-Organization
@@ -140,6 +142,7 @@ rejected	O
 the	O
 accusations	O
 .	O
+
 “	O
 What	O
 I	O
@@ -236,6 +239,7 @@ media	O
 
 FMF	B-Organization
 President	O
+
 Yon	B-Person
 de	I-Person
 Luisa	I-Person
@@ -251,6 +255,7 @@ during	O
 the	O
 investigation	O
 .	O
+
 Ana	B-Person
 Galindo	I-Person
 has	O
@@ -311,6 +316,7 @@ other	O
 female	O
 player	O
 .	O
+
 She	O
 scored	O
 82	O

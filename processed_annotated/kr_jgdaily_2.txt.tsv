@@ -52,6 +52,7 @@ sook	I-Person
 on	O
 Monday	B-Date
 .	O
+
 The	O
 meeting	O
 began	O
@@ -63,6 +64,7 @@ for	O
 two	O
 hours	O
 .	O
+
 Presidential	O
 spokesperson	O
 Kang	B-Person
@@ -110,6 +112,7 @@ current	O
 difficult	O
 economy	O
 .	O
+
 He	O
 also	O
 instructed	O

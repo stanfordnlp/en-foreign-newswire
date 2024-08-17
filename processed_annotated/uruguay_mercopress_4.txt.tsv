@@ -38,6 +38,7 @@ Uruguay	B-Location
 for	O
 Qatar	B-Location
 .	O
+
 Last	O
 February	B-Date
 ,	O
@@ -273,6 +274,7 @@ Invernada	I-Location
 said	O
 Martins	B-Person
 .	O
+
 They	O
 explained	O
 that	O

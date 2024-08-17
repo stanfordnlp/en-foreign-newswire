@@ -164,6 +164,7 @@ around	O
 the	O
 globe	O
 .	O
+
 “	O
 I	O
 have	O
@@ -226,6 +227,7 @@ children	O
 he	O
 said	O
 .	O
+
 “	O
 It	O
 made	O
@@ -568,6 +570,7 @@ the	O
 White	B-Location
 House	I-Location
 .	O
+
 Nixon	B-Person
 ,	O
 like	O
@@ -714,6 +717,7 @@ the	O
 marketing	O
 arsenal	O
 .	O
+
 Rare	O
 indeed	O
 are	O

@@ -188,6 +188,7 @@ in	O
 he	O
 said	O
 .	O
+
 "	O
 I	O
 do	O
@@ -211,11 +212,13 @@ It	O
 's	O
 stuffed	O
 .	O
+
 Beach	B-Location
 Loop	I-Location
 proves	O
 that	O
 .	O
+
 It	O
 's	O
 all	O
@@ -609,6 +612,7 @@ strengthen	O
 the	O
 coastline	O
 .	O
+
 The	O
 remainder	O
 would	O

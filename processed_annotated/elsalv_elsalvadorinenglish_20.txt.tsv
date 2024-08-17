@@ -20,6 +20,7 @@ Prime	I-Misc	I-Organization
 Video	I-Misc
 catalog	O
 .	O
+
 It	O
 is	O
 already	O
@@ -31,6 +32,7 @@ States	I-Location
 and	O
 England	B-Location
 .	O
+
 Different	O
 users	O
 have	O

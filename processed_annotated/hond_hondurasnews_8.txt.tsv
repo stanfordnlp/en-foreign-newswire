@@ -244,6 +244,7 @@ visited	O
 in	O
 Honduras	B-Location
 .	O
+
 Regarding	O
 the	O
 complete	O
@@ -474,6 +475,7 @@ of	O
 Central	B-Location
 America	I-Location
 .	O
+
 Additionally	O
 ,	O
 he	O
@@ -652,6 +654,7 @@ the	O
 security	O
 logistics	O
 .	O
+
 “	O
 Now	O
 the	O
@@ -786,6 +789,7 @@ Communications	I-Organization
 and	I-Organization
 Strategy	I-Organization
 .	O
+
 It	O
 aims	O
 to	O

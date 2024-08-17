@@ -5,6 +5,7 @@ NICARAGUA	I-Organization	B-Location
 (	O
 EFE	B-Organization
 )	O
+
 The	O
 Government	B-Organization
 of	I-Organization
@@ -250,6 +251,7 @@ final	O
 beneficiary	O
 )	O
 .	O
+
 Nor	O
 did	O
 they	O

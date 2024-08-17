@@ -94,6 +94,7 @@ in	O
 Ladakh	B-Location
 sector	O
 .	O
+
 The	O
 military	O
 plan	O
@@ -162,6 +163,7 @@ nuclear	O
 weapon	O
 states	O
 .	O
+
 And	O
 this	O
 the	O
@@ -182,6 +184,7 @@ would	O
 not	O
 allow	O
 .	O
+
 Pakistan	B-Location
 lost	O
 the	O
@@ -296,6 +299,7 @@ in	O
 July	B-Date
 2001	I-Date
 .	O
+
 The	O
 talks	O
 ended	O
@@ -340,6 +344,7 @@ Jammu	B-Location
 and	O
 Kashmir	B-Location
 .	O
+
 All	O
 the	O
 Jhelum	B-Location
@@ -397,6 +402,7 @@ past	O
 two	O
 decades	O
 .	O
+
 The	O
 key	O
 internal	O
@@ -422,6 +428,7 @@ Indian	B-Organization	B-NORP
 Armed	I-Organization
 Forces	I-Organization
 .	O
+
 One	O
 must	O
 not	O
@@ -447,6 +454,7 @@ specific	O
 cabinet	O
 approval	O
 .	O
+
 The	O
 Indian	B-Organization	B-NORP
 Navy	I-Organization
@@ -511,6 +519,7 @@ military	O
 theatre	O
 commands	O
 .	O
+
 Even	O
 though	O
 cold	O
@@ -557,6 +566,7 @@ be	O
 one	O
 command	O
 .	O
+
 In	O
 this	O
 context	O
@@ -604,6 +614,7 @@ future	O
 military	O
 reforms	O
 .	O
+
 It	O
 would	O
 be	O
@@ -655,6 +666,7 @@ to	O
 the	O
 country	O
 .	O
+
 India	B-Location
 needs	O
 to	O
@@ -683,6 +695,7 @@ by	O
 the	O
 day	O
 .	O
+
 When	O
 Prime	O
 Minister	O
@@ -726,6 +739,7 @@ well	O
 as	O
 counterintelligence	O
 .	O
+
 Time	O
 has	O
 come	O

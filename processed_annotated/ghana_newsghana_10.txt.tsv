@@ -97,6 +97,7 @@ Silicon	B-Location
 Valley	I-Location
 insiders	O
 .	O
+
 The	O
 series	O
 is	O
@@ -147,6 +148,7 @@ in	O
 the	O
 world	O
 .	O
+
 Entering	O
 the	O
 African	B-NORP
@@ -190,6 +192,7 @@ of	O
 Unicorn	B-Organization
 Hunters	I-Organization
 .	O
+
 “	O
 We	O
 look	O
@@ -287,6 +290,7 @@ Media	B-Organization
 General	I-Organization
 Group	I-Organization
 .	O
+
 “	O
 We	O
 think	O
@@ -360,6 +364,7 @@ for	O
 individual	O
 investors	O
 .	O
+
 Its	O
 cast	O
 ,	O
@@ -450,6 +455,7 @@ of	O
 traditional	O
 tokens	O
 .	O
+
 Unicoin	B-Misc
 is	O
 intended	O
@@ -481,6 +487,7 @@ an	O
 unprecedented	O
 downturn	O
 .	O
+
 In	O
 the	O
 new	O
@@ -509,6 +516,7 @@ will	O
 receive	O
 Unicoins	B-Misc
 .	O
+
 Those	O
 who	O
 receive	O
@@ -557,6 +565,7 @@ YouTube	B-Organization
 and	O
 Vimeo	B-Organization
 .	O
+
 In	O
 Latin	B-Location
 America	I-Location
@@ -578,6 +587,7 @@ in	O
 the	O
 region	O
 .	O
+
 The	O
 first	O
 12	O
@@ -669,6 +679,7 @@ founder	O
 of	O
 Apple	B-Organization
 .	O
+
 Unicoin	B-Misc
 is	O
 a	O

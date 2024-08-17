@@ -87,6 +87,7 @@ Labour	I-Misc
 in	O
 Durban	B-Location
 .	O
+
 Hundreds	O
 of	O
 delegates	O
@@ -121,6 +122,7 @@ to	I-Date
 ,	I-Date
 2022	I-Date
 .	O
+
 Sessions	O
 and	O
 panel	O
@@ -195,6 +197,7 @@ comprehensive	O
 action	O
 plan	O
 .	O
+
 Employers	O
 fully	O
 support	O
@@ -286,6 +289,7 @@ turning	O
 point	O
 happen	O
 .	O
+
 We	O
 must	O
 not	O
@@ -296,6 +300,7 @@ of	O
 the	O
 world	O
 .	O
+
 This	O
 implementation	O
 of	O
@@ -328,6 +333,7 @@ reason	O
 to	O
 fail	O
 .	O
+
 We	O
 are	O
 deeply	O
@@ -387,6 +393,7 @@ breaking	O
 new	O
 ground	O
 .	O
+
 Let	O
 us	O
 recall	O
@@ -417,6 +424,7 @@ health	O
 at	O
 risk	O
 .	O
+
 We	O
 must	O
 not	O
@@ -468,6 +476,7 @@ job	O
 as	O
 adults	O
 .	O
+
 They	O
 are	O
 denied	O
@@ -478,6 +487,7 @@ rights	O
 to	O
 protection	O
 .	O
+
 It	O
 is	O
 intolerable	O
@@ -593,6 +603,7 @@ Covid	B-Misc
 19	I-Misc
 pandemic	O
 .	O
+
 This	O
 has	O
 resulted	O
@@ -691,12 +702,14 @@ be	O
 about	O
 people	O
 .	O
+
 That	O
 message	O
 was	O
 very	O
 clear	O
 .	O
+
 It	O
 would	O
 be	O

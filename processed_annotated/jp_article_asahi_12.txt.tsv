@@ -70,6 +70,7 @@ a	O
 military	O
 stalemate	O
 .	O
+
 Legend	O
 has	O
 it	O
@@ -95,6 +96,7 @@ devastated	O
 the	O
 ships	O
 .	O
+
 The	O
 typhoon	O
 has	O
@@ -239,6 +241,7 @@ cultural	O
 historical	O
 site	O
 .	O
+
 And	O
 while	O
 it	O
@@ -294,6 +297,7 @@ than	O
 30,000	O
 kilometers	O
 .	O
+
 In	O
 contrast	O
 ,	O
@@ -402,6 +406,7 @@ underwater	O
 cultural	O
 heritage	O
 .	O
+
 Waterfront	O
 developments	O
 ,	O
@@ -450,6 +455,7 @@ kilometer	O
 of	O
 coastline	O
 .	O
+
 That	O
 means	O
 there	O
@@ -463,6 +469,7 @@ Japan	B-Location
 Sasaki	B-Person
 says	O
 .	O
+
 “	O
 And	O
 even	O
@@ -513,6 +520,7 @@ lakefront	O
 development	O
 projects	O
 .	O
+
 Shipwrecks	O
 and	O
 other	O
@@ -690,6 +698,7 @@ prehistoric	O
 lake	O
 dwelling	O
 .	O
+
 Hashimoto	B-Person
 ’s	O
 finds	O
@@ -737,6 +746,7 @@ of	O
 Lake	B-Location
 Biwa	I-Location
 .	O
+
 These	O
 turned	O
 out	O
@@ -812,6 +822,7 @@ larger	O
 scale	O
 projects	O
 .	O
+
 In	O
 1975	B-Date
 ,	O
@@ -828,6 +839,7 @@ Kaiyo	B-Product
 Maru	I-Product
 commenced	O
 .	O
+
 A	O
 frigate	O
 built	O
@@ -923,6 +935,7 @@ Archaeological	I-Misc
 Sites	I-Misc
 .	I-Misc
 ”	I-Misc
+
 Four	O
 years	O
 in	O
@@ -972,6 +985,7 @@ regions	O
 Shiba	B-Person
 says	O
 .	O
+
 Unlike	O
 some	O
 other	O
@@ -1047,6 +1061,7 @@ commence	O
 he	O
 says	O
 .	O
+
 “	O
 But	O
 on	O
@@ -1075,6 +1090,7 @@ of	O
 6,852	O
 islands	O
 .	O
+
 Mountains	O
 and	O
 hills	O
@@ -1104,6 +1120,7 @@ lakes	O
 and	O
 ponds	O
 .	O
+
 The	O
 population	O
 has	O
@@ -1141,6 +1158,7 @@ with	O
 maritime	O
 commerce	O
 .	O
+
 And	O
 as	O
 regional	O
@@ -1205,6 +1223,7 @@ documents	O
 remain	O
 scarce	O
 .	O
+
 Meanwhile	O
 ,	O
 underwater	O
@@ -1342,6 +1361,7 @@ municipalities	O
 he	O
 says	O
 .	O
+
 “	O
 And	O
 doing	O
@@ -1439,6 +1459,7 @@ board	O
 of	O
 education	O
 .	O
+
 The	O
 pandemic	O
 has	O
@@ -1585,6 +1606,7 @@ about	O
 underwater	O
 archaeology	O
 .	O
+
 It	O
 was	O
 written	O

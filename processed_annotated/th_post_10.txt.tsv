@@ -42,6 +42,7 @@ government	O
 on	O
 Wednesday	B-Date
 .	O
+
 Pakornwut	B-Person
 Udompipatsakul	I-Person
 ,	O
@@ -98,6 +99,7 @@ the	O
 Chidchob	B-Person
 family	O
 .	O
+
 Mr	O
 Saksayam	B-Person
 quit	O
@@ -111,6 +113,7 @@ politics	O
 in	O
 1997	B-Date
 .	O
+
 However	O
 he	O
 made	O
@@ -151,6 +154,7 @@ between	O
 and	O
 2017	B-Date
 .	O
+
 Ahead	O
 of	O
 the	O
@@ -215,6 +219,7 @@ Mr	O
 Pakornwut	B-Person
 said	O
 .	O
+
 However	O
 ,	O
 there	O
@@ -232,6 +237,7 @@ purchase	O
 he	O
 said	O
 .	O
+
 "	O
 Where	O
 is	O
@@ -242,6 +248,7 @@ money	O
 million	I-Money
 ]	O
 ?	O
+
 Is	O
 this	O
 a	O
@@ -251,6 +258,7 @@ share	O
 concealment	O
 ?	O
 "	O
+
 Mr	O
 Pakornwut	B-Person
 said	O
@@ -276,6 +284,7 @@ tainted	O
 with	O
 irregularities	O
 .	O
+
 In	O
 some	O
 cases	O
@@ -332,6 +341,7 @@ from	O
 Thanachart	B-Organization
 Bank	I-Organization
 .	O
+
 The	O
 Department	B-Organization
 of	I-Organization
@@ -350,6 +360,7 @@ March	B-Date
 ,	I-Date
 2018	I-Date
 .	O
+
 The	O
 minister	O
 insisted	O
@@ -432,6 +443,7 @@ ministry	O
 's	O
 contracts	O
 .	O
+
 He	O
 said	O
 he	O

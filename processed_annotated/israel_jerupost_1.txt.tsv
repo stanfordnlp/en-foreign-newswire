@@ -36,6 +36,7 @@ to	O
 initial	O
 reports	O
 .	O
+
 The	O
 Foreign	B-Organization
 Ministry	I-Organization
@@ -88,6 +89,7 @@ injured	O
 to	O
 Israel	B-Location
 .	O
+
 The	O
 IDF	B-Organization	B-Organization
 Spokesperson	I-Organization

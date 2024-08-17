@@ -26,6 +26,7 @@ and	O
 Kane	B-Person
 Williamson	I-Person
 .	O
+
 Is	O
 it	O
 added	O
@@ -76,6 +77,7 @@ of	O
 this	O
 comparison	O
 .	O
+
 “	O
 Why	O
 were	O
@@ -84,6 +86,7 @@ names	O
 on	O
 top	O
 ?	O
+
 Naam	O
 tab	O
 banta	O
@@ -102,6 +105,7 @@ team	O
 wins	O
 )	O
 .	O
+
 Their	O
 top	O
 performances	O
@@ -111,6 +115,7 @@ for	O
 the	O
 wins	O
 .	O
+
 I	O
 made	O
 that	O
@@ -118,6 +123,7 @@ change	O
 in	O
 myself	O
 .	O
+
 Win	O
 games	O
 ,	O
@@ -130,6 +136,7 @@ Inzamam	B-Person
 YouTube	B-Product
 channel	O
 .	O
+
 Put	O
 double	O
 effort	O
@@ -161,6 +168,7 @@ off	O
 camera	O
 too	O
 .	O
+
 The	O
 gentleness	O
 ,	O
@@ -181,12 +189,14 @@ inimitable	O
 soft	O
 manner	O
 .	O
+
 The	O
 answers	O
 too	O
 were	O
 interesting	O
 .	O
+
 Babar	B-Person
 does	O
 n’t	O
@@ -253,6 +263,7 @@ n’t	O
 turn	O
 shy	O
 .	O
+
 “	O
 Yes	O
 ,	O
@@ -268,6 +279,7 @@ then	O
 get	O
 out	O
 .	O
+
 Some	O
 7-8	O
 fifties	O
@@ -278,6 +290,7 @@ one	O
 point	O
 .	O
 ”	O
+
 Babar	B-Person
 then	O
 zooms	O
@@ -307,6 +320,7 @@ happening	O
 for	O
 me	O
 ?	O
+
 The	O
 answer	O
 I	O
@@ -320,6 +334,7 @@ I	O
 was	O
 relaxing	O
 .	O
+
 Those	O
 were	O
 negative	O
@@ -332,6 +347,7 @@ mind	O
 Babar	B-Person
 says	O
 .	O
+
 “	O
 That	O
 ’s	O

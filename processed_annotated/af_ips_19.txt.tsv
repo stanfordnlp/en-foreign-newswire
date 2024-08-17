@@ -74,6 +74,7 @@ for	O
 their	O
 families	O
 .	O
+
 Others	O
 chose	O
 to	O
@@ -152,6 +153,7 @@ Italy	B-Location
 via	O
 Libya	B-Location
 .	O
+
 Egyptian	B-NORP
 and	O
 Libyan	B-NORP
@@ -194,6 +196,7 @@ days	O
 were	O
 available	O
 .	O
+
 That	O
 spot	O
 could	O
@@ -246,6 +249,7 @@ life	O
 in	O
 Europe	B-Location
 .	O
+
 To	O
 fund	O
 this	O
@@ -305,6 +309,7 @@ of	O
 border	O
 guards	O
 .	O
+
 We	O
 arrived	O
 in	O
@@ -319,6 +324,7 @@ Emad	B-Person
 told	O
 IPS	B-Organization
 .	O
+
 “	O
 The	O
 smugglers	O
@@ -385,6 +391,7 @@ in	O
 the	O
 warehouse	O
 .	O
+
 When	O
 they	O
 complained	O
@@ -490,6 +497,7 @@ them	O
 highly	O
 anxious	O
 .	O
+
 Finally	O
 ,	O
 contact	O
@@ -509,6 +517,7 @@ on	O
 the	O
 boat	O
 .	O
+
 The	O
 most	O
 recent	O
@@ -571,6 +580,7 @@ west	O
 of	O
 Tripoli	B-Location
 .	O
+
 On	O
 the	O
 eve	O

@@ -5,6 +5,7 @@ Sambalpur	B-Location
 India	I-Location
 –	O
 Nityananda	B-Person
+
 Deep	I-Person
 has	O
 worried	O
@@ -90,6 +91,7 @@ area	O
 in	O
 1957	B-Date
 .	O
+
 He	O
 and	O
 his	O
@@ -190,6 +192,7 @@ in	O
 the	O
 area	O
 .	O
+
 “	O
 Now	O
 where	O
@@ -214,6 +217,7 @@ is	O
 not	O
 alone	O
 .	O
+
 Some	O
 30	O
 households	O
@@ -413,6 +417,7 @@ think	O
 -	O
 tank	O
 .	O
+
 The	O
 problem	O
 ,	O
@@ -467,6 +472,7 @@ or	O
 coal	O
 mines	O
 .	O
+
 Green	O
 cover	O
 should	O
@@ -545,6 +551,7 @@ declared	O
 them	O
 illegal	O
 .	O
+
 In	O
 2015	B-Date
 the	O
@@ -574,6 +581,7 @@ its	O
 approval	O
 expired	O
 .	O
+
 In	O
 2019	B-Date
 the	O
@@ -590,6 +598,7 @@ Raipur	B-Organization
 Energen	I-Organization
 Limited	I-Organization
 .	O
+
 It	O
 ’s	O
 yet	O
@@ -712,6 +721,7 @@ and	O
 their	O
 house	O
 .	O
+
 Since	O
 Das	B-Person
 had	O
@@ -821,6 +831,7 @@ by	O
 the	O
 police	O
 .	O
+
 Once	O
 they	O
 dig	O
@@ -875,6 +886,7 @@ coal	O
 for	O
 cooking	O
 .	O
+
 That	O
 work	O
 fetches	O
@@ -929,6 +941,7 @@ hours	O
 he	O
 added	O
 .	O
+
 “	O
 We	O
 are	O
@@ -941,6 +954,7 @@ of	O
 coal	O
 pilferage	O
 .	O
+
 It	O
 is	O
 so	O
@@ -1057,6 +1071,7 @@ both	O
 the	O
 blocks	O
 .	O
+
 The	O
 operator	O
 contractor	O
@@ -1199,6 +1214,7 @@ mining	O
 can	O
 begin	O
 .	O
+
 Mining	O
 in	O
 Talabira	B-Location
@@ -1236,6 +1252,7 @@ in	O
 the	O
 area	O
 .	O
+
 He	O
 adds	O
 that	O
@@ -1277,6 +1294,7 @@ committed	O
 said	O
 Sahu	B-Person
 .	O
+
 A	O
 lack	O
 of	O
@@ -1462,6 +1480,7 @@ dumped	O
 on	O
 it	O
 .	O
+
 “	O
 We	O
 are	O
@@ -1698,6 +1717,7 @@ already	O
 been	O
 purchased	O
 .	O
+
 He	O
 added	O
 that	O
@@ -1751,6 +1771,7 @@ the	O
 mining	O
 company	O
 .	O
+
 The	O
 amount	O
 will	O
@@ -1857,6 +1878,7 @@ for	O
 his	O
 grandson	O
 .	O
+
 “	O
 The	O
 coal	O
@@ -1904,6 +1926,7 @@ him	O
 to	O
 study	O
 .	O
+
 But	O
 his	O
 future	O

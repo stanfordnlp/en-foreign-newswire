@@ -12,6 +12,7 @@ in	O
 both	O
 manifestos	O
 .	O
+
 Gustavo	B-Person
 Petro	I-Person
 and	O
@@ -45,6 +46,7 @@ security	O
 as	O
 well	O
 .	O
+
 While	O
 they	O
 agree	O
@@ -94,10 +96,12 @@ universal	O
 and	O
 public	O
 .	O
+
 No	O
 shocks	O
 there	O
 .	O
+
 He	O
 sees	O
 sport	O
@@ -113,6 +117,7 @@ health	O
 and	O
 culture	O
 .	O
+
 That	O
 means	O
 all	O
@@ -133,6 +138,7 @@ in	O
 the	O
 process	O
 .	O
+
 However	O
 ,	O
 he	O
@@ -162,6 +168,7 @@ with	O
 state	O
 entities	O
 .	O
+
 It	O
 all	O
 sounds	O
@@ -198,6 +205,7 @@ bring	O
 greater	O
 equality	O
 .	O
+
 There	O
 ’s	O
 going	O
@@ -225,6 +233,7 @@ a	O
 young	O
 age	O
 .	O
+
 This	O
 will	O
 all	O

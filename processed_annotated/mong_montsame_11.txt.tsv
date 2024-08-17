@@ -5,6 +5,7 @@ Ulaanbaatar	B-Location
 MONTSAME	B-Organization
 /	O
 .	O
+
 A	O
 67	O
 -	O
@@ -43,6 +44,7 @@ by	O
 paved	O
 roads	O
 .	O
+
 The	O
 opening	O
 ceremony	O
@@ -100,6 +102,7 @@ by	O
 paved	O
 roads	O
 .	O
+
 The	O
 Millennium	B-Misc
 Road	I-Misc
@@ -121,6 +124,7 @@ after	O
 21	O
 years	O
 .	O
+
 This	O
 is	O
 a	O
@@ -305,6 +309,7 @@ railroads	O
 will	O
 commence	O
 .	O
+
 As	O
 a	O
 result	O
@@ -325,6 +330,7 @@ ports	O
 by	O
 railroads	O
 .	O
+
 This	O
 will	O
 enable	O

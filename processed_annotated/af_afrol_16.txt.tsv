@@ -3,6 +3,7 @@ http://www.afrol.com/features/38272	O
 afrol	B-Organization
 News	I-Organization
 -	O
+
 In	O
 May	B-Date
 2013	I-Date
@@ -23,6 +24,7 @@ independence	O
 from	O
 Ethiopia	B-Location
 .	O
+
 The	O
 Asmara	B-Location
 government	O
@@ -55,6 +57,7 @@ dictatorship	O
 
 1993	B-Date
 .	O
+
 It	O
 was	O
 a	O
@@ -86,6 +89,7 @@ and	O
 complete	O
 victory	O
 .	O
+
 Freedom	O
 at	O
 last	O
@@ -118,6 +122,7 @@ celebrated	O
 as	O
 heroes	O
 .	O
+
 Its	O
 respected	O
 leader	O
@@ -137,6 +142,7 @@ now	O
 independent	O
 country	O
 .	O
+
 He	O
 had	O
 ,	O
@@ -166,6 +172,7 @@ people	O
 
 1993	B-Date
 .	O
+
 It	O
 was	O
 time	O
@@ -187,6 +194,7 @@ example	O
 to	O
 follow	O
 .	O
+
 Enthusiastic	O
 exiled	O
 Eritreans	B-NORP
@@ -205,10 +213,12 @@ share	O
 their	O
 knowledge	O
 .	O
+
 Spirits	O
 were	O
 high	O
 .	O
+
 Voluntary	O
 work	O
 was	O
@@ -219,6 +229,7 @@ basic	O
 state	O
 structures	O
 .	O
+
 Foreign	O
 donors	O
 were	O
@@ -235,6 +246,7 @@ government	O
 and	O
 people	O
 .	O
+
 Development	O
 aid	O
 started	O
@@ -246,6 +258,7 @@ country	O
 
 1997	B-Date
 .	O
+
 Reconstruction	O
 is	O
 advancing	O
@@ -256,6 +269,7 @@ keeps	O
 pouring	O
 in	O
 .	O
+
 And	O
 it	O
 is	O
@@ -268,6 +282,7 @@ and	O
 political	O
 reform	O
 .	O
+
 Eritrea	B-Location
 gets	O
 an	O
@@ -297,6 +312,7 @@ for	O
 the	O
 presidency	O
 .	O
+
 Meanwhile	O
 ,	O
 the	O
@@ -319,6 +335,7 @@ transition	O
 
 1998	B-Date
 .	O
+
 The	O
 border	O
 conflict	O
@@ -327,6 +344,7 @@ Ethiopia	B-Location
 breaks	O
 out	O
 .	O
+
 International	O
 efforts	O
 to	O
@@ -364,6 +382,7 @@ pressure	O
 for	O
 democratisation	O
 .	O
+
 From	O
 now	O
 on	O
@@ -409,6 +428,7 @@ days	O
 of	O
 independence	O
 .	O
+
 Eritrea	B-Location
 continues	O
 to	O
@@ -425,6 +445,7 @@ of	O
 the	O
 PFDJ	B-Organization
 .	O
+
 The	O
 1997	B-Date
 constitution	O
@@ -432,12 +453,14 @@ remains	O
 on	O
 ice	O
 .	O
+
 No	O
 elections	O
 have	O
 been	O
 hold	O
 .	O
+
 And	O
 there	O
 are	O
@@ -464,6 +487,7 @@ On	O
 the	O
 contrary	O
 .	O
+
 Eritrea	B-Location
 has	O
 slowly	O
@@ -493,6 +517,7 @@ a	O
 global	O
 scale	O
 .	O
+
 Virtually	O
 no	O
 freedoms	O
@@ -539,6 +564,7 @@ the	O
 ruling	O
 PFDJ	B-Organization
 .	O
+
 The	O
 president	O
 had	O
@@ -562,6 +588,7 @@ prison	O
 without	O
 trial	O
 .	O
+
 Attempts	O
 to	O
 establish	O
@@ -574,6 +601,7 @@ the	O
 utmost	O
 brutality	O
 .	O
+
 Even	O
 innocent	O
 relatives	O
@@ -596,6 +624,7 @@ press	O
 is	O
 allowed	O
 .	O
+
 There	O
 were	O
 some	O
@@ -607,6 +636,7 @@ Eritrea	B-Location
 until	O
 2001	B-Date
 .	O
+
 But	O
 in	O
 a	O
@@ -629,6 +659,7 @@ any	O
 legal	O
 basis	O
 .	O
+
 Critical	O
 journalists	O
 were	O
@@ -644,6 +675,7 @@ goes	O
 without	O
 saying	O
 .	O
+
 Even	O
 state	O
 media	O
@@ -662,6 +694,7 @@ the	O
 coming	O
 years	O
 .	O
+
 Prison	O
 ..	O
 no	O

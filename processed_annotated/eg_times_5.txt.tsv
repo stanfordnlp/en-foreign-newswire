@@ -54,6 +54,7 @@ beside	O
 the	O
 Nile	B-Location
 .	O
+
 The	O
 event	O
 was	O
@@ -145,6 +146,7 @@ center	O
 the	O
 CFCC	B-Organization
 .	O
+
 Vincent	B-Person
 Martigny	I-Person
 ,	O
@@ -165,6 +167,7 @@ past	O
 three	O
 years	O
 .	O
+
 Organizing	O
 Cairo	B-Location
 ’s	O
@@ -180,6 +183,7 @@ difficulties	O
 he	O
 explains	O
 .	O
+
 “	O
 Egyptian	B-NORP
 audiences	O
@@ -207,6 +211,7 @@ embrace	O
 the	O
 festival	O
 .	O
+
 The	O
 2004	B-Date
 event	O

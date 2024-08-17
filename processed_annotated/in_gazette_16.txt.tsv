@@ -41,6 +41,7 @@ called	O
 political	O
 stamina	O
 .	O
+
 I	O
 pray	O
 to	O
@@ -67,6 +68,7 @@ few	O
 promising	O
 hops	O
 .	O
+
 But	O
 I	O
 am	O
@@ -115,6 +117,7 @@ pocket	O
 borough	O
 ”	O
 .	O
+
 Erasing	O
 public	O
 memory	O
@@ -134,6 +137,7 @@ magic	O
 of	O
 television	O
 .	O
+
 Priyanka	B-Person
 ’s	O
 resemblance	O
@@ -171,6 +175,7 @@ are	O
 useful	O
 attributes	O
 .	O
+
 But	O
 these	O
 also	O
@@ -218,6 +223,7 @@ looking	O
 very	O
 athletic	O
 .	O
+
 Priyanka	B-Person
 Gandhi	I-Person
 has	O
@@ -258,6 +264,7 @@ the	O
 UP	B-Location
 elections	O
 .	O
+
 Worse	O
 ,	O
 in	O
@@ -278,6 +285,7 @@ a	O
 parliamentary	O
 seat	O
 .	O
+
 In	O
 adjacent	O
 Amethi	B-Location
@@ -357,6 +365,7 @@ for	O
 the	O
 Congress	B-Organization
 .	O
+
 Rae	B-Organization
 Bareli	I-Organization
 and	O
@@ -366,11 +375,13 @@ may	O
 be	O
 lost	O
 .	O
+
 This	O
 rang	O
 alarm	O
 bells	O
 .	O
+
 The	O
 prospect	O
 of	O
@@ -391,6 +402,7 @@ for	O
 the	O
 family	O
 .	O
+
 They	O
 may	O
 lose	O
@@ -414,6 +426,7 @@ Bareli	I-Location
 and	O
 Amethi	B-Location
 .	O
+
 Single	O
 handedly	O
 ,	O
@@ -434,6 +447,7 @@ of	O
 her	O
 teeth	O
 .	O
+
 These	O
 were	O
 the	O
@@ -446,6 +460,7 @@ won	O
 from	O
 UP	B-Location
 .	O
+
 After	O
 a	O
 spate	O
@@ -474,6 +489,7 @@ out	O
 with	O
 dignity	O
 .	O
+
 They	O
 would	O
 have	O
@@ -490,6 +506,7 @@ despite	O
 the	O
 embarrassments	O
 .	O
+
 “	O
 But	O
 a	O
@@ -502,6 +519,7 @@ thick	O
 skinned	O
 .	O
 ”	O
+
 One	O
 of	O
 the	O

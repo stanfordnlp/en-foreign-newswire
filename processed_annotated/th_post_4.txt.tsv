@@ -193,6 +193,7 @@ the	O
 US	B-Money	B-Location
 dollar	I-Money
 .	O
+
 This	O
 has	O
 sparked	O
@@ -224,6 +225,7 @@ monitoring	O
 the	O
 impact	O
 .	O
+
 Many	O
 Thai	B-NORP
 steel	O
@@ -459,6 +461,7 @@ at	O
 billion	I-Money
 baht	I-Money
 .	O
+
 It	O
 divided	O
 the	O

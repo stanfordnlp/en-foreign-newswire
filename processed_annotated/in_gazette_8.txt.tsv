@@ -34,6 +34,7 @@ and	O
 now	O
 Ukraine	B-Location
 .	O
+
 The	O
 western	O
 media	O
@@ -84,6 +85,7 @@ with	O
 our	O
 neighbours	O
 .	O
+
 And	O
 ,	O
 towards	O
@@ -111,6 +113,7 @@ India	B-Location
 Pakistan	B-Location
 story	O
 ?	O
+
 Last	O
 month	O
 ,	O
@@ -143,6 +146,7 @@ armies	O
 had	O
 held	O
 .	O
+
 Back	O
 channels	O
 are	O
@@ -152,6 +156,7 @@ Muscat	B-Location
 and	O
 Dubai	B-Location
 .	O
+
 There	O
 are	O
 signs	O
@@ -189,6 +194,7 @@ position	O
 of	O
 weakness	O
 .	O
+
 Given	O
 his	O
 obstinate	O
@@ -242,6 +248,7 @@ the	O
 key	O
 relationship	O
 .	O
+
 The	O
 four	O
 upon	O
@@ -258,6 +265,7 @@ Muslims	B-NORP
 feeling	O
 disheartened	O
 .	O
+
 “	O
 There	O
 is	O
@@ -277,6 +285,7 @@ it	O
 out	O
 .	O
 ”	O
+
 Shakespeare	B-Person
 is	O
 apt	O
@@ -284,6 +293,7 @@ for	O
 the	O
 occasion	O
 .	O
+
 Changes	O
 in	O
 foreign	O
@@ -292,6 +302,7 @@ have	O
 become	O
 inevitable	O
 .	O
+
 Those	O
 changes	O
 will	O

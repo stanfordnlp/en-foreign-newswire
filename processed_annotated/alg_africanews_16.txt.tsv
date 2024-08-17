@@ -49,6 +49,7 @@ front	O
 page	O
 read	O
 .	O
+
 The	O
 newspaper	O
 which	O
@@ -93,6 +94,7 @@ the	O
 dissolution	O
 Wednesday	B-Date
 .	O
+
 "	O
 Liberté	B-Organization
 is	O
@@ -108,8 +110,10 @@ of	O
 the	O
 hand	O
 .	O
+
 Dramatic	O
 .	O
+
 Because	O
 ,	O
 in	O
@@ -172,6 +176,7 @@ reverse	O
 his	O
 decision	O
 .	O
+
 In	O
 vain	O
 .	O
@@ -273,6 +278,7 @@ freedom	O
 of	O
 expression	O
 .	O
+
 The	O
 newspaper	O
 "	O
@@ -459,6 +465,7 @@ Thursday	B-Date
 by	O
 Liberté	B-Organization
 .	O
+
 He	O
 said	O
 the	O
@@ -479,6 +486,7 @@ violence	O
 over	O
 debate	O
 .	O
+
 The	O
 victory	O
 of	O

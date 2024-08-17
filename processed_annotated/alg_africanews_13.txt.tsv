@@ -120,6 +120,7 @@ Tanzania	B-Location
 and	O
 Niger	B-Location
 .	O
+
 As	O
 I	O
 have	O
@@ -136,6 +137,7 @@ teams	O
 in	O
 Africa	B-Location
 .	O
+
 We	O
 could	O
 see	O
@@ -148,6 +150,7 @@ Cup	I-Misc
 of	I-Misc
 Nations	I-Misc
 .	O
+
 We	O
 saw	O
 the	O
@@ -204,6 +207,7 @@ by	O
 Sadio	B-Person
 Mane	I-Person
 .	O
+
 They	O
 then	O
 drew	O
@@ -222,6 +226,7 @@ third	O
 group	O
 match	O
 .	O
+
 So	O
 everyone	O
 knows	O
@@ -328,6 +333,7 @@ in	O
 the	O
 team	O
 .	O
+
 It	O
 is	O
 important	O

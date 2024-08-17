@@ -126,6 +126,7 @@ pressured	O
 the	O
 psychiatrist	O
 .	O
+
 “	O
 It	O
 ’s	O
@@ -167,6 +168,7 @@ a	O
 spokesperson	O
 said	O
 .	O
+
 “	O
 One	O
 would	O
@@ -230,6 +232,7 @@ Birger	B-Person
 in	O
 2012	B-Date
 .	O
+
 Birger	B-Person
 heads	O
 the	O
@@ -279,6 +282,7 @@ one	O
 time	O
 request	O
 .	O
+
 They	O
 said	O
 he	O
@@ -377,6 +381,7 @@ conveyed	O
 these	O
 requests	O
 .	O
+
 The	O
 situation	O
 became	O
@@ -437,6 +442,7 @@ term	O
 as	O
 minister	O
 .	O
+
 But	O
 several	O
 sources	O
@@ -471,6 +477,7 @@ tactics	O
 for	O
 years	O
 .	O
+
 Channel	B-Organization
 2	I-Organization
 news	I-Organization

@@ -47,12 +47,14 @@ shortest	O
 dishdasha	O
 ’	O
 .	O
+
 We	O
 no	O
 longer	O
 see	O
 them	O
 .	O
+
 We	O
 no	O
 longer	O
@@ -88,6 +90,7 @@ clipped	O
 their	O
 wings	O
 .	O
+
 They	O
 praised	O
 the	O
@@ -122,6 +125,7 @@ Al	B-Organization
 Qabas	I-Organization
 daily	O
 .	O
+
 It	O
 limited	O
 our	O
@@ -159,6 +163,7 @@ fathers	O
 and	O
 mothers	O
 .	O
+
 This	O
 happened	O
 for	O
@@ -213,6 +218,7 @@ last	O
 18	O
 months	O
 .	O
+
 Definitely	O
 ,	O
 whatever	O

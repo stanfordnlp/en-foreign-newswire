@@ -45,6 +45,7 @@ on	O
 July	B-Date
 25	I-Date
 .	O
+
 The	O
 holiday	O
 commemorates	O
@@ -209,6 +210,7 @@ into	O
 separate	O
 territories	O
 .	O
+
 One	O
 of	O
 those	O
@@ -223,6 +225,7 @@ part	O
 of	O
 Guanacaste	B-Location
 .	O
+
 When	O
 Central	B-Location
 America	I-Location
@@ -269,6 +272,7 @@ toward	O
 the	O
 Nicoyans	B-NORP
 .	O
+
 Because	O
 of	O
 those	O
@@ -329,6 +333,7 @@ a	O
 provisional	O
 constitution	O
 .	O
+
 Later	O
 ,	O
 the	O
@@ -419,6 +424,7 @@ mayor	O
 Cupertino	B-Person
 Briceño	I-Person
 .	O
+
 At	O
 the	O
 time	O
@@ -504,6 +510,7 @@ Nicoya	B-Location
 became	O
 official	O
 .	O
+
 In	O
 1848	B-Date
 ,	O
@@ -528,6 +535,7 @@ Bagaces	B-Location
 and	O
 Cañas	B-Location
 .	O
+
 Today	O
 ,	O
 Guanacaste	B-Location
@@ -573,6 +581,7 @@ of	O
 Guanacaste	B-Location
 province	O
 .	O
+
 The	O
 word	O
 Guanacaste	B-Location
@@ -616,6 +625,7 @@ and	O
 other	O
 crops	O
 .	O
+
 Livestock	O
 is	O
 also	O
@@ -625,6 +635,7 @@ many	O
 area	O
 farms	O
 .	O
+
 It	O
 is	O
 one	O
@@ -673,6 +684,7 @@ in	O
 the	O
 country	O
 .	O
+
 Costa	B-NORP
 Rican	I-NORP
 culture	O
@@ -775,6 +787,7 @@ other	O
 popular	O
 instruments	O
 .	O
+
 Guanacaste	B-Location
 also	O
 produced	O
@@ -784,6 +797,7 @@ stories	O
 and	O
 legends	O
 .	O
+
 Without	O
 a	O
 doubt	O

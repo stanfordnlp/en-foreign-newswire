@@ -10,6 +10,7 @@ is	O
 under	O
 threat	O
 .	O
+
 15	O
 months	O
 into	O
@@ -24,6 +25,7 @@ last	O
 18	O
 months	O
 .	O
+
 The	O
 Transitional	B-Organization
 Military	I-Organization
@@ -45,6 +47,7 @@ voices	O
 expressing	O
 concern	O
 .	O
+
 The	O
 country	O
 is	O
@@ -120,6 +123,7 @@ to	O
 the	O
 CMT	B-Organization
 .	O
+
 First	O
 created	O
 to	O
@@ -151,6 +155,7 @@ to	O
 civilian	O
 rule	O
 .	O
+
 It	O
 has	O
 organised	O
@@ -193,6 +198,7 @@ threatened	O
 outspoken	O
 activists	O
 .	O
+
 Van	B-Person
 Severan	I-Person
 and	O

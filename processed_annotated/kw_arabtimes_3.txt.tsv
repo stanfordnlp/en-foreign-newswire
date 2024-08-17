@@ -56,6 +56,7 @@ use	O
 of	O
 labor	O
 .	O
+
 This	O
 step	O
 heralds	O
@@ -84,6 +85,7 @@ reports	O
 Aljarida	B-Organization
 daily	O
 .	O
+
 Al	B-Person
 -	I-Person
 Shammari	I-Person
@@ -115,6 +117,7 @@ happen	O
 in	O
 August	B-Date
 .	O
+
 It	O
 will	O
 pave	O
@@ -143,6 +146,7 @@ is	O
 currently	O
 experiencing	O
 .	O
+
 Many	O
 local	O
 recruitment	O
@@ -185,6 +189,7 @@ in	O
 Addis	B-Location
 Ababa	I-Location
 .	O
+
 Allowing	O
 the	O
 recruitment	O
@@ -271,6 +276,7 @@ of	O
 23	O
 years	O
 .	O
+
 He	O
 indicated	O
 that	O
@@ -385,6 +391,7 @@ past	O
 two	O
 years	O
 .	O
+
 He	O
 called	O
 on	O
@@ -454,6 +461,7 @@ guaranteed	O
 by	O
 law	O
 .	O
+
 Al	B-Person
 -	I-Person
 Shammari	I-Person

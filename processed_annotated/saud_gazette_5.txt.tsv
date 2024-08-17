@@ -218,6 +218,7 @@ others	O
 overusing	O
 them	O
 .	O
+
 The	O
 current	O
 system	O
@@ -299,6 +300,7 @@ Saudi	B-NORP
 healthcare	O
 system	O
 .	O
+
 In	O
 June	B-Date
 of	O
@@ -454,6 +456,7 @@ impact	O
 primary	O
 stakeholders	O
 ?	O
+
 In	O
 answer	O
 to	O
@@ -523,6 +526,7 @@ shorter	O
 wait	O
 times	O
 .	O
+
 For	O
 healthcare	O
 providers	O
@@ -607,6 +611,7 @@ and	O
 delivery	O
 methods	O
 .	O
+
 For	O
 the	O
 government	O
@@ -653,6 +658,7 @@ shared	O
 among	O
 stakeholders	O
 .	O
+
 It	O
 will	O
 also	O
@@ -725,6 +731,7 @@ medical	O
 tourism	O
 industry	O
 .	O
+
 Saudi	B-Location
 Arabia	I-Location
 has	O
@@ -753,6 +760,7 @@ locally	O
 and	O
 abroad	O
 .	O
+
 A	O
 world	O
 -	O
@@ -793,6 +801,7 @@ been	O
 widely	O
 criticized	O
 .	O
+
 In	O
 light	O
 of	O

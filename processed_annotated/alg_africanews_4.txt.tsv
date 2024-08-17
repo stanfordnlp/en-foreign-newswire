@@ -22,6 +22,7 @@ University	I-Organization
 of	I-Organization
 Algiers	I-Organization	B-Location
 .	O
+
 The	O
 institution	O
 was	O
@@ -36,6 +37,7 @@ it	O
 was	O
 French	B-NORP
 .	O
+
 Today	O
 ,	O
 in	O
@@ -96,6 +98,7 @@ population	O
 in	O
 1962	B-Date
 .	O
+
 To	O
 do	O
 so	O
@@ -117,6 +120,7 @@ over	O
 81	O
 %	O
 .	O
+
 Among	O
 15-25	O
 year	O
@@ -148,6 +152,7 @@ country	O
 economic	O
 development	O
 .	O
+
 In	O
 1974	B-Date
 ,	O
@@ -167,6 +172,7 @@ Technology	I-Organization
 in	O
 Algiers	B-Location
 .	O
+
 More	O
 than	O
 one	O
@@ -229,6 +235,7 @@ training	O
 future	O
 managers	O
 .	O
+
 Now	O
 there	O
 are	O
@@ -265,6 +272,7 @@ women	O
 studying	O
 there	O
 .	O
+
 "	O
 Today	O
 ,	O

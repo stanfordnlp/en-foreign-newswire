@@ -32,6 +32,7 @@ India	B-Location
 and	O
 Pakistan	B-Location
 .	O
+
 The	O
 day	O
 commemorates	O
@@ -129,6 +130,7 @@ past	O
 many	O
 years	O
 .	O
+
 While	O
 both	O
 nations	O
@@ -194,6 +196,7 @@ tests	O
 in	O
 1998	B-Date
 .	O
+
 In	O
 an	O
 attempt	O
@@ -211,6 +214,7 @@ in	O
 February	B-Date
 1999	I-Date
 .	O
+
 The	O
 declaration	O
 promised	O
@@ -310,6 +314,7 @@ on	O
 war	O
 )	O
 .	O
+
 However	O
 ,	O
 soon	O
@@ -388,6 +393,7 @@ Indian	B-NORP
 fighter	O
 jets	O
 .	O
+
 During	O
 the	O
 course	O
@@ -436,6 +442,7 @@ during	O
 the	O
 war	O
 .	O
+
 The	O
 war	O
 came	O
@@ -464,6 +471,7 @@ India	B-Location
 's	O
 victory	O
 .	O
+
 SInce	O
 then	O
 ,	O

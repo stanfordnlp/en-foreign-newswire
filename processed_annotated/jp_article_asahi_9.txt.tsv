@@ -183,6 +183,7 @@ School	I-Organization	I-Organization
 of	I-Organization	I-Organization
 Government	I-Organization	I-Organization
 .	O
+
 The	O
 meeting	O
 on	O
@@ -224,6 +225,7 @@ Ministry	I-Organization
 source	O
 said	O
 .	O
+
 “	O
 While	O
 the	O
@@ -313,6 +315,7 @@ and	O
 the	O
 government	O
 .	O
+
 Hayashi	B-Person
 said	O
 there	O

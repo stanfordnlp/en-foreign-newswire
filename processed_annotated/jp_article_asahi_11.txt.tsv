@@ -126,6 +126,7 @@ denounced	O
 the	O
 invasion	O
 .	O
+
 “	O
 Use	O
 of	O
@@ -138,6 +139,7 @@ quo	O
 is	O
 impermissible	O
 .	O
+
 Japan	B-Location
 and	O
 New	B-Location
@@ -263,6 +265,7 @@ aligned	O
 Ardern	B-Person
 said	O
 .	O
+
 "	O
 We	O
 are	O
@@ -446,6 +449,7 @@ in	O
 Hong	B-Location
 Kong	I-Location
 .	O
+
 They	O
 agreed	O
 to	O
@@ -524,6 +528,7 @@ stop	O
 in	O
 port	O
 .	O
+
 It	O
 has	O
 triggered	O
@@ -606,6 +611,7 @@ our	O
 region	O
 .	O
 ”	O
+
 He	O
 said	O
 his	O
@@ -684,6 +690,7 @@ during	O
 the	O
 pandemic	O
 .	O
+
 It	O
 will	O
 reopen	O
@@ -702,6 +709,7 @@ countries	O
 from	O
 May	B-Date
 .	O
+
 International	O
 tourism	O
 previously	O
@@ -760,6 +768,7 @@ elections	O
 next	O
 year	O
 .	O
+
 While	O
 she	O
 is	O

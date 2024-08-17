@@ -118,6 +118,7 @@ on	O
 June	B-Date
 25	I-Date
 .	O
+
 The	O
 killer	O
 was	O
@@ -168,6 +169,7 @@ her	O
 two	O
 children	O
 .	O
+
 The	O
 perpetrator	O
 committed	O
@@ -177,6 +179,7 @@ committing	O
 the	O
 murder	O
 .	O
+
 This	O
 incident	O
 also	O
@@ -276,6 +279,7 @@ Martí	B-Location
 ,	I-Location
 Matanzas	I-Location
 .	O
+
 The	O
 Yo	B-Organization
 Sí	I-Organization

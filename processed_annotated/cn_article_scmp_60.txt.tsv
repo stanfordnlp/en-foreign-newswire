@@ -96,6 +96,7 @@ do	O
 Torrens	B-Person
 said	O
 .	O
+
 “	O
 Scenario	O
 planning	O
@@ -201,6 +202,7 @@ Karachi	B-Location
 last	O
 month	O
 .	O
+
 At	O
 least	O
 one	O
@@ -336,6 +338,7 @@ investment	O
 and	O
 trade	O
 .	O
+
 By	O
 the	O
 end	O
@@ -497,6 +500,7 @@ clients	O
 about	O
 evacuation	O
 .	O
+
 “	O
 Some	O
 are	O
@@ -543,6 +547,7 @@ of	O
 these	O
 projects	O
 .	O
+
 I	O
 think	O
 this	O
@@ -633,6 +638,7 @@ to	O
 Sri	B-Location
 Lanka	I-Location
 .	O
+
 Torrens	B-Person
 said	O
 there	O

@@ -49,6 +49,7 @@ Al	I-Person
 -	I-Person
 Sabah	I-Person
 .	O
+
 As	O
 he	O
 faces	O
@@ -74,6 +75,7 @@ the	O
 job	O
 .	O
 ”	O
+
 He	O
 thanked	O
 His	O
@@ -104,6 +106,7 @@ national	O
 gains	O
 .	O
 ”	O
+
 He	O
 wished	O
 Kuwait	B-Location
@@ -203,6 +206,7 @@ Al	I-Person
 -	I-Person
 Sabah	I-Person
 .	O
+
 As	O
 he	O
 faces	O
@@ -238,6 +242,7 @@ aspirations	O
 to	O
 fruition	O
 .	O
+
 He	O
 thanked	O
 His	O
@@ -269,6 +274,7 @@ national	O
 gains	O
 .	O
 ”	O
+
 He	O
 went	O
 on	O
@@ -338,6 +344,7 @@ Al	I-Person
 -	I-Person
 Sabah	I-Person
 .	O
+
 In	O
 the	O
 message	O
@@ -375,6 +382,7 @@ during	O
 his	O
 tenure	O
 .	O
+
 “	O
 We	O
 hold	O
@@ -436,6 +444,7 @@ of	O
 the	O
 homeland	O
 .	O
+
 Former	O
 First	O
 Deputy	O
@@ -471,6 +480,7 @@ order	O
 on	O
 Sunday	B-Date
 .	O
+
 Born	O
 in	O
 1956	B-Date
@@ -497,6 +507,7 @@ Al	I-Person
 -	I-Person
 Sabah	I-Person
 .	O
+
 A	O
 Bachelor	O
 degree	O
@@ -526,6 +537,7 @@ from	O
 the	O
 army	O
 .	O
+
 He	O
 had	O
 assumed	O
@@ -564,6 +576,7 @@ the	O
 National	B-Organization
 Guard	I-Organization
 .	O
+
 At	O
 the	O
 Ministry	B-Organization
@@ -594,6 +607,7 @@ and	O
 Training	O
 Affairs	O
 .	O
+
 His	O
 retirement	O
 from	O
@@ -612,6 +626,7 @@ the	O
 Hawalli	B-Location
 Governorate	I-Location
 .	O
+
 In	O
 November	B-Date
 2020	I-Date
@@ -675,6 +690,7 @@ Al	I-Person
 -	I-Person
 Sabah	I-Person
 .	O
+
 His	O
 Highness	O
 the	O
@@ -765,6 +781,7 @@ the	O
 new	O
 government	O
 .	O
+
 Al	B-Person
 -	I-Person
 Ghanim	I-Person
@@ -873,6 +890,7 @@ in	O
 all	O
 fields	O
 .	O
+
 He	O
 said	O
 this	O
@@ -944,6 +962,7 @@ most	O
 public	O
 institutions	O
 .	O
+
 He	O
 urged	O
 the	O
@@ -1004,6 +1023,7 @@ for	O
 the	O
 corrupt	O
 .	O
+
 He	O
 affirmed	O
 full	O
@@ -1057,6 +1077,7 @@ comprehensive	O
 reform	O
 project	O
 .	O
+
 MP	O
 Fayez	B-Person
 Al	I-Person
@@ -1126,6 +1147,7 @@ of	O
 their	O
 status	O
 .	O
+
 He	O
 added	O
 the	O
@@ -1181,6 +1203,7 @@ and	O
 its	O
 people	O
 .	O
+
 He	O
 went	O
 on	O
@@ -1332,6 +1355,7 @@ and	O
 implementing	O
 reforms	O
 .	O
+
 MP	O
 Soud	B-Person
 Bu	I-Person
@@ -1391,6 +1415,7 @@ to	O
 political	O
 success	O
 .	O
+
 MP	O
 Fares	B-Person
 Al	I-Person
@@ -1421,6 +1446,7 @@ new	O
 reformative	O
 course	O
 .	O
+
 By	O
 Saeed	B-Person
 Mahmoud	I-Person

@@ -78,6 +78,7 @@ new	O
 codeshare	O
 flights	O
 .	O
+
 The	O
 deal	O
 lets	O
@@ -127,6 +128,7 @@ Mombasa	B-Location
 and	O
 Kisumu	B-Location
 .	O
+
 On	O
 the	O
 other	O
@@ -223,6 +225,7 @@ and	O
 flight	O
 combinations	O
 .	O
+
 As	O
 part	O
 of	O
@@ -347,6 +350,7 @@ and	O
 status	O
 recognition	O
 .	O
+
 We	O
 look	O
 forward	O
@@ -439,6 +443,7 @@ Kenya	B-Location
 and	O
 Africa	B-Location
 .	O
+
 This	O
 codeshare	O
 agreement	O
@@ -490,6 +495,7 @@ as	O
 lounge	O
 access	O
 .	O
+
 They	O
 will	O
 be	O

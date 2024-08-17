@@ -70,6 +70,7 @@ of	O
 her	O
 mother	O
 .	O
+
 According	O
 to	O
 the	O
@@ -127,6 +128,7 @@ surgeon	O
 .	O
 “	O
 …	O
+
 I	O
 like	O
 medicine	O
@@ -230,6 +232,7 @@ French	B-NORP
 and	O
 Italian	B-NORP
 .	O
+
 She	O
 speaks	O
 English	B-NORP
@@ -253,6 +256,7 @@ Karina	B-Person
 Guillén	I-Person
 said	O
 .	O
+
 “	O
 She	O
 ’s	O
@@ -272,6 +276,7 @@ belt	O
 in	O
 taekwondo	O
 .	O
+
 She	O
 has	O
 eight	O
@@ -321,6 +326,7 @@ was	O
 very	O
 young	O
 .	O
+
 “	O
 As	O
 I	O
@@ -356,6 +362,7 @@ a	O
 gifted	O
 child	O
 .	O
+
 Michelle	B-Person
 ’s	O
 time	O
@@ -423,6 +430,7 @@ education	O
 assessment	O
 center	O
 .	O
+
 Michelle	B-Person
 ,	O
 who	O
@@ -483,6 +491,7 @@ estimated	O
 intelligence	O
 quotient	O
 .	O
+
 Although	O
 her	O
 educational	O
@@ -529,6 +538,7 @@ basketball	O
 and	O
 taekwondo	O
 .	O
+
 I	O
 also	O
 know	O
@@ -538,6 +548,7 @@ play	O
 the	O
 piano	O
 .	O
+
 When	O
 I	O
 grow	O

@@ -67,6 +67,7 @@ a	O
 drug	O
 cartel	O
 .	O
+
 Well	O
 ,	O
 well	O
@@ -77,6 +78,7 @@ you	O
 might	O
 say	O
 .	O
+
 And	O
 you	O
 would	O
@@ -112,15 +114,18 @@ caught	O
 working	O
 for	O
 .	O
+
 He	O
 was	O
 a	O
 corrupt	O
 policeman	O
 .	O
+
 A	O
 muscle	O
 .	O
+
 He	O
 was	O
 far	O
@@ -130,6 +135,7 @@ the	O
 cartel	O
 boss	O
 .	O
+
 At	O
 best	O
 ,	O
@@ -139,12 +145,15 @@ a	O
 small	O
 fry	O
 .	O
+
 A	O
 foot	O
 soldier	O
 .	O
+
 No	O
 .	O
+
 A	O
 food	O
 soldier	O
@@ -159,6 +168,7 @@ to	O
 Bola	B-Person
 Tinubu	I-Person
 .	O
+
 Just	O
 like	O
 Abba	B-Person
@@ -220,6 +230,7 @@ undercover	O
 FBI	B-Organization
 agent	O
 .	O
+
 His	O
 testimony	O
 led	O
@@ -299,6 +310,7 @@ a	O
 drug	O
 cartel	O
 .	O
+
 And	O
 rather	O
 than	O
@@ -319,6 +331,7 @@ government	O
 in	O
 1993	B-Date
 .	O
+
 A	O
 colossal	O
 sum	O
@@ -422,6 +435,7 @@ as	O
 an	O
 outsider	O
 .	O
+
 Bola	B-Person
 Tinubu	I-Person
 ,	O
@@ -472,17 +486,20 @@ turned	O
 on	O
 him	O
 ?	O
+
 The	O
 police	O
 suspended	O
 him	O
 .	O
+
 He	O
 is	O
 currently	O
 facing	O
 trial	O
 .	O
+
 But	O
 Tinubu	B-Person
 has	O
@@ -494,6 +511,7 @@ KNOWN	O
 DRUG	O
 LORD	O
 .	O
+
 Instead	O
 of	O
 facing	O
@@ -507,6 +525,7 @@ to	O
 vote	O
 him	O
 .	O
+
 My	O
 people	O
 ,	O
@@ -521,6 +540,7 @@ Who	O
 is	O
 worse	O
 ?	O
+
 A	O
 member	O
 of	O
@@ -532,6 +552,7 @@ drug	O
 lord	O
 himself	O
 ?	O
+
 If	O
 Abba	B-Person
 Kyari	I-Person
@@ -576,6 +597,7 @@ a	O
 drug	O
 haven	O
 !	O
+
 After	O
 all	O
 ,	O
@@ -627,6 +649,7 @@ as	O
 our	O
 President	O
 .	O
+
 As	O
 the	O
 Igbo	B-NORP
@@ -686,16 +709,19 @@ with	O
 the	O
 mafia	O
 .	O
+
 Those	O
 were	O
 her	O
 words	O
 .	O
+
 She	O
 is	O
 still	O
 alive	O
 .	O
+
 She	O
 worked	O
 closely	O
@@ -812,6 +838,7 @@ behind	O
 the	O
 scenes	O
 .	O
+
 And	O
 when	O
 he	O
@@ -967,6 +994,7 @@ bullion	O
 van	O
 issue	O
 .	O
+
 Why	O
 is	O
 the	O
@@ -987,6 +1015,7 @@ not	O
 Bola	B-Person
 Tinubu	I-Person
 ?	O
+
 We	O
 provided	O
 evidence	O
@@ -1022,6 +1051,7 @@ Prohibition	I-Misc
 Act	I-Misc
 2011	I-Misc
 .	O
+
 Why	O
 Idris	B-Person
 and	O
@@ -1047,6 +1077,7 @@ Law	I-Organization
 Enforcement	I-Organization
 Agency	I-Organization
 .	O
+
 Why	O
 are	O
 Buba	B-Person
@@ -1083,6 +1114,7 @@ heroin	O
 drug	O
 cartel	O
 ?	O
+
 Tinubu	B-Person
 should	O
 be	O
@@ -1112,6 +1144,7 @@ tolerance	O
 for	O
 drugs	O
 ?	O
+
 Is	O
 this	O
 how	O
@@ -1128,11 +1161,13 @@ playing	O
 politics	O
 here	O
 .	O
+
 I	O
 am	O
 being	O
 patriotic	O
 .	O
+
 Having	O
 a	O
 man	O
@@ -1162,6 +1197,7 @@ national	O
 security	O
 risk	O
 .	O
+
 He	O
 will	O
 be	O

@@ -40,6 +40,7 @@ to	O
 the	O
 sea	O
 .	O
+
 Gathered	O
 around	O
 giant	O
@@ -58,6 +59,7 @@ watched	O
 with	O
 dismay	O
 .	O
+
 To	O
 them	O
 ,	O
@@ -77,6 +79,7 @@ to	O
 national	O
 pride	O
 .	O
+
 Here	O
 ’s	O
 what	O
@@ -119,6 +122,7 @@ dispute	O
 over	O
 taxes	O
 .	O
+
 Within	O
 four	O
 years	O
@@ -152,6 +156,7 @@ southern	B-Location
 Pacific	I-Location
 Ocean	I-Location
 .	O
+
 Bolivia	B-Location
 accepted	O
 this	O
@@ -201,6 +206,7 @@ the	O
 Pacific	B-Location
 coast	I-Location
 .	O
+
 Every	O
 year	O
 on	O
@@ -216,6 +222,7 @@ of	I-Misc
 the	I-Misc
 Sea	I-Misc
 .	O
+
 The	O
 dying	O
 words	O
@@ -277,6 +284,7 @@ S.	I-Location
 and	O
 China	B-Location
 .	O
+
 In	O
 1981	B-Date
 they	O
@@ -288,6 +296,7 @@ Armada	B-Organization
 Boliviana	I-Organization
 .	O
 ”	O
+
 Without	O
 a	O
 sea	O
@@ -310,6 +319,7 @@ and	O
 Lake	B-Location
 Titicaca	I-Location
 .	O
+
 They	O
 also	O
 patrol	O
@@ -343,6 +353,7 @@ relations	O
 since	O
 1978	B-Date
 .	O
+
 In	O
 2013	B-Date
 ,	O
@@ -416,6 +427,7 @@ the	O
 second	O
 highest	O
 .	O
+
 Bolivia	B-Location
 ’s	O
 former	O
@@ -450,6 +462,7 @@ to	O
 international	O
 waters	O
 .	O
+
 “	O
 [	O
 It	O
@@ -506,6 +519,7 @@ the	O
 Chilean	B-NORP
 coast	O
 .	O
+
 But	O
 Bolivians	B-NORP
 say	O
@@ -582,6 +596,7 @@ not	O
 dead	O
 yet	O
 .	O
+
 “	O
 Despite	O
 the	O
@@ -605,6 +620,7 @@ after	O
 the	O
 ruling	O
 .	O
+
 “	O
 We	O
 will	O

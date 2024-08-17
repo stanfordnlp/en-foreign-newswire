@@ -54,6 +54,7 @@ main	O
 opposition	O
 parties	O
 .	O
+
 In	O
 the	O
 August	B-Date
@@ -100,6 +101,7 @@ held	O
 months	O
 earlier	O
 .	O
+
 The	O
 declaration	O
 was	O
@@ -137,6 +139,7 @@ the	O
 Tunisian	B-NORP
 revolution	O
 .	O
+
 The	O
 opposition	O
 leader	O
@@ -180,6 +183,7 @@ further	O
 international	O
 fuzz	O
 .	O
+
 The	O
 limited	O
 marches	O
@@ -276,6 +280,7 @@ to	O
 criminal	O
 prosecution	O
 .	O
+
 Opposition	O
 MPs	O
 were	O
@@ -312,6 +317,7 @@ on	O
 treason	O
 charges	O
 .	O
+
 The	O
 treason	O
 charges	O
@@ -394,6 +400,7 @@ the	O
 Gabonese	B-NORP
 population	O
 .	O
+
 Rather	O
 ,	O
 the	O

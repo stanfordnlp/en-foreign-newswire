@@ -90,6 +90,7 @@ and	O
 sleeping	O
 ones	O
 .	O
+
 A	O
 person	O
 with	O
@@ -124,6 +125,7 @@ centre	O
 he	O
 said	O
 .	O
+
 “	O
 It	O
 was	O
@@ -159,6 +161,7 @@ cases	O
 in	O
 Pangnirtung	B-Location
 .	O
+
 He	O
 said	O
 the	O
@@ -235,6 +238,7 @@ for	O
 the	O
 outbreak	O
 .	O
+
 The	O
 small	O
 health	O
@@ -329,6 +333,7 @@ or	O
 the	O
 clients	O
 …	O
+
 We	O
 just	O
 want	O
@@ -362,6 +367,7 @@ hall	O
 Nolan	B-Person
 added	O
 .	O
+
 Skin	O
 tests	O
 for	O
@@ -394,6 +400,7 @@ infects	O
 the	O
 lungs	O
 .	O
+
 It	O
 has	O
 disproportionately	O
@@ -463,6 +470,7 @@ Haven	I-Location
 last	O
 week	O
 .	O
+
 Administrative	O
 staff	O
 working	O

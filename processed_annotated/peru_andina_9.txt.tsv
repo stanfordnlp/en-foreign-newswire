@@ -48,6 +48,7 @@ us	O
 with	O
 pride	O
 .	O
+
 For	O
 us	O
 ,	O
@@ -194,6 +195,7 @@ and	O
 main	O
 attractions	O
 .	O
+
 That	O
 means	O
 ,	O
@@ -235,6 +237,7 @@ around	O
 the	O
 world	O
 .	O
+
 It	O
 has	O
 been	O
@@ -256,6 +259,7 @@ and	I-Location
 South	I-Location
 America	I-Location
 .	O
+
 Besides	O
 ,	O
 it	O
@@ -347,6 +351,7 @@ the	O
 chosen	O
 cities	O
 .	O
+
 Peru	B-Location
 has	O
 received	O
@@ -361,6 +366,7 @@ in	O
 and	O
 2020	B-Date
 .	O
+
 Having	O
 been	O
 chosen	O
@@ -484,6 +490,7 @@ December	B-Date
 ,	I-Date
 2022	I-Date
 .	O
+
 This	O
 period	O
 will	O

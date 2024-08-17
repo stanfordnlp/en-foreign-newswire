@@ -186,6 +186,7 @@ time	O
 ,	O
 told	O
 APTN	B-Organization
+
 News	I-Organization
 the	O
 search	O
@@ -249,6 +250,7 @@ to	O
 move	O
 forward	O
 .	O
+
 Reconciliation	O
 is	O
 a	O
@@ -282,6 +284,7 @@ of	O
 Eeyou	B-Location
 Istchee	I-Location
 .	O
+
 “	O
 Meaningful	O
 actions	O
@@ -513,6 +516,7 @@ Chief	O
 Ghislain	B-Person
 Picard	I-Person
 .	O
+
 “	O
 They	O
 will	O

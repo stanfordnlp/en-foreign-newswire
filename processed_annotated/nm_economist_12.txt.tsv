@@ -112,6 +112,7 @@ transfer	O
 of	O
 virtual	O
 assets	O
+
 with	O
 an	O
 instrument	O
@@ -140,6 +141,7 @@ on	O
 the	O
 machine	O
 .	O
+
 A	O
 Bitcoin	B-Money
 ATM	O
@@ -381,6 +383,7 @@ in	O
 recent	O
 days	O
 .	O
+
 Over	O
 882	O
 Bitcoin	B-Money
@@ -430,6 +433,7 @@ installed	O
 in	O
 2013	B-Date
 .	O
+
 There	O
 are	O
 now	O

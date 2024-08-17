@@ -191,6 +191,7 @@ of	O
 wheat	O
 prices	O
 .	O
+
 He	O
 also	O
 said	O
@@ -259,6 +260,7 @@ with	O
 rising	O
 prices	O
 .	O
+
 He	O
 also	O
 urged	O
@@ -296,6 +298,7 @@ wages	O
 Kishida	B-Person
 said	O
 .	O
+
 “	O
 We	O
 also	O
@@ -333,6 +336,7 @@ in	O
 late	O
 June	B-Date
 .	O
+
 The	O
 task	O
 force	O
@@ -649,6 +653,7 @@ prerequisite	O
 he	O
 said	O
 .	O
+
 “	O
 We	O
 will	O
@@ -687,6 +692,7 @@ same	O
 in	O
 winter	O
 .	O
+
 We	O
 should	O
 resume	O

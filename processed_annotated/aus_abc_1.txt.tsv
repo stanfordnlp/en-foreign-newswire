@@ -86,6 +86,7 @@ the	O
 Australian	B-Misc	B-NORP
 Constitution	I-Misc
 .	O
+
 Like	O
 an	O
 election	O
@@ -191,6 +192,7 @@ mention	O
 Indigenous	B-NORP
 Australians	I-NORP
 .	O
+
 This	O
 amendment	O
 would	O
@@ -297,6 +299,7 @@ referendum	O
 is	O
 important	O
 .	O
+
 It	O
 is	O
 the	O
@@ -310,6 +313,7 @@ the	O
 Australian	B-NORP
 people	O
 .	O
+
 Each	O
 state	O
 has	O
@@ -481,6 +485,7 @@ Voice	I-Organization
 to	I-Organization
 Parliament	I-Organization
 .	O
+
 The	O
 Opposition	O
 says	O
@@ -499,6 +504,7 @@ it	O
 would	O
 work	O
 .	O
+
 Here	O
 's	O
 what	O

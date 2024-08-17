@@ -15,6 +15,7 @@ and	O
 northern	O
 Chile	B-Location
 .	O
+
 Despite	O
 the	O
 regions	O
@@ -30,6 +31,7 @@ tremors	O
 raises	O
 concern	O
 .	O
+
 Chilean	B-NORP
 authorities	O
 are	O
@@ -79,6 +81,7 @@ and	O
 Los	B-Location
 Vilos	I-Location
 .	O
+
 Of	O
 these	O
 ,	O
@@ -92,6 +95,7 @@ the	O
 Richter	B-Misc
 scale	O
 .	O
+
 The	O
 other	O
 five	O
@@ -199,6 +203,7 @@ and	O
 Antarctic	B-Location
 plates	O
 .	O
+
 The	O
 convergence	O
 of	O
@@ -216,6 +221,7 @@ down	O
 the	O
 country	O
 .	O
+
 According	O
 to	O
 the	O

@@ -133,6 +133,7 @@ traditional	O
 Chinese	B-NORP
 medicines	O
 .	O
+
 Of	O
 those	O
 shot	O
@@ -152,6 +153,7 @@ nan	I-Person
 賴敏男	O
 )	O
 .	O
+
 He	O
 remained	O
 in	O
@@ -539,6 +541,7 @@ for	O
 these	O
 firearms	O
 .	O
+
 Someone	O
 else	O
 must	O

@@ -159,6 +159,7 @@ are	O
 South	B-NORP
 Africans	I-NORP
 .	O
+
 This	O
 then	O
 means	O
@@ -180,6 +181,7 @@ with	O
 European	B-NORP
 countries	O
 .	O
+
 However	O
 ,	O
 we	O
@@ -332,6 +334,7 @@ fall	O
 -	O
 out	O
 .	O
+
 They	O
 were	O
 not	O
@@ -359,6 +362,7 @@ across	O
 the	O
 country	O
 .	O
+
 Even	O
 though	O
 this	O
@@ -441,6 +445,7 @@ people	O
 at	O
 heart	O
 .	O
+
 We	O
 have	O
 a	O
@@ -464,6 +469,7 @@ of	O
 South	B-Location
 Africa	I-Location
 .	O
+
 No	O
 individual	O
 is	O
@@ -489,6 +495,7 @@ solve	O
 their	O
 issues	O
 .	O
+
 We	O
 will	O
 continue	O

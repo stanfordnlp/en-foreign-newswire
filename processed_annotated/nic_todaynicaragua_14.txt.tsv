@@ -22,6 +22,7 @@ remembers	O
 as	O
 eternal	O
 .	O
+
 He	O
 is	O
 the	O
@@ -47,6 +48,7 @@ to	O
 close	O
 temporarily	O
 .	O
+
 But	O
 Emilio	B-Person
 never	O
@@ -61,6 +63,7 @@ for	O
 so	O
 long	O
 .	O
+
 “	O
 I	O
 was	O
@@ -121,6 +124,7 @@ and	O
 a	O
 cashier	O
 .	O
+
 He	O
 also	O
 hired	O
@@ -134,6 +138,7 @@ twice	O
 a	O
 day	O
 .	O
+
 “	O
 They	O
 ended	O
@@ -175,6 +180,7 @@ Covid	B-Misc
 -	I-Misc
 19	I-Misc
 .	O
+
 “	O
 The	O
 fear	O
@@ -251,6 +257,7 @@ their	O
 two	O
 children	O
 .	O
+
 “	O
 With	O
 a	O
@@ -275,6 +282,7 @@ we	O
 live	O
 in	O
 .	O
+
 We	O
 did	O
 not	O
@@ -282,6 +290,7 @@ have	O
 much	O
 left	O
 .	O
+
 I	O
 was	O
 able	O
@@ -305,6 +314,7 @@ for	O
 an	O
 extension	O
 .	O
+
 He	O
 was	O
 quite	O
@@ -336,6 +346,7 @@ without	O
 an	O
 income	O
 .	O
+
 “	O
 Many	O
 gyms	O
@@ -352,6 +363,7 @@ order	O
 to	O
 survive	O
 .	O
+
 Others	O
 have	O
 closed	O
@@ -376,6 +388,7 @@ possible	O
 safety	O
 measures	O
 .	O
+
 “	O
 More	O
 cleaning	O
@@ -433,6 +446,7 @@ be	O
 that	O
 way	O
 .	O
+
 “	O
 People	O
 are	O
@@ -461,6 +475,7 @@ Coronavirus	B-Misc
 he	O
 claims	O
 .	O
+
 Although	O
 the	O
 income	O
@@ -629,6 +644,7 @@ a	O
 medium	O
 impact	O
 .	O
+
 As	O
 a	O
 result	O
@@ -688,6 +704,7 @@ low	O
 cash	O
 flow	O
 .	O
+
 “	O
 I	O
 realized	O
@@ -756,6 +773,7 @@ on	O
 her	O
 own	O
 .	O
+
 Two	O
 of	O
 her	O
@@ -832,6 +850,7 @@ her	O
 two	O
 employees	O
 .	O
+
 “	O
 Both	O
 of	O
@@ -908,6 +927,7 @@ and	O
 purchase	O
 food	O
 .	O
+
 “	O
 This	O
 virus	O
@@ -1026,6 +1046,7 @@ to	O
 in	O
 2020	B-Date
 .	O
+
 This	O
 means	O
 that	O
@@ -1215,6 +1236,7 @@ city	O
 of	O
 Granada	B-Location
 .	O
+
 During	O
 that	O
 time	O
@@ -1266,6 +1288,7 @@ already	O
 fewer	O
 tourists	O
 .	O
+
 The	O
 majority	O
 of	O
@@ -1327,6 +1350,7 @@ any	O
 preventive	O
 measures	O
 .	O
+
 Instead	O
 ,	O
 the	O
@@ -1346,6 +1370,7 @@ massive	O
 sports	O
 events	O
 .	O
+
 “	O
 That	O
 ended	O
@@ -1393,6 +1418,7 @@ amount	O
 of	O
 tourists	O
 .	O
+
 Only	O
 three	O
 or	O
@@ -1414,6 +1440,7 @@ guests	O
 were	O
 taken	O
 .	O
+
 “	O
 Some	O
 nights	O
@@ -1446,6 +1473,7 @@ staff	O
 on	O
 vacation	O
 .	O
+
 In	O
 total	O
 ,	O
@@ -1454,6 +1482,7 @@ has	O
 eight	O
 employees	O
 .	O
+
 Later	O
 on	O
 ,	O

@@ -15,6 +15,7 @@ its	O
 new	O
 president	O
 .	O
+
 Petro	B-Person
 will	O
 lead	O
@@ -36,6 +37,7 @@ close	O
 run	O
 race	O
 .	O
+
 At	O
 time	O
 of	O
@@ -65,6 +67,7 @@ took	O
 46.85	O
 %	O
 .	O
+
 With	O
 89	O
 %	O
@@ -83,6 +86,7 @@ much	O
 from	O
 here	O
 .	O
+
 Voto	O
 en	O
 blanco	O
@@ -103,6 +107,7 @@ took	O
 2.23	O
 %	O
 .	O
+
 Over	O
 22	O
 million	O
@@ -134,6 +139,7 @@ of	O
 the	O
 campaign	O
 .	O
+
 Gustavo	B-Person
 Petro	I-Person
 –	O
@@ -158,6 +164,7 @@ left	O
 wing	O
 president	O
 .	O
+
 The	O
 last	O
 election	O

@@ -95,6 +95,7 @@ of	O
 the	O
 sentence	O
 .	O
+
 From	O
 this	O
 moment	O
@@ -390,6 +391,7 @@ vaccination	O
 in	O
 Uruguay	B-Location
 .	O
+
 Hence	O
 ,	O
 Etienne	B-Person
@@ -573,6 +575,7 @@ party	O
 she	O
 added	O
 .	O
+
 “	O
 The	O
 scientific	O

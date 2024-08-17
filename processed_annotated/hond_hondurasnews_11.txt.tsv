@@ -40,6 +40,7 @@ leader	O
 and	O
 spokesman	O
 .	O
+
 He	O
 said	O
 $	B-Money
@@ -83,6 +84,7 @@ American	I-Organization	B-NORP
 States	I-Organization
 mission	O
 .	O
+
 It	O
 is	O
 made	O
@@ -155,6 +157,7 @@ social	O
 security	O
 system	O
 .	O
+
 Protesters	O
 had	O
 wanted	O
@@ -231,6 +234,7 @@ have	O
 he	O
 said	O
 .	O
+
 Although	O
 he	O
 and	O
@@ -321,6 +325,7 @@ security	O
 )	O
 scandal	O
 .	O
+
 In	O
 that	O
 case	O

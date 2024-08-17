@@ -25,6 +25,7 @@ a	O
 masterstroke	O
 ”	O
 .	O
+
 It	O
 also	O
 rakes	O
@@ -162,6 +163,7 @@ Prime	O
 Minister	O
 Modi	B-Person
 .	O
+
 While	O
 there	O
 may	O
@@ -217,6 +219,7 @@ country	O
 political	O
 lexicon	O
 .	O
+
 The	O
 Opposition	O
 has	O
@@ -226,6 +229,7 @@ a	O
 united	O
 camp	O
 .	O
+
 And	O
 it	O
 takes	O
@@ -257,6 +261,7 @@ left	O
 of	O
 it	O
 .	O
+
 Although	O
 the	O
 outcomes	O
@@ -294,6 +299,7 @@ to	O
 accommodate	O
 others	O
 .	O
+
 It	O
 consciously	O
 took	O
@@ -324,6 +330,7 @@ take	O
 the	O
 lead	O
 .	O
+
 And	O
 in	O
 the	O
@@ -398,6 +405,7 @@ of	O
 possible	O
 candidates	O
 .	O
+
 Gopal	B-Person
 Krishna	I-Person
 Gandhi	I-Person
@@ -426,6 +434,7 @@ its	O
 nominee	O
 first	O
 .	O
+
 With	O
 the	O
 NDA	B-Organization
@@ -456,6 +465,7 @@ versus	O
 Dalit	B-NORP
 contest	O
 .	O
+
 The	O
 parties	O
 thus	O
@@ -494,6 +504,7 @@ not	O
 help	O
 much	O
 .	O
+
 The	O
 BJP	B-Organization
 could	O

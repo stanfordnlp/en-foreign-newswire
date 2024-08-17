@@ -81,6 +81,7 @@ another	O
 from	O
 NTU	B-Organization
 .	O
+
 His	O
 two	O
 master	O
@@ -172,6 +173,7 @@ Yu	B-Person
 Tseng	B-Person
 said	O
 .	O
+
 Lin	B-Person
 wrote	O
 734	O
@@ -202,6 +204,7 @@ Yu	B-Person
 he	O
 said	O
 .	O
+
 “	O
 This	O
 is	O
@@ -213,6 +216,7 @@ a	O
 political	O
 problem	O
 .	O
+
 Lin	B-Person
 should	O
 not	O

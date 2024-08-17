@@ -367,6 +367,7 @@ permitting	O
 phase	O
 .	O
 ”	O
+
 Canada	B-Location
 is	O
 currently	O
@@ -455,6 +456,7 @@ back	O
 to	O
 YESAB	B-Organization
 .	O
+
 After	O
 consulting	O
 with	O
@@ -784,6 +786,7 @@ and	O
 conditions	O
 )	O
 .	O
+
 The	O
 June	B-Date
 14	I-Date

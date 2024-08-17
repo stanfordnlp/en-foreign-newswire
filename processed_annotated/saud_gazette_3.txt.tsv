@@ -27,6 +27,7 @@ Mohammed	B-Person
 Bin	I-Person
 Salman	I-Person
 .	O
+
 The	O
 visit	O
 was	O
@@ -117,6 +118,7 @@ of	O
 the	O
 country	O
 .	O
+
 Al	B-Person
 -	I-Person
 Kadhimi	I-Person
@@ -169,6 +171,7 @@ on	O
 Iraq	B-Location
 internally	O
 .	O
+
 The	O
 more	O
 the	O
@@ -227,6 +230,7 @@ in	O
 their	O
 entirety	O
 .	O
+
 There	O
 is	O
 a	O
@@ -290,6 +294,7 @@ contention	O
 with	O
 Iran	B-Location
 .	O
+
 The	O
 latter	O
 is	O
@@ -477,6 +482,7 @@ wants	O
 to	O
 launch	O
 .	O
+
 It	O
 will	O
 not	O
@@ -493,6 +499,7 @@ for	O
 Iran	B-Location
 itself	O
 .	O
+
 Here	O
 we	O
 are	O
@@ -501,6 +508,7 @@ about	O
 two	O
 aspects	O
 :	O
+
 The	O
 first	O
 is	O
@@ -612,6 +620,7 @@ to	O
 manage	O
 them	O
 .	O
+
 As	O
 for	O
 the	O

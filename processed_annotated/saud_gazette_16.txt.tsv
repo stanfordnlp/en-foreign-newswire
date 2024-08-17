@@ -112,6 +112,7 @@ Tarik	I-Person
 Al	I-Person
 Said	I-Person
 .	O
+
 The	O
 Commander	O
 of	O
@@ -163,6 +164,7 @@ Force	I-Organization
 of	O
 Oman	B-Location
 .	O
+
 â	O
 €	O
 ”	O

@@ -15,6 +15,7 @@ including	O
 one	O
 death	O
 .	O
+
 The	O
 report	O
 says	O
@@ -34,6 +35,7 @@ cases	O
 13	O
 )	O
 .	O
+
 The	O
 Pan	B-Organization	B-NORP
 American	I-Organization	I-NORP
@@ -57,6 +59,7 @@ of	O
 infected	O
 rodents	O
 .	O
+
 Symptoms	O
 include	O
 fatigue	O
@@ -82,6 +85,7 @@ and	O
 abdominal	O
 pain	O
 .	O
+
 Four	O
 to	O
 10	O

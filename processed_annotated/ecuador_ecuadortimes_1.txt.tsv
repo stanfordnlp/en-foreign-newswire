@@ -140,6 +140,7 @@ of	I-Organization
 Defense	I-Organization
 policy	O
 .	O
+
 For	O
 this	O
 case	O
@@ -168,6 +169,7 @@ the	O
 United	B-Location
 States	I-Location
 .	O
+
 In	O
 this	O
 scheme	O
@@ -221,6 +223,7 @@ also	O
 from	O
 Rocafuerte	B-Organization
 .	O
+
 Here	O
 ,	O
 the	O
@@ -320,6 +323,7 @@ Sucre	B-Location
 and	O
 Rocafuerte	B-Location
 .	O
+
 The	O
 defendants	O
 used	O
@@ -372,6 +376,7 @@ Sucre	B-Organization
 and	O
 Rocafuerte	B-Organization
 .	O
+
 These	O
 are	O
 mentioned	O
@@ -413,6 +418,7 @@ Corporation	I-Organization
 CNEL	B-Organization
 )	O
 .	O
+
 This	O
 is	O
 one	O
@@ -543,6 +549,7 @@ win	O
 these	O
 contracts	O
 .	O
+
 For	O
 this	O
 reason	O
@@ -567,6 +574,7 @@ for	O
 London	B-Location
 )	O
 .	O
+
 Failure	O
 to	O
 meet	O
@@ -590,6 +598,7 @@ for	O
 new	O
 business	O
 …	O
+
 With	O
 only	O
 25	O
@@ -661,6 +670,7 @@ and	O
 August	B-Date
 2015	I-Date
 .	O
+
 Part	O
 of	O
 this	O
@@ -755,6 +765,7 @@ Biscayne	B-Organization
 Capital	I-Organization
 network	O
 .	O
+
 Between	O
 2015	B-Date
 and	O
@@ -827,6 +838,7 @@ consulting	O
 services	O
 ”	O
 .	O
+
 Ribas	B-Person
 Domenech	I-Person
 ’s	O
@@ -896,6 +908,7 @@ a	O
 Ponzi	O
 scheme	O
 .	O
+
 In	O
 other	O
 words	O
@@ -910,6 +923,7 @@ to	O
 pay	O
 others	O
 .	O
+
 Among	O
 these	O
 resources	O
@@ -990,6 +1004,7 @@ of	O
 the	O
 securities	O
 .	O
+
 kickbacks	O
 
 For	O
@@ -1027,6 +1042,7 @@ in	O
 his	O
 name	O
 .	O
+
 But	O
 one	O
 day	O
@@ -1161,6 +1177,7 @@ South	B-Organization	B-Location
 Florida	I-Organization	I-Location
 Court	I-Organization
 .	O
+
 He	O
 was	O
 released	O

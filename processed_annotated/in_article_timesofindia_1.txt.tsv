@@ -25,6 +25,7 @@ Jhalak	B-Misc
 Dikhhla	I-Misc
 Jaa	I-Misc
 .	O
+
 While	O
 Nia	B-Person
 and	O
@@ -54,6 +55,7 @@ Kya	I-Misc
 Kehlata	I-Misc
 Hai	I-Misc
 .	O
+
 We	O
 are	O
 now	O
@@ -67,6 +69,7 @@ dance	O
 reality	O
 show	O
 .	O
+
 We	O
 have	O
 learnt	O
@@ -102,6 +105,7 @@ the	O
 reality	O
 show	O
 .	O
+
 The	O
 actor	O
 will	O
@@ -118,6 +122,7 @@ Tewari	I-Person
 Sherdil	B-NORP
 Shergill	I-NORP
 .	O
+
 Along	O
 with	O
 him	O
@@ -139,6 +144,7 @@ show	O
 ,	O
 too	O
 .	O
+
 There	O
 were	O
 also	O
@@ -154,6 +160,7 @@ Jhalak	B-Misc
 Dikhhla	I-Misc
 Jaa	I-Misc
 .	O
+
 However	O
 ,	O
 the	O
@@ -196,6 +203,7 @@ be	O
 locked	O
 soon	O
 .	O
+
 Mohsin	B-Person
 was	O
 among	O
@@ -209,6 +217,7 @@ for	O
 the	O
 show	O
 .	O
+
 Niti	B-Person
 ,	O
 too	O
@@ -265,6 +274,7 @@ from	O
 to	O
 2021	B-Date
 .	O
+
 Niti	B-Person
 has	O
 been	O
@@ -281,6 +291,7 @@ Ghulaam	B-Misc
 and	O
 Ishqbaaaz	B-Misc
 .	O
+
 She	O
 was	O
 last	O
@@ -312,6 +323,7 @@ and	O
 Karan	B-Person
 Johar	I-Person
 .	O
+
 The	O
 show	O
 is	O

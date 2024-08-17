@@ -99,6 +99,7 @@ BA	B-Misc
 omicron	I-Misc
 subvariant	O
 .	O
+
 Over	O
 105,500	O
 new	O
@@ -177,6 +178,7 @@ to	O
 fill	O
 up	O
 .	O
+
 In	O
 Okinawa	B-Location
 Prefecture	I-Location
@@ -276,6 +278,7 @@ in	O
 late	O
 June	B-Date
 .	O
+
 The	O
 figure	O
 has	O
@@ -312,6 +315,7 @@ symptoms	O
 or	O
 hotels	O
 .	O
+
 But	O
 now	O
 ,	O
@@ -382,6 +386,7 @@ periods	O
 of	O
 time	O
 .	O
+
 In	O
 order	O
 to	O
@@ -422,6 +427,7 @@ the	O
 sixth	O
 wave	O
 .	O
+
 It	O
 dropped	O
 to	O
@@ -441,6 +447,7 @@ on	O
 July	B-Date
 12	I-Date
 .	O
+
 The	O
 hospital	O
 bed	O
@@ -562,6 +569,7 @@ government	O
 official	O
 said	O
 .	O
+
 “	O
 A	O
 specialized	O
@@ -683,6 +691,7 @@ system	O
 from	O
 collapsing	O
 .	O
+
 When	O
 people	O
 are	O
@@ -782,6 +791,7 @@ increase	O
 in	O
 patients	O
 .	O
+
 It	O
 has	O
 asked	O

@@ -14,6 +14,7 @@ THREAT	O
 FOR	O
 US	O
 .	O
+
 BUT	O
 WE	O
 WILL	O
@@ -33,6 +34,7 @@ PRESIDENT	O
 OF	O
 COLOMBIA	B-Location
 .	O
+
 WE	O
 ARE	O
 MORE	O
@@ -83,6 +85,7 @@ has	O
 ever	O
 seen	O
 .	O
+
 “	O
 The	O
 FARC	B-Organization
@@ -97,6 +100,7 @@ with	O
 the	O
 guerrillas	O
 .	O
+
 But	O
 now	O
 I	O
@@ -206,6 +210,7 @@ into	O
 civil	O
 society	O
 .	O
+
 With	O
 President	O
 Duque	B-Person
@@ -350,6 +355,7 @@ into	O
 Colombian	B-NORP
 society	O
 .	O
+
 But	O
 while	O
 positive	O
@@ -378,6 +384,7 @@ September	B-Date
 26	I-Date
 2016	I-Date
 .	O
+
 Some	O
 316	O
 FARC	B-Organization
@@ -479,6 +486,7 @@ Army	I-Organization
 EPL	B-Organization
 )	O
 .	O
+
 It	O
 is	O
 a	O
@@ -511,6 +519,7 @@ of	O
 kidnapped	O
 people	O
 .	O
+
 It	O
 is	O
 also	O
@@ -577,6 +586,7 @@ average	O
 quality	O
 plywood	O
 .	O
+
 Local	O
 workers	O
 from	O
@@ -639,6 +649,7 @@ the	O
 community	O
 leaders	O
 .	O
+
 “	O
 But	O
 after	O
@@ -699,6 +710,7 @@ million	O
 different	O
 insects	O
 .	O
+
 Red	O
 -	O
 bellied	O
@@ -770,6 +782,7 @@ cilantro	O
 and	O
 pineapple	O
 .	O
+
 And	O
 if	O
 you	O
@@ -794,6 +807,7 @@ other	O
 Amazonic	B-NORP
 crops	O
 .	O
+
 We	O
 are	O
 in	O
@@ -822,6 +836,7 @@ ex	O
 FARC	B-Organization
 combatants	O
 .	O
+
 These	O
 days	O
 ,	O
@@ -860,6 +875,7 @@ facility	O
 for	O
 toddlers	O
 .	O
+
 Former	O
 combatants	O
 farm	O
@@ -880,6 +896,7 @@ for	O
 fruit	O
 pulp	O
 .	O
+
 They	O
 also	O
 have	O
@@ -936,6 +953,7 @@ and	O
 FARC	B-Organization
 paraphernalia	O
 .	O
+
 The	O
 most	O
 recurring	O
@@ -1025,6 +1043,7 @@ in	O
 the	O
 area	O
 .	O
+
 According	O
 to	O
 Olmedo	B-Person
@@ -1059,6 +1078,7 @@ of	O
 governmental	O
 support	O
 .	O
+
 But	O
 the	O
 presidential	O
@@ -1167,6 +1187,7 @@ and	O
 its	O
 politics	O
 .	O
+
 Levels	O
 of	O
 respect	O
@@ -1205,6 +1226,7 @@ its	O
 earliest	O
 foundations	O
 .	O
+
 When	O
 we	O
 met	O
@@ -1233,6 +1255,7 @@ second	O
 largest	O
 city	O
 .	O
+
 “	O
 Some	O
 of	O
@@ -1252,6 +1275,7 @@ he	O
 told	O
 us	O
 .	O
+
 “	O
 There	O
 are	O

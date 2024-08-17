@@ -47,6 +47,7 @@ the	O
 United	B-Location
 States	I-Location
 .	O
+
 Later	O
 in	O
 the	O
@@ -99,6 +100,7 @@ and	O
 human	O
 rights	O
 .	O
+
 Zeya	B-Person
 is	O
 the	O
@@ -152,6 +154,7 @@ Under	O
 Secretary	O
 Zeya	B-Person
 .	O
+
 “	O
 Democracies	O
 can	O
@@ -175,6 +178,7 @@ our	O
 democratic	O
 institutions	O
 .	O
+
 Namibia	B-Location
 ’s	O
 achievements	O
@@ -246,6 +250,7 @@ partnership	O
 with	O
 Namibia	B-Location
 .	O
+
 She	O
 also	O
 visited	O

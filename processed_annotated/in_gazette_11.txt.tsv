@@ -25,6 +25,7 @@ this	O
 Arab	B-NORP
 country	O
 .	O
+
 Gone	O
 are	O
 the	O
@@ -53,6 +54,7 @@ language	O
 of	O
 yesteryears	O
 .	O
+
 Now	O
 ,	O
 Israel	B-Organization
@@ -106,6 +108,7 @@ routine	O
 everyday	O
 event	O
 .	O
+
 In	O
 the	O
 last	O
@@ -123,6 +126,7 @@ attributed	O
 to	O
 Israel	B-Organization
 .	O
+
 The	O
 latter	O
 neither	O
@@ -130,6 +134,7 @@ confirmed	O
 nor	O
 denied	O
 .	O
+
 With	O
 the	O
 blanket	O
@@ -203,6 +208,7 @@ in	O
 January	B-Date
 2021	I-Date
 .	O
+
 They	O
 worried	O
 that	O
@@ -251,6 +257,7 @@ of	O
 Israel	B-Location
 ”	O
 .	O
+
 Biden	B-Person
 ,	O
 a	O
@@ -326,6 +333,7 @@ is	O
 our	O
 moment	O
 .	O
+
 This	O
 is	O
 the	O
@@ -409,6 +417,7 @@ Golan	B-Location
 Heights	I-Location
 .	O
 ”	O
+
 The	O
 reference	O
 to	O
@@ -441,6 +450,7 @@ peace	O
 process	O
 .	O
 ’	O
+
 Bennett	B-Person
 -	O
 who	O
@@ -516,6 +526,7 @@ going	O
 largely	O
 unnoticed	O
 .	O
+
 Not	O
 only	O
 Israel	B-Location
@@ -545,6 +556,7 @@ $	B-Money
 320	I-Money
 million	I-Money
 .	O
+
 The	O
 title	O
 of	O
@@ -575,6 +587,7 @@ to	I-Misc
 Thrive	I-Misc
 .	O
 ”	O
+
 The	O
 article	O
 decries	O
@@ -606,6 +619,7 @@ the	O
 course	O
 ”	O
 .	O
+
 The	O
 fact	O
 that	O
@@ -656,6 +670,7 @@ Arab	B-NORP
 land	O
 entirely	O
 .	O
+
 But	O
 if	O
 that	O
@@ -696,6 +711,7 @@ Palestine	B-Location
 is	O
 synonymous	O
 .	O
+
 It	O
 is	O
 inspired	O
@@ -772,6 +788,7 @@ massive	O
 agricultural	O
 settlements	O
 .	O
+
 Although	O
 the	O
 home	O
@@ -797,6 +814,7 @@ wine	O
 grape	O
 production	O
 .	O
+
 Local	O
 tourism	O
 in	O
@@ -873,6 +891,7 @@ and	O
 East	B-Location
 Jerusalem	I-Location
 .	O
+
 The	O
 Golan	B-NORP
 population	O
@@ -898,6 +917,7 @@ of	O
 their	O
 resistance	O
 .	O
+
 Their	O
 hardship	O
 ,	O
@@ -955,6 +975,7 @@ with	O
 his	O
 plans	O
 .	O
+
 A	O
 major	O
 source	O
@@ -985,6 +1006,7 @@ the	O
 Israeli	B-NORP
 occupation	O
 .	O
+
 Another	O
 is	O
 that	O

@@ -34,6 +34,7 @@ for	O
 two	O
 years	O
 .	O
+
 He	O
 entered	O
 the	O
@@ -189,6 +190,7 @@ for	O
 Smallpox	B-Misc
 Surveillance	I-Misc
 .	O
+
 He	O
 will	O
 be	O
@@ -200,6 +202,7 @@ his	O
 clinical	O
 evolution	O
 .	O
+
 The	O
 Ministry	B-Organization
 of	I-Organization
@@ -286,6 +289,7 @@ detect	O
 the	O
 virus	O
 .	O
+
 Previously	O
 ,	O
 tests	O
@@ -323,6 +327,7 @@ and	O
 muscle	O
 pain	O
 .	O
+
 Once	O
 the	O
 fever	O
@@ -362,6 +367,7 @@ following	O
 established	O
 protocols	O
 .	O
+
 The	O
 Ministry	B-Organization
 of	I-Organization

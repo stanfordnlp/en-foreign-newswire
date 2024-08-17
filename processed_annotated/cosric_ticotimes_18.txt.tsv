@@ -118,6 +118,7 @@ sixth	O
 in	O
 total	O
 .	O
+
 Their	O
 best	O
 effort	O
@@ -202,6 +203,7 @@ Rica	I-Location
 Francisco	B-Person
 Calvo	I-Person
 .	O
+
 That	O
 decision	O
 was	O
@@ -238,6 +240,7 @@ coach	O
 Danny	B-Person
 Hay	I-Person
 .	O
+
 “	O
 I	O
 thought	O
@@ -249,6 +252,7 @@ the	O
 better	O
 team	O
 .	O
+
 There	O
 was	O
 one	O
@@ -294,6 +298,7 @@ the	O
 pandemic	O
 upheaval	O
 .	O
+
 The	O
 whole	O
 Oceania	B-Location

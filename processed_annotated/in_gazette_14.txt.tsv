@@ -45,6 +45,7 @@ groups	O
 said	O
 today	O
 .	O
+
 The	O
 Indian	B-NORP
 government	O
@@ -181,6 +182,7 @@ against	O
 the	O
 state	O
 .	O
+
 The	O
 action	O
 against	O
@@ -219,6 +221,7 @@ Against	I-Organization
 Involuntary	I-Organization
 Disappearances	I-Organization
 .	O
+
 He	O
 has	O
 documented	O
@@ -275,6 +278,7 @@ Council	I-Organization
 in	O
 Geneva	B-Location
 .	O
+
 He	O
 was	O
 among	O
@@ -347,6 +351,7 @@ Jammu	B-Location
 and	O
 Kashmir	B-Location
 .	O
+
 The	O
 authorities	O
 have	O
@@ -379,6 +384,7 @@ and	O
 human	O
 rights	O
 .	O
+
 Journalists	O
 and	O
 activists	O
@@ -396,6 +402,7 @@ at	O
 any	O
 time	O
 .	O
+
 Over	O
 40	O
 people	O
@@ -495,6 +502,7 @@ to	O
 silence	O
 dissent	O
 .	O
+
 The	O
 law	O
 contains	O
@@ -526,6 +534,7 @@ civil	O
 society	O
 groups	O
 .	O
+
 In	O
 2019	B-Date
 ,	O
@@ -623,6 +632,7 @@ freedom	O
 in	O
 Kashmir	B-Location
 .	O
+
 The	O
 authorities	O
 have	O
@@ -639,6 +649,7 @@ in	O
 the	O
 world	O
 .	O
+
 The	O
 majority	O
 of	O
@@ -690,6 +701,7 @@ on	O
 terrorism	O
 charges	O
 .	O
+
 In	O
 September	B-Date
 ,	O
@@ -709,6 +721,7 @@ phones	O
 and	O
 laptops	O
 .	O
+
 In	O
 June	O
 ,	O
@@ -785,6 +798,7 @@ and	O
 extrajudicial	O
 killings	O
 .	O
+
 On	O
 November	B-Date
 15	I-Date
@@ -813,6 +827,7 @@ buried	O
 their	O
 bodies	O
 .	O
+
 The	O
 families	O
 of	O
@@ -834,6 +849,7 @@ human	O
 shields	O
 .	O
 ”	O
+
 When	O
 the	O
 families	O
@@ -850,6 +866,7 @@ temporarily	O
 detained	O
 several	O
 .	O
+
 After	O
 widespread	O
 protests	O
@@ -916,6 +933,7 @@ man	O
 in	O
 October	B-Date
 .	O
+
 The	O
 authorities	O
 did	O
@@ -999,6 +1017,7 @@ of	O
 Shopian	B-Location
 district	O
 .	O
+
 They	O
 raised	O
 concerns	O
@@ -1062,6 +1081,7 @@ they	O
 were	O
 militants	O
 .	O
+
 The	O
 families	O
 disputed	O
@@ -1081,6 +1101,7 @@ secondary	O
 school	O
 student	O
 .	O
+
 In	O
 February	B-Date
 ,	O
@@ -1156,6 +1177,7 @@ immunity	O
 from	O
 prosecution	O
 .	O
+
 Since	O
 the	O
 law	O
@@ -1186,6 +1208,7 @@ in	O
 civilian	O
 courts	O
 .	O
+
 Rights	O
 groups	O
 have	O
@@ -1213,6 +1236,7 @@ for	O
 its	O
 repeal	O
 .	O
+
 Affected	O
 residents	O
 ,	O
@@ -1285,6 +1309,7 @@ to	O
 address	O
 them	O
 .	O
+
 This	O
 unwillingness	O
 to	O
@@ -1333,6 +1358,7 @@ the	O
 groups	O
 said	O
 .	O
+
 The	O
 government	O
 should	O
@@ -1384,6 +1410,7 @@ basic	O
 human	O
 rights	O
 .	O
+
 (	O
 hrw	O
 .	O

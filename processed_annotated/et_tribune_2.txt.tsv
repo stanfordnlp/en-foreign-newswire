@@ -47,6 +47,7 @@ over	O
 a	O
 campfire	O
 .	O
+
 The	O
 walk	O
 from	O
@@ -63,6 +64,7 @@ traditional	O
 Simien	B-Location
 walk	O
 .	O
+
 Only	O
 a	O
 few	O
@@ -84,6 +86,7 @@ walk	O
 from	O
 Debark	B-Location
 .	O
+
 There	O
 was	O
 of	O
@@ -97,6 +100,7 @@ to	O
 walk	O
 to	O
 .	O
+
 The	O
 standard	O
 trip	O
@@ -163,6 +167,7 @@ the	O
 4th	O
 camp	O
 .	O
+
 The	O
 road	O
 was	O
@@ -177,6 +182,7 @@ in	O
 dry	O
 weather	O
 .	O
+
 The	O
 road	O
 improved	O
@@ -200,6 +206,7 @@ of	O
 Mekane	B-Location
 Berhan	I-Location
 .	O
+
 You	O
 can	O
 take	O
@@ -231,6 +238,7 @@ walk	O
 for	O
 days	O
 .	O
+
 It	O
 is	O
 also	O
@@ -259,6 +267,7 @@ to	O
 look	O
 over	O
 .	O
+
 You	O
 can	O
 walk	O
@@ -287,6 +296,7 @@ the	O
 walk	O
 up	O
 .	O
+
 While	O
 fairly	O
 long	O
@@ -322,6 +332,7 @@ into	O
 interesting	O
 places	O
 .	O
+
 Past	O
 Sankober	B-Location
 the	O
@@ -334,6 +345,7 @@ the	O
 canyons	O
 below	O
 .	O
+
 The	O
 view	O
 from	O
@@ -370,6 +382,7 @@ fear	O
 of	O
 heights	O
 .	O
+
 This	O
 was	O
 so	O
@@ -391,6 +404,7 @@ without	O
 intense	O
 terror	O
 .	O
+
 I	O
 gradually	O
 overcame	O
@@ -412,6 +426,7 @@ Calgary	B-Location
 in	O
 Canada	B-Location
 .	O
+
 I	O
 did	O
 get	O
@@ -447,6 +462,7 @@ is	O
 now	O
 unpredictable	O
 .	O
+
 Sometimes	O
 I	O
 ’ll	O
@@ -467,6 +483,7 @@ a	O
 bit	O
 nervously	O
 .	O
+
 Other	O
 times	O
 a	O
@@ -506,6 +523,7 @@ my	O
 children	O
 )	O
 .	O
+
 So	O
 you	O
 can	O
@@ -530,6 +548,7 @@ cliff	O
 edge	O
 path	O
 .	O
+
 On	O
 the	O
 other	O
@@ -586,6 +605,7 @@ a	O
 cliff	O
 face	O
 .	O
+
 This	O
 view	O
 is	O
@@ -605,6 +625,7 @@ about	O
 1	O
 km	O
 .	O
+
 Once	O
 again	O
 there	O
@@ -634,6 +655,7 @@ on	O
 either	O
 side	O
 .	O
+
 The	O
 view	O
 is	O
@@ -647,6 +669,7 @@ but	O
 negotiable	O
 climb	O
 .	O
+
 At	O
 this	O
 distance	O
@@ -682,6 +705,7 @@ in	O
 the	O
 cliff	O
 .	O
+
 The	O
 falls	O
 are	O
@@ -719,6 +743,7 @@ troupes	O
 of	O
 baboons	O
 .	O
+
 Every	O
 time	O
 I	O
@@ -734,6 +759,7 @@ have	O
 been	O
 plenty	O
 .	O
+
 As	O
 we	O
 walked	O
@@ -757,6 +783,7 @@ eventually	O
 surrounded	O
 us	O
 .	O
+
 Gelada	B-Misc
 baboons	O
 look	O
@@ -777,6 +804,7 @@ impressive	O
 canine	O
 teeth	O
 .	O
+
 The	O
 reason	O
 for	O
@@ -833,6 +861,7 @@ it	O
 not	O
 playful	O
 .	O
+
 I	O
 ’m	O
 told	O
@@ -855,6 +884,7 @@ growing	O
 young	O
 males	O
 .	O
+
 The	O
 dominant	O
 male	O
@@ -886,6 +916,7 @@ by	O
 an	O
 upstart	O
 .	O
+
 He	O
 then	O
 becomes	O
@@ -941,6 +972,7 @@ at	O
 passing	O
 humans	O
 .	O
+
 Overall	O
 my	O
 impression	O
@@ -971,6 +1003,7 @@ approach	O
 of	O
 people	O
 .	O
+
 It	O
 is	O
 nevertheless	O
@@ -1015,6 +1048,7 @@ is	O
 more	O
 elusive	O
 .	O
+
 In	O
 several	O
 visits	O
@@ -1042,6 +1076,7 @@ a	O
 cliff	O
 face	O
 .	O
+
 From	O
 the	O
 tales	O
@@ -1129,6 +1164,7 @@ to	O
 the	O
 Simiens	B-Location
 .	O
+
 They	O
 are	O
 ironically	O
@@ -1150,6 +1186,7 @@ Bale	O
 wolf	O
 )	O
 .	O
+
 The	O
 wolf	O
 goes	O
@@ -1182,6 +1219,7 @@ genetically	O
 a	O
 wolf	O
 .	O
+
 They	O
 look	O
 like	O
@@ -1193,6 +1231,7 @@ fox	O
 ,	O
 however	O
 .	O
+
 These	O
 animals	O
 are	O
@@ -1236,6 +1275,7 @@ clever	O
 about	O
 birds	O
 .	O
+
 I	O
 am	O
 not	O
@@ -1243,6 +1283,7 @@ one	O
 of	O
 them	O
 .	O
+
 The	O
 Simiens	B-Location
 are	O
@@ -1286,6 +1327,7 @@ out	O
 their	O
 prey	O
 .	O
+
 The	O
 ibis	O
 which	O
@@ -1310,6 +1352,7 @@ I	O
 believe	O
 )	O
 .	O
+
 I	O
 cannot	O
 tell	O
@@ -1340,6 +1383,7 @@ from	O
 a	O
 turtle	O
 .	O
+
 The	O
 famed	O
 Lammergeier	B-Misc

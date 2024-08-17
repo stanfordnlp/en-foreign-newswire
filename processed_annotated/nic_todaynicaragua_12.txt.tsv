@@ -3,6 +3,7 @@ https://todaynicaragua.com/nicaragua-enforced-disappearance-is-the-new-tactic-fo
 Amnesty	B-Organization
 International	I-Organization
 –	O
+
 The	O
 enforced	O
 disappearance	O
@@ -36,6 +37,7 @@ report	O
 released	O
 today	O
 .	O
+
 Where	O
 are	O
 they	O
@@ -107,6 +109,7 @@ who	O
 speak	O
 out	O
 .	O
+
 By	O
 disappearing	O
 opponents	O
@@ -175,6 +178,7 @@ the	O
 same	O
 situation	O
 .	O
+
 We	O
 demand	O
 that	O
@@ -280,6 +284,7 @@ on	O
 May	I-Date
 2021	I-Date
 .	O
+
 From	O
 then	O
 until	O
@@ -359,6 +364,7 @@ of	O
 enforced	O
 disappearance	O
 .	O
+
 The	O
 cases	O
 documented	O
@@ -427,6 +433,7 @@ have	O
 important	O
 similarities	O
 .	O
+
 Therefore	O
 ,	O
 the	O
@@ -485,6 +492,7 @@ under	O
 international	O
 law	O
 .	O
+
 In	O
 most	O
 cases	O
@@ -546,6 +554,7 @@ family	O
 members	O
 insisted	O
 .	O
+
 However	O
 ,	O
 mere	O
@@ -599,6 +608,7 @@ acknowledging	O
 the	O
 detentions	O
 .	O
+
 However	O
 ,	O
 in	O
@@ -613,6 +623,7 @@ place	O
 of	O
 detention	O
 .	O
+
 Furthermore	O
 ,	O
 the	O
@@ -715,6 +726,7 @@ among	O
 other	O
 requests	O
 .	O
+
 Unfortunately	O
 ,	O
 these	O
@@ -762,6 +774,7 @@ multiple	O
 human	O
 rights	O
 .	O
+
 It	O
 is	O
 defined	O
@@ -861,6 +874,7 @@ Guevara	I-Person
 -	I-Person
 Rosas	I-Person
 .	O
+
 “	O
 The	O
 families	O
@@ -882,6 +896,7 @@ are	O
 being	O
 held	O
 .	O
+
 The	O
 anguish	O
 they	O

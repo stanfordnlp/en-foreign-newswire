@@ -31,6 +31,7 @@ his	O
 new	O
 term	O
 .	O
+
 Macron	B-Person
 kicked	O
 off	O
@@ -130,6 +131,7 @@ increase	O
 food	O
 production	O
 .	O
+
 He	O
 said	O
 he	O
@@ -189,6 +191,7 @@ against	O
 security	O
 threats	O
 .	O
+
 He	O
 said	O
 that	O
@@ -204,6 +207,7 @@ destroy	O
 Boko	B-Person
 Haram	I-Person
 .	O
+
 Cameroon	B-Location
 has	O
 also	O
@@ -245,6 +249,7 @@ leader	O
 's	O
 itinerary	O
 .	O
+
 Macron	B-Person
 has	O
 insisted	O

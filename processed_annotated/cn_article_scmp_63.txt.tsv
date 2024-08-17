@@ -251,6 +251,7 @@ in	O
 the	O
 world	O
 .	O
+
 “	O
 Any	O
 additional	O
@@ -356,6 +357,7 @@ or	O
 charity	O
 ”	O
 .	O
+
 “	O
 It	O
 ’s	O
@@ -463,6 +465,7 @@ dams	O
 in	O
 Africa	B-Location
 .	O
+
 It	O
 has	O
 funded	O
@@ -505,6 +508,7 @@ Central	B-Location
 Rift	I-Location
 Valley	I-Location
 .	O
+
 It	O
 built	O
 a	O
@@ -520,6 +524,7 @@ Ababa	I-Location
 to	O
 Djibouti	B-Location
 .	O
+
 In	O
 Djibouti	B-Location
 ,	O
@@ -567,6 +572,7 @@ China	B-Location
 in	O
 Africa	B-Location
 .	O
+
 During	O
 former	O
 president	O
@@ -714,6 +720,7 @@ development	O
 goals	O
 ]	O
 .	O
+
 It	O
 was	O
 meant	O
@@ -734,6 +741,7 @@ of	O
 private	O
 capital	O
 .	O
+
 We	O
 have	O
 not	O
@@ -743,6 +751,7 @@ close	O
 to	O
 that	O
 .	O
+
 So	O
 ,	O
 it	O
@@ -823,6 +832,7 @@ health	O
 and	O
 jobs	O
 .	O
+
 Africans	B-NORP
 now	O
 know	O
@@ -879,6 +889,7 @@ loss	O
 of	O
 momentum	O
 .	O
+
 China	B-Location
 ’s	O
 projects	O
@@ -935,6 +946,7 @@ into	O
 debt	O
 traps	O
 .	O
+
 China	B-Location
 has	O
 dismissed	O
@@ -1079,6 +1091,7 @@ focus	O
 of	O
 investments	O
 .	O
+
 For	O
 example	O
 ,	O
@@ -1220,6 +1233,7 @@ global	O
 infrastructure	O
 development	O
 .	O
+
 Biden	B-Person
 has	O
 also	O
@@ -1307,6 +1321,7 @@ Chinese	B-NORP
 debt	O
 servicing	O
 .	O
+
 This	O
 said	O
 ,	O
@@ -1420,6 +1435,7 @@ in	O
 this	O
 area	O
 .	O
+
 However	O
 ,	O
 there	O
@@ -1498,6 +1514,7 @@ Horn	B-Location
 of	I-Location
 Africa	I-Location
 .	O
+
 The	O
 submarine	O
 cable	O
@@ -1575,6 +1592,7 @@ silk	O
 road	O
 initiative	O
 .	O
+
 It	O
 will	O
 connect	O
@@ -1623,6 +1641,7 @@ Marseilles	B-Location
 ,	I-Location
 France	I-Location
 .	O
+
 It	O
 will	O
 be	O

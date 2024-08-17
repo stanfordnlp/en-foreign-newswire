@@ -26,6 +26,7 @@ of	O
 the	O
 song	O
 .	O
+
 Gulzar	B-Person
 replaced	O
 the	O
@@ -87,6 +88,7 @@ behind	O
 the	O
 thought	O
 .	O
+
 It	O
 was	O
 a	O
@@ -131,6 +133,7 @@ on	O
 Monday	B-Date
 evening	O
 .	O
+
 He	O
 was	O
 82	O
@@ -175,6 +178,7 @@ on	O
 a	O
 ventilator	O
 .	O
+
 He	O
 got	O
 a	O

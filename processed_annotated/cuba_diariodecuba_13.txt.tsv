@@ -97,6 +97,7 @@ Ravelo	I-Person
 in	O
 attendance	O
 .	O
+
 Also	O
 present	O
 are	O
@@ -252,6 +253,7 @@ the	O
 Party	O
 .	O
 "	O
+
 The	O
 TSP	B-Organization
 president	O
@@ -423,6 +425,7 @@ Cuba	I-Organization	B-Organization
 CCP	B-Organization
 )	O
 .	O
+
 In	O
 fact	O
 ,	O
@@ -512,6 +515,7 @@ to	O
 the	O
 Party	O
 .	O
+
 And	O
 ,	O
 as	O
@@ -550,6 +554,7 @@ not	O
 receive	O
 justice	O
 .	O
+
 Remigio	B-Person
 Ferro	I-Person
 himself	O
@@ -598,6 +603,7 @@ constitute	O
 a	O
 crime	O
 .	O
+
 In	O
 his	O
 own	O
@@ -641,6 +647,7 @@ constitutional	O
 rights	O
 .	O
 "	O
+
 And	O
 the	O
 parameters	O
@@ -775,6 +782,7 @@ the	O
 previous	O
 one	O
 .	O
+
 For	O
 Remigio	B-Person
 Ferro	I-Person
@@ -1149,6 +1157,7 @@ at	O
 universities	O
 .	O
 "	O
+
 But	O
 these	O
 universal	O

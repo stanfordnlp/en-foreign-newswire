@@ -35,6 +35,7 @@ Taipei	B-Location
 mayoral	O
 campaign	O
 .	O
+
 Following	O
 his	O
 announcement	O
@@ -125,6 +126,7 @@ stay	O
 in	O
 Taiwan	B-Location
 .	O
+
 Legislator	O
 Chiang	B-Person
 Wan	I-Person
@@ -175,6 +177,7 @@ one	O
 once	O
 .	O
 ”	O
+
 He	O
 then	O
 asked	O
@@ -322,6 +325,7 @@ elections	O
 in	O
 Taiwan	B-Location
 .	O
+
 The	O
 issue	O
 haunted	O
@@ -417,6 +421,7 @@ ratings	O
 had	O
 plateaued	O
 .	O
+
 As	O
 the	O
 KMT	B-Organization
@@ -512,6 +517,7 @@ Chen	B-Person
 campaign	O
 book	O
 .	O
+
 Within	O
 less	O
 than	O
@@ -623,6 +629,7 @@ of	O
 public	O
 health	O
 .	O
+
 He	O
 served	O
 as	O
@@ -711,6 +718,7 @@ and	O
 pension	O
 policy	O
 .	O
+
 While	O
 Chen	B-Person
 is	O

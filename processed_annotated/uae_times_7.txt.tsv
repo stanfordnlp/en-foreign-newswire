@@ -50,6 +50,7 @@ Eid	B-Date
 Al	I-Date
 Adha	I-Date
 .	O
+
 He	O
 also	O
 wished	O
@@ -99,6 +100,7 @@ Eid	B-Date
 Al	I-Date
 Adha	I-Date
 .	O
+
 May	O
 God	B-Person
 continue	O

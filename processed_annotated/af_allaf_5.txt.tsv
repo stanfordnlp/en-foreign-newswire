@@ -119,6 +119,7 @@ what	O
 going	O
 on	O
 .	O
+
 The	O
 price	O
 of	O
@@ -151,6 +152,7 @@ about	O
 three	O
 months	O
 .	O
+
 That	O
 is	O
 a	O
@@ -158,6 +160,7 @@ a	O
 percent	O
 increase	O
 .	O
+
 The	O
 12	O
 -	O
@@ -172,6 +175,7 @@ in	O
 June	B-Date
 2022	I-Date
 .	O
+
 Kenya	B-Location
 's	O
 average	O
@@ -184,6 +188,7 @@ US	B-Money	B-Location
 $	I-Money
 5,270	I-Money
 .	O
+
 With	O
 inflation	O
 ,	O
@@ -195,12 +200,14 @@ limited	O
 purchasing	O
 power	O
 .	O
+
 The	O
 same	O
 money	O
 buys	O
 less	O
 .	O
+
 Wages	O
 and	O
 salaries	O
@@ -237,6 +244,7 @@ Borgen	B-Organization
 Project	I-Organization
 nonprofit	I-Organization
 .	O
+
 Almost	O
 half	O
 of	O
@@ -261,6 +269,7 @@ pace	O
 with	O
 inflation	O
 .	O
+
 The	O
 child	O
 support	O
@@ -308,6 +317,7 @@ achieving	O
 food	O
 security	O
 .	O
+
 The	O
 pledge	O
 will	O

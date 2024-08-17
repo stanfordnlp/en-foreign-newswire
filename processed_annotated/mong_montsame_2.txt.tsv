@@ -5,6 +5,7 @@ Ulaanbaatar	B-Location
 MONTSAME	B-Organization
 /	O
 .	O
+
 On	O
 August	B-Date
 3	I-Date
@@ -38,6 +39,7 @@ of	O
 mission	O
 here	O
 .	O
+
 During	O
 his	O
 five	O
@@ -119,6 +121,7 @@ from	O
 potential	O
 risk	O
 .	O
+
 “	O
 Your	O
 participation	O
@@ -160,6 +163,7 @@ in	O
 difficult	O
 times	O
 .	O
+
 I	O
 hope	O
 further	O
@@ -169,6 +173,7 @@ expand	O
 much	O
 more	O
 .	O
+
 I	O
 would	O
 like	O
@@ -188,6 +193,7 @@ health	O
 care	O
 services	O
 .	O
+
 It	O
 is	O
 praiseworthy	O
@@ -209,6 +215,7 @@ headed	O
 by	O
 you	O
 .	O
+
 Response	O
 actions	O
 to	O

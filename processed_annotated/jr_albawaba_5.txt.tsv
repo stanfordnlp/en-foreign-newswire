@@ -15,6 +15,7 @@ capital	O
 of	O
 Damascus	B-Location
 .	O
+
 This	O
 is	O
 seen	O
@@ -57,6 +58,7 @@ top	O
 Syrian	B-NORP
 officials	O
 .	O
+
 According	O
 to	O
 the	O
@@ -143,6 +145,7 @@ Algeria	B-Location
 this	O
 November	B-Date
 .	O
+
 Syria	B-Location
 ’s	O
 membership	O

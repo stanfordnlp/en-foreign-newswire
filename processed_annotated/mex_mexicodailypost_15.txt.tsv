@@ -36,6 +36,7 @@ in	O
 full	O
 presentation	O
 ;	O
+
 They	O
 put	O
 emojis	O
@@ -212,11 +213,13 @@ world	O
 You	O
 right	O
 !	O
+
 Namora	B-Person
 is	O
 here	O
 !	O
 ”	O
+
 Mabel	B-Person
 wrote	O
 on	O
@@ -439,6 +442,7 @@ by	O
 Sebastián	B-Person
 Zurita	I-Person
 ;	O
+
 The	B-Misc
 tears	I-Misc
 of	I-Misc

@@ -5,6 +5,7 @@ Ulaanbaatar	B-Location
 MONTSAME	B-Organization
 /	O
 .	O
+
 President	O
 of	O
 the	O
@@ -105,6 +106,7 @@ astronauts	O
 but	O
 everyone	O
 .	O
+
 Also	O
 ,	O
 this	O
@@ -188,6 +190,7 @@ only	O
 in	O
 Mongolia	B-Location
 .	O
+
 Scientist	O
 around	O
 the	O
@@ -206,6 +209,7 @@ the	O
 Mars	B-Location
 .	O
 ”	O
+
 He	O
 also	O
 expressed	O

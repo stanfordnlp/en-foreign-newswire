@@ -30,6 +30,7 @@ part	O
 of	O
 Africa	B-Location
 .	O
+
 According	O
 to	O
 official	O
@@ -82,6 +83,7 @@ are	O
 being	O
 investigated	O
 .	O
+
 I	O
 areas	O
 just	O
@@ -136,6 +138,7 @@ in	O
 the	O
 region	O
 .	O
+
 Health	O
 authorities	O
 in	O
@@ -175,6 +178,7 @@ far	O
 from	O
 baseless	O
 .	O
+
 The	O
 so	O
 -	O
@@ -210,6 +214,7 @@ Lyon	B-Location
 France	B-Location
 )	O
 .	O
+
 This	O
 strain	O
 has	O
@@ -252,6 +257,7 @@ system	O
 in	O
 Guinea	B-Location
 .	O
+
 The	O
 Ebola	B-Misc
 epidemic	O
@@ -276,6 +282,7 @@ Nzérékoré	B-Location
 and	O
 Kissidougou	B-Location
 .	O
+
 It	O
 does	O
 not	O
@@ -315,6 +322,7 @@ and	O
 West	B-Location
 Africa	I-Location
 .	O
+
 The	O
 disease	O
 is	O
@@ -380,6 +388,7 @@ the	O
 sudden	O
 outbreak	O
 .	O
+
 In	O
 cooperation	O
 with	O
@@ -453,6 +462,7 @@ around	O
 250,000	O
 inhabitants	O
 .	O
+
 Within	O
 few	O
 days	O
@@ -473,6 +483,7 @@ the	O
 Nzérékoré	B-Location
 region	O
 .	O
+
 Macenta	B-Location
 ,	O
 close	O
@@ -517,6 +528,7 @@ tropical	O
 medicine	O
 advisor	O
 .	O
+
 "	O
 Specialised	O
 staff	O
@@ -562,6 +574,7 @@ in	O
 southern	B-Location
 Guinea	I-Location
 .	O
+
 Nzérékoré	B-Location
 is	O
 located	O
@@ -575,6 +588,7 @@ and	O
 Côte	B-Location
 d'Ivoire	I-Location
 .	O
+
 Further	O
 ,	O
 the	O
@@ -681,6 +695,7 @@ course	O
 of	O
 disease	O
 .	O
+
 The	O
 virus	O
 is	O
@@ -709,6 +724,7 @@ human	O
 food	O
 consumption	O
 .	O
+
 Wherever	O
 there	O
 is	O
@@ -757,6 +773,7 @@ exactly	O
 that	O
 area	O
 .	O
+
 Most	O
 reported	O
 occurrences	O
@@ -770,6 +787,7 @@ and	O
 South	B-Location
 Sudan	I-Location
 .	O
+
 I	O
 December	O
 2000	B-Date
@@ -824,6 +842,7 @@ and	O
 sore	O
 throat	O
 .	O
+
 This	O
 is	O
 followed	O
@@ -879,6 +898,7 @@ to	O
 21	O
 days	O
 .	O
+
 The	O
 virus	O
 is	O
@@ -895,6 +915,7 @@ risk	O
 of	O
 infection	O
 .	O
+
 Ebola	B-Misc
 spreads	O
 through	O
@@ -915,6 +936,7 @@ of	O
 infected	O
 people	O
 .	O
+
 Burial	O
 ceremonies	O
 where	O
@@ -946,6 +968,7 @@ against	O
 the	O
 disease	O
 .	O
+
 Mortality	O
 rates	O
 are	O
@@ -967,6 +990,7 @@ caused	O
 the	O
 outbreak	O
 .	O
+
 The	O
 Zaire	B-Location
 strain	O

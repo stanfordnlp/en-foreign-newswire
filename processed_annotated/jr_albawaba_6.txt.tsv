@@ -289,6 +289,7 @@ a	O
 minute	O
 stretch	O
 .	O
+
 It	O
 will	O
 also	O
@@ -361,6 +362,7 @@ Wall	B-Organization	B-Location
 Street	I-Organization	I-Location
 Journal	I-Organization
 .	O
+
 It	O
 will	O
 also	O
@@ -535,6 +537,7 @@ human	O
 rights	O
 violations	O
 .	O
+
 Salman	B-Person
 has	O
 been	O
@@ -577,6 +580,7 @@ just	O
 too	O
 ambitious	O
 .	O
+
 Saudi	B-Location
 Arabia	I-Location
 previously	O
@@ -628,6 +632,7 @@ between	O
 the	O
 countries	O
 .	O
+
 Bitterness	O
 between	O
 the	O
@@ -746,6 +751,7 @@ resolve	O
 many	O
 questions	O
 .	O
+
 The	O
 project	O
 was	O

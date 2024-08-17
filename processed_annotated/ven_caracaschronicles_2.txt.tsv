@@ -61,6 +61,7 @@ GDP	B-Misc
 last	O
 year	O
 .	O
+
 “	O
 This	O
 means	O
@@ -91,6 +92,7 @@ Venezuela	I-Organization	B-Location
 executive	O
 director	O
 .	O
+
 “	O
 And	O
 we	O
@@ -111,6 +113,7 @@ most	O
 important	O
 ones	O
 .	O
+
 There	O
 are	O
 other	O
@@ -176,6 +179,7 @@ trade	O
 can	O
 flourish	O
 .	O
+
 “	O
 Illicit	O
 trades	O
@@ -287,6 +291,7 @@ director	O
 of	O
 Econalítica	B-Organization
 .	O
+
 When	O
 the	O
 firm	O
@@ -306,6 +311,7 @@ of	O
 the	O
 GDP	B-Misc
 .	O
+
 Now	O
 they	O
 are	O
@@ -313,6 +319,7 @@ twice	O
 that	O
 size	O
 .	O
+
 The	O
 study	O
 also	O
@@ -355,6 +362,7 @@ chavista	O
 boom	O
 years	O
 .	O
+
 “	O
 It	O
 has	O
@@ -364,6 +372,7 @@ every	O
 aspect	O
 .	O
 ”	O
+
 It	O
 ’s	O
 money	O
@@ -379,6 +388,7 @@ also	O
 business	O
 investment	O
 .	O
+
 Its	O
 vast	O
 networks	O
@@ -396,6 +406,7 @@ decreasing	O
 social	O
 tensions	O
 .	O
+
 But	O
 by	O
 benefiting	O
@@ -414,6 +425,7 @@ of	O
 political	O
 change	O
 .	O
+
 “	O
 The	O
 illicit	O
@@ -441,6 +453,7 @@ Venezuela	B-Location
 Oliveros	B-Person
 says	O
 .	O
+
 “	O
 It	O
 explains	O
@@ -473,6 +486,7 @@ of	O
 statistical	O
 methodologies	O
 .	O
+
 Obviously	O
 ,	O
 estimating	O
@@ -506,6 +520,7 @@ hidden	O
 says	O
 Oliveros	B-Person
 .	O
+
 “	O
 It	O
 ’s	O
@@ -523,6 +538,7 @@ represents	O
 in	O
 Venezuela	B-Location
 .	O
+
 It	O
 ’s	O
 not	O
@@ -558,6 +574,7 @@ paid	O
 in	O
 1986	B-Date
 .	O
+
 Thus	O
 ,	O
 subsidized	O
@@ -578,6 +595,7 @@ smuggled	O
 to	O
 Colombia	B-Location
 .	O
+
 When	O
 shortages	O
 aggravated	O
@@ -638,6 +656,7 @@ higher	O
 prices	O
 started	O
 .	O
+
 Nowadays	O
 ,	O
 diverted	O
@@ -651,6 +670,7 @@ $	B-Money
 per	O
 liter	O
 .	O
+
 Civilian	O
 and	O
 military	O
@@ -692,6 +712,7 @@ for	O
 illegal	O
 sales	O
 .	O
+
 Ecoanalítica	B-Organization
 created	O
 an	O
@@ -779,6 +800,7 @@ Africa	B-Location
 and	O
 Europe	B-Location
 .	O
+
 But	O
 according	O
 to	O
@@ -887,6 +909,7 @@ in	O
 the	O
 study	O
 .	O
+
 The	O
 firm	O
 also	O
@@ -939,6 +962,7 @@ illicit	O
 port	O
 activities	O
 .	O
+
 Through	O
 over	O
 -	O
@@ -1039,6 +1063,7 @@ says	O
 the	O
 report	O
 .	O
+
 According	O
 to	O
 sources	O
@@ -1064,6 +1089,7 @@ pay	O
 corrupt	O
 officials	O
 .	O
+
 The	O
 real	O
 tariffs	O
@@ -1135,6 +1161,7 @@ quarter	O
 of	O
 2022	B-Date
 .	O
+
 Then	O
 ,	O
 measuring	O

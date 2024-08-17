@@ -41,6 +41,7 @@ of	O
 rabble	O
 rousing	O
 .	O
+
 Instead	O
 ,	O
 it	O
@@ -83,6 +84,7 @@ for	O
 courting	O
 controversy	O
 .	O
+
 Basically	O
 a	O
 political	O
@@ -147,6 +149,7 @@ crossed	O
 all	O
 limits	O
 .	O
+
 Last	O
 Friday	B-Date
 ,	O
@@ -249,6 +252,7 @@ to	O
 more	O
 babies	O
 .	O
+
 “	O
 Both	O
 Hindu	B-NORP
@@ -262,6 +266,7 @@ least	O
 four	O
 babies	O
 .	O
+
 Whenever	O
 I	O
 attend	O
@@ -302,6 +307,7 @@ food	O
 three	O
 times	O
 .	O
+
 “	O
 Why	O
 should	O
@@ -310,6 +316,7 @@ eat	O
 their	O
 spit	O
 ?	O
+
 Their	O
 scholars	O
 say	O
@@ -350,6 +357,7 @@ comment	O
 of	O
 his	O
 .	O
+
 It	O
 should	O
 also	O
@@ -402,6 +410,7 @@ speech	O
 speaks	O
 volumes	O
 .	O
+
 Lest	O
 we	O
 forget	O
@@ -448,6 +457,7 @@ the	O
 Muslim	B-NORP
 community	O
 .	O
+
 The	O
 Church	O
 ,	O
@@ -522,6 +532,7 @@ venom	O
 against	O
 Muslims	B-NORP
 .	O
+
 It	O
 suited	O
 the	O
@@ -597,6 +608,7 @@ in	O
 the	O
 state	O
 .	O
+
 Factional	O
 feuds	O
 within	O
@@ -657,6 +669,7 @@ the	O
 Christian	B-NORP
 community	O
 .	O
+
 ‘	O
 Love	B-Misc
 jihad	I-Misc
@@ -696,6 +709,7 @@ with	O
 the	O
 RSS	B-Organization
 .	O
+
 CASA	B-Organization
 was	O
 a	O
@@ -746,6 +760,7 @@ other	O
 factors	O
 too	O
 .	O
+
 Over	O
 the	O
 past	O
@@ -770,6 +785,7 @@ economically	O
 and	O
 socially	O
 .	O
+
 If	O
 any	O
 community	O
@@ -798,6 +814,7 @@ the	O
 Muslim	B-NORP
 community	O
 .	O
+
 That	O
 is	O
 now	O
@@ -811,6 +828,7 @@ life	O
 in	O
 Kerala	B-Location
 .	O
+
 Along	O
 with	O
 economic	O
@@ -854,6 +872,7 @@ up	O
 by	O
 Muslims	B-NORP
 .	O
+
 There	O
 are	O
 now	O
@@ -868,6 +887,7 @@ collectors	O
 in	O
 Kerala	B-Location
 .	O
+
 There	O
 are	O
 now	O
@@ -884,6 +904,7 @@ ten	O
 years	O
 ago	O
 .	O
+
 More	O
 and	O
 more	O
@@ -937,6 +958,7 @@ aged	O
 parents	O
 behind	O
 .	O
+
 These	O
 lands	O
 are	O
@@ -945,6 +967,7 @@ bought	O
 by	O
 Muslims	B-NORP
 .	O
+
 So	O
 while	O
 the	O
@@ -977,6 +1000,7 @@ alarmed	O
 the	O
 priests	O
 .	O
+
 Only	O
 last	O
 year	O
@@ -1023,6 +1047,7 @@ increase	O
 its	O
 population	O
 .	O
+
 Imagine	O
 the	O
 situation	O
@@ -1047,6 +1072,7 @@ in	O
 fomenting	O
 division	O
 .	O
+
 Successive	O
 governments	O
 ,	O
@@ -1068,6 +1094,7 @@ profess	O
 preach	O
 hate	O
 .	O
+
 This	O
 is	O
 applicable	O
@@ -1076,6 +1103,7 @@ all	O
 three	O
 communities	O
 .	O
+
 While	O
 the	O
 common	O
@@ -1123,6 +1151,7 @@ of	O
 this	O
 phenomenon	O
 .	O
+
 Despite	O
 this	O
 hate	O
@@ -1150,6 +1179,7 @@ the	O
 right	O
 UDF	B-Organization
 .	O
+
 Then	O
 it	O
 will	O
@@ -1174,6 +1204,7 @@ religious	O
 fundamentalists	O
 ’	O
 .	O
+
 And	O
 the	O
 same	O
@@ -1224,6 +1255,7 @@ of	O
 the	O
 IPC	B-Misc
 .	O
+
 Such	O
 alacrity	O
 was	O
@@ -1320,6 +1352,7 @@ day	O
 before	O
 Eid	B-Date
 .	O
+
 Only	O
 the	O
 Magistrate	O
@@ -1379,6 +1412,7 @@ own	O
 political	O
 survival	O
 .	O
+
 What	O
 he	O
 said	O
@@ -1397,6 +1431,7 @@ people	O
 of	O
 Kerala	B-Location
 .	O
+
 Their	O
 number	O
 is	O

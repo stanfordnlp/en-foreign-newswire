@@ -268,6 +268,7 @@ million	I-Money
 a	O
 year	O
 .	O
+
 It	O
 is	O
 expected	O
@@ -422,6 +423,7 @@ the	O
 Oaxaca	B-Location
 capital	O
 .	O
+
 Diego	B-Person
 Prieto	I-Person
 also	O
@@ -502,6 +504,7 @@ beverages	O
 
 “	O
 …	O
+
 It	O
 ’s	O
 an	O
@@ -541,6 +544,7 @@ country	O
 Prieto	B-Person
 said	O
 .	O
+
 INAH	B-Organization
 will	O
 move	O

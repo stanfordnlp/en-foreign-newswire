@@ -23,6 +23,7 @@ ago	O
 with	O
 microcephaly	O
 .	O
+
 Because	O
 of	O
 his	O
@@ -86,6 +87,7 @@ in	O
 the	O
 township	O
 .	O
+
 At	O
 times	O
 he	O
@@ -137,6 +139,7 @@ growing	O
 after	O
 birth	O
 .	O
+
 It	O
 can	O
 result	O
@@ -169,6 +172,7 @@ have	O
 changed	O
 now	O
 .	O
+
 BRAC	B-Organization
 ,	O
 the	O
@@ -240,6 +244,7 @@ Uganda	I-Location
 since	O
 2018	B-Date
 .	O
+
 UK	B-Organization	B-Location
 Aid	I-Organization
 has	O
@@ -330,6 +335,7 @@ for	O
 petty	O
 trade	O
 .	O
+
 Humanity	B-Organization
 &	I-Organization
 Inclusion	I-Organization
@@ -388,6 +394,7 @@ us	O
 a	O
 lot	O
 .	O
+
 We	O
 did	O
 not	O
@@ -395,6 +402,7 @@ own	O
 a	O
 cow	O
 .	O
+
 We	O
 did	O
 n’t	O
@@ -403,6 +411,7 @@ goats	O
 and	O
 chickens	O
 .	O
+
 Akena	B-Person
 is	O
 (	O
@@ -457,6 +466,7 @@ brown	O
 zebu	O
 cows	O
 .	O
+
 According	O
 to	O
 Iram	B-Person
@@ -596,6 +606,7 @@ this	O
 household	O
 was	O
 .	O
+
 And	O
 the	O
 way	O
@@ -610,6 +621,7 @@ as	O
 he	O
 was	O
 .	O
+
 Do	O
 you	O
 see	O
@@ -620,6 +632,7 @@ goats	O
 and	O
 pigs	O
 ?	O
+
 Lawrence	B-Person
 Akena	I-Person
 made	O
@@ -642,6 +655,7 @@ are	O
 Baguma	B-Person
 says	O
 .	O
+
 “	O
 And	O
 yet	O
@@ -685,6 +699,7 @@ son	O
 future	O
 survival	O
 .	O
+
 She	O
 and	O
 her	O
@@ -746,6 +761,7 @@ had	O
 no	O
 support	O
 .	O
+
 I	O
 plan	O
 to	O
@@ -828,11 +844,13 @@ persons	O
 with	O
 disabilities	O
 .	O
+
 And	O
 it	O
 is	O
 possible	O
 .	O
+
 We	O
 should	O
 n’t	O
@@ -841,6 +859,7 @@ at	O
 the	O
 expenses	O
 .	O
+
 At	O
 times	O
 people	O
@@ -849,6 +868,7 @@ it	O
 is	O
 expensive	O
 .	O
+
 But	O
 we	O
 should	O
@@ -858,6 +878,7 @@ the	O
 end	O
 results	O
 .	O
+
 How	O
 impactful	O
 is	O
@@ -866,6 +887,7 @@ going	O
 to	O
 be	O
 ?	O
+
 If	O
 you	O
 do	O
@@ -949,6 +971,7 @@ their	O
 families	O
 behind	O
 .	O
+
 This	O
 may	O
 ,	O

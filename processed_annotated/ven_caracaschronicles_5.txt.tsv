@@ -15,6 +15,7 @@ the	O
 summer	O
 sun	O
 .	O
+
 Crazy	O
 to	O
 say	O
@@ -95,6 +96,7 @@ of	O
 years	O
 ago	O
 .	O
+
 There	O
 were	O
 months	O
@@ -128,6 +130,7 @@ is	O
 called	O
 Grenoble	B-Location
 .	O
+
 There	O
 ’s	O
 plenty	O
@@ -147,6 +150,7 @@ during	O
 rush	O
 hours	O
 .	O
+
 I	O
 look	O
 for	O
@@ -171,6 +175,7 @@ the	O
 Centre	B-Location
 Ville	I-Location
 .	O
+
 Ironically	O
 there	O
 are	O
@@ -194,6 +199,7 @@ bit	O
 like	O
 Caracas	B-Location
 .	O
+
 Instead	O
 of	O
 El	B-Location
@@ -231,6 +237,7 @@ this	O
 metropolitan	O
 tribe	O
 .	O
+
 Often	O
 ,	O
 I	O
@@ -243,6 +250,7 @@ afternoons	O
 in	O
 Caracas	B-Location
 .	O
+
 In	O
 lieu	O
 of	O
@@ -282,6 +290,7 @@ something	O
 not	O
 right	O
 .	O
+
 In	O
 the	O
 chaotic	O
@@ -303,6 +312,7 @@ really	O
 find	O
 myself	O
 .	O
+
 Now	O
 that	O
 I	O
@@ -340,6 +350,7 @@ Carlos	B-Person
 Cruz	I-Person
 Diez	I-Person
 .	O
+
 The	O
 mosaic	O
 in	O

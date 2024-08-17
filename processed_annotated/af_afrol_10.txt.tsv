@@ -6,6 +6,7 @@ News	I-Organization
 25	B-Date
 March	I-Date
 -	O
+
 It	O
 is	O
 already	O
@@ -34,6 +35,7 @@ in	O
 practical	O
 life	O
 .	O
+
 No	O
 pardoning	O
 of	O
@@ -131,6 +133,7 @@ serious	O
 criminal	O
 offence	O
 .	O
+
 Article	O
 629	O
 of	O
@@ -145,6 +148,7 @@ are	O
 punished	O
 hard	O
 .	O
+
 Violation	O
 of	O
 the	O
@@ -175,6 +179,7 @@ years	O
 of	O
 imprisonment	O
 .	O
+
 The	O
 paragraph	O
 is	O
@@ -208,6 +213,7 @@ amnesties	O
 in	O
 Ethiopia	B-Location
 .	O
+
 Imprisoned	O
 citizens	O
 ,	O
@@ -237,6 +243,7 @@ to	O
 good	O
 conduct	O
 .	O
+
 This	O
 pardoning	O
 must	O
@@ -290,6 +297,7 @@ pardoning	O
 or	O
 amnesties	O
 .	O
+
 This	O
 will	O
 put	O
@@ -397,6 +405,7 @@ Nigeria	B-Location
 and	O
 Uganda	B-Location
 .	O
+
 However	O
 ,	O
 by	O
@@ -462,6 +471,7 @@ rights	O
 campaigners	O
 suggest	O
 .	O
+
 Likening	O
 homosexuality	O
 with	O
@@ -526,6 +536,7 @@ pardon	O
 for	O
 homosexuals	O
 :	O
+
 A	O
 new	O
 law	O

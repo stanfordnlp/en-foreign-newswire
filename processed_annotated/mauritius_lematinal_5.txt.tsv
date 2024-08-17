@@ -40,6 +40,7 @@ evening	O
 July	B-Date
 25	I-Date
 .	O
+
 The	O
 60	O
 -	O
@@ -85,6 +86,7 @@ Monday	B-Date
 July	I-Date
 4	I-Date
 .	O
+
 The	O
 victim	O
 ,	O
@@ -108,6 +110,7 @@ could	O
 not	O
 move	O
 .	O
+
 When	O
 questioned	O
 ,	O
@@ -152,6 +155,7 @@ the	O
 northern	O
 hospital	O
 .	O
+
 After	O
 first	O
 aid	O
@@ -165,6 +169,7 @@ on	O
 the	O
 ward	O
 .	O
+
 On	O
 Tuesday	B-Date
 ,	I-Date
@@ -184,6 +189,7 @@ intensive	O
 care	O
 unit	O
 .	O
+
 It	O
 was	O
 around	O
@@ -226,6 +232,7 @@ for	O
 an	O
 autopsy	O
 .	O
+
 The	O
 autopsy	O
 was	O

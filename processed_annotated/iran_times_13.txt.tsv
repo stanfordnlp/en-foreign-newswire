@@ -152,6 +152,7 @@ to	O
 West	B-Location
 Asia	I-Location
 ?	O
+
 Is	O
 the	O
 U.	B-Location
@@ -187,6 +188,7 @@ dynamics	O
 as	O
 well	O
 .	O
+
 The	O
 continued	O
 resistance	O
@@ -218,6 +220,7 @@ the	O
 traditional	O
 allies	O
 .	O
+
 Such	O
 impact	O
 can	O
@@ -242,6 +245,7 @@ West	I-Location
 Asia	I-Location
 )	I-Location
 .	O
+
 The	O
 whole	O
 purpose	O
@@ -270,6 +274,7 @@ in	O
 the	O
 region	O
 .	O
+
 In	O
 order	O
 to	O
@@ -315,6 +320,7 @@ blocs	O
 are	O
 emerging	O
 .	O
+
 One	O
 is	O
 led	O
@@ -337,6 +343,7 @@ regional	O
 political	O
 identity	O
 .	O
+
 The	O
 U.	B-Location
 S.	I-Location
@@ -362,6 +369,7 @@ China	B-Location
 and	O
 Russia	B-Location
 .	O
+
 This	O
 regional	O
 alignment	O
@@ -383,6 +391,7 @@ unstable	O
 and	O
 vulnerable	O
 .	O
+
 Biden	B-Person
 ’s	O
 visit	O
@@ -400,6 +409,7 @@ into	O
 further	O
 jeopardy	O
 .	O
+
 The	O
 other	O
 international	O

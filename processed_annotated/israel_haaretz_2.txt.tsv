@@ -21,6 +21,7 @@ town	O
 of	O
 Taibeh	B-Location
 .	O
+
 His	O
 mother	O
 ,	O
@@ -90,6 +91,7 @@ by	O
 Bilal	B-Person
 Yousef	I-Person
 .	O
+
 “	O
 I	O
 shouted	O
@@ -100,6 +102,7 @@ Saad	B-Person
 Saad	B-Person
 .	O
 ’	O
+
 I	O
 kept	O
 shouting	O
@@ -120,6 +123,7 @@ he	O
 was	O
 dead	O
 .	O
+
 I	O
 heard	O
 the	O

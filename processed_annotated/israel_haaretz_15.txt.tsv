@@ -34,6 +34,7 @@ support	O
 for	O
 Ukraine	B-Location
 .	O
+
 There	O
 are	O
 a	O
@@ -58,6 +59,7 @@ lukewarm	O
 at	O
 best	O
 .	O
+
 Israel	B-Location
 has	O
 refused	O
@@ -82,6 +84,7 @@ of	O
 Israeli	B-NORP
 design	O
 .	O
+
 Neither	O
 has	O
 Israel	B-Location
@@ -186,6 +189,7 @@ other	O
 foreign	O
 groups	O
 .	O
+
 It	O
 is	O
 hardly	O
@@ -243,6 +247,7 @@ at	O
 various	O
 levels	O
 .	O
+
 In	O
 fact	O
 ,	O
@@ -265,6 +270,7 @@ behind	O
 the	O
 scenes	O
 .	O
+
 In	O
 this	O
 case	O
@@ -330,6 +336,7 @@ the	O
 Israeli	B-NORP
 presidency	O
 .	O
+
 Once	O
 he	O
 won	O
@@ -364,6 +371,7 @@ over	O
 a	O
 year	O
 .	O
+
 Under	O
 Herzog	B-Person
 and	O
@@ -418,6 +426,7 @@ in	O
 either	O
 country	O
 .	O
+
 Hagoel	B-Person
 put	O
 the	O
@@ -568,6 +577,7 @@ be	O
 handled	O
 discreetly	O
 .	O
+
 Now	O
 it	O
 may	O

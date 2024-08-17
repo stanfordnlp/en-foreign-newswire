@@ -30,6 +30,7 @@ coup	O
 in	O
 1973	B-Date
 .	O
+
 What	O
 we	O
 do	O
@@ -48,6 +49,7 @@ it	O
 all	O
 ended	O
 .	O
+
 Washington	B-Location
 ,	I-Location
 DC	I-Location

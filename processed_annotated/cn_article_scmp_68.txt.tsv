@@ -17,6 +17,7 @@ shrine	O
 to	O
 China	B-Location
 .	O
+
 There	O
 ’s	O
 the	O
@@ -37,6 +38,7 @@ conical	O
 farmer	O
 hat	O
 .	O
+
 There	O
 ’s	O
 the	O
@@ -47,6 +49,7 @@ smiling	O
 Buddha	B-Misc
 statue	O
 .	O
+
 And	O
 there	O
 ’s	O
@@ -97,6 +100,7 @@ Bolivia	B-Location
 and	O
 Chile	B-Location
 .	O
+
 Overlooking	O
 a	O
 river	O
@@ -122,6 +126,7 @@ are	O
 anything	O
 but	O
 .	O
+
 And	O
 the	O
 one	O
@@ -168,6 +173,7 @@ like	O
 giant	O
 dominoes	O
 .	O
+
 Chinese	B-NORP
 security	O
 cameras	O
@@ -179,6 +185,7 @@ the	O
 provincial	O
 capital	O
 .	O
+
 Servers	O
 hum	O
 in	O
@@ -188,6 +195,7 @@ data	O
 storage	O
 plant	O
 .	O
+
 Beneath	O
 the	O
 remote	O
@@ -262,6 +270,7 @@ No	O
 trading	O
 partner	O
 .	O
+
 But	O
 while	O
 international	O
@@ -326,6 +335,7 @@ the	O
 ground	O
 up	O
 .	O
+
 In	O
 2019	B-Date
 alone	O
@@ -343,6 +353,7 @@ travelled	O
 to	O
 China	B-Location
 .	O
+
 In	O
 a	O
 September	B-Date
@@ -374,6 +385,7 @@ the	O
 global	O
 marketplace	O
 .	O
+
 “	O
 China	B-Location
 will	O
@@ -411,6 +423,7 @@ China	B-Location
 scrupulous	O
 attention	O
 .	O
+
 With	O
 perhaps	O
 a	O
@@ -497,6 +510,7 @@ such	O
 as	O
 espionage	O
 .	O
+
 In	O
 the	O
 southern	O
@@ -547,6 +561,7 @@ national	O
 security	O
 footprint	O
 .	O
+
 “	O
 Part	O
 of	O
@@ -599,6 +614,7 @@ discourage	O
 local	O
 governments	O
 .	O
+
 “	O
 We	O
 must	O
@@ -610,6 +626,7 @@ alternative	O
 she	O
 says	O
 .	O
+
 “	O
 Dollar	B-Money
 for	I-Money
@@ -666,6 +683,7 @@ and	O
 rosewood	O
 trees	O
 .	O
+
 “	O
 A	O
 lot	O
@@ -697,6 +715,7 @@ energy	O
 secretary	O
 Pizarro	B-Person
 .	O
+
 “	O
 Today	O
 it	O
@@ -710,6 +729,7 @@ a	O
 reality	O
 .	O
 ”	O
+
 Of	O
 increased	O
 solar	O
@@ -743,6 +763,7 @@ of	O
 great	O
 powers	O
 .	O
+
 In	O
 the	O
 15th	O
@@ -760,6 +781,7 @@ for	O
 colonial	O
 exploitation	O
 .	O
+
 After	O
 national	O
 revolutions	O
@@ -792,6 +814,7 @@ sphere	O
 of	O
 influence	O
 .	O
+
 Well	O
 into	O
 the	O
@@ -825,6 +848,7 @@ opening	O
 for	O
 China	B-Location
 .	O
+
 Over	O
 the	O
 past	O
@@ -860,6 +884,7 @@ and	O
 political	O
 muscle	O
 .	O
+
 Much	O
 of	O
 China	B-Location
@@ -970,6 +995,7 @@ capital	O
 of	O
 Bogota	B-Location
 .	O
+
 Energy	O
 giant	O
 State	B-Organization
@@ -991,6 +1017,7 @@ million	O
 Brazilian	B-NORP
 homes	O
 .	O
+
 In	O
 February	B-Date
 ,	O
@@ -1024,6 +1051,7 @@ America	I-Location
 11	O
 times	O
 .	O
+
 During	O
 his	O
 two	O
@@ -1042,6 +1070,7 @@ Trump	I-Person
 went	O
 once	O
 .	O
+
 Joe	B-Person
 Biden	I-Person
 did	O

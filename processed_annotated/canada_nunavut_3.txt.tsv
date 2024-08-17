@@ -23,6 +23,7 @@ Iqaluit	B-Location
 next	O
 week	O
 .	O
+
 “	O
 It	O
 ’s	O
@@ -89,6 +90,7 @@ Roman	B-Organization	B-NORP
 Catholic	I-Organization	I-NORP
 Church	I-Organization
 .	O
+
 A	O
 lot	O
 of	O
@@ -140,6 +142,7 @@ meeting	O
 the	O
 pontiff	O
 .	O
+
 “	O
 I	O
 ’m	O
@@ -152,12 +155,14 @@ to	O
 us	O
 .	O
 ”	O
+
 He	O
 does	O
 n’t	O
 mince	O
 words	O
 .	O
+
 He	O
 calls	O
 what	O
@@ -166,6 +171,7 @@ kidnapping	O
 and	O
 rape	O
 .	O
+
 And	O
 a	O
 simple	O
@@ -192,6 +198,7 @@ is	O
 very	O
 rich	O
 .	O
+
 He	O
 should	O
 be	O
@@ -207,6 +214,7 @@ of	O
 language	O
 .	O
 ”	O
+
 That	O
 ’s	O
 not	O
@@ -240,6 +248,7 @@ communities	O
 face	O
 justice	O
 .	O
+
 At	O
 least	O
 one	O
@@ -423,6 +432,7 @@ fight	O
 that	O
 powerlessness	O
 .	O
+
 He	O
 became	O
 an	O
@@ -452,6 +462,7 @@ a	O
 cultural	O
 teacher	O
 .	O
+
 He	O
 built	O
 the	O
@@ -515,6 +526,7 @@ earlier	O
 this	O
 year	O
 .	O
+
 Hearing	O
 that	O
 apology	O
@@ -533,12 +545,14 @@ Rome	B-Location
 is	O
 Rome	B-Location
 .	O
+
 It	O
 ’s	O
 4,000	O
 miles	O
 away	O
 .	O
+
 Say	O
 it	O
 right	O
@@ -553,6 +567,7 @@ was	O
 cultural	O
 genocide	O
 .	O
+
 Say	O
 it	O
 right	O
@@ -563,6 +578,7 @@ survivors	O
 our	O
 parents	O
 .	O
+
 It	O
 ’s	O
 going	O
@@ -586,6 +602,7 @@ four	O
 hours	O
 Friday	B-Date
 .	O
+
 City	O
 officials	O
 say	O
@@ -608,6 +625,7 @@ for	O
 the	O
 visit	O
 .	O
+
 Federal	B-Location
 Road	I-Location
 ,	O
@@ -684,6 +702,7 @@ to	O
 be	O
 said	O
 .	O
+
 It	O
 is	O
 also	O
@@ -713,6 +732,7 @@ just	O
 for	O
 myself	O
 .	O
+
 (	O
 The	O
 Pope	O

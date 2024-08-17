@@ -66,6 +66,7 @@ son	O
 Christian	B-Person
 Charris	I-Person
 .	O
+
 Yexemary	B-Person
 Medina	I-Person
 went	O
@@ -139,6 +140,7 @@ was	O
 still	O
 free	O
 .	O
+
 Miyanllela	B-Person
 Fernández	I-Person
 went	O
@@ -169,6 +171,7 @@ would	O
 be	O
 reconstructed	O
 .	O
+
 Maritza	B-Person
 Molina	I-Person
 went	O
@@ -228,6 +231,7 @@ case	O
 just	O
 imagine	O
 …	O
+
 I	O
 lost	O
 five	O
@@ -415,6 +419,7 @@ united	O
 says	O
 Ivonne	O
 .	O
+
 “	O
 If	O
 we	O
@@ -430,6 +435,7 @@ also	O
 go	O
 together	O
 .	O
+
 We	O
 look	O
 for	O
@@ -442,6 +448,7 @@ together	O
 as	O
 well	O
 .	O
+
 We	O
 tell	O
 each	O
@@ -543,6 +550,7 @@ to	O
 file	O
 it	O
 …	O
+
 One	O
 needs	O
 legal	O
@@ -625,6 +633,7 @@ operations	O
 corps	O
 FAES	B-Organization
 .	O
+
 Douglas	B-Person
 ,	O
 by	O
@@ -632,6 +641,7 @@ detective	O
 unit	O
 CICPC	B-Organization
 .	O
+
 Richard	B-Person
 by	O
 the	O
@@ -645,6 +655,7 @@ no	O
 one	O
 knows	O
 .	O
+
 Those	O
 boys	O
 were	O
@@ -671,6 +682,7 @@ with	O
 security	O
 forces	O
 .	O
+
 Carmen	B-Person
 says	O
 :	O
@@ -727,6 +739,7 @@ n’t	O
 isolated	O
 murders	O
 .	O
+
 According	O
 to	O
 lawyer	O
@@ -786,6 +799,7 @@ they	O
 obstructed	O
 justice	O
 .	O
+
 These	O
 cases	O
 have	O
@@ -807,6 +821,7 @@ become	O
 very	O
 clear	O
 .	O
+
 In	O
 other	O
 words	O
@@ -827,6 +842,7 @@ order	O
 and	O
 executions	O
 .	O
+
 Executions	O
 performed	O
 by	O
@@ -834,6 +850,7 @@ State	O
 police	O
 agencies	O
 .	O
+
 So	O
 these	O
 events	O
@@ -875,6 +892,7 @@ statute	O
 of	O
 limitations	O
 .	O
+
 But	O
 if	O
 they	O
@@ -912,10 +930,12 @@ act	O
 legally	O
 !	O
 ”	O
+
 Lina	B-Person
 says	O
 emphatically	O
 .	O
+
 “	O
 It	O
 ’s	O
@@ -937,6 +957,7 @@ it	O
 denouncing	O
 does	O
 …	O
+
 Ever	O
 since	O
 I	O
@@ -955,6 +976,7 @@ where	O
 I	O
 live	O
 …	O
+
 This	O
 ca	O
 n’t	O
@@ -971,6 +993,7 @@ will	O
 grow	O
 up	O
 .	O
+
 I	O
 know	O
 the	O
@@ -1086,6 +1109,7 @@ from	O
 years	O
 before	O
 .	O
+
 Raúl	B-Person
 Cubas	I-Person
 ,	O
@@ -1138,6 +1162,7 @@ still	O
 in	O
 force	O
 .	O
+
 Executions	O
 were	O
 police	O
@@ -1149,6 +1174,7 @@ of	O
 social	O
 control	O
 .	O
+
 It	O
 was	O
 a	O
@@ -1184,6 +1210,7 @@ to	O
 curb	O
 crime	O
 .	O
+
 This	O
 changed	O
 after	O
@@ -1252,6 +1279,7 @@ Sánchez	I-Person
 Darwilson	B-Person
 Sequera	I-Person
 .	O
+
 She	O
 recalls	O
 that	O
@@ -1336,6 +1364,7 @@ so	O
 we	O
 did	O
 .	O
+
 We	O
 went	O
 looking	O
@@ -1361,6 +1390,7 @@ and	O
 burials	O
 .	O
 ”	O
+
 This	O
 is	O
 how	O
@@ -1485,6 +1515,7 @@ low	O
 income	O
 neighborhoods	O
 .	O
+
 It	O
 was	O
 also	O
@@ -1615,6 +1646,7 @@ and	O
 degrading	O
 manner	O
 .	O
+
 But	O
 Ivonne	B-Person
 saw	O
@@ -1646,6 +1678,7 @@ registered	O
 in	O
 Venezuela	B-Location
 .	O
+
 Lara	B-Person
 was	O
 the	O
@@ -1677,6 +1710,7 @@ up	O
 to	O
 217	O
 .	O
+
 The	O
 families	O
 of	O
@@ -1841,6 +1875,7 @@ capital	O
 adds	O
 Fanny	B-Person
 .	O
+
 There	O
 are	O
 n’t	O
@@ -1867,6 +1902,7 @@ are	O
 being	O
 killed	O
 .	O
+
 I	O
 ’m	O
 the	O
@@ -1989,6 +2025,7 @@ they	O
 did	O
 something	O
 .	O
+
 That	O
 ’s	O
 why	O
@@ -2056,6 +2093,7 @@ discrimination	O
 that	O
 kills	O
 .	O
+
 See	O
 how	O
 very	O
@@ -2124,6 +2162,7 @@ or	O
 social	O
 actors	O
 .	O
+
 Those	O
 dead	O
 from	O
@@ -2256,6 +2295,7 @@ be	O
 killed	O
 .	O
 ”	O
+
 So	O
 ,	O
 these	O
@@ -2349,6 +2389,7 @@ tokens	O
 Elvira	B-Person
 says	O
 .	O
+
 “	O
 But	O
 what	O
@@ -2394,6 +2435,7 @@ and	O
 to	O
 them	O
 .	O
+
 It	O
 hurts	O
 .	O
@@ -2530,6 +2572,7 @@ the	O
 popular	O
 areas	O
 .	O
+
 My	O
 take	O
 is	O
@@ -2556,6 +2599,7 @@ and	O
 2017	B-Date
 protests	O
 .	O
+
 In	O
 other	O
 words	O
@@ -2670,6 +2714,7 @@ crimes	O
 against	O
 humanity	O
 .	O
+
 Although	O
 the	O
 context	O
@@ -2712,6 +2757,7 @@ he	O
 formally	O
 investigating	O
 .	O
+
 I	O
 ’m	O
 convinced	O
@@ -2763,6 +2809,7 @@ CDH	B-Organization
 -	I-Organization
 UCAB	I-Organization
 .	O
+
 “	O
 Committees	O
 need	O
@@ -2770,6 +2817,7 @@ backing	O
 from	O
 organizations	O
 .	O
+
 They	O
 need	O
 to	O
@@ -2791,6 +2839,7 @@ files	O
 and	O
 protests	O
 .	O
+
 They	O
 need	O
 arguments	O

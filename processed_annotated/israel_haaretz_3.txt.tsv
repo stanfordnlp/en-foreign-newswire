@@ -15,6 +15,7 @@ Wilbushevitz	I-Person
 no	O
 choice	O
 .	O
+
 “	O
 Send	O
 Wilbushevitz	B-Person
@@ -28,6 +29,7 @@ Ottoman	B-NORP
 ruler	O
 decreed	O
 .	O
+
 The	O
 protests	O
 of	O
@@ -44,6 +46,7 @@ to	O
 no	O
 avail	O
 .	O
+
 “	O
 Mr.	O
 Wilbushevitz	B-Person
@@ -133,6 +136,7 @@ talented	O
 Jewish	B-NORP
 engineer	O
 .	O
+
 He	O
 had	O
 good	O
@@ -141,6 +145,7 @@ for	O
 his	O
 choice	O
 .	O
+
 Wilbushevitz	B-Person
 ,	O
 who	O
@@ -171,6 +176,7 @@ the	O
 Holy	B-Location
 Land	I-Location
 .	O
+
 He	O
 engaged	O
 in	O
@@ -214,6 +220,7 @@ work	O
 in	O
 Damascus	B-Location
 .	O
+
 Pasha	B-Person
 ,	O
 accompanied	O

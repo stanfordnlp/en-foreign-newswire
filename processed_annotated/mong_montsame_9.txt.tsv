@@ -5,6 +5,7 @@ Ulaanbaatar	B-Location
 MONTSAME	B-Organization
 /	O
 .	O
+
 Chairman	O
 of	O
 the	O
@@ -112,6 +113,7 @@ with	O
 official	O
 permission	O
 .	O
+
 During	O
 the	O
 meeting	O
@@ -174,6 +176,7 @@ province	I-Location
 of	I-Location
 Turkey	I-Location
 .	O
+
 As	O
 a	O
 result	O
@@ -204,6 +207,7 @@ facts	O
 and	O
 information	O
 .	O
+
 In	O
 the	O
 first	O
@@ -285,6 +289,7 @@ Horde	I-Location
 were	O
 found	O
 .	O
+
 This	O
 time	O
 ,	O
@@ -294,6 +299,7 @@ the	O
 fourth	O
 palace	O
 .	O
+
 It	O
 is	O
 believed	O

@@ -120,6 +120,7 @@ a	O
 1929	O
 agreement	O
 .	O
+
 That	O
 agreement	O
 excluded	O
@@ -143,6 +144,7 @@ Tanzania	B-Location
 and	O
 Uganda	B-Location
 .	O
+
 Egypt	B-Location
 fears	O
 that	O
@@ -189,6 +191,7 @@ press	O
 its	O
 case	O
 .	O
+
 In	O
 addition	O
 ,	O
@@ -208,6 +211,7 @@ flows	O
 to	O
 Egypt	B-Location
 .	O
+
 "	O
 There	O
 should	O
@@ -247,6 +251,7 @@ Egypt	B-Location
 's	O
 fears	O
 .	O
+
 In	O
 early	O
 June	B-Date
@@ -279,6 +284,7 @@ supply	O
 to	O
 Egypt	B-Location
 .	O
+
 Although	O
 President	O
 Morsi	B-Person
@@ -427,6 +433,7 @@ all	O
 three	O
 countries	O
 .	O
+
 They	O
 signed	O
 an	O
@@ -464,6 +471,7 @@ issue	O
 in	O
 Africa	B-Location
 .	O
+
 Up	O
 to	O
 300	O
@@ -485,6 +493,7 @@ the	O
 World	B-Organization
 Bank	I-Organization
 .	O
+
 The	O
 UN	B-Organization
 in	O
@@ -499,6 +508,7 @@ fundamental	O
 human	O
 right	O
 .	O
+
 Drought	O
 in	O
 the	O
@@ -605,6 +615,7 @@ Development	I-Misc
 Goals	I-Misc
 report	O
 .	O
+
 The	O
 report	O
 adds	O

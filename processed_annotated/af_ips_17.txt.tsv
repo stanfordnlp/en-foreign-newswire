@@ -30,6 +30,7 @@ than	O
 our	O
 home	O
 .	O
+
 It	O
 was	O
 our	O
@@ -45,6 +46,7 @@ teacher	O
 our	O
 therapist	O
 .	O
+
 And	O
 it	O
 was	O
@@ -101,6 +103,7 @@ of	O
 its	O
 communities	O
 .	O
+
 This	O
 massive	O
 deforestation	O
@@ -269,6 +272,7 @@ of	O
 climate	O
 change	O
 .	O
+
 And	O
 the	O
 Congo	B-Location	B-Location
@@ -526,6 +530,7 @@ community	O
 is	O
 irreversible	O
 .	O
+
 The	O
 tropical	O
 rainforests	O
@@ -545,6 +550,7 @@ not	O
 just	O
 economic	O
 :	O
+
 When	O
 forests	O
 are	O
@@ -564,6 +570,7 @@ as	O
 carbon	O
 dioxide	O
 .	O
+
 According	O
 to	O
 the	O
@@ -635,6 +642,7 @@ destroyed	O
 in	O
 2019	B-Date
 .	O
+
 The	O
 Democratic	B-Location
 Republic	I-Location
@@ -663,6 +671,7 @@ to	O
 2020	B-Date
 )	O
 .	O
+
 Only	O
 to	O
 enrich	O
@@ -734,6 +743,7 @@ palm	O
 plantation	O
 project	O
 .	O
+
 This	O
 will	O
 result	O
@@ -790,6 +800,7 @@ and	O
 sell	O
 them	O
 .	O
+
 I	O
 was	O
 also	O
@@ -804,6 +815,7 @@ I	O
 was	O
 ill	O
 .	O
+
 Now	O
 ,	O
 there	O
@@ -835,6 +847,7 @@ reach	O
 local	O
 residents	O
 .	O
+
 They	O
 are	O
 seldom	O
@@ -845,6 +858,7 @@ concessions	O
 are	O
 developed	O
 .	O
+
 My	O
 research	O
 shows	O
@@ -1011,6 +1025,7 @@ only	O
 deepen	O
 poverty	O
 .	O
+
 The	O
 latest	O
 IPCC	B-Organization
@@ -1042,11 +1057,13 @@ we	O
 need	O
 development	O
 .	O
+
 But	O
 at	O
 what	O
 cost	O
 ?	O
+
 And	O
 who	O
 should	O
@@ -1054,6 +1071,7 @@ that	O
 development	O
 benefit	O
 ?	O
+
 Protecting	O
 forests	O
 is	O
@@ -1071,6 +1089,7 @@ and	O
 reducing	O
 poverty	O
 .	O
+
 Granting	O
 more	O
 forest	O
@@ -1102,6 +1121,7 @@ promote	O
 healthy	O
 forests	O
 .	O
+
 By	O
 taking	O
 advantage	O

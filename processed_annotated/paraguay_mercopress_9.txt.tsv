@@ -112,6 +112,7 @@ Paraguay	B-Location
 he	O
 added	O
 .	O
+
 His	O
 campaign	O
 motto	O
@@ -201,6 +202,7 @@ will	O
 promote	O
 it	O
 .	O
+
 We	O
 are	O
 committed	O
@@ -260,6 +262,7 @@ by	O
 unfulfilled	O
 promises	O
 .	O
+
 It	O
 is	O
 our	O
@@ -369,6 +372,7 @@ trading	O
 human	O
 organs	O
 .	O
+
 Chilavert	B-Person
 and	O
 Milei	B-Person

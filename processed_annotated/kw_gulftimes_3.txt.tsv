@@ -23,6 +23,7 @@ the	O
 academic	O
 year	O
 .	O
+
 A	O
 two	O
 -	O
@@ -84,6 +85,7 @@ journey	O
 at	O
 HBKU	B-Organization
 .	O
+
 Around	O
 100	O
 Qataris	B-NORP
@@ -123,6 +125,7 @@ Evaluation	I-Misc
 MSPPE	B-Misc
 )	O
 .	O
+
 The	O
 full	O
 -	O
@@ -170,6 +173,7 @@ with	O
 their	O
 peers	O
 .	O
+
 Breakout	O
 sessions	O
 were	O
@@ -236,6 +240,7 @@ the	O
 college	O
 deans	O
 .	O
+
 The	O
 leadership	O
 messages	O
@@ -259,6 +264,7 @@ innovative	O
 research	O
 education	O
 .	O
+
 They	O
 encouraged	O
 students	O
@@ -309,6 +315,7 @@ potential	O
 and	O
 expectation	O
 .	O
+
 Our	O
 new	O
 students	O
@@ -337,6 +344,7 @@ growing	O
 research	O
 university	O
 .	O
+
 Exceptional	O
 opportunities	O
 to	O
@@ -359,6 +367,7 @@ their	O
 learning	O
 process	O
 .	O
+
 We	O
 fully	O
 expect	O
@@ -461,6 +470,7 @@ journey	O
 with	O
 us	O
 .	O
+
 Congratulations	O
 on	O
 taking	O
@@ -472,6 +482,7 @@ fulfilling	O
 your	O
 aspirations	O
 .	O
+
 I	O
 encourage	O
 you	O
@@ -488,6 +499,7 @@ here	O
 at	O
 HBKU	B-Organization
 .	O
+
 Our	O
 programmes	O
 will	O
@@ -509,6 +521,7 @@ strong	O
 campus	O
 community	O
 .	O
+
 We	O
 will	O
 be	O

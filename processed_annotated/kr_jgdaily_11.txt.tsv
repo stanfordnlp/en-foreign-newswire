@@ -93,6 +93,7 @@ Sept	B-Date
 ,	I-Date
 2020	I-Date
 .	O
+
 He	O
 was	O
 shot	O
@@ -199,6 +200,7 @@ after	O
 his	O
 murder	O
 .	O
+
 Seoul	B-Organization
 said	O
 the	O
@@ -251,6 +253,7 @@ Ilbo	I-Organization
 on	O
 Tuesday	B-Date
 .	O
+
 “	O
 Whenever	O
 she	O

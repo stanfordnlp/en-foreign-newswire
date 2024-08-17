@@ -21,6 +21,7 @@ preparation	O
 in	O
 Nigeria	B-Location
 .	O
+
 The	O
 country	O
 had	O
@@ -75,6 +76,7 @@ two	O
 weeks	O
 ago	O
 .	O
+
 "	O
 No	O
 matter	O
@@ -122,6 +124,7 @@ the	O
 last	O
 week	O
 .	O
+
 A	O
 fifth	O
 inmate	O
@@ -141,6 +144,7 @@ awaiting	O
 his	O
 faith	O
 .	O
+
 His	O
 execution	O
 was	O
@@ -191,6 +195,7 @@ to	O
 be	O
 spared	O
 .	O
+
 Human	O
 rights	O
 activists	O
@@ -226,6 +231,7 @@ have	O
 been	O
 fair	O
 .	O
+
 Also	O
 institutions	O
 such	O
@@ -267,6 +273,7 @@ the	O
 Nigerian	B-NORP
 government	O
 .	O
+
 News	O
 reports	O
 from	O
@@ -282,6 +289,7 @@ signing	O
 death	O
 warrants	O
 .	O
+
 The	O
 execution	O
 orders	O
@@ -334,6 +342,7 @@ on	O
 state	O
 executions	O
 .	O
+
 Most	O
 African	B-NORP
 states	O
@@ -365,6 +374,7 @@ towards	O
 full	O
 abolishment	O
 .	O
+
 Human	O
 rights	O
 groups	O
@@ -423,6 +433,7 @@ of	O
 international	O
 law	O
 .	O
+
 Mr	O
 Heyns	B-Person
 added	O
@@ -501,6 +512,7 @@ against	O
 the	O
 executions	O
 .	O
+
 She	O
 urged	O
 Nigerian	B-NORP
@@ -513,6 +525,7 @@ further	O
 death	O
 warrants	O
 .	O
+
 Further	O
 she	O
 claimed	O
@@ -570,6 +583,7 @@ to	O
 official	O
 figures	O
 .	O
+
 Most	O
 of	O
 these	O

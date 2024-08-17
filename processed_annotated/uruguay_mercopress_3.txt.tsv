@@ -10,6 +10,7 @@ Resources	I-Organization
 (	O
 DINARA	B-Organization
 )	O
+
 Chief	O
 Jaime	B-Person
 Coronel	I-Person
@@ -130,6 +131,7 @@ zone	O
 EEZ	B-Location
 )	O
 .	O
+
 Uruguay	B-Location
 's	O
 Fleet	B-Organization
@@ -206,6 +208,7 @@ previous	O
 two	O
 spottings	O
 .	O
+
 The	O
 ROU	B-Misc
 23	I-Misc
@@ -220,6 +223,7 @@ Yu	I-Misc
 Sunday	B-Misc
 evening	O
 .	O
+
 At	O
 that	O
 time	O
@@ -245,6 +249,7 @@ ready	O
 for	O
 inspection	O
 .	O
+
 Finally	O
 ,	O
 at	O
@@ -267,6 +272,7 @@ Punta	B-Location
 del	I-Location
 Este	I-Location
 .	O
+
 At	O
 noon	O
 it	O

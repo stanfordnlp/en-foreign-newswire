@@ -32,6 +32,7 @@ in	O
 their	O
 hands	O
 .	O
+
 They	O
 unleashed	O
 a	O
@@ -53,6 +54,7 @@ from	O
 doing	O
 so	O
 .	O
+
 This	O
 suggests	O
 that	O
@@ -109,6 +111,7 @@ war	O
 like	O
 situation	O
 .	O
+
 The	O
 Hindu	B-NORP
 communal	O
@@ -136,6 +139,7 @@ to	O
 new	O
 India	B-Location
 .	O
+
 This	O
 is	O
 “	O
@@ -150,6 +154,7 @@ new	O
 republic	O
 .	O
 ”	O
+
 Here	O
 is	O
 a	O
@@ -187,6 +192,7 @@ district	O
 in	O
 Gujarat	B-Location
 .	O
+
 An	O
 unidentified	O
 body	O
@@ -200,6 +206,7 @@ was	O
 found	O
 there	O
 .	O
+
 In	O
 the	O
 Himmatnagar	B-Location
@@ -264,6 +271,7 @@ in	O
 Madhya	B-Location
 Pradesh	I-Location
 .	O
+
 Here	O
 also	O
 Hindu	B-NORP
@@ -287,6 +295,7 @@ Ram	B-Misc
 Navami	I-Misc
 processions	O
 .	O
+
 Videos	O
 show	O
 houses	O
@@ -386,6 +395,7 @@ Ram	B-Misc
 Navami	I-Misc
 procession	O
 .	O
+
 There	O
 at	O
 least	O
@@ -409,6 +419,7 @@ to	O
 be	O
 critical	O
 .	O
+
 Several	O
 shops	O
 were	O
@@ -441,6 +452,7 @@ Ram	B-Misc
 Navami	I-Misc
 procession	O
 .	O
+
 At	O
 least	O
 three	O

@@ -6,6 +6,7 @@ News	I-Organization
 23	B-Date
 April	I-Date
 -	O
+
 One	O
 month	O
 after	O
@@ -29,6 +30,7 @@ in	O
 the	O
 country	O
 .	O
+
 The	O
 new	O
 leader	O
@@ -155,6 +157,7 @@ in	O
 Sango	B-NORP
 language	O
 .	O
+
 Several	O
 of	O
 the	O
@@ -214,6 +217,7 @@ power	O
 in	O
 Bangui	B-Location
 .	O
+
 Renewed	O
 fighting	O
 and	O
@@ -236,6 +240,7 @@ attacks	O
 on	O
 civilians	O
 .	O
+
 And	O
 it	O
 seems	O
@@ -311,6 +316,7 @@ in	O
 the	O
 crossfire	O
 .	O
+
 Weeks	O
 after	O
 Séléka	B-Organization
@@ -384,6 +390,7 @@ sexual	O
 violence	O
 .	O
 "	O
+
 Souleymane	B-Person
 Diabate	I-Person
 from	O
@@ -439,6 +446,7 @@ in	O
 downtown	O
 Bangui	B-Location
 .	O
+
 Journalists	O
 from	O
 '	O
@@ -470,6 +478,7 @@ only	O
 years	O
 old	O
 .	O
+
 All	O
 the	O
 child	O
@@ -518,6 +527,7 @@ soldiers	O
 in	O
 battle	O
 .	O
+
 After	O
 the	O
 attack	O
@@ -546,6 +556,7 @@ several	O
 of	O
 them	O
 .	O
+
 "	O
 We	O
 did	O
@@ -606,6 +617,7 @@ Central	B-Location	B-NORP
 African	I-Location	I-NORP
 Republic	I-Location
 .	O
+
 At	O
 least	O
 30,000	O
@@ -633,6 +645,7 @@ Cameroon	B-Location
 and	O
 Chad	B-Location
 .	O
+
 And	O
 there	O
 is	O
@@ -673,6 +686,7 @@ homes	O
 and	O
 shops	O
 .	O
+
 Last	O
 week	O
 ,	O
@@ -708,6 +722,7 @@ in	O
 the	O
 country	O
 .	O
+
 Jeffrey	B-Person
 Feltman	I-Person
 ,	O
@@ -730,6 +745,7 @@ about	O
 the	O
 situation	O
 .	O
+
 "	O
 Those	O
 who	O
@@ -799,6 +815,7 @@ by	O
 the	O
 UN	B-Organization
 .	O
+
 The	O
 primary	O
 mission	O
@@ -832,6 +849,7 @@ one	O
 month	O
 ago	O
 .	O
+
 Mr	O
 Feltman	B-Person
 avoided	O
@@ -900,6 +918,7 @@ from	O
 abuse	O
 .	O
 "	O
+
 He	O
 strongly	O
 criticised	O
@@ -941,6 +960,7 @@ in	O
 the	O
 situation	O
 .	O
+
 ICC	B-Organization
 Presecutor	O
 Fatou	B-Person

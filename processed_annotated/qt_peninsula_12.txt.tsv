@@ -130,6 +130,7 @@ of	O
 passengers	O
 stranded	O
 .	O
+
 We	O
 carried	O
 3.3	O
@@ -157,6 +158,7 @@ Qatar	B-Organization	B-Location
 Airways	I-Organization
 before	O
 .	O
+
 So	O
 ,	O
 this	O
@@ -214,6 +216,7 @@ April	B-Date
 and	O
 July	B-Date
 .	O
+
 The	O
 airline	O
 accounted	O
@@ -288,6 +291,7 @@ without	O
 any	O
 charges	O
 .	O
+
 So	O
 this	O
 gave	O
@@ -348,6 +352,7 @@ repatriating	O
 over	O
 150,000	O
 .	O
+
 Qatar	B-Organization	B-Location
 Airways	I-Organization
 ’	O
@@ -411,6 +416,7 @@ Year	O
 ’	O
 award	O
 .	O
+
 It	O
 also	O
 won	O
@@ -431,6 +437,7 @@ Class	I-Misc
 ’	O
 awards	O
 .	O
+
 The	O
 recognition	O
 was	O

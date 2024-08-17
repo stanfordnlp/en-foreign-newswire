@@ -45,6 +45,7 @@ test	O
 results	O
 obtained	O
 .	O
+
 He	O
 also	O
 tested	O
@@ -79,6 +80,7 @@ on	O
 July	B-Date
 11	I-Date
 .	O
+
 She	O
 has	O
 to	O
@@ -133,6 +135,7 @@ were	O
 all	O
 negative	O
 .	O
+
 She	O
 is	O
 currently	O

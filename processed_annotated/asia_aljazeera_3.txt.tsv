@@ -5,6 +5,7 @@ Colombo	B-Location
 Sri	I-Location
 Lanka	I-Location
 –	O
+
 The	O
 man	O
 who	O
@@ -182,6 +183,7 @@ no	O
 such	O
 plans	O
 .	O
+
 Mahinda	B-Person
 ’s	O
 eldest	O
@@ -517,6 +519,7 @@ told	O
 Al	B-Organization
 Jazeera	I-Organization
 .	O
+
 “	O
 They	O
 always	O
@@ -582,6 +585,7 @@ n’t	O
 know	O
 anything	O
 .	O
+
 This	O
 is	O
 another	O
@@ -867,6 +871,7 @@ to	O
 the	O
 opposition	O
 .	O
+
 But	O
 the	O
 clan	O
@@ -929,6 +934,7 @@ the	O
 economic	O
 slump	O
 .	O
+
 But	O
 a	O
 series	O

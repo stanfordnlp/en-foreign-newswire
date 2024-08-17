@@ -35,6 +35,7 @@ the	O
 baleen	O
 whales	O
 .	O
+
 Reaching	O
 19	O
 meters	O
@@ -241,6 +242,7 @@ amounts	O
 of	O
 plankton	O
 .	O
+
 Their	O
 jaws	O
 have	O
@@ -287,6 +289,7 @@ the	O
 whale	O
 shark	O
 .	O
+
 The	O
 basking	O
 shark	O
@@ -408,6 +411,7 @@ Gulf	B-Location
 of	I-Location
 California	I-Location
 .	O
+
 In	O
 both	O
 cases	O
@@ -697,6 +701,7 @@ elegant	O
 than	O
 males	O
 .	O
+
 They	O
 are	O
 also	O
@@ -737,6 +742,7 @@ this	O
 natural	O
 miracle	O
 .	O
+
 In	O
 fact	O
 ,	O
@@ -773,6 +779,7 @@ world	O
 are	O
 shrinking	O
 .	O
+
 They	O
 are	O
 threatened	O
@@ -869,6 +876,7 @@ their	O
 energy	O
 reserves	O
 .	O
+
 We	O
 know	O
 a	O
@@ -976,6 +984,7 @@ a	O
 long	O
 time	O
 .	O
+
 They	O
 told	O
 me	O
@@ -1024,6 +1033,7 @@ or	O
 a	O
 male	O
 .	O
+
 But	O
 I	O
 witnessed	O

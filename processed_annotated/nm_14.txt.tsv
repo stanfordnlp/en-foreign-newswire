@@ -98,6 +98,7 @@ in	O
 November	B-Date
 2019	I-Date
 .	O
+
 Usiku	B-Person
 discharged	O
 her	O
@@ -290,6 +291,7 @@ killed	O
 in	O
 2015	B-Date
 .	O
+
 The	O
 witness	O
 also	O
@@ -393,6 +395,7 @@ east	O
 of	O
 Otjiwarongo	B-Location
 .	O
+
 From	O
 Osire	B-Location
 ,	O
@@ -531,6 +534,7 @@ held	O
 in	O
 custody	O
 .	O
+
 She	O
 has	O
 to	O

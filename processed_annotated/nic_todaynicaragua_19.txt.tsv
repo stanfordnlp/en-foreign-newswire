@@ -4,6 +4,7 @@ TODAY	B-Misc
 NICARAGUA	I-Misc	B-Location
 TRAVEL	I-Misc
 –	O
+
 When	O
 you	O
 see	O
@@ -85,6 +86,7 @@ of	O
 the	O
 country	O
 .	O
+
 But	O
 Concepcion	B-Location
 is	O
@@ -449,6 +451,7 @@ just	O
 minutes	O
 away	O
 .	O
+
 Classified	O
 as	O
 a	O
@@ -481,6 +484,7 @@ over	O
 the	O
 guardrails	O
 .	O
+
 It	O
 was	O
 like	O
@@ -490,6 +494,7 @@ a	O
 time	O
 capsule	O
 .	O
+
 I	O
 stood	O
 there	O
@@ -569,6 +574,7 @@ Nicaragua	B-Location
 western	O
 corridor	O
 .	O
+
 A	O
 surfer	O
 town	O
@@ -589,6 +595,7 @@ stay	O
 too	O
 long	O
 .	O
+
 Luckily	O
 ,	O
 it	O
@@ -646,6 +653,7 @@ a	O
 deep	O
 sleep	O
 .	O
+
 And	O
 I	O
 needed	O
@@ -654,6 +662,7 @@ bit	O
 of	O
 rest	O
 .	O
+
 Depending	O
 on	O
 how	O
@@ -693,6 +702,7 @@ fairly	O
 short	O
 order	O
 .	O
+
 But	O
 ,	O
 my	O
@@ -735,12 +745,14 @@ damp	O
 green	O
 thickness	O
 .	O
+
 Everything	O
 smelled	O
 fresh	O
 and	O
 flourishing	O
 .	O
+
 The	O
 terrain	O
 was	O
@@ -779,6 +791,7 @@ up	O
 the	O
 steeps	O
 .	O
+
 Howler	O
 monkeys	O
 swung	O
@@ -848,6 +861,7 @@ of	O
 the	O
 cone	O
 .	O
+
 We	O
 could	O
 smell	O
@@ -866,6 +880,7 @@ terrain	O
 even	O
 harder	O
 .	O
+
 This	O
 is	O
 where	O
@@ -874,6 +889,7 @@ scramble	O
 really	O
 started	O
 .	O
+
 I	O
 had	O
 to	O
@@ -900,6 +916,7 @@ pretty	O
 tight	O
 course	O
 .	O
+
 Too	O
 far	O
 to	O
@@ -928,6 +945,7 @@ a	O
 staggering	O
 thing	O
 .	O
+
 We	O
 all	O
 crowded	O
@@ -942,6 +960,7 @@ dining	O
 room	O
 table	O
 .	O
+
 Clouds	O
 swirled	O
 around	O
@@ -959,6 +978,7 @@ through	O
 the	O
 fog	O
 .	O
+
 The	O
 sun	O
 had	O
@@ -980,6 +1000,7 @@ mind	O
 -	O
 expanding	O
 .	O
+
 Known	O
 as	O
 Cocibolca	B-Location
@@ -1082,6 +1103,7 @@ overcast	O
 once	O
 more	O
 .	O
+
 It	O
 was	O
 somehow	O
@@ -1125,12 +1147,14 @@ an	O
 ancient	O
 ruin	O
 .	O
+
 But	O
 it	O
 was	O
 worth	O
 it	O
 .	O
+
 We	O
 sat	O
 together	O

@@ -26,6 +26,7 @@ world	O
 heavyweight	O
 title	O
 .	O
+
 Godoy	B-Person
 surprised	O
 everyone	O
@@ -40,6 +41,7 @@ the	O
 last	O
 round	O
 .	O
+
 He	O
 lost	O
 by	O
@@ -86,6 +88,7 @@ world	O
 Joe	B-Person
 Louis	I-Person
 .	O
+
 The	O
 challenger	O
 shocked	O
@@ -109,6 +112,7 @@ against	O
 the	O
 champ	O
 .	O
+
 With	O
 no	O
 clear	O
@@ -157,6 +161,7 @@ that	O
 same	O
 year	O
 .	O
+
 By	O
 that	O
 point	O
@@ -178,6 +183,7 @@ best	O
 of	O
 him	O
 .	O
+
 He	O
 never	O
 did	O
@@ -234,6 +240,7 @@ was	O
 a	O
 fisherman	O
 .	O
+
 For	O
 most	O
 of	O
@@ -280,6 +287,7 @@ service	O
 in	O
 Iquique	B-Location
 .	O
+
 While	O
 in	O
 the	O
@@ -354,6 +362,7 @@ gyms	O
 around	O
 Iquique	B-Location
 .	O
+
 During	O
 this	O
 time	O
@@ -365,6 +374,7 @@ promoter	O
 Louis	B-Person
 Bouey	I-Person
 .	O
+
 Seeing	O
 the	O
 potential	O
@@ -407,6 +417,7 @@ a	O
 Peruvian	B-NORP
 national	O
 .	O
+
 After	O
 several	O
 more	O
@@ -430,6 +441,7 @@ in	O
 June	B-Date
 1932	I-Date
 .	O
+
 What	O
 followed	O
 was	O
@@ -479,6 +491,7 @@ Luis	B-Person
 Ángel	I-Person
 Firpo	I-Person
 .	O
+
 This	O
 victory	O
 catapulted	O
@@ -562,6 +575,7 @@ to	O
 the	O
 end	O
 .	O
+
 This	O
 never	O
 got	O
@@ -570,6 +584,7 @@ Godoy	B-Person
 ,	O
 though	O
 .	O
+
 He	O
 instead	O
 trained	O
@@ -622,6 +637,7 @@ against	O
 the	O
 newcomer	O
 .	O
+
 Among	O
 the	O
 crowd	O
@@ -645,6 +661,7 @@ in	O
 the	O
 city	O
 .	O
+
 They	O
 made	O
 sure	O
@@ -699,6 +716,7 @@ in	O
 the	O
 country	O
 .	O
+
 As	O
 Godoy	B-Person
 prepared	O
@@ -733,6 +751,7 @@ went	O
 into	O
 effect	O
 .	O
+
 He	O
 fought	O
 from	O
@@ -749,6 +768,7 @@ his	O
 larger	O
 opponent	O
 .	O
+
 Unsure	O
 of	O
 how	O
@@ -798,6 +818,7 @@ of	O
 his	O
 survival	O
 .	O
+
 His	O
 happiness	O
 did	O
@@ -814,6 +835,7 @@ by	O
 split	O
 decision	O
 .	O
+
 The	O
 Chilean	B-NORP
 might	O
@@ -828,6 +850,7 @@ still	O
 stood	O
 victorious	O
 .	O
+
 He	O
 went	O
 the	O
@@ -843,6 +866,7 @@ defeat	O
 as	O
 easily	O
 .	O
+
 When	O
 Louis	B-Person
 was	O
@@ -957,6 +981,7 @@ heavyweight	O
 champion	O
 was	O
 .	O
+
 Godoy	B-Person
 had	O
 spent	O
@@ -973,6 +998,7 @@ fame	O
 and	O
 fortune	O
 .	O
+
 So	O
 when	O
 the	O
@@ -998,6 +1024,7 @@ had	O
 little	O
 result	O
 .	O
+
 The	O
 referee	O
 put	O
@@ -1060,6 +1087,7 @@ States	I-Location
 and	O
 Europe	B-Location
 .	O
+
 With	O
 not	O
 much	O
@@ -1159,6 +1187,7 @@ for	O
 several	O
 years	O
 .	O
+
 He	O
 even	O
 fought	O
@@ -1198,6 +1227,7 @@ American	I-NORP
 heavyweight	O
 champion	O
 .	O
+
 Despite	O
 the	O
 occasional	O

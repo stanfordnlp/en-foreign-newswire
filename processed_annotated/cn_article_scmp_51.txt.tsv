@@ -93,6 +93,7 @@ statement	O
 on	O
 Wednesday	B-Date
 .	O
+
 The	O
 licence	O
 will	O
@@ -137,6 +138,7 @@ product	O
 until	O
 recently	O
 .	O
+
 In	O
 March	B-Date
 ,	O
@@ -252,6 +254,7 @@ Commerce	I-Organization
 last	O
 year	O
 .	O
+
 However	O
 ,	O
 more	O
@@ -341,6 +344,7 @@ amid	O
 health	O
 concerns	O
 .	O
+
 In	O
 2019	B-Date
 ,	O
@@ -358,6 +362,7 @@ electronic	O
 cigarettes	O
 online	O
 .	O
+
 It	O
 also	O
 banned	O
@@ -398,6 +403,7 @@ strong	O
 financial	O
 performances	O
 .	O
+
 The	O
 stock	O
 price	O
@@ -448,6 +454,7 @@ for	O
 new	O
 rules	O
 .	O
+
 Wang	B-Person
 Ying	I-Person
 ,	O

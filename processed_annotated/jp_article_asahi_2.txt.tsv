@@ -313,6 +313,7 @@ plan	O
 in	O
 mind	O
 .	O
+
 But	O
 some	O
 changes	O
@@ -399,6 +400,7 @@ in	O
 New	B-Location
 York	I-Location
 .	O
+
 An	O
 extraordinary	O
 Diet	B-Organization

@@ -15,6 +15,7 @@ mall	I-Facility
 in	O
 Guayaquil	B-Location
 .	O
+
 These	O
 are	O
 the	O
@@ -135,6 +136,7 @@ jobs	O
 for	O
 citizens	O
 .	O
+
 In	O
 addition	O
 ,	O
@@ -430,6 +432,7 @@ de	I-Location
 los	I-Location
 Tsáchilas	I-Location
 .	O
+
 (	O
 YO	B-Misc
 )	O

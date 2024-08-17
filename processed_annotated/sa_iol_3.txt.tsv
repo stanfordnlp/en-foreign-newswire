@@ -42,6 +42,7 @@ numerous	O
 serious	O
 injuries	O
 .	O
+
 The	O
 residents	O
 claim	O
@@ -87,6 +88,7 @@ claimed	O
 many	O
 lives	O
 .	O
+
 Vermeulen	B-Person
 said	O
 calls	O
@@ -212,6 +214,7 @@ of	O
 driver	O
 negligence	O
 .	O
+
 We	O
 have	O
 put	O
@@ -270,6 +273,7 @@ a	O
 traffic	O
 assessment	O
 .	O
+
 We	O
 are	O
 allowed	O

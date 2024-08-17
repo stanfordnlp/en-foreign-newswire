@@ -9,6 +9,7 @@ way	O
 from	O
 Addis	B-Location
 .	O
+
 To	O
 get	O
 to	O
@@ -24,6 +25,7 @@ of	O
 Arba	B-Location
 Minch	I-Location
 .	O
+
 Going	O
 to	O
 Arba	B-Location
@@ -37,6 +39,7 @@ over	O
 common	O
 sense	O
 .	O
+
 Take	O
 a	O
 look	O
@@ -46,6 +49,7 @@ map	O
 of	O
 Ethiopia	B-Location
 .	O
+
 Look	O
 down	O
 ,	O
@@ -61,6 +65,7 @@ Rift	B-Location
 Valley	I-Location
 Lakes	I-Location
 .	O
+
 Arba	B-Location
 Minch	I-Location
 is	O
@@ -70,6 +75,7 @@ two	O
 last	O
 lakes	O
 .	O
+
 It	O
 is	O
 a	O
@@ -85,6 +91,7 @@ it	O
 worth	O
 it	O
 .	O
+
 The	O
 first	O
 time	O

@@ -132,6 +132,7 @@ game	O
 against	O
 Mexico	B-Location
 .	O
+
 La	B-Person
 Sele	I-Person
 does	O
@@ -227,6 +228,7 @@ Rica	I-Location
 current	O
 situation	O
 .	O
+
 Ramirez	B-Person
 will	O
 have	O
@@ -429,6 +431,7 @@ Vargas	I-Person
 Real	B-Organization
 Espana	I-Organization
 )	O
+
 ,	O
 Emilio	B-Person
 Izaguirre	I-Person
@@ -510,6 +513,7 @@ Garcia	I-Person
 Houston	B-Organization
 Dynamo	I-Organization
 )	O
+
 ,	O
 Romell	B-Person
 Quioto	I-Person

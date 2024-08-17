@@ -213,6 +213,7 @@ Yu	I-Person
 and	O
 Phyo	B-Person
 Zeya	I-Person
+
 Thaw	I-Person
 ,	O
 a	O
@@ -239,6 +240,7 @@ sentences	O
 in	O
 June	B-Date
 .	O
+
 The	O
 two	O
 others	O
@@ -317,6 +319,7 @@ deeply	O
 unfair	O
 trials	O
 .	O
+
 The	O
 international	O
 community	O
@@ -353,6 +356,7 @@ wife	O
 of	O
 Phyo	B-Person
 Zeyar	I-Person
+
 Thaw	I-Person
 ,	O
 said	O
@@ -367,6 +371,7 @@ husband	O
 's	O
 execution	O
 .	O
+
 Other	O
 relatives	O
 could	O
@@ -406,6 +411,7 @@ it	O
 last	O
 Friday	B-Date
 .	O
+
 Only	O
 one	O
 relative	O
@@ -449,6 +455,7 @@ Voice	B-Organization
 of	I-Organization
 Myanmar	I-Organization	B-Location
 .	O
+
 Neither	O
 gave	O
 details	O

@@ -14,6 +14,7 @@ construction	O
 at	O
 Agalega	B-Location
 .	O
+
 The	O
 first	O
 issue	O
@@ -28,6 +29,7 @@ India	B-Location
 and	O
 Mauritius	B-Location
 .	O
+
 Xavier	B-Person
 -	I-Person
 Luc	I-Person
@@ -41,6 +43,7 @@ be	O
 made	O
 public	O
 .	O
+
 He	O
 even	O
 added	O
@@ -62,6 +65,7 @@ document	O
 being	O
 released	O
 .	O
+
 “	O
 I	O
 ’m	O
@@ -73,6 +77,7 @@ Pravind	B-Person
 Jugnauth	I-Person
 replied	O
 .	O
+
 He	O
 said	O
 he	O
@@ -87,6 +92,7 @@ and	O
 Narendra	B-Person
 Modi	I-Person
 .	O
+
 At	O
 no	O
 time	O
@@ -120,6 +126,7 @@ for	O
 its	O
 generosity	O
 .	O
+
 “	O
 The	O
 more	O
@@ -137,6 +144,7 @@ return	O
 he	O
 said	O
 .	O
+
 The	O
 Prime	O
 Minister	O
@@ -167,6 +175,7 @@ the	O
 counterparts	O
 asked	O
 .	O
+
 For	O
 him	O
 ,	O
@@ -210,6 +219,7 @@ Xavier	B-Person
 Luc	I-Person
 Duval	I-Person
 .	O
+
 He	O
 added	O
 that	O
@@ -233,6 +243,7 @@ Poseidon	B-Product
 and	O
 submarines	O
 .	O
+
 “	O
 I	O
 ’m	O
@@ -245,11 +256,13 @@ a	O
 sovereign	O
 country	O
 .	O
+
 So	O
 is	O
 its	O
 Parliament	B-Organization
 .	O
+
 Therefore	O
 ,	O
 the	O

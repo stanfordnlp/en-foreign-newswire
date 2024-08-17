@@ -134,6 +134,7 @@ the	O
 Cairo	B-Organization	B-Location
 Times	I-Organization
 .	O
+
 He	O
 says	O
 all	O
@@ -233,6 +234,7 @@ region	O
 of	O
 Darfur	B-Location
 .	O
+
 The	O
 UNHCR	B-Organization
 decision	O
@@ -277,6 +279,7 @@ Cairo	B-Location
 since	O
 1990	B-Date
 .	O
+
 He	O
 says	O
 the	O
@@ -356,6 +359,7 @@ UNHCR	B-Organization
 in	O
 Cairo	B-Location
 .	O
+
 “	O
 There	O
 was	O
@@ -443,6 +447,7 @@ practical	O
 he	O
 says	O
 .	O
+
 But	O
 he	O
 stresses	O
@@ -488,6 +493,7 @@ geographic	O
 distinction	O
 .	O
 ”	O
+
 He	O
 says	O
 that	O
@@ -582,6 +588,7 @@ the	O
 state	O
 boundaries	O
 .	O
+
 Theoretically	O
 ,	O
 the	O
@@ -691,6 +698,7 @@ President	O
 Hosni	B-Person
 Mubarak	I-Person
 .	O
+
 It	O
 was	O
 only	O
@@ -769,6 +777,7 @@ permanently	O
 in	O
 Egypt	B-Location
 .	O
+
 But	O
 shifting	O
 the	O
@@ -794,6 +803,7 @@ a	O
 good	O
 idea	O
 .	O
+
 “	O
 For	O
 refugees	O
@@ -850,6 +860,7 @@ of	O
 the	O
 summer	O
 .	O
+
 In	O
 the	O
 meantime	O
@@ -900,6 +911,7 @@ says	O
 Abdel	B-Person
 Shakour	I-Person
 .	O
+
 “	O
 But	O
 really	O

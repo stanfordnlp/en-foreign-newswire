@@ -59,6 +59,7 @@ and	O
 bar	O
 food	O
 .	O
+
 Located	O
 in	O
 an	O
@@ -100,6 +101,7 @@ Blue	B-Facility
 Delirium	I-Facility
 )	O
 .	O
+
 It	O
 was	O
 an	O
@@ -153,6 +155,7 @@ a	O
 Canadian	B-NORP
 company	O
 .	O
+
 In	O
 the	O
 end	O
@@ -185,6 +188,7 @@ rent	O
 in	O
 2010	B-Date
 .	O
+
 The	O
 brothers	O
 ’	O
@@ -208,6 +212,7 @@ opened	O
 in	O
 2011	B-Date
 .	O
+
 At	O
 first	O
 ,	O
@@ -225,6 +230,7 @@ would	O
 soon	O
 change	O
 .	O
+
 The	O
 business	O
 was	O
@@ -264,6 +270,7 @@ many	O
 years	O
 ago	O
 .	O
+
 Even	O
 as	O
 late	O
@@ -296,6 +303,7 @@ Oaxaca	B-Location
 and	O
 Durango	B-Location
 .	O
+
 Their	O
 city	O
 was	O
@@ -339,6 +347,7 @@ beverage	O
 —	O
 pulque	O
 .	O
+
 San	B-Location
 Luis	I-Location
 Potosí	I-Location
@@ -404,9 +413,11 @@ selling	O
 pulque	O
 .	O
 ”	O
+
 Carlos	B-Person
 says	O
 .	O
+
 The	O
 beverage	O
 was	O
@@ -505,6 +516,7 @@ before	O
 the	O
 pandemic	O
 .	O
+
 It	O
 ’s	O
 back	O
@@ -553,6 +565,7 @@ kinds	O
 of	O
 people	O
 .	O
+
 Carlos	B-Person
 admits	O
 it	O
@@ -626,6 +639,7 @@ hand	O
 at	O
 production	O
 .	O
+
 A	O
 local	O
 family	O
@@ -672,6 +686,7 @@ behind	O
 their	O
 work	O
 .	O
+
 For	O
 that	O
 reason	O
@@ -720,6 +735,7 @@ could	O
 do	O
 that	O
 .	O
+
 He	O
 told	O
 him	O
@@ -739,6 +755,7 @@ the	O
 next	O
 day	O
 .	O
+
 This	O
 was	O
 the	O
@@ -776,6 +793,7 @@ heirloom	O
 corn	O
 varieties	O
 .	O
+
 He	O
 has	O
 joined	O
@@ -849,6 +867,7 @@ native	O
 English	B-NORP
 speakers	O
 .	O
+
 This	O
 has	O
 allowed	O
@@ -883,6 +902,7 @@ of	O
 the	O
 border	O
 .	O
+
 From	O
 them	O
 ,	O
@@ -930,6 +950,7 @@ corn	O
 into	O
 whiskey	O
 .	O
+
 Mexican	B-NORP
 corn	O
 holds	O
@@ -946,6 +967,7 @@ well	O
 as	O
 challenges	O
 .	O
+
 One	O
 challenge	O
 is	O
@@ -961,6 +983,7 @@ ABV	O
 )	O
 content	O
 .	O
+
 For	O
 this	O
 reason	O
@@ -987,6 +1010,7 @@ limited	O
 to	O
 corn	O
 .	O
+
 While	O
 I	O
 was	O
@@ -1013,6 +1037,7 @@ using	O
 juniper	O
 berries	O
 .	O
+
 He	O
 also	O
 had	O
@@ -1028,6 +1053,7 @@ and	O
 sugar	O
 cane	O
 .	O
+
 He	O
 no	O
 longer	O
@@ -1073,6 +1099,7 @@ the	O
 original	O
 bar	O
 .	O
+
 They	O
 worry	O
 about	O
@@ -1119,6 +1146,7 @@ not	O
 simply	O
 altruistic	O
 .	O
+
 He	O
 says	O
 that	O
@@ -1176,6 +1204,7 @@ handcrafts	O
 and	O
 art	O
 .	O
+
 She	O
 is	O
 the	O
@@ -1194,6 +1223,7 @@ Schiffer	B-Person
 2019	B-Date
 )	O
 .	O
+
 Her	O
 culture	O
 column	O

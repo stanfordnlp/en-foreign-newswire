@@ -115,6 +115,7 @@ satellite	O
 into	O
 space	O
 .	O
+
 The	O
 nation	O
 put	O
@@ -179,6 +180,7 @@ satellite	O
 carrier	O
 Qassed	B-Misc
 .	O
+
 It	O
 traveled	O
 6.7	O
@@ -451,6 +453,7 @@ unmanned	O
 aerial	O
 vehicles	O
 .	O
+
 He	O
 also	O
 credited	O

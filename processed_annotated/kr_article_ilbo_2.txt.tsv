@@ -54,6 +54,7 @@ an	O
 own	O
 goal	O
 .	O
+
 Midfielder	O
 Hwang	B-Person
 In	I-Person
@@ -95,6 +96,7 @@ the	O
 championship	O
 title	O
 .	O
+
 Korea	B-Location
 won	O
 in	O
@@ -131,6 +133,7 @@ K	B-Organization
 League	I-Organization
 players	O
 .	O
+
 Those	O
 playing	O
 in	O

@@ -123,6 +123,7 @@ in	O
 the	O
 morning	O
 .	O
+
 But	O
 following	O
 massive	O
@@ -172,6 +173,7 @@ social	O
 conditions	O
 .	O
 "	O
+
 According	O
 to	O
 the	O
@@ -206,6 +208,7 @@ Minister	O
 Clemente	B-Person
 Engonga	I-Person
 Nguema	I-Person
+
 Onguene	I-Person
 ,	O
 gave	O
@@ -224,6 +227,7 @@ had	O
 been	O
 banned	O
 .	O
+
 The	O
 Minister	O
 in	O
@@ -275,6 +279,7 @@ today	O
 ,	O
 Thursday	B-Date
 .	O
+
 According	O
 to	O
 local	O
@@ -339,6 +344,7 @@ patrolling	O
 the	O
 streets	O
 .	O
+
 Especially	O
 Nigeria	B-Location
 Street	I-Location
@@ -434,6 +440,7 @@ Sunday	B-Date
 20	I-Date
 March	I-Date
 .	O
+
 The	O
 party	O
 had	O
@@ -485,6 +492,7 @@ increasing	O
 their	O
 presence	O
 .	O
+
 The	O
 nervous	O
 mood	O
@@ -518,6 +526,7 @@ of	O
 the	O
 month	O
 .	O
+
 The	O
 CPDS	B-Organization
 leadership	O
@@ -558,6 +567,7 @@ a	O
 1979	B-Date
 coup	O
 .	O
+
 All	O
 values	O
 in	O

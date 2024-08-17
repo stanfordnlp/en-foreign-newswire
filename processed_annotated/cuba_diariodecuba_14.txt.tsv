@@ -109,6 +109,7 @@ talking	O
 about	O
 this	O
 ?	O
+
 Because	O
 both	O
 Díaz	B-Person
@@ -193,6 +194,7 @@ purchasing	O
 power	O
 .	O
 "	O
+
 As	O
 the	O
 only	O
@@ -307,6 +309,7 @@ inflation	O
 issues	O
 .	O
 "	O
+
 The	O
 only	O
 thing	O
@@ -387,6 +390,7 @@ effect	O
 on	O
 productivity	O
 .	O
+
 The	O
 country	O
 ’s	O
@@ -396,6 +400,7 @@ in	O
 demonstrates	O
 this	O
 .	O
+
 However	O
 ,	O
 it	O
@@ -443,6 +448,7 @@ issuances	O
 of	O
 money	O
 .	O
+
 In	O
 this	O
 way	O
@@ -506,6 +512,7 @@ making	O
 things	O
 worse	O
 .	O
+
 The	O
 government	O
 ,	O
@@ -544,6 +551,7 @@ of	O
 relative	O
 prices	O
 .	O
+
 Raising	O
 wages	O
 across	O
@@ -625,6 +633,7 @@ never	O
 happen	O
 again	O
 .	O
+
 But	O
 everything	O
 that	O
@@ -638,6 +647,7 @@ third	O
 time	O
 .	O
 "	O
+
 Thus	O
 ,	O
 once	O
@@ -772,6 +782,7 @@ the	O
 real	O
 economy	O
 .	O
+
 But	O
 this	O
 would	O
@@ -807,6 +818,7 @@ make	O
 it	O
 prosperous	O
 .	O
+
 Anything	O
 else	O
 ,	O

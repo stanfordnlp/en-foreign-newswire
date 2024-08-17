@@ -71,6 +71,7 @@ DGP	O
 LR	B-Person
 Bishnoi	I-Person
 .	O
+
 “	O
 He	O
 was	O
@@ -339,6 +340,7 @@ to	O
 the	O
 BJP	B-Organization
 .	O
+
 The	O
 raid	O
 at	O

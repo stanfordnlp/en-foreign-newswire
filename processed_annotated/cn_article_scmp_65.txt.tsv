@@ -253,6 +253,7 @@ countries	O
 he	O
 added	O
 .	O
+
 “	O
 RISC	B-Product
 -	I-Product
@@ -357,6 +358,7 @@ Qualcomm	B-Organization
 and	O
 Apple	B-Organization
 .	O
+
 Since	O
 the	O
 RISC	B-Product

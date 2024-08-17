@@ -295,6 +295,7 @@ committed	O
 to	O
 peace	O
 .	O
+
 We	O
 share	O
 the	O
@@ -333,6 +334,7 @@ on	O
 these	O
 issues	O
 .	O
+
 And	O
 that	O
 ’s	O
@@ -478,6 +480,7 @@ few	O
 said	O
 Faivre	B-Person
 .	O
+
 He	O
 emphasised	O
 that	O
@@ -498,6 +501,7 @@ FIFA	I-Misc	B-Organization
 World	I-Misc
 Cup	I-Misc
 .	O
+
 “	O
 On	O
 a	O
@@ -522,6 +526,7 @@ the	O
 Asian	I-Misc	B-NORP
 Games	I-Misc
 .	O
+
 During	O
 2022	B-Misc	B-Date
 FIFA	I-Misc	B-Organization
@@ -646,6 +651,7 @@ reaching	O
 new	O
 heights	O
 .	O
+
 The	O
 trade	O
 volume	O
@@ -691,6 +697,7 @@ luxury	O
 or	O
 food	O
 .	O
+
 I	O
 do	O
 hope	O
@@ -713,6 +720,7 @@ global	O
 economic	O
 recovery	O
 .	O
+
 Alongside	O
 the	O
 trade	O
@@ -865,6 +873,7 @@ with	O
 Qatar	B-Facility	B-Location
 Museum	I-Facility
 .	O
+
 Teams	O
 of	O
 French	B-NORP
@@ -891,6 +900,7 @@ planned	O
 for	O
 2028	B-Date
 .	O
+
 We	O
 have	O
 a	O
@@ -913,6 +923,7 @@ Museum	I-Facility
 in	O
 Nice	B-Location
 .	O
+
 We	O
 should	O
 sign	O

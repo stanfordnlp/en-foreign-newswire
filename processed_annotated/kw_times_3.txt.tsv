@@ -81,6 +81,7 @@ French	B-NORP
 capital	O
 Paris	B-Location
 .	O
+
 He	O
 added	O
 that	O
@@ -152,6 +153,7 @@ building	O
 a	O
 country	O
 .	O
+
 He	O
 underlined	O
 that	O
@@ -214,6 +216,7 @@ countries	O
 in	O
 need	O
 .	O
+
 The	O
 Minister	O
 of	O
@@ -276,6 +279,7 @@ the	O
 teaching	O
 domain	O
 .	O
+
 Kuwait	B-Location
 is	O
 participating	O
@@ -291,6 +295,7 @@ by	O
 Minister	O
 Mudhaf	B-Person
 .	O
+
 The	O
 preliminary	O
 three	O

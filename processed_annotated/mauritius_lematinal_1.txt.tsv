@@ -20,6 +20,7 @@ Tuesday	B-Date
 26th	I-Date
 July	I-Date
 .	O
+
 Xavier	B-Person
 Luc	I-Person
 Duval	I-Person
@@ -35,6 +36,7 @@ on	O
 Agalega	B-Location
 island	I-Location
 .	O
+
 The	O
 Prime	O
 Minister	O
@@ -87,6 +89,7 @@ in	O
 in	O
 Agalega	B-Location
 .	O
+
 He	O
 also	O
 wanted	O
@@ -118,6 +121,7 @@ and	O
 their	O
 nationality	O
 .	O
+
 In	O
 his	O
 question	O
@@ -139,6 +143,7 @@ India	B-Location
 and	O
 Mauritius	B-Location
 .	O
+
 He	O
 asked	O
 that	O
@@ -175,6 +180,7 @@ Rs	B-Money
 8	I-Money
 billion	I-Money
 .	O
+
 “	O
 The	O
 Indian	B-NORP
@@ -193,6 +199,7 @@ document	O
 being	O
 released	O
 .	O
+
 We	O
 have	O
 the	O
@@ -250,6 +257,7 @@ facilities	O
 at	O
 Agalega	B-Location
 .	O
+
 The	O
 MoU	O
 states	O
@@ -274,6 +282,7 @@ connectivity	O
 at	O
 Agalega	B-Location
 .	O
+
 This	O
 will	O
 go	O
@@ -295,6 +304,7 @@ island	O
 Agalega	B-Location
 )	O
 .	O
+
 These	O
 facilities	O
 will	O
@@ -350,6 +360,7 @@ be	O
 made	O
 public	O
 .	O
+
 But	O
 the	O
 funding	O
@@ -367,6 +378,7 @@ Indian	B-Organization	B-NORP
 government	I-Organization
 .	O
 ”	O
+
 Pravind	B-Person
 Jugnauth	I-Person
 outlined	O
@@ -432,6 +444,7 @@ Terminal	O
 amongst	O
 others	O
 .	O
+
 The	O
 second	O
 project	O
@@ -442,6 +455,7 @@ to	O
 accommodate	O
 ships	O
 .	O
+
 The	O
 Prime	O
 Minister	O
@@ -589,6 +603,7 @@ infrastructural	O
 development	O
 needs	O
 .	O
+
 The	O
 runway	O
 in	O
@@ -607,6 +622,7 @@ very	O
 bad	O
 condition	O
 .	O
+
 The	O
 landing	O
 and	O
@@ -622,6 +638,7 @@ a	O
 challenging	O
 exercise	O
 .	O
+
 Some	O
 remedial	O
 works	O
@@ -709,6 +726,7 @@ occasions	O
 since	O
 2005	B-Date
 .	O
+
 The	O
 Indian	B-NORP
 side	O
@@ -743,6 +761,7 @@ of	O
 the	O
 project	O
 .	O
+
 In	O
 August	B-Date
 2014	I-Date
@@ -768,6 +787,7 @@ of	O
 the	O
 projects	O
 .	O
+
 Subsequently	O
 ,	O
 both	O
@@ -789,6 +809,7 @@ on	O
 October	I-Date
 2014	I-Date
 .	O
+
 The	O
 MoU	O
 was	O
@@ -816,6 +837,7 @@ in	O
 March	B-Date
 2015	I-Date
 .	O
+
 A	O
 copy	O
 of	O
@@ -869,6 +891,7 @@ Republic	B-Organization
 of	I-Organization
 Mauritius	I-Organization	B-Location
 .	O
+
 However	O
 ,	O
 the	O
@@ -1114,12 +1137,14 @@ under	O
 the	O
 jetty	O
 .	O
+
 What	O
 is	O
 there	O
 to	O
 hide	O
 ?	O
+
 Nobody	O
 ,	O
 even	O
@@ -1136,6 +1161,7 @@ Agalega	B-Organization	B-Location
 Fishing	I-Organization
 Industry	I-Organization
 .	O
+
 It	O
 is	O
 a	O
@@ -1157,6 +1183,7 @@ Container	I-Facility
 Terminal	I-Facility
 .	O
 ”	O
+
 XLD	B-Person
 fears	O
 that	O
@@ -1220,6 +1247,7 @@ Indian	B-Organization	B-NORP
 army	I-Organization
 .	O
 ”	O
+
 He	O
 also	O
 mentioned	O
@@ -1239,6 +1267,7 @@ the	O
 construction	O
 sites	O
 .	O
+
 “	O
 Go	O
 and	O
@@ -1260,6 +1289,7 @@ on	O
 the	O
 island	O
 .	O
+
 I	O
 ’m	O
 not	O
@@ -1270,6 +1300,7 @@ good	O
 or	O
 bad	O
 .	O
+
 I	O
 am	O
 just	O
@@ -1281,11 +1312,13 @@ a	O
 sovereign	O
 country	O
 .	O
+
 So	O
 is	O
 its	O
 Parliament	O
 .	O
+
 Therefore	O
 ,	O
 the	O

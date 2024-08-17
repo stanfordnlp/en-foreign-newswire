@@ -54,6 +54,7 @@ an	O
 alien	O
 invasion	O
 .	O
+
 Slash	B-Misc
 /	I-Misc
 Back	I-Misc
@@ -74,6 +75,7 @@ July	I-Date
 .	O
 
 APTN	B-Organization
+
 News	I-Organization
 sat	O
 down	O
@@ -123,6 +125,7 @@ APTN	B-Organization
 :	O
 Congratulations	O
 .	O
+
 I	O
 got	O
 to	O
@@ -149,6 +152,7 @@ and	O
 one	O
 tripod	O
 .	O
+
 How	O
 do	O
 you	O
@@ -159,6 +163,7 @@ film	O
 in	O
 Pang	B-Location
 ?	O
+
 Logistically	O
 ,	O
 how	O
@@ -187,6 +192,7 @@ everyone	O
 Nyla	B-Person
 Innuksuk	I-Person
 :	O
+
 It	O
 was	O
 a	O
@@ -201,6 +207,7 @@ the	O
 very	O
 beginning	O
 .	O
+
 We	O
 had	O
 been	O
@@ -233,6 +240,7 @@ community	O
 like	O
 Pang	B-Location
 .	O
+
 We	O
 really	O
 did	O
@@ -257,6 +265,7 @@ they	O
 have	O
 issues	O
 .	O
+
 Just	O
 getting	O
 access	O
@@ -272,6 +281,7 @@ in	O
 the	O
 Arctic	B-Location
 .	O
+
 There	O
 are	O
 n’t	O
@@ -280,6 +290,7 @@ homes	O
 for	O
 families	O
 .	O
+
 For	O
 us	O
 to	O
@@ -304,6 +315,7 @@ a	O
 big	O
 imposition	O
 .	O
+
 So	O
 we	O
 had	O
@@ -312,6 +324,7 @@ be	O
 really	O
 creative	O
 .	O
+
 One	O
 of	O
 my	O
@@ -352,6 +365,7 @@ was	O
 even	O
 possible	O
 .	O
+
 We	O
 went	O
 to	O
@@ -383,6 +397,7 @@ for	O
 other	O
 communities	O
 .	O
+
 Then	O
 we	O
 landed	O
@@ -427,6 +442,7 @@ make	O
 it	O
 here	O
 .	O
+
 So	O
 I	O
 went	O
@@ -457,6 +473,7 @@ for	O
 the	O
 summer	O
 .	O
+
 We	O
 ended	O
 up	O
@@ -483,6 +500,7 @@ crew	O
 and	O
 cast	O
 .	O
+
 They	O
 were	O
 living	O
@@ -502,6 +520,7 @@ and	O
 what	O
 there	O
 .	O
+
 It	O
 was	O
 a	O
@@ -513,6 +532,7 @@ bonded	O
 us	O
 all	O
 .	O
+
 All	O
 of	O
 the	O
@@ -534,6 +554,7 @@ in	O
 the	O
 community	O
 .	O
+
 Because	O
 of	O
 those	O
@@ -562,6 +583,7 @@ most	O
 amazing	O
 people	O
 .	O
+
 It	O
 was	O
 such	O
@@ -608,10 +630,12 @@ make	O
 it	O
 happen	O
 .	O
+
 APTN	B-Organization
 :	O
 Congratulations	O
 .	O
+
 I	O
 got	O
 to	O
@@ -638,6 +662,7 @@ and	O
 one	O
 tripod	O
 .	O
+
 How	O
 do	O
 you	O
@@ -648,6 +673,7 @@ film	O
 in	O
 Pang	B-Location
 ?	O
+
 Logistically	O
 ,	O
 how	O
@@ -676,6 +702,7 @@ everyone	O
 Nyla	B-Person
 Innuksuk	I-Person
 :	O
+
 It	O
 was	O
 a	O
@@ -690,6 +717,7 @@ the	O
 very	O
 beginning	O
 .	O
+
 We	O
 had	O
 been	O
@@ -722,6 +750,7 @@ community	O
 like	O
 Pang	B-Location
 .	O
+
 We	O
 really	O
 did	O
@@ -746,6 +775,7 @@ they	O
 have	O
 issues	O
 .	O
+
 Just	O
 getting	O
 access	O
@@ -761,6 +791,7 @@ in	O
 the	O
 Arctic	B-Location
 .	O
+
 There	O
 are	O
 n’t	O
@@ -769,6 +800,7 @@ homes	O
 for	O
 families	O
 .	O
+
 For	O
 us	O
 to	O
@@ -793,6 +825,7 @@ a	O
 big	O
 imposition	O
 .	O
+
 So	O
 we	O
 had	O
@@ -801,6 +834,7 @@ be	O
 really	O
 creative	O
 .	O
+
 One	O
 of	O
 my	O
@@ -841,6 +875,7 @@ was	O
 even	O
 possible	O
 .	O
+
 We	O
 went	O
 to	O
@@ -872,6 +907,7 @@ for	O
 other	O
 communities	O
 .	O
+
 Then	O
 we	O
 landed	O
@@ -916,6 +952,7 @@ make	O
 it	O
 here	O
 .	O
+
 So	O
 I	O
 went	O
@@ -946,6 +983,7 @@ for	O
 the	O
 summer	O
 .	O
+
 We	O
 ended	O
 up	O
@@ -972,6 +1010,7 @@ crew	O
 and	O
 cast	O
 .	O
+
 They	O
 were	O
 living	O
@@ -991,6 +1030,7 @@ and	O
 what	O
 there	O
 .	O
+
 It	O
 was	O
 a	O
@@ -1002,6 +1042,7 @@ bonded	O
 us	O
 all	O
 .	O
+
 All	O
 of	O
 the	O
@@ -1023,6 +1064,7 @@ in	O
 the	O
 community	O
 .	O
+
 Because	O
 of	O
 those	O
@@ -1051,6 +1093,7 @@ most	O
 amazing	O
 people	O
 .	O
+
 It	O
 was	O
 such	O
@@ -1107,6 +1150,7 @@ that	O
 teenage	O
 cast	O
 .	O
+
 I	O
 interviewed	O
 (	O
@@ -1132,6 +1176,7 @@ story	O
 last	O
 week	O
 .	O
+
 She	O
 ’s	O
 very	O
@@ -1142,6 +1187,7 @@ her	O
 daughter	O
 performed	O
 .	O
+
 How	O
 challenging	O
 is	O
@@ -1172,6 +1218,7 @@ kids	O
 are	O
 amazing	O
 .	O
+
 They	O
 ’re	O
 now	O
@@ -1183,6 +1230,7 @@ got	O
 drivers	O
 licenses	O
 .	O
+
 A	O
 lot	O
 of	O
@@ -1198,6 +1246,7 @@ exams	O
 right	O
 now	O
 .	O
+
 I	O
 ’ve	O
 known	O

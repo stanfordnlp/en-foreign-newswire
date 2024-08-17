@@ -75,6 +75,7 @@ book	O
 is	O
 published	O
 .	O
+
 He	O
 pointed	O
 out	O
@@ -197,6 +198,7 @@ to	O
 the	O
 media	O
 .	O
+
 Therefore	O
 ,	O
 it	O
@@ -396,6 +398,7 @@ Qatari	B-NORP
 literary	O
 product	O
 .	O
+
 He	O
 called	O
 on	O

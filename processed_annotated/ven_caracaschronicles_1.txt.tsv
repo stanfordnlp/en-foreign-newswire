@@ -8,6 +8,7 @@ continues	O
 to	O
 grow	O
 .	O
+
 According	O
 to	O
 Newzoo	B-Organization
@@ -54,6 +55,7 @@ of	O
 the	O
 year	O
 .	O
+
 This	O
 growth	O
 is	O
@@ -81,6 +83,7 @@ this	O
 emerging	O
 field	O
 .	O
+
 Last	O
 year	O
 ,	O
@@ -115,6 +118,7 @@ an	O
 Olympic	B-Misc
 sport	I-Misc
 .	O
+
 Later	O
 this	O
 month	O
@@ -141,6 +145,7 @@ soccer	O
 simulator	O
 FIFA	B-Organization
 .	O
+
 Esports	O
 are	O
 here	O
@@ -169,6 +174,7 @@ esports	O
 in	O
 Venezuela	B-Location
 .	O
+
 When	O
 we	O
 think	O
@@ -207,6 +213,7 @@ country	O
 complicated	O
 economy	O
 .	O
+
 However	O
 ,	O
 people	O
@@ -254,6 +261,7 @@ in	O
 the	O
 country	O
 .	O
+
 Recently	O
 ,	O
 Carlos	B-Person
@@ -284,6 +292,7 @@ Dota	B-Misc
 2	I-Misc
 league	O
 .	O
+
 There	O
 are	O
 similar	O
@@ -329,6 +338,7 @@ eVinotinto	B-Organization
 soccer	O
 team	O
 .	O
+
 Now	O
 ,	O
 the	O
@@ -376,6 +386,7 @@ doors	O
 last	O
 week	O
 .	O
+
 Located	O
 on	O
 UCAB	B-Organization
@@ -417,6 +428,7 @@ gamer	O
 aesthetic	O
 .	O
 ”	O
+
 Inside	O
 of	O
 its	O
@@ -453,6 +465,7 @@ on	O
 the	O
 market	O
 .	O
+
 The	O
 academy	O
 kicked	O
@@ -479,6 +492,7 @@ and	O
 their	O
 coach	O
 .	O
+
 This	O
 facility	O
 marks	O
@@ -617,6 +631,7 @@ Game	B-Misc
 Based	I-Misc
 Learning	I-Misc
 .	O
+
 Beginners	O
 can	O
 participate	O
@@ -646,6 +661,7 @@ Fortnite	B-Misc
 or	O
 Valorant	B-Misc
 .	O
+
 Those	O
 who	O
 want	O
@@ -678,6 +694,7 @@ to	O
 monetize	O
 them	O
 .	O
+
 Furthermore	O
 ,	O
 the	O
@@ -689,6 +706,7 @@ two	O
 additional	O
 areas	O
 .	O
+
 It	O
 will	O
 allow	O
@@ -774,6 +792,7 @@ standing	O
 in	O
 Fortnite	B-Misc
 .	O
+
 UCAB	B-Organization
 ’s	O
 dean	O
@@ -819,6 +838,7 @@ narrative	O
 and	O
 gameplay	O
 .	O
+
 This	O
 is	O
 a	O
@@ -837,6 +857,7 @@ and	O
 referees	O
 .	O
 ”	O
+
 There	O
 is	O
 a	O
@@ -863,6 +884,7 @@ to	O
 be	O
 players	O
 .	O
+
 Students	O
 under	O
 the	O
@@ -892,6 +914,7 @@ even	O
 esports	O
 journalism	O
 .	O
+
 In	O
 addition	O
 ,	O
@@ -937,6 +960,7 @@ fun	O
 and	O
 games	O
 .	O
+
 Under	O
 its	O
 umbrella	O
@@ -971,6 +995,7 @@ and	O
 abstract	O
 thinking	O
 .	O
+
 Among	O
 these	O
 ,	O
@@ -1053,6 +1078,7 @@ Law	O
 and	O
 Journalism	O
 .	O
+
 However	O
 ,	O
 in	O
@@ -1089,6 +1115,7 @@ of	O
 community	O
 work	O
 .	O
+
 In	O
 recent	O
 months	O
@@ -1106,6 +1133,7 @@ an	O
 esports	O
 academy	O
 .	O
+
 UCAB	B-Organization
 has	O
 surely	O
@@ -1124,6 +1152,7 @@ education	O
 in	O
 Venezuela	B-Location
 .	O
+
 Kudos	O
 .	O
 

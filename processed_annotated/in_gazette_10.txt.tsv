@@ -31,6 +31,7 @@ the	O
 Jungle	B-Misc
 Satyagraha	I-Misc
 .	O
+
 Reportedly	O
 ,	O
 it	O
@@ -76,6 +77,7 @@ in	O
 the	O
 Satyagraha	B-Misc
 .	O
+
 Hedgewar	B-Person
 was	O
 jailed	O
@@ -90,6 +92,7 @@ government	O
 later	O
 commuted	O
 .	O
+
 However	O
 ,	O
 this	O
@@ -146,6 +149,7 @@ to	O
 the	O
 contrary	O
 .	O
+
 The	O
 Jungle	B-Misc
 Satyagraha	I-Misc
@@ -203,6 +207,7 @@ Congress	B-Organization
 Nationalist	I-Organization
 Party	I-Organization
 .	O
+
 Aney	B-Person
 also	O
 wrote	O
@@ -241,6 +246,7 @@ Satyagraha	B-Misc
 was	O
 simple	O
 .	O
+
 It	O
 was	O
 a	O
@@ -267,6 +273,7 @@ and	O
 forest	O
 produce	O
 .	O
+
 The	O
 Maharashtra	B-Organization
 State	I-Organization
@@ -296,6 +303,7 @@ of	O
 the	O
 country	O
 .	O
+
 MV	B-Person
 Abhyankar	I-Person
 and	O
@@ -307,6 +315,7 @@ for	O
 their	O
 protests	O
 .	O
+
 On	O
 10	B-Date
 July	I-Date
@@ -326,6 +335,7 @@ Forest	B-Location
 Satyagraha	I-Location
 ’	O
 .	O
+
 With	O
 the	O
 party	O
@@ -347,6 +357,7 @@ and	O
 was	O
 arrested	O
 .	O
+
 He	O
 was	O
 charged	O
@@ -373,6 +384,7 @@ Provinces	I-Location
 and	O
 Berar	B-Location
 .	O
+
 The	O
 Gond	B-NORP
 and	O
@@ -431,6 +443,7 @@ Gandhi	B-Person
 Salt	B-Misc
 Satyagraha	I-Misc
 ?	O
+
 Why	O
 hand	O
 it	O
@@ -494,6 +507,7 @@ the	O
 Satyagraha	B-Misc
 ”	O
 .	O
+
 ‘	B-Misc
 Sangh	I-Misc
 Vriksh	I-Misc
@@ -524,6 +538,7 @@ biography	O
 of	O
 Hedgewar	B-Person
 .	O
+
 It	O
 has	O
 details	O
@@ -534,6 +549,7 @@ organisation	O
 then	O
 thought	O
 .	O
+
 He	O
 writes	O
 ,	O
@@ -553,6 +569,7 @@ of	O
 the	O
 government	O
 .	O
+
 Gandhi	B-Person
 himself	O
 launched	O
@@ -562,6 +579,7 @@ undertaking	O
 Dandi	B-Misc
 Yatra	I-Misc
 .	O
+
 Dr	O
 Saheb	B-Person
 [	I-Person
@@ -580,6 +598,7 @@ in	O
 the	O
 Satyagraha	B-Misc
 .	O
+
 However	O
 ,	O
 those	O
@@ -593,6 +612,7 @@ were	O
 not	O
 prohibited	O
 .	O
+
 This	O
 meant	O
 that	O
@@ -626,6 +646,7 @@ his	O
 personal	O
 capacity	O
 .	O
+
 The	O
 idea	O
 was	O
@@ -661,6 +682,7 @@ the	O
 future	O
 .	O
 ”	O
+
 These	O
 sentences	O
 are	O
@@ -733,6 +755,7 @@ join	O
 the	O
 movement	O
 .	O
+
 “	O
 ‘	O
 If	O
@@ -751,6 +774,7 @@ for	O
 it	O
 ?	O
 ’	O
+
 When	O
 these	O
 youth	O
@@ -847,6 +871,7 @@ the	O
 freedom	O
 struggle	O
 .	O
+
 All	O
 of	O
 these	O
@@ -893,6 +918,7 @@ world	O
 was	O
 emerging	O
 .	O
+
 Yet	O
 he	O
 yearned	O
@@ -920,6 +946,7 @@ than	O
 British	B-NORP
 colonialists	O
 .	O
+
 He	O
 failed	O
 to	O
@@ -929,6 +956,7 @@ pulse	O
 of	O
 history	O
 .	O
+
 Stubbornness	O
 kept	O
 him	O

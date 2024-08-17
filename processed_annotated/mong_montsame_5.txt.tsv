@@ -5,6 +5,7 @@ Ulaanbaatar	B-Location
 MONTSAME	B-Organization
 /	O
 .	O
+
 During	O
 his	O
 working	O
@@ -106,6 +107,7 @@ plant	O
 are	O
 prioritized	O
 .	O
+
 In	O
 this	O
 regard	O
@@ -165,6 +167,7 @@ Erdeneburen	B-Facility	B-Location
 HPP	I-Facility
 project	O
 .	O
+
 In	O
 accordance	O
 with	O
@@ -191,6 +194,7 @@ between	O
 and	O
 2025	B-Date
 .	O
+
 Funding	O
 required	O
 to	O
@@ -232,6 +236,7 @@ priority	O
 for	O
 Mongolia	B-Location
 .	O
+
 One	O
 of	O
 the	O

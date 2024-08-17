@@ -19,6 +19,7 @@ tackle	O
 illegal	O
 commerce	O
 .	O
+
 It	O
 involves	O
 heightened	O
@@ -30,6 +31,7 @@ by	O
 private	O
 security	O
 .	O
+
 Initially	O
 ,	O
 the	O
@@ -82,6 +84,7 @@ and	O
 La	B-Location
 Florida	I-Location
 .	O
+
 It	O
 involves	O
 150	O

@@ -131,6 +131,7 @@ the	O
 gala	O
 dinner	O
 .	O
+
 In	O
 attendance	O
 ,	O
@@ -146,6 +147,7 @@ businessmen	O
 and	O
 women	O
 .	O
+
 We	O
 are	O
 looking	O
@@ -344,6 +346,7 @@ as	O
 ANC	B-Organization
 employees	O
 .	O
+
 Only	O
 medical	O
 aid	O

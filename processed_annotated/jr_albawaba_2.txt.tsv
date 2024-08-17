@@ -25,6 +25,7 @@ new	O
 prime	O
 minister	O
 .	O
+
 The	O
 order	O
 assigns	O
@@ -40,6 +41,7 @@ Kuwait	B-Location
 new	O
 Cabinet	B-Organization
 .	O
+
 Sheikh	O
 Ahmad	B-Person
 most	O
@@ -125,6 +127,7 @@ Agency	I-Organization
 KUNA	B-Organization
 )	O
 .	O
+
 “	O
 Sheikh	O
 Ahmad	B-Person
@@ -215,6 +218,7 @@ to	O
 the	O
 statement	O
 .	O
+
 “	O
 His	O
 Highness	O
@@ -285,6 +289,7 @@ new	O
 prime	O
 minister	O
 .	O
+
 In	O
 a	O
 statement	O

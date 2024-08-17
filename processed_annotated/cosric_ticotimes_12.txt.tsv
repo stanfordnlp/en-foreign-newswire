@@ -15,6 +15,7 @@ a	O
 wooden	O
 hive	O
 .	O
+
 The	O
 reaction	O
 is	O
@@ -34,6 +35,7 @@ a	O
 buzzing	O
 cloud	O
 .	O
+
 Lustosa	B-Person
 wears	O
 no	O
@@ -53,6 +55,7 @@ cover	O
 his	O
 face	O
 .	O
+
 These	O
 bees	O
 are	O
@@ -451,6 +454,7 @@ beekeeper	O
 and	O
 ecologist	O
 .	O
+
 “	O
 For	O
 this	O
@@ -525,6 +529,7 @@ agriculture	O
 says	O
 Menezes	B-Person
 .	O
+
 Native	O
 bees	O
 produce	O
@@ -541,6 +546,7 @@ lower	O
 sugar	O
 content	O
 .	O
+
 The	O
 flavor	O
 and	O
@@ -623,6 +629,7 @@ locally	O
 based	O
 cuisine	O
 .	O
+
 Honey	O
 from	O
 the	O
@@ -670,6 +677,7 @@ Atala	B-Person
 told	O
 AFP	B-Organization
 .	O
+
 “	O
 Eating	O
 our	O

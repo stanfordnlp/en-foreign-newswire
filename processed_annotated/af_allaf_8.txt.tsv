@@ -36,6 +36,7 @@ July	I-Date
 ,	I-Date
 2022	I-Date
 .	O
+
 The	O
 new	O
 toll	O
@@ -66,6 +67,7 @@ the	O
 displaced	O
 .	O
 "	O
+
 The	O
 minister	O
 was	O
@@ -128,6 +130,7 @@ Berti	B-NORP
 ethnic	O
 groups	O
 .	O
+
 A	O
 prominent	O
 Hausa	B-NORP
@@ -156,6 +159,7 @@ to	O
 land	O
 "	O
 .	O
+
 But	O
 a	O
 senior	O
@@ -214,6 +218,7 @@ war	O
 AFP	B-Organization
 reports	O
 .	O
+
 The	O
 nation	O
 has	O

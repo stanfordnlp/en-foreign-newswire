@@ -6,6 +6,7 @@ CITY	I-Location
 July	B-Date
 25	I-Date
 :	O
+
 To	O
 protect	O
 the	O
@@ -140,6 +141,7 @@ rank	O
 or	O
 position	O
 .	O
+
 The	O
 sources	O
 said	O

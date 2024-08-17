@@ -48,6 +48,7 @@ the	O
 Prime	O
 Minister	O
 .	O
+
 Narendra	B-Person
 Modi	I-Person
 was	O
@@ -61,11 +62,13 @@ arrogant	O
 he	O
 said	O
 .	O
+
 This	O
 was	O
 not	O
 all	O
 .	O
+
 He	O
 quoted	O
 Amit	B-Person
@@ -81,6 +84,7 @@ Minister	O
 mental	O
 balance	O
 .	O
+
 Malik	B-Person
 has	O
 not	O
@@ -92,6 +96,7 @@ Governor	O
 of	O
 Meghalaya	B-Location
 .	O
+
 He	O
 clashed	O
 with	O
@@ -103,6 +108,7 @@ issue	O
 of	O
 farmers	O
 .	O
+
 Is	O
 that	O
 the	O
@@ -136,6 +142,7 @@ are	O
 perking	O
 up	O
 .	O
+
 On	O
 political	O
 issues	O
@@ -160,6 +167,7 @@ of	O
 infirm	O
 veracity	O
 .	O
+
 “	O
 Inside	O
 ”	O
@@ -171,6 +179,7 @@ the	O
 more	O
 unreliable	O
 .	O
+
 But	O
 when	O
 more	O
@@ -210,6 +219,7 @@ BJP	B-Organization
 in	O
 UP	B-Location
 .	O
+
 The	O
 more	O
 adventurous	O
@@ -222,6 +232,7 @@ down	O
 to	O
 125	O
 .	O
+
 Why	O
 would	O
 the	O
@@ -266,6 +277,7 @@ positive	O
 for	O
 himself	O
 .	O
+
 Look	O
 at	O
 the	O
@@ -282,6 +294,7 @@ for	O
 20	O
 minutes	O
 .	O
+
 Had	O
 he	O
 travelled	O
@@ -298,6 +311,7 @@ almost	O
 absent	O
 audience	O
 .	O
+
 That	O
 is	O
 why	O
@@ -312,12 +326,14 @@ a	O
 traffic	O
 jam	O
 .	O
+
 This	O
 is	O
 the	O
 opposition	O
 narrative	O
 .	O
+
 His	O
 version	O
 is	O
@@ -329,6 +345,7 @@ exposed	O
 to	O
 danger	O
 .	O
+
 Temples	O
 have	O
 been	O
@@ -354,6 +371,7 @@ peaking	O
 in	O
 February	B-Date
 .	O
+
 Surely	O
 this	O
 will	O
@@ -366,6 +384,7 @@ to	O
 Covid	B-Misc
 norms	O
 .	O
+
 Look	O
 how	O
 the	O
@@ -380,6 +399,7 @@ Year	I-Misc
 eve	I-Misc
 jamboree	O
 .	O
+
 Can	O
 political	O
 rallies	O
@@ -389,6 +409,7 @@ in	O
 these	O
 circumstances	O
 ?	O
+
 Priyanka	B-Person
 Gandhi	I-Person
 has	O
@@ -403,6 +424,7 @@ for	O
 two	O
 weeks	O
 .	O
+
 Is	O
 there	O
 a	O
@@ -428,6 +450,7 @@ the	O
 ruling	O
 party	O
 ?	O
+
 Should	O
 this	O
 happen	O
@@ -489,6 +512,7 @@ a	O
 reasonable	O
 period	O
 .	O
+
 This	O
 line	O
 of	O
@@ -512,6 +536,7 @@ time	O
 of	O
 google	O
 .	O
+
 This	O
 advertising	O
 blitz	O

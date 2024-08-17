@@ -22,6 +22,7 @@ Physics	I-Misc
 and	I-Misc
 Chemistry	I-Misc
 .	O
+
 The	O
 Emirati	B-NORP
 student	O
@@ -57,6 +58,7 @@ three	O
 bronze	O
 medals	O
 .	O
+
 The	O
 chemistry	O
 team	O
@@ -192,6 +194,7 @@ emulates	O
 national	O
 trends	O
 .	O
+
 This	O
 is	O
 realised	O

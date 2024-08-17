@@ -26,6 +26,7 @@ diesel	O
 electric	O
 submarine	O
 .	O
+
 What	O
 is	O
 the	O
@@ -69,6 +70,7 @@ for	O
 35	O
 years	O
 .	O
+
 It	O
 was	O
 commissioned	O
@@ -121,6 +123,7 @@ ten	O
 more	O
 years	O
 .	O
+
 At	O
 least	O
 three	O
@@ -145,6 +148,7 @@ few	O
 years	O
 back	O
 .	O
+
 The	O
 strength	O
 of	O
@@ -227,6 +231,7 @@ Kilo	B-Misc
 Class	I-Misc
 submarines	O
 .	O
+
 All	O
 Kilo	B-Misc
 Class	I-Misc
@@ -312,6 +317,7 @@ service	O
 by	O
 2023	B-Date
 .	O
+
 The	O
 Navy	B-Organization
 has	O
@@ -390,6 +396,7 @@ the	O
 qualitative	O
 requirements	O
 .	O
+
 As	O
 per	O
 latest	O
@@ -470,6 +477,7 @@ powered	O
 attack	O
 submarines	O
 .	O
+
 It	O
 is	O
 expected	O

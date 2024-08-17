@@ -7,6 +7,7 @@ is	O
 years	O
 old	O
 .	O
+
 He	O
 exceeded	O
 the	O
@@ -22,6 +23,7 @@ currently	O
 77.25	O
 years	O
 .	O
+
 He	O
 affirms	O
 that	O
@@ -43,6 +45,7 @@ reached	O
 that	O
 age	O
 .	O
+
 “	O
 I	O
 hope	O
@@ -75,6 +78,7 @@ year	O
 after	O
 year	O
 .	O
+
 In	O
 2018	B-Date
 ,	O
@@ -96,6 +100,7 @@ was	O
 74	O
 years	O
 .	O
+
 In	O
 this	O
 2022	B-Date
@@ -124,6 +129,7 @@ of	O
 77.25	O
 years	O
 .	O
+
 If	O
 we	O
 compare	O
@@ -287,6 +293,7 @@ country	O
 health	O
 system	O
 :	O
+
 “	O
 We	O
 are	O
@@ -309,6 +316,7 @@ arsenal	O
 so	O
 much	O
 .	O
+
 pharmacological	O
 ,	O
 diagnostic	O
@@ -335,6 +343,7 @@ it	O
 is	O
 lousy	O
 .	O
+
 What	O
 has	O
 improved	O
@@ -379,6 +388,7 @@ and	O
 chronic	O
 diseases	O
 .	O
+
 There	O
 are	O
 also	O
@@ -400,6 +410,7 @@ Bucaram	B-Person
 points	O
 out	O
 .	O
+
 In	O
 the	O
 past	O
@@ -421,6 +432,7 @@ overcome	O
 with	O
 vaccinations	O
 .	O
+
 In	O
 addition	O
 ,	O
@@ -542,6 +554,7 @@ impact	O
 life	O
 expectancy	O
 .	O
+
 Matheo	B-Person
 is	O
 2	O
@@ -558,6 +571,7 @@ malnutrition	O
 and	O
 overweight	O
 .	O
+
 His	O
 mother	O
 ,	O
@@ -581,6 +595,7 @@ to	O
 be	O
 healthy	O
 .	O
+
 Soft	O
 drinks	O
 ,	O
@@ -595,6 +610,7 @@ the	O
 daily	O
 diet	O
 .	O
+
 In	O
 Ecuador	B-Location
 ,	O
@@ -612,6 +628,7 @@ from	O
 chronic	O
 malnutrition	O
 .	O
+
 The	O
 situation	O
 is	O
@@ -635,6 +652,7 @@ must	O
 be	O
 corrected	O
 .	O
+
 I	O
 believe	O
 that	O
@@ -674,6 +692,7 @@ of	O
 a	O
 person	O
 .	O
+
 No	O
 child	O
 should	O
@@ -719,6 +738,7 @@ of	O
 health	O
 prevention	O
 .	O
+
 He	O
 indicates	O
 that	O
@@ -793,6 +813,7 @@ income	O
 or	O
 time	O
 .	O
+
 Many	O
 people	O
 work	O
@@ -816,6 +837,7 @@ buy	O
 good	O
 food	O
 .	O
+
 Eating	O
 healthy	O
 should	O
@@ -892,6 +914,7 @@ will	O
 simultaneously	O
 decrease	O
 .	O
+
 years	O
 of	O
 age	O
@@ -900,6 +923,7 @@ continue	O
 to	O
 increase	O
 .	O
+
 In	O
 Ecuador	B-Location
 there	O
@@ -933,6 +957,7 @@ lives	O
 in	O
 poverty	O
 .	O
+
 The	O
 majority	O
 of	O
@@ -1095,6 +1120,7 @@ health	O
 benefits	O
 either	O
 .	O
+
 “	O
 In	O
 Ecuador	B-Location
@@ -1206,6 +1232,7 @@ of	O
 $	B-Money
 50	I-Money
 .	O
+
 Although	O
 this	O
 is	O
@@ -1266,6 +1293,7 @@ $	B-Money
 a	O
 day	O
 .	O
+
 This	O
 also	O
 makes	O
@@ -1400,6 +1428,7 @@ timely	O
 treatment	O
 ”	O
 .	O
+
 In	O
 addition	O
 ,	O
@@ -1428,6 +1457,7 @@ or	O
 discard	O
 medicines	O
 .	O
+
 (	O
 I	O
 )	O

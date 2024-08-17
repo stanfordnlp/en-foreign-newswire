@@ -91,6 +91,7 @@ married	O
 last	O
 week	O
 .	O
+
 Shejin	B-Person
 and	O
 Joisna	B-Person
@@ -103,6 +104,7 @@ relationship	O
 for	O
 months	O
 .	O
+
 Joisna	B-Person
 had	O
 arrived	O
@@ -121,6 +123,7 @@ with	O
 another	O
 man	O
 .	O
+
 However	O
 ,	O
 she	O
@@ -159,6 +162,7 @@ love	B-Misc
 jihad	I-Misc
 ”	O
 .	O
+
 Joisna	B-Person
 ,	O
 while	O
@@ -180,6 +184,7 @@ own	O
 free	O
 will	O
 .	O
+
 As	O
 the	O
 family	O
@@ -261,6 +266,7 @@ in	O
 the	O
 area	O
 .	O
+
 “	O
 If	O
 they	O
@@ -309,6 +315,7 @@ were	O
 more	O
 damaging	O
 .	O
+
 Thomas	B-Person
 said	O
 that	O
@@ -375,6 +382,7 @@ last	O
 Assembly	B-Organization
 elections	O
 .	O
+
 So	O
 also	O
 did	O
@@ -547,6 +555,7 @@ jihad	I-Misc
 ”	O
 controversy	O
 .	O
+
 In	O
 2015	B-Date
 ,	O
@@ -649,6 +658,7 @@ persons	O
 in	O
 authority	O
 .	O
+
 The	O
 BJP	B-Organization
 ,	O
@@ -701,6 +711,7 @@ love	B-Misc
 jihad	I-Misc
 ”	O
 .	O
+
 Though	O
 senior	O
 leaders	O
@@ -758,6 +769,7 @@ the	O
 wrong	O
 way	O
 .	O
+
 It	O
 dates	O
 back	O
@@ -779,11 +791,13 @@ October	B-Date
 ,	I-Date
 2006	I-Date
 .	O
+
 He	O
 was	O
 an	O
 atheist	O
 .	O
+
 But	O
 after	O
 his	O
@@ -988,6 +1002,7 @@ in	O
 the	O
 state	O
 .	O
+
 The	O
 reason	O
 given	O
@@ -1053,6 +1068,7 @@ of	O
 the	O
 UDF	B-Organization
 .	O
+
 That	O
 means	O
 in	O
@@ -1072,6 +1088,7 @@ Muslim	B-NORP
 Chief	O
 Minister	O
 .	O
+
 This	O
 had	O
 cost	O
@@ -1094,6 +1111,7 @@ in	O
 central	O
 Kerala	B-Location
 .	O
+
 Votes	O
 in	O
 central	O
@@ -1141,6 +1159,7 @@ George	B-Person
 M	I-Person
 Thomas	I-Person
 .	O
+
 But	O
 the	O
 people	O
@@ -1153,6 +1172,7 @@ just	O
 another	O
 eyewash	O
 .	O
+
 For	O
 ,	O
 George	B-Person
@@ -1166,6 +1186,7 @@ Syro	B-Organization
 Malabar	I-Organization
 Church	I-Organization
 !	O
+
 The	O
 party	O
 dare	O
@@ -1208,6 +1229,7 @@ its	O
 vote	O
 bank	O
 .	O
+
 Any	O
 amount	O
 of	O
@@ -1226,6 +1248,7 @@ party	O
 in	O
 power	O
 .	O
+
 Hold	O
 on	O
 to	O

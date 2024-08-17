@@ -86,6 +86,7 @@ his	O
 healing	O
 technique	O
 .	O
+
 She	O
 also	O
 tried	O
@@ -125,6 +126,7 @@ Shareef	B-Person
 several	O
 times	O
 .	O
+
 But	O
 she	O
 told	O
@@ -154,6 +156,7 @@ husband	O
 business	O
 ”	O
 .	O
+
 “	O
 After	O
 sustained	O
@@ -234,6 +237,7 @@ hounded	O
 by	O
 Ashraf	B-Person
 .	O
+
 Later	O
 ,	O
 they	O
@@ -265,6 +269,7 @@ his	O
 torture	O
 sessions	O
 .	O
+
 They	O
 also	O
 admitted	O
@@ -317,6 +322,7 @@ over	O
 one	O
 year	O
 .	O
+
 Ashraf	B-Person
 was	O
 planning	O
@@ -388,6 +394,7 @@ by	O
 the	O
 SIT	B-Organization
 .	O
+
 Among	O
 nine	O
 gangsters	O
@@ -431,6 +438,7 @@ in	O
 Abu	B-Location
 Dhabi	I-Location
 .	O
+
 Ashraf	B-Person
 ’s	O
 former	O
@@ -470,6 +478,7 @@ suicide	O
 pact	O
 .	O
 ”	O
+
 The	O
 SIT	B-Organization
 found	O
@@ -491,6 +500,7 @@ the	O
 twin	O
 murder	O
 .	O
+
 During	O
 questioning	O
 the	O

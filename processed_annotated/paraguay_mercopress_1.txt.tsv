@@ -128,6 +128,7 @@ Moreno	B-Person
 explained	O
 Thursday	B-Date
 .	O
+
 “	O
 We	O
 are	O
@@ -180,12 +181,14 @@ to	O
 the	O
 crossing	O
 .	O
+
 “	O
 We	O
 are	O
 well	O
 staffed	O
 .	O
+
 It	O
 is	O
 a	O
@@ -204,6 +207,7 @@ little	O
 more	O
 congestion	O
 .	O
+
 We	O
 are	O
 going	O
@@ -492,6 +496,7 @@ be	O
 carried	O
 out	O
 .	O
+
 The	O
 procedure	O
 may	O
@@ -549,6 +554,7 @@ or	O
 vice	O
 versa	O
 .	O
+
 Customs	B-Organization
 and	I-Organization
 Gendarmerie	I-Organization

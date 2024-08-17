@@ -25,6 +25,7 @@ is	O
 not	O
 good	O
 .	O
+
 Manager	O
 Reinaldo	B-Person
 Rueda	I-Person
@@ -66,6 +67,7 @@ the	O
 other	O
 contenders	O
 .	O
+
 Los	B-Organization
 Cafeteros	I-Organization
 need	O
@@ -120,6 +122,7 @@ by	O
 Luis	B-Person
 Díaz	I-Person
 .	O
+
 El	B-Person
 guajiro	I-Person
 earned	O
@@ -147,6 +150,7 @@ the	O
 Champions	B-Misc
 League	I-Misc
 .	O
+
 They	O
 are	O
 without	O
@@ -195,6 +199,7 @@ as	O
 centre	O
 back	O
 .	O
+
 Familiar	O
 faces	O
 like	O
@@ -230,6 +235,7 @@ break	O
 seems	O
 doable	O
 .	O
+
 Bolivia	B-Location
 have	O
 collected	O
@@ -262,6 +268,7 @@ expected	O
 from	O
 them	O
 .	O
+
 Venezuela	B-Location
 are	O
 bottom	O
@@ -301,6 +308,7 @@ American	I-NORP
 qualification	O
 tournament	O
 .	O
+
 On	O
 top	O
 of	O
@@ -340,6 +348,7 @@ in	O
 recent	O
 history	O
 .	O
+
 Pékerman	B-Person
 lead	O
 them	O
@@ -375,6 +384,7 @@ extend	O
 his	O
 contract	O
 .	O
+
 The	O
 Argentinian	B-NORP
 manager	O

@@ -11,6 +11,7 @@ Jul	B-Date
 IPS	B-Organization
 )	O
 -	O
+
 The	O
 current	O
 Ukraine	B-Location
@@ -41,6 +42,7 @@ are	O
 still	O
 rife	O
 .	O
+
 Such	O
 is	O
 the	O
@@ -86,6 +88,7 @@ than	O
 a	O
 decade	O
 .	O
+
 A	O
 situation	O
 further	O
@@ -149,6 +152,7 @@ approximately	O
 150	O
 million	O
 .	O
+
 They	O
 share	O
 a	O
@@ -183,6 +187,7 @@ Human	B-Misc
 Development	I-Misc
 Index	I-Misc
 .	O
+
 According	O
 to	O
 the	O
@@ -221,6 +226,7 @@ conflict	O
 and	O
 drought	O
 .	O
+
 They	O
 no	O
 longer	O
@@ -257,6 +263,7 @@ long	O
 term	O
 solution	O
 .	O
+
 More	O
 coordinated	O
 responses	O
@@ -271,6 +278,7 @@ crisis	O
 are	O
 required	O
 .	O
+
 For	O
 this	O
 reason	O
@@ -336,6 +344,7 @@ affected	O
 Sahel	B-Location
 countries	O
 .	O
+
 Together	O
 and	O
 with	O
@@ -373,6 +382,7 @@ successful	O
 pilot	O
 activities	O
 .	O
+
 Through	O
 it	O
 ,	O
@@ -434,6 +444,7 @@ with	O
 national	O
 governments	O
 .	O
+
 Currently	O
 ,	O
 IFAD	B-Organization
@@ -502,6 +513,7 @@ international	O
 agencies	O
 concerned	O
 .	O
+
 This	O
 is	O
 for	O

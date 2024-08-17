@@ -27,6 +27,7 @@ country	O
 opposition	O
 leaders	O
 .	O
+
 “	O
 These	O
 reprehensible	O
@@ -62,6 +63,7 @@ a	O
 press	O
 statement	O
 .	O
+
 He	O
 noted	O
 that	O
@@ -103,6 +105,7 @@ their	O
 fundamental	O
 freedoms	O
 .	O
+
 “	O
 Since	O
 the	O
@@ -202,6 +205,7 @@ to	O
 extinguish	O
 democracy	O
 .	O
+
 “	O
 These	O
 actions	O
@@ -224,6 +228,7 @@ top	O
 diplomat	O
 added	O
 .	O
+
 He	O
 assured	O
 that	O
@@ -396,6 +401,7 @@ supposed	O
 to	O
 protect	O
 .	O
+
 “	O
 They	O
 will	O
@@ -452,6 +458,7 @@ without	O
 further	O
 delay	O
 .	O
+
 Further	O
 ,	O
 the	O
@@ -479,6 +486,7 @@ a	O
 democratic	O
 path	O
 .	O
+
 (	O
 KUNA	B-Organization
 )	O

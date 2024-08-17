@@ -4,6 +4,7 @@ Mumbai	B-Location
 ,	I-Location
 India	I-Location
 –	O
+
 In	O
 February	B-Date
 last	O
@@ -99,6 +100,7 @@ of	O
 the	O
 men	O
 .	O
+
 Out	O
 of	O
 earshot	O
@@ -162,6 +164,7 @@ purity	O
 test	O
 ”	O
 .	O
+
 The	O
 ritual	O
 involved	O
@@ -214,6 +217,7 @@ the	O
 coin	O
 out	O
 .	O
+
 Within	O
 days	O
 ,	O
@@ -363,6 +367,7 @@ between	O
 and	O
 2020	B-Date
 .	O
+
 The	O
 data	O
 said	O
@@ -438,6 +443,7 @@ at	O
 5.4	O
 percent	O
 .	O
+
 For	O
 comparison	O
 ’s	O
@@ -588,6 +594,7 @@ caste	O
 and	O
 gender	O
 .	O
+
 It	O
 ’s	O
 Dalit	B-NORP
@@ -719,6 +726,7 @@ go	O
 to	O
 trial	O
 .	O
+
 At	O
 each	O
 step	O
@@ -800,6 +808,7 @@ dominant	O
 caste	O
 men	O
 .	O
+
 “	O
 This	O
 case	O
@@ -869,6 +878,7 @@ victims	O
 said	O
 Salve	B-Person
 .	O
+
 The	O
 victim	O
 shaming	O
@@ -900,6 +910,7 @@ be	O
 no	O
 justice	O
 .	O
+
 Owing	O
 to	O
 their	O
@@ -951,6 +962,7 @@ often	O
 leave	O
 home	O
 .	O
+
 “	O
 Two	O
 cases	O
@@ -998,6 +1010,7 @@ troubling	O
 Salve	B-Person
 said	O
 .	O
+
 “	O
 When	O
 I	O
@@ -1041,6 +1054,7 @@ the	O
 report	O
 said	O
 .	O
+
 On	O
 average	O
 ,	O
@@ -1059,6 +1073,7 @@ to	O
 three	O
 months	O
 .	O
+
 Additionally	O
 ,	O
 since	O
@@ -1122,6 +1137,7 @@ coordinator	O
 at	O
 Manuski	B-Organization
 .	O
+
 “	O
 They	O
 do	O
@@ -1213,6 +1229,7 @@ to	O
 the	O
 courtroom	O
 .	O
+
 “	O
 [	O
 We	O
@@ -1316,6 +1333,7 @@ victim	O
 she	O
 said	O
 .	O
+
 “	O
 And	O
 when	O
@@ -1367,6 +1385,7 @@ out	O
 on	O
 camera	O
 .	O
+
 “	O
 It	O
 ’s	O
@@ -1502,6 +1521,7 @@ a	O
 ruptured	O
 hymen	O
 .	O
+
 It	O
 was	O
 banned	O
@@ -1513,6 +1533,7 @@ Court	I-Organization
 in	O
 2013	B-Date
 .	O
+
 Of	O
 the	O
 survivors	O
@@ -1630,6 +1651,7 @@ that	O
 said	O
 Pradeep	B-Person
 .	O
+
 “	O
 There	O
 is	O
@@ -1655,6 +1677,7 @@ Pankhan	B-Location
 [	O
 …	O
 ]	O
+
 she	O
 was	O
 asked	O

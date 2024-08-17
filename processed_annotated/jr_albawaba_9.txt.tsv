@@ -132,6 +132,7 @@ added	O
 
 Brig	O
 .	O
+
 Al	B-Person
 Razooqi	I-Person
 further	O
@@ -163,6 +164,7 @@ during	O
 GITEX	B-Misc
 2022	I-Misc
 .	O
+
 He	O
 confirmed	O
 that	O
@@ -252,6 +254,7 @@ and	O
 Saudi	B-Location
 Arabia	I-Location
 .	O
+
 The	O
 total	O
 views	O
@@ -326,6 +329,7 @@ creation	O
 and	O
 owner	O
 .	O
+
 NFT	O
 -	O
 related	O
@@ -382,6 +386,7 @@ and	O
 on	O
 Instagram	B-Organization
 .	O
+
 The	O
 announcement	O
 hit	O

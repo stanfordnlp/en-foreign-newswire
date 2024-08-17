@@ -123,6 +123,7 @@ seen	O
 the	O
 following	O
 :	O
+
 In	O
 2014	B-Date
 at	O
@@ -165,6 +166,7 @@ the	O
 Tokyo	I-Misc	B-Location
 Olympics	I-Misc
 .	I-Misc
+
 In	O
 2016	B-Date
 Advocate	O

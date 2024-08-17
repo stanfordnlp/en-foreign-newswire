@@ -148,6 +148,7 @@ very	O
 timorous	O
 .	O
 ”	O
+
 He	O
 meant	O
 “	O
@@ -178,6 +179,7 @@ there	O
 were	O
 contradictions	O
 .	O
+
 Something	O
 was	O
 done	O
@@ -211,6 +213,7 @@ production	O
 and	O
 sales	O
 .	O
+
 There	O
 are	O
 currently	O
@@ -254,6 +257,7 @@ follow	O
 this	O
 path	O
 .	O
+
 “	O
 It	O
 is	O
@@ -269,6 +273,7 @@ resentment	O
 and	O
 fear	O
 .	O
+
 The	O
 world	O
 does	O
@@ -294,6 +299,7 @@ without	O
 a	O
 market	O
 .	O
+
 Until	O
 now	O
 ,	O
@@ -317,6 +323,7 @@ to	O
 rot	O
 everything	O
 .	O
+
 What	O
 are	O
 we	O
@@ -330,8 +337,10 @@ a	O
 repressive	O
 policy	O
 ?	O
+
 Nothing	O
 .	O
+
 I	O
 am	O
 in	O
@@ -377,6 +386,7 @@ in	O
 the	O
 underground	O
 .	O
+
 The	O
 money	O
 we	O
@@ -389,6 +399,7 @@ spent	O
 on	O
 recovery	O
 .	O
+
 Besides	O
 ,	O
 drug	O
@@ -440,6 +451,7 @@ do	O
 not	O
 learn	O
 .	O
+
 I	O
 know	O
 I	O
@@ -535,6 +547,7 @@ be	O
 involved	O
 .	O
 ”	O
+
 Lacalle	B-Person
 is	O
 the	O

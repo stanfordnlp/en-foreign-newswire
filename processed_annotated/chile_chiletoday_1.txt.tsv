@@ -21,6 +21,7 @@ in	O
 southern	O
 Chile	B-Location
 .	O
+
 The	O
 call	O
 is	O
@@ -42,6 +43,7 @@ called	O
 Macrozona	B-Location
 Sur	I-Location
 .	O
+
 The	O
 proposed	O
 measures	O
@@ -98,6 +100,7 @@ Wednesday	B-Date
 May	B-Date
 11	I-Date
 .	O
+
 The	O
 call	O
 to	O
@@ -141,6 +144,7 @@ safeguard	O
 critical	O
 infrastructure	O
 .	O
+
 The	O
 government	O
 seeks	O
@@ -158,6 +162,7 @@ Intermediate	O
 State	O
 .	O
 ”	O
+
 Secretary	O
 General	O
 of	O
@@ -225,6 +230,7 @@ in	O
 the	O
 south	O
 .	O
+
 In	O
 protest	O
 of	O
@@ -248,6 +254,7 @@ several	O
 days	O
 now	O
 .	O
+
 “	O
 We	O
 must	O
@@ -310,6 +317,7 @@ leader	O
 Llaitul	B-Person
 said	O
 .	O
+
 “	O
 It	O
 is	O
@@ -329,6 +337,7 @@ on	O
 social	O
 media	O
 .	O
+
 “	O
 It	O
 is	O
@@ -347,6 +356,7 @@ always	O
 suffered	O
 .	O
 ”	O
+
 Earlier	O
 that	O
 same	O
@@ -404,6 +414,7 @@ any	O
 other	O
 organization	O
 .	O
+
 We	O
 are	O
 not	O
@@ -414,6 +425,7 @@ ourselves	O
 from	O
 legislating	O
 .	O
+
 We	O
 are	O
 not	O

@@ -58,6 +58,7 @@ Al	B-Organization
 Rai	I-Organization
 daily	O
 .	O
+
 Speakers	O
 at	O
 the	O
@@ -142,6 +143,7 @@ local	O
 Arabic	B-NORP
 daily	O
 .	O
+
 Buzbar	B-Person
 indicated	O
 Nazaha	B-Organization
@@ -254,6 +256,7 @@ and	O
 financing	O
 law	O
 .	O
+
 For	O
 his	O
 part	O
@@ -396,6 +399,7 @@ crimes	O
 in	O
 particular	O
 .	O
+
 Treasurer	O
 of	O
 the	O
@@ -520,6 +524,7 @@ promote	O
 democratic	O
 accountability	O
 .	O
+
 She	O
 added	O
 that	O

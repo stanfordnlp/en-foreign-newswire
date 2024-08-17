@@ -60,6 +60,7 @@ arrested	O
 four	O
 individuals	O
 .	O
+
 The	O
 military	O
 said	O
@@ -127,6 +128,7 @@ in	O
 the	O
 head	O
 .	O
+
 The	O
 Palestinian	B-Organization	B-NORP
 Red	I-Organization
@@ -172,6 +174,7 @@ in	O
 recent	O
 months	O
 .	O
+
 The	O
 Jewish	B-NORP
 state	O
@@ -183,6 +186,7 @@ Bank	I-Location
 since	O
 1967	B-Date
 .	O
+
 Nabil	B-Person
 Abu	I-Person
 Rudeina	I-Person
@@ -283,6 +287,7 @@ city	O
 of	O
 Jenin	B-Location
 .	O
+
 It	O
 said	O
 the	O

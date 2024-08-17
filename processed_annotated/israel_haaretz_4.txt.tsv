@@ -61,6 +61,7 @@ collective	O
 labor	O
 agreement	O
 .	O
+
 Without	O
 one	O
 ,	O
@@ -104,6 +105,7 @@ to	O
 the	O
 next	O
 .	O
+
 The	O
 last	O
 school	O
@@ -169,6 +171,7 @@ the	O
 current	O
 problems	O
 .	O
+
 Israeli	B-NORP
 schools	O
 face	O
@@ -291,6 +294,7 @@ in	O
 the	O
 world	O
 .	O
+
 Then	O
 there	O
 ’s	O
@@ -315,6 +319,7 @@ unsustainable	O
 he	O
 says	O
 .	O
+
 “	O
 When	O
 our	O
@@ -351,6 +356,7 @@ achievement	O
 over	O
 time	O
 .	O
+
 But	O
 the	O
 Organization	B-Organization
@@ -376,6 +382,7 @@ results	O
 are	O
 depressing	O
 :	O
+
 The	O
 latest	O
 PISA	B-Misc
@@ -444,6 +451,7 @@ scores	O
 have	O
 plateaued	O
 .	O
+
 And	O
 in	O
 the	O
@@ -465,6 +473,7 @@ they	O
 actually	O
 fell	O
 .	O
+
 Israeli	B-NORP
 scores	O
 were	O
@@ -489,6 +498,7 @@ tested	O
 at	O
 all	O
 .	O
+
 If	O
 they	O
 had	O
@@ -531,6 +541,7 @@ and	O
 poor	O
 conditions	O
 .	O
+
 While	O
 that	O
 may	O
@@ -553,6 +564,7 @@ the	O
 last	O
 decade	O
 .	O
+
 By	O
 most	O
 metrics	O
@@ -590,6 +602,7 @@ for	O
 secondary	O
 schools	O
 .	O
+
 Israel	B-Location
 devotes	O
 5.8	O
@@ -609,6 +622,7 @@ other	O
 OECD	B-Organization
 country	O
 .	O
+
 It	O
 also	O
 has	O
@@ -620,6 +634,7 @@ student	O
 age	O
 population	O
 .	O
+
 But	O
 even	O
 after	O
@@ -663,6 +678,7 @@ is	O
 mostly	O
 lower	O
 :	O
+
 At	O
 the	O
 elementary	O
@@ -681,6 +697,7 @@ for	O
 the	O
 OECD	B-Organization
 .	O
+
 But	O
 in	O
 middle	O
@@ -832,6 +849,7 @@ aged	O
 or	O
 older	O
 .	O
+
 But	O
 increased	O
 pay	O
@@ -854,6 +872,7 @@ for	O
 advanced	O
 training	O
 .	O
+
 There	O
 ’s	O
 no	O
@@ -937,6 +956,7 @@ full	O
 time	O
 job	O
 .	O
+
 On	O
 paper	O
 ,	O
@@ -983,6 +1003,7 @@ to	O
 fill	O
 slots	O
 .	O
+
 In	O
 reality	O
 ,	O
@@ -1025,6 +1046,7 @@ for	O
 the	O
 work	O
 .	O
+
 However	O
 ,	O
 Avrum	B-Person
@@ -1080,6 +1102,7 @@ starved	O
 for	O
 staff	O
 .	O
+
 According	O
 to	O
 the	O
@@ -1137,6 +1160,7 @@ yet	O
 to	O
 fill	O
 .	O
+
 But	O
 in	O
 many	O
@@ -1156,6 +1180,7 @@ like	O
 computer	O
 science	O
 .	O
+
 If	O
 they	O
 did	O
@@ -1166,6 +1191,7 @@ would	O
 be	O
 greater	O
 .	O
+
 Moreover	O
 ,	O
 enrollment	O
@@ -1257,6 +1283,7 @@ Ben	B-Person
 -	I-Person
 David	I-Person
 .	O
+
 “	O
 We	O
 need	O
@@ -1373,6 +1400,7 @@ keeping	O
 quality	O
 teachers	O
 .	O
+
 Other	O
 countries	O
 have	O
@@ -1432,6 +1460,7 @@ above	O
 he	O
 says	O
 .	O
+
 “	O
 In	O
 the	O

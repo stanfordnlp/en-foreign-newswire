@@ -51,6 +51,7 @@ Ferdinand	B-Person
 Bongbong	I-Person
 ”	I-Person
 Marcos	I-Person
+
 Jnr	I-Person
 told	O
 the	O
@@ -128,6 +129,7 @@ public	O
 private	O
 partnerships	O
 .	O
+
 The	O
 Duterte	B-Person
 government	O
@@ -480,6 +482,7 @@ on	O
 the	O
 loans	O
 .	O
+
 That	O
 compared	O
 to	O
@@ -785,6 +788,7 @@ $	I-Money
 180	I-Money
 billion	I-Money
 .	O
+
 Some	O
 projects	O
 were	O

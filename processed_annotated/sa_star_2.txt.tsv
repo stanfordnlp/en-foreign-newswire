@@ -80,6 +80,7 @@ stalls	O
 last	O
 week	O
 .	O
+
 This	O
 comes	O
 as	O
@@ -116,6 +117,7 @@ for	O
 new	O
 permits	O
 .	O
+
 However	O
 ,	O
 traders	O
@@ -223,6 +225,7 @@ for	O
 my	O
 stall	O
 .	O
+
 How	O
 come	O
 they	O
@@ -246,6 +249,7 @@ information	O
 with	O
 them	O
 ?	O
+
 They	O
 can	O
 use	O
@@ -364,6 +368,7 @@ the	O
 way	O
 forward	O
 .	O
+
 We	O
 have	O
 been	O
@@ -389,6 +394,7 @@ in	O
 our	O
 businesses	O
 .	O
+
 We	O
 want	O
 to	O
@@ -535,6 +541,7 @@ City	B-Location
 of	I-Location
 Joburg	I-Location
 .	O
+
 The	O
 policy	O
 is	O
@@ -551,6 +558,7 @@ for	O
 their	O
 families	O
 .	O
+
 We	O
 are	O
 scared	O
@@ -606,6 +614,7 @@ within	O
 the	O
 CBD	B-Organization
 .	O
+
 Mbundu	B-Person
 said	O
 following	O
@@ -706,6 +715,7 @@ their	O
 founding	O
 affidavit	O
 .	O
+
 There	O
 has	O
 n’t	O

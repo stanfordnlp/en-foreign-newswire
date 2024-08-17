@@ -26,6 +26,7 @@ protests	O
 in	O
 Cuba	B-Location
 .	O
+
 One	O
 demonstration	O
 that	O
@@ -69,6 +70,7 @@ power	O
 since	O
 1959	B-Date
 .	O
+
 They	O
 were	O
 fed	O
@@ -140,6 +142,7 @@ Dictatorship	O
 What	O
 happened	O
 ?	O
+
 The	O
 Díaz	B-Person
 -	I-Person
@@ -192,6 +195,7 @@ freedom	O
 of	O
 speech	O
 .	O
+
 One	O
 year	O
 later	O
@@ -247,6 +251,7 @@ with	O
 us	O
 Venezuelans	B-NORP
 .	O
+
 Two	O
 massive	O
 protest	O
@@ -273,6 +278,7 @@ the	O
 Maduro	B-Person
 regime	O
 .	O
+
 We	O
 all	O
 know	O
@@ -295,6 +301,7 @@ millions	O
 of	O
 migrants	O
 .	O
+
 The	O
 repression	O
 unleashed	O
@@ -339,6 +346,7 @@ rule	O
 is	O
 fragile	O
 .	O
+
 On	O
 the	O
 contrary	O

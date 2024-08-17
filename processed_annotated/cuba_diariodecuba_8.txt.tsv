@@ -42,6 +42,7 @@ throughout	O
 Latin	B-Location
 America	I-Location
 .	O
+
 It	O
 is	O
 a	O
@@ -140,6 +141,7 @@ as	O
 paranoia	O
 .	O
 "	O
+
 It	O
 should	O
 suffice	O
@@ -241,6 +243,7 @@ invasion	O
 of	O
 Venezuela	B-Location
 .	O
+
 (	O
 Diego	B-Person
 G.	I-Person
@@ -279,6 +282,7 @@ America	I-Location
 political	O
 processes	O
 .	O
+
 Neither	O
 facile	O
 progressivism	O
@@ -318,6 +322,7 @@ actions	O
 and	O
 ideas	O
 .	O
+
 In	O
 Latin	B-Location
 America	I-Location
@@ -358,6 +363,7 @@ of	O
 human	O
 progress	O
 .	O
+
 If	O
 being	O
 left	O
@@ -397,6 +403,7 @@ assigned	O
 moral	O
 superiority	O
 .	O
+
 The	O
 same	O
 thing	O
@@ -410,6 +417,7 @@ right	O
 wing	O
 counterparts	O
 .	O
+
 Any	O
 political	O
 leadership	O
@@ -475,6 +483,7 @@ and	O
 the	O
 agent	O
 .	O
+
 After	O
 her	O
 forced	O
@@ -510,6 +519,7 @@ in	O
 Latin	B-Location
 America	I-Location
 .	O
+
 but	O
 the	O
 prevailing	O
@@ -562,6 +572,7 @@ other	O
 ism	O
 .	O
 "	O
+
 After	O
 a	O
 20th	O
@@ -651,6 +662,7 @@ young	O
 Cuban	B-NORP
 activists	O
 .	O
+
 But	O
 when	O
 these	O
@@ -708,6 +720,7 @@ and	O
 her	O
 colleagues	O
 .	O
+
 But	O
 ,	O
 when	O
@@ -806,6 +819,7 @@ right	O
 wing	O
 critics	O
 .	O
+
 This	O
 is	O
 so	O

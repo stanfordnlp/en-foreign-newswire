@@ -19,6 +19,7 @@ the	O
 Lircay	B-Location
 River	I-Location
 .	O
+
 They	O
 fought	O
 over	O
@@ -64,6 +65,7 @@ away	O
 from	O
 Santiago	B-Location
 .	O
+
 The	O
 winner	O
 ended	O
@@ -99,6 +101,7 @@ a	O
 Civil	B-Misc
 War	I-Misc
 .	O
+
 The	O
 war	O
 came	O
@@ -156,6 +159,7 @@ the	O
 1833	B-Date
 Constitution	O
 .	O
+
 The	O
 document	O
 ensured	O
@@ -202,6 +206,7 @@ the	O
 Spanish	B-Organization	B-NORP
 Empire	I-Organization
 .	O
+
 What	O
 followed	O
 was	O
@@ -262,6 +267,7 @@ ruled	O
 the	O
 country	O
 .	O
+
 O	B-Person
 ’	I-Person
 Higgins	I-Person
@@ -279,6 +285,7 @@ came	O
 with	O
 them	O
 .	O
+
 This	O
 alienated	O
 his	O
@@ -310,6 +317,7 @@ for	O
 more	O
 years	O
 .	O
+
 This	O
 was	O
 affront	O

@@ -27,6 +27,7 @@ in	O
 a	O
 silence	O
 .	O
+
 This	O
 was	O
 caused	O
@@ -45,6 +46,7 @@ sport	O
 as	O
 well	O
 .	O
+
 The	O
 bang	O
 of	O
@@ -99,6 +101,7 @@ week	O
 in	O
 Harare	B-Location
 .	O
+
 She	O
 pointed	O
 out	O
@@ -115,6 +118,7 @@ one	O
 in	O
 Africa	B-NORP
 .	O
+
 The	O
 relationship	O
 between	O

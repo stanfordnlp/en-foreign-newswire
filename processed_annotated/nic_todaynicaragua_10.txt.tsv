@@ -19,6 +19,7 @@ relatively	O
 peaceful	O
 present	O
 .	O
+
 and	O
 even	O
 if	O
@@ -55,6 +56,7 @@ and	O
 their	O
 culture	O
 .	O
+
 Nicaraguans	B-NORP
 are	O
 proud	O
@@ -63,6 +65,7 @@ what	O
 they	O
 have	O
 .	O
+
 And	O
 one	O
 of	O
@@ -94,6 +97,7 @@ and	O
 Creole	B-NORP
 cuisine	O
 .	O
+
 Despite	O
 the	O
 blending	O
@@ -175,6 +179,7 @@ a	O
 national	O
 symbol	O
 .	O
+
 It	O
 ’s	O
 delicious	O
@@ -233,6 +238,7 @@ of	O
 a	O
 burrito	O
 .	O
+
 Very	O
 convenient	O
 for	O
@@ -241,6 +247,7 @@ on	O
 the	O
 run	O
 .	O
+
 It	O
 has	O
 become	O
@@ -281,6 +288,7 @@ selling	O
 only	O
 quesillos	O
 .	O
+
 They	O
 say	O
 that	O
@@ -339,6 +347,7 @@ cheese	O
 -	O
 balls	O
 .	O
+
 The	O
 cheese	O
 taste	O
@@ -363,6 +372,7 @@ put	O
 them	O
 in	O
 .	O
+
 Again	O
 ,	O
 there	O
@@ -392,6 +402,7 @@ Latin	B-Location
 America	I-Location
 Tamale	O
 .	O
+
 It	O
 ’s	O
 big	O

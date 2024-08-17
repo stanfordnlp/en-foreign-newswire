@@ -85,6 +85,7 @@ and	O
 smart	O
 cities	O
 .	O
+
 The	O
 Salvadoran	B-NORP
 diplomatic	O
@@ -154,6 +155,7 @@ Sector	I-Organization
 Fideagro	B-Organization
 )	O
 .	O
+
 With	O
 these	O
 resources	O
@@ -180,6 +182,7 @@ to	O
 $	B-Money
 5,000	I-Money
 .	O
+
 In	O
 previous	O
 governments	O
@@ -217,6 +220,7 @@ Manuel	I-Person
 López	I-Person
 Obrador	I-Person
 .	O
+
 The	O
 Mexican	B-NORP
 president	O
@@ -234,6 +238,7 @@ Sembrado	B-Misc
 Vida	I-Misc
 programs	O
 .	O
+
 Both	O
 have	O
 been	O
@@ -303,6 +308,7 @@ a	O
 good	O
 price	O
 .	O
+
 In	O
 addition	O
 ,	O
@@ -418,6 +424,7 @@ to	O
 renewable	O
 energy	O
 .	O
+
 The	O
 ambassador	O
 of	O
@@ -492,6 +499,7 @@ Salvadoran	B-NORP
 energy	O
 sector	O
 .	O
+
 Bukele	B-Person
 was	O
 received	O
@@ -545,6 +553,7 @@ also	O
 been	O
 strengthened	O
 .	O
+
 On	O
 February	B-Date
 23	I-Date
@@ -568,6 +577,7 @@ and	I-Misc
 Cooperation	I-Misc
 Meeting	I-Misc
 .	O
+
 The	O
 meeting	O
 highlighted	O
@@ -739,6 +749,7 @@ the	O
 bilateral	O
 relationship	O
 .	O
+
 According	O
 to	O
 the	O
@@ -783,6 +794,7 @@ China	B-Location
 and	O
 Russia	B-Location
 .	O
+
 That	O
 changed	O
 on	O
@@ -870,6 +882,7 @@ the	O
 Central	B-Organization
 Government	I-Organization
 .	O
+
 The	O
 Russian	B-NORP
 government	O
@@ -921,6 +934,7 @@ President	O
 Xi	B-Person
 Jinping	I-Person
 .	O
+
 The	O
 leaders	O
 spoke	O
@@ -973,6 +987,7 @@ are	O
 already	O
 underway	O
 .	O
+
 He	O
 also	O
 announced	O
@@ -992,6 +1007,7 @@ in	O
 La	B-Location
 Libertad	I-Location
 .	O
+
 As	O
 a	O
 result	O

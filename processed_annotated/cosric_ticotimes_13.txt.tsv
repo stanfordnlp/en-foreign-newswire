@@ -19,6 +19,7 @@ on	O
 Costa	B-Location
 Rica	I-Location
 .	O
+
 It	O
 was	O
 called	O
@@ -39,6 +40,7 @@ the	O
 same	O
 volume	O
 .	O
+
 The	O
 book	O
 was	O
@@ -133,6 +135,7 @@ love	O
 for	O
 ecology	O
 .	O
+
 For	O
 many	O
 years	O
@@ -188,6 +191,7 @@ anomaly	O
 was	O
 revealed	O
 .	O
+
 1000	O
 copies	O
 of	O
@@ -264,6 +268,7 @@ free	O
 of	O
 charge	O
 .	O
+
 I	O
 have	O
 had	O
@@ -317,6 +322,7 @@ Maria	I-Location
 de	I-Location
 Dota	I-Location
 .	O
+
 Space	O
 fans	O
 are	O
@@ -334,6 +340,7 @@ receiving	O
 the	O
 book	O
 .	O
+
 The	O
 event	O
 with	O
@@ -391,6 +398,7 @@ had	O
 no	O
 borders	O
 .	O
+
 Local	O
 strain	O
 could	O
@@ -400,6 +408,7 @@ of	O
 miles	O
 away	O
 .	O
+
 It	O
 was	O
 the	O
@@ -419,6 +428,7 @@ a	O
 macro	O
 scale	O
 .	O
+
 We	O
 also	O
 wanted	O
@@ -470,6 +480,7 @@ had	O
 not	O
 imagined	O
 .	O
+
 The	O
 book	O
 was	O
@@ -517,6 +528,7 @@ lost	O
 its	O
 relevance	O
 .	O
+
 Right	O
 now	O
 it	O
@@ -537,6 +549,7 @@ in	O
 the	O
 subject	O
 .	O
+
 And	O
 in	O
 the	O

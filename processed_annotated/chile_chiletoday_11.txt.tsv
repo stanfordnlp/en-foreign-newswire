@@ -23,6 +23,7 @@ newly	O
 proposed	O
 constitution	O
 .	O
+
 She	O
 said	O
 the	O
@@ -44,6 +45,7 @@ always	O
 dreamed	O
 of	O
 .	O
+
 As	O
 for	O
 the	O
@@ -144,6 +146,7 @@ always	O
 dreamed	O
 of	O
 .	O
+
 She	O
 is	O
 the	O
@@ -284,6 +287,7 @@ by	O
 LA	B-Organization
 News	I-Organization
 .	O
+
 Boric	B-Person
 added	O
 that	O

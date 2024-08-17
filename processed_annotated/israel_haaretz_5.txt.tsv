@@ -90,6 +90,7 @@ Mayadeen	I-Organization
 TV	O
 station	O
 .	O
+
 They	O
 worked	O
 to	O
@@ -216,6 +217,7 @@ term	O
 for	O
 Israel	B-Location
 .	O
+
 Iranian	B-NORP
 security	O
 forces	O
@@ -280,6 +282,7 @@ state	O
 media	O
 reported	O
 .	O
+
 The	O
 announcement	O
 by	O
@@ -369,6 +372,7 @@ in	O
 the	O
 country	O
 .	O
+
 According	O
 to	O
 the	O
@@ -430,6 +434,7 @@ divulge	O
 their	O
 nationality	O
 .	O
+
 The	O
 network	O
 planned	O

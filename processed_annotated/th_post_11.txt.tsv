@@ -114,6 +114,7 @@ confirmed	O
 the	O
 report	O
 .	O
+
 He	O
 said	O
 the	O
@@ -220,6 +221,7 @@ enter	O
 the	O
 school	O
 .	O
+
 Their	O
 bags	O
 are	O
@@ -236,6 +238,7 @@ to	O
 unauthorised	O
 vehicles	O
 .	O
+
 Parents	O
 drop	O
 their	O
@@ -304,6 +307,7 @@ Ms	O
 Chanthana	B-Person
 said	O
 .	O
+
 Hang	B-Organization	B-Location
 Chat	I-Organization	I-Location
 School	I-Organization
@@ -357,6 +361,7 @@ over	O
 the	O
 incident	O
 .	O
+
 The	O
 Education	B-Organization
 Minstry	I-Organization
@@ -389,6 +394,7 @@ Mr	O
 Amporn	B-Person
 said	O
 .	O
+
 The	O
 investigation	O
 would	O
@@ -448,6 +454,7 @@ Phu	B-Facility
 Khieo	I-Facility
 Hospital	I-Facility
 .	O
+
 They	O
 had	O
 smoked	O

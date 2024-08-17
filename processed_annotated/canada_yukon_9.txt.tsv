@@ -58,6 +58,7 @@ I	O
 started	O
 university	O
 .	O
+
 I	O
 also	O
 struggled	O
@@ -175,6 +176,7 @@ important	O
 Pauls	B-Person
 says	O
 .	O
+
 “	O
 I	O
 was	O
@@ -401,6 +403,7 @@ two	O
 world	O
 views	O
 .	O
+
 That	O
 ’s	O
 amazing	O
@@ -491,6 +494,7 @@ department	O
 of	O
 education	O
 .	O
+
 Bennett	B-Person
 says	O
 trustees	O

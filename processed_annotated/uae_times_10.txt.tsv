@@ -11,6 +11,7 @@ operating	O
 driverless	O
 taxis	O
 .	O
+
 The	O
 Roads	B-Organization
 and	I-Organization
@@ -111,6 +112,7 @@ specialist	O
 drivers	O
 ”	O
 .	O
+
 Cruise	B-Organization
 ’s	O
 technology	O
@@ -146,6 +148,7 @@ camera	O
 and	O
 others	O
 .	O
+
 They	O
 are	O
 driven	O

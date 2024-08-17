@@ -106,6 +106,7 @@ the	O
 document	O
 said	O
 .	O
+
 “	O
 The	O
 assessment	O
@@ -264,6 +265,7 @@ comments	O
 before	O
 publication	O
 .	O
+
 It	O
 is	O
 unclear	O
@@ -337,6 +339,7 @@ in	O
 the	O
 region	O
 .	O
+
 Chinese	B-NORP
 leader	O
 Xi	B-Person
@@ -401,6 +404,7 @@ senior	O
 European	B-NORP
 diplomat	O
 .	O
+
 “	O
 So	O
 will	O
@@ -409,6 +413,7 @@ be	O
 a	O
 report	O
 ?	O
+
 I	O
 ’m	O
 not	O
@@ -509,6 +514,7 @@ the	O
 spokesperson	O
 added	O
 .	O
+
 “	O
 And	O
 we	O
@@ -674,6 +680,7 @@ and	O
 their	O
 families	O
 .	O
+
 She	O
 also	O
 said	O
@@ -802,6 +809,7 @@ of	O
 the	O
 law	O
 .	O
+
 Xinjiang	B-Location
 produces	O
 about	O

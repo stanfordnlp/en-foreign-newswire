@@ -229,6 +229,7 @@ effect	O
 Mimaki	B-Person
 said	O
 .	O
+
 “	O
 I	O
 want	O
@@ -310,6 +311,7 @@ discussions	O
 Matsui	B-Person
 said	O
 .	O
+
 “	O
 I	O
 feel	O

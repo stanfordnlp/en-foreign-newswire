@@ -26,6 +26,7 @@ in	O
 smallpox	O
 patients	O
 .	O
+
 However	O
 ,	O
 according	O
@@ -161,6 +162,7 @@ the	O
 infected	O
 person	O
 .	O
+
 While	O
 there	O
 are	O
@@ -192,6 +194,7 @@ not	O
 very	O
 common	O
 .	O
+
 The	O
 mode	O
 of	O
@@ -278,6 +281,7 @@ in	O
 smallpox	B-Misc
 patients	O
 .	O
+
 However	O
 ,	O
 according	O
@@ -317,6 +321,7 @@ international	O
 concern	O
 ”	O
 .	O
+
 Currently	O
 ,	O
 there	O
@@ -330,6 +335,7 @@ from	O
 75	O
 countries	O
 .	O
+
 India	B-Location
 has	O
 four	O
@@ -394,6 +400,7 @@ and	O
 bisexual	O
 persons	O
 .	O
+
 However	O
 ,	O
 transmission	O
@@ -432,6 +439,7 @@ sex	O
 with	O
 men	O
 .	O
+
 Many	O
 of	O
 them	O
@@ -446,6 +454,7 @@ recent	O
 sexual	O
 contact	O
 .	O
+
 Very	O
 few	O
 cases	O
@@ -594,6 +603,7 @@ should	O
 be	O
 avoided	O
 .	O
+
 Anyone	O
 can	O
 get	O
@@ -607,6 +617,7 @@ sexually	O
 transmitted	O
 disease	O
 .	O
+
 It	O
 can	O
 spread	O

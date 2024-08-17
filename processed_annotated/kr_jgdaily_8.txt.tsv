@@ -135,6 +135,7 @@ nose	O
 and	O
 mouth	O
 .	O
+
 Her	O
 underwear	O
 and	O
@@ -162,6 +163,7 @@ to	O
 a	O
 hospital	O
 .	O
+
 The	O
 suspect	O
 has	O
@@ -222,6 +224,7 @@ and	O
 community	O
 websites	O
 .	O
+
 The	O
 suspect	O
 ’s	O
@@ -243,6 +246,7 @@ and	O
 circulated	O
 widely	O
 .	O
+
 Posts	O
 asking	O
 Inha	B-Organization
@@ -291,6 +295,7 @@ in	O
 a	O
 statement	O
 .	O
+
 “	O
 Recognizing	O
 that	O

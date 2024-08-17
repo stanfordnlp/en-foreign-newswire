@@ -68,6 +68,7 @@ Mauritania	B-Location
 and	O
 Senegal	B-Location
 .	O
+
 The	O
 deal	O
 calls	O
@@ -188,6 +189,7 @@ Tortue	I-Misc
 Ahmeyim	I-Misc
 Project	I-Misc
 .	O
+
 This	O
 is	O
 despite	O
@@ -315,6 +317,7 @@ gas	O
 by	O
 2030	B-Date
 .	O
+
 As	O
 of	O
 yet	O
@@ -349,6 +352,7 @@ gas	O
 project	O
 success	O
 .	O
+
 When	O
 companies	O
 secure	O
@@ -386,8 +390,10 @@ eventually	O
 be	O
 liquifying	O
 .	O
+
 Why	O
 ?	O
+
 Long	O
 -	O
 term	O

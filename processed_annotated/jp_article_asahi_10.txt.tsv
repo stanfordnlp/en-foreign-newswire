@@ -135,6 +135,7 @@ in	O
 the	O
 prefecture	O
 .	O
+
 It	O
 has	O
 captured	O
@@ -170,6 +171,7 @@ from	O
 Gifu	B-Location
 Prefecture	I-Location
 .	O
+
 He	O
 was	O
 elected	O

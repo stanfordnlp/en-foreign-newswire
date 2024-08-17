@@ -103,6 +103,7 @@ and	O
 runny	O
 nose	O
 .	O
+
 He	O
 also	O
 had	O
@@ -151,6 +152,7 @@ monkeypox	B-Misc
 on	O
 Tuesday	B-Date
 .	O
+
 He	O
 was	O
 later	O

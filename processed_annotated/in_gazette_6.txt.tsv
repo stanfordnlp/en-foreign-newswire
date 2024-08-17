@@ -18,6 +18,7 @@ Islamophobia	B-Misc
 ’	O
 day	O
 .	O
+
 Though	O
 resolution	O
 was	O
@@ -49,6 +50,7 @@ international	O
 day	O
 .	O
 ”	O
+
 The	O
 term	O
 Islamophobia	B-Misc
@@ -79,6 +81,7 @@ twin	O
 tower	O
 attack	O
 .	O
+
 The	O
 large	O
 section	O
@@ -100,6 +103,7 @@ the	O
 global	O
 space	O
 .	O
+
 In	O
 India	B-Location
 in	O
@@ -138,6 +142,7 @@ politics	O
 prevalent	O
 here	O
 .	O
+
 Hate	O
 against	O
 Islam	O
@@ -178,6 +183,7 @@ power	O
 and	O
 wealth	O
 .	O
+
 Muslim	B-NORP
 communalists	O
 started	O
@@ -196,6 +202,7 @@ hate	O
 Muslims	B-NORP
 ’	O
 .	O
+
 So	O
 the	O
 roots	O
@@ -233,6 +240,7 @@ to	O
 the	O
 ground	O
 .	O
+
 Later	O
 Gujarat	B-Location
 carnage	O
@@ -250,6 +258,7 @@ and	O
 consequent	O
 ghettoization	O
 .	O
+
 The	O
 reform	O
 process	O
@@ -271,6 +280,7 @@ Shah	B-Person
 Bano	I-Person
 judgment	O
 .	O
+
 Now	O
 the	O
 ghettoisation	O
@@ -301,6 +311,7 @@ of	O
 conservative	O
 Maulanas	B-NORP
 .	O
+
 The	O
 extreme	O
 radical	O
@@ -350,6 +361,7 @@ Muslim	B-NORP
 minority	O
 here	O
 .	O
+
 From	O
 within	O
 the	O
@@ -372,6 +384,7 @@ to	O
 majoritarian	O
 politics	O
 .	O
+
 In	O
 case	O
 of	O
@@ -413,6 +426,7 @@ has	O
 propped	O
 up	O
 ?	O
+
 The	O
 status	O
 quo	O
@@ -465,6 +479,7 @@ on	O
 the	O
 march	O
 .	O
+
 The	O
 country	O
 in	O
@@ -547,6 +562,7 @@ not	O
 a	O
 crime	O
 .	O
+
 Ruling	O
 establishment	O
 promotes	O
@@ -575,6 +591,7 @@ full	O
 Cabinet	B-Organization
 rank	O
 .	O
+
 Yati	B-Person
 Narsinghanand	I-Person
 ,	O
@@ -595,6 +612,7 @@ in	O
 this	O
 direction	O
 .	O
+
 In	O
 Haridwar	B-Location	B-Location
 Dharam	I-Location
@@ -654,6 +672,7 @@ a	O
 Prime	O
 minster	O
 .	O
+
 In	O
 the	O
 same	O
@@ -697,6 +716,7 @@ Hindu	B-NORP
 religious	O
 fairs	O
 .	O
+
 The	O
 ban	O
 is	O
@@ -707,6 +727,7 @@ places	O
 in	O
 Karnataka	B-Location
 .	O
+
 As	O
 a	O
 small	O
@@ -751,6 +772,7 @@ on	O
 communal	O
 front	O
 .	O
+
 The	O
 new	O
 Chief	O
@@ -765,6 +787,7 @@ to	O
 the	O
 hilt	O
 .	O
+
 Also	O
 Karnataka	B-Organization	B-Location
 Assembly	I-Organization
@@ -784,6 +807,7 @@ at	O
 intimidating	O
 minorities	O
 .	O
+
 Preparations	O
 are	O
 afoot	O
@@ -822,6 +846,7 @@ on	O
 various	O
 pretexts	O
 .	O
+
 Now	O
 there	O
 is	O
@@ -848,6 +873,7 @@ of	O
 Halal	O
 meat	O
 .	O
+
 ‘	O
 Halal	O
 ’	O
@@ -858,6 +884,7 @@ means	O
 permissible	O
 ’	O
 .	O
+
 It	O
 is	O
 meat	O
@@ -891,6 +918,7 @@ halal	O
 shops	O
 too	O
 .	O
+
 The	O
 five	O
 Bajrang	B-Organization
@@ -926,6 +954,7 @@ like	O
 Umar	B-Person
 Khalid	I-Person
 .	O
+
 In	O
 UP	B-Location
 there	O
@@ -947,6 +976,7 @@ withdrawn	O
 ;	O
 later	O
 .	O
+
 Earlier	O
 we	O
 had	O
@@ -977,6 +1007,7 @@ on	O
 its	O
 signboards	O
 .	O
+
 The	O
 reason	O
 being	O
@@ -986,6 +1017,7 @@ is	O
 a	O
 Muslim	B-NORP
 .	O
+
 It	O
 is	O
 being	O
@@ -1004,6 +1036,7 @@ economic	O
 Jihad	B-Misc
 ’	O
 .	O
+
 This	O
 ‘	O
 economic	O
@@ -1034,6 +1067,7 @@ UPSC	B-Misc
 jihad	I-Misc
 ’	O
 .	O
+
 The	O
 company	O
 has	O
@@ -1047,6 +1081,7 @@ contain	O
 meat	O
 derivatives	O
 .	O
+
 The	O
 certification	O
 is	O
@@ -1094,6 +1129,7 @@ to	O
 give	O
 Azaan	O
 .	O
+
 Now	O
 this	O
 issue	O
@@ -1108,6 +1144,7 @@ by	O
 Raj	B-Person
 Thackeray	I-Person
 .	O
+
 In	O
 Tripura	B-Location
 another	O
@@ -1128,6 +1165,7 @@ Madarassas	O
 produce	O
 terrorists	O
 .	O
+
 The	O
 Gujarat	B-Location
 state	O
@@ -1207,6 +1245,7 @@ of	O
 social	O
 discrimination	O
 .	O
+
 All	O
 this	O
 is	O
@@ -1219,6 +1258,7 @@ against	O
 religious	O
 minorities	O
 .	O
+
 It	O
 explains	O
 reservations	O
@@ -1242,6 +1282,7 @@ Islamophobia	O
 ’	O
 day	O
 .	O
+
 (	O
 southasiamonitor	O
 .	O

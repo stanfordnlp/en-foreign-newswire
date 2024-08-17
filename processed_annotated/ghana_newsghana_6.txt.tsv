@@ -188,6 +188,7 @@ capital	O
 ,	O
 Tuesday	B-Date
 .	O
+
 Following	O
 that	O
 incident	O
@@ -260,5 +261,6 @@ the	O
 Abuja	B-Facility	B-Location
 airport	I-Facility
 .	O
+
 Enditem	O
 

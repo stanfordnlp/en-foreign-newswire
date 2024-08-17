@@ -12,6 +12,7 @@ Jul	B-Date
 IPS	B-Organization
 )	O
 -	O
+
 Like	O
 so	O
 many	O
@@ -23,6 +24,7 @@ long	O
 been	O
 misled	O
 .	O
+
 Alleged	O
 progress	O
 under	O
@@ -35,6 +37,7 @@ to	O
 legitimize	O
 exploitation	O
 .	O
+
 Meanwhile	O
 ,	O
 Western	B-NORP
@@ -90,6 +93,7 @@ for	O
 Western	B-NORP
 interests	O
 .	O
+
 From	O
 1445	B-Date
 to	O
@@ -184,6 +188,7 @@ through	O
 direct	O
 colonialism	O
 .	O
+
 Western	B-NORP
 powers	O
 all	O
@@ -211,6 +216,7 @@ pliant	O
 African	B-NORP
 collaborators	O
 .	O
+
 Colonial	O
 powers	O
 imposed	O
@@ -242,6 +248,7 @@ civilizing	O
 mission	O
 ”	O
 .	O
+
 Oxford	B-Organization
 -	O
 trained	O
@@ -302,7 +309,9 @@ to	O
 feed	O
 itself	O
 ?	O
+
 …	O
+
 And	O
 how	O
 did	O
@@ -358,6 +367,7 @@ international	O
 financial	O
 institutions	O
 .	O
+
 UNCTAD	B-Organization
 ’s	O
 2022	B-Date
@@ -396,6 +406,7 @@ resources	O
 and	O
 capabilities	O
 .	O
+
 Worse	O
 ,	O
 their	O
@@ -486,6 +497,7 @@ $	B-Money
 1,500	I-Money
 annually	O
 !	O
+
 Of	O
 46	O
 least	O
@@ -524,6 +536,7 @@ categorized	O
 as	O
 industrialized	O
 .	O
+
 Incredibly	O
 ,	O
 Africa	B-Location
@@ -561,6 +574,7 @@ is	O
 in	O
 Africa	B-Location
 .	O
+
 A	O
 net	O
 food	O
@@ -577,6 +591,7 @@ a	O
 net	O
 importer	O
 .	O
+
 Structural	O
 adjustment	O
 reform	O

@@ -42,6 +42,7 @@ poor	O
 nations	O
 alike	O
 .	O
+
 Global	O
 poverty	O
 has	O
@@ -80,6 +81,7 @@ even	O
 negative	O
 growth	O
 .	O
+
 Social	O
 unrest	O
 has	O
@@ -130,6 +132,7 @@ on	O
 the	O
 brink	O
 .	O
+
 And	O
 then	O
 there	O
@@ -155,6 +158,7 @@ conflicts	O
 with	O
 China	B-Location
 .	O
+
 In	O
 this	O
 world	O
@@ -199,6 +203,7 @@ than	O
 the	O
 others	O
 .	O
+
 Unfortunately	O
 ,	O
 that	O
@@ -249,6 +254,7 @@ of	O
 their	O
 stadiums	O
 .	O
+
 The	O
 global	O
 situation	O
@@ -256,6 +262,7 @@ is	O
 indeed	O
 troubling	O
 .	O
+
 The	O
 Covid	B-Misc
 -	I-Misc
@@ -272,6 +279,7 @@ underlying	O
 asymptomatic	O
 trends	O
 .	O
+
 Governments	O
 around	O
 the	O
@@ -304,6 +312,7 @@ and	O
 developing	O
 peers	O
 .	O
+
 At	O
 the	O
 same	O
@@ -353,6 +362,7 @@ the	O
 Soviet	B-Organization
 Union	I-Organization
 .	O
+
 With	O
 inflationary	O
 pressures	O

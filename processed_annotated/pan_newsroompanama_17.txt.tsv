@@ -46,6 +46,7 @@ Prensa	I-Organization
 columnist	O
 Rolando	B-Person
 Rodiguez	I-Person
+
 “	O
 In	O
 my	O
@@ -55,6 +56,7 @@ opinion	O
 he	O
 writes	O
 “	O
+
 It	O
 all	O
 boils	O
@@ -139,6 +141,7 @@ cross	O
 the	O
 line	O
 .	O
+
 His	O
 appointment	O
 was	O
@@ -165,6 +168,7 @@ publicly	O
 defending	O
 him	O
 .	O
+
 And	O
 in	O
 his	O
@@ -209,6 +213,7 @@ a	O
 stark	O
 way	O
 ?	O
+
 It	O
 is	O
 at	O
@@ -220,11 +225,13 @@ need	O
 to	O
 reflect	O
 .	O
+
 Does	O
 Panama	B-Location
 inspire	O
 respect	O
 ?	O
+
 Answering	O
 this	O
 question	O
@@ -238,6 +245,7 @@ what	O
 we	O
 transmit	O
 .	O
+
 How	O
 many	O
 times	O
@@ -258,6 +266,7 @@ at	O
 every	O
 turn	O
 ?	O
+
 AMLO	B-Person
 's	O
 decision	O
@@ -300,6 +309,7 @@ have	O
 caught	O
 on	O
 .	O
+
 Or	O
 is	O
 it	O
@@ -311,6 +321,7 @@ our	O
 justice	O
 sucks	O
 ?	O
+
 That	O
 politicians	O
 are	O
@@ -323,6 +334,7 @@ and	O
 international	O
 shame	O
 ?	O
+
 Who	O
 does	O
 not	O
@@ -342,6 +354,7 @@ and	O
 judicial	O
 influence	O
 ?	O
+
 Do	O
 we	O
 forget	O
@@ -435,6 +448,7 @@ in	O
 the	O
 US	B-Location
 ?	O
+
 Did	O
 n't	O
 Mexican	B-NORP
@@ -469,6 +483,7 @@ without	O
 any	O
 consequences	O
 ?	O
+
 Does	O
 no	O
 one	O
@@ -518,6 +533,7 @@ and	O
 also	O
 lost	O
 .	O
+
 It	O
 disgusts	O
 me	O
@@ -528,6 +544,7 @@ are	O
 with	O
 ourselves	O
 .	O
+
 We	O
 never	O
 analyze	O
@@ -537,6 +554,7 @@ or	O
 do	O
 introspection	O
 .	O
+
 Quite	O
 simply	O
 ,	O
@@ -549,6 +567,7 @@ our	O
 bad	O
 image	O
 .	O
+
 We	O
 forget	O
 that	O
@@ -573,6 +592,7 @@ of	O
 the	O
 country	O
 .	O
+
 Hopefully	O
 ,	O
 AMLO	B-Person

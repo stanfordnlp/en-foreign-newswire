@@ -109,6 +109,7 @@ Kremlacek	B-Person
 told	O
 me	O
 .	O
+
 “	O
 In	O
 the	O
@@ -127,6 +128,7 @@ at	O
 on	O
 Sundays	B-Date
 .	O
+
 I	O
 joined	O
 them	O
@@ -153,6 +155,7 @@ campo	O
 the	O
 countryside	O
 .	O
+
 I	O
 had	O
 zero	O
@@ -201,6 +204,7 @@ we	O
 doing	O
 this	O
 ?	O
+
 So	O
 ,	O
 it	O
@@ -340,6 +344,7 @@ to	O
 reach	O
 it	O
 .	O
+
 It	O
 ’s	O
 more	O
@@ -414,6 +419,7 @@ in	O
 the	O
 world	O
 .	O
+
 Many	O
 of	O
 these	O
@@ -539,6 +545,7 @@ season	O
 says	O
 Kremacek	B-Person
 .	O
+
 “	O
 In	O
 my	O
@@ -569,6 +576,7 @@ it	O
 completely	O
 wild	O
 .	O
+
 It	O
 ’s	O
 nothing	O
@@ -591,6 +599,7 @@ and	O
 fresh	O
 air	O
 .	O
+
 And	O
 you	O
 almost	O
@@ -632,6 +641,7 @@ Suspension	B-Misc
 Bridge	I-Misc
 Hike	I-Misc
 .	O
+
 When	O
 you	O
 leave	O
@@ -650,6 +660,7 @@ by	O
 numerous	O
 antennas	O
 .	O
+
 You	O
 have	O
 a	O
@@ -702,6 +713,7 @@ in	O
 the	O
 distance	O
 .	O
+
 At	O
 first	O
 ,	O
@@ -728,6 +740,7 @@ or	O
 8	O
 kilometers	O
 .	O
+
 You	O
 ’d	O
 never	O
@@ -765,6 +778,7 @@ kilometers	O
 from	O
 town	O
 .	O
+
 The	O
 first	O
 11	O
@@ -819,6 +833,7 @@ developed	O
 a	O
 campsite	O
 .	O
+
 It	O
 ’s	O
 a	O
@@ -840,6 +855,7 @@ is	O
 no	O
 music	O
 .	O
+
 They	O
 have	O
 both	O
@@ -858,6 +874,7 @@ old	O
 Airstream	B-Product
 trailers	O
 .	O
+
 They	O
 also	O
 have	O
@@ -866,6 +883,7 @@ rustic	O
 full	O
 kitchen	O
 .	O
+
 Here	O
 you	O
 have	O
@@ -890,6 +908,7 @@ have	O
 marked	O
 trails	O
 .	O
+
 This	O
 means	O
 you	O
@@ -910,6 +929,7 @@ other	O
 nothing	O
 fancy	O
 .	O
+
 To	O
 hike	O
 ,	O
@@ -922,6 +942,7 @@ go	O
 for	O
 it	O
 .	O
+
 For	O
 camping	O
 ,	O
@@ -970,6 +991,7 @@ the	O
 Laja	B-Location
 river	I-Location
 .	O
+
 A	O
 small	O
 community	O
@@ -1009,6 +1031,7 @@ or	O
 Sunken	B-NORP
 Church	I-NORP
 .	O
+
 Depending	O
 on	O
 the	O
@@ -1023,6 +1046,7 @@ to	O
 totally	O
 accessible	O
 .	O
+
 Unfortunately	O
 ,	O
 it	O
@@ -1077,6 +1101,7 @@ to	O
 the	O
 spot	O
 .	O
+
 “	O
 If	O
 they	O
@@ -1126,6 +1151,7 @@ flat	O
 ,	O
 however	O
 .	O
+
 “	O
 The	O
 challenge	O
@@ -1163,6 +1189,7 @@ birds	O
 to	O
 see	O
 .	O
+
 The	O
 presa	O
 is	O
@@ -1219,6 +1246,7 @@ of	O
 51.9	O
 kilometers	O
 .	O
+
 The	O
 trail	O
 is	O
@@ -1257,6 +1285,7 @@ and	O
 viewing	O
 birds	O
 .	O
+
 It	O
 ’s	O
 such	O
@@ -1315,6 +1344,7 @@ quite	O
 an	O
 appetite	O
 .	O
+
 Knowing	O
 that	O
 Randy	B-Person
@@ -1364,6 +1394,7 @@ Kremlacek	B-Person
 told	O
 me	O
 .	O
+
 “	O
 After	O
 a	O
@@ -1418,6 +1449,7 @@ ingredients	O
 on	O
 top	O
 .	O
+
 So	O
 it	O
 ’s	O
@@ -1446,6 +1478,7 @@ variety	O
 of	O
 toppings	O
 .	O
+
 It	O
 comes	O
 to	O
@@ -1468,6 +1501,7 @@ snap	O
 pieces	O
 off	O
 .	O
+
 It	O
 ’s	O
 an	O
@@ -1475,6 +1509,7 @@ ideal	O
 communal	O
 food	O
 .	O
+
 Four	O
 of	O
 you	O
@@ -1511,6 +1546,7 @@ do	O
 you	O
 think	O
 ?	O
+
 Have	O
 you	O
 hiked	O
@@ -1519,12 +1555,14 @@ of	O
 these	O
 trails	O
 ?	O
+
 Any	O
 you	O
 would	O
 you	O
 recommend	O
 ?	O
+
 Let	O
 us	O
 know	O
@@ -1545,6 +1583,7 @@ Jalisco	I-Location
 since	O
 1985	B-Date
 .	O
+
 His	O
 most	O
 recent	O
@@ -1558,6 +1597,7 @@ Mexico	I-Misc	B-Location
 Volume	I-Misc
 Three	I-Misc
 .	O
+
 More	O
 of	O
 his	O

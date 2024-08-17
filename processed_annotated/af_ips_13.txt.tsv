@@ -23,6 +23,7 @@ counting	O
 their	O
 losses	O
 :	O
+
 One	O
 by	O
 one	O
@@ -55,6 +56,7 @@ to	O
 worsening	O
 drought	O
 .	O
+
 I	O
 currently	O
 remain	O
@@ -275,6 +277,7 @@ country	O
 dry	O
 north	O
 .	O
+
 The	O
 weather	O
 patterns	O
@@ -321,6 +324,7 @@ drought	O
 in	O
 decades	O
 .	O
+
 Livestock	O
 is	O
 dying	O
@@ -379,6 +383,7 @@ and	O
 the	O
 government	O
 .	O
+
 This	O
 is	O
 a	O
@@ -429,6 +434,7 @@ the	O
 prolonged	O
 drought	O
 .	O
+
 The	O
 spiralling	O
 costs	O
@@ -505,6 +511,7 @@ it	O
 rains	O
 soon	O
 .	O
+
 Otherwise	O
 ,	O
 this	O
@@ -516,6 +523,7 @@ havoc	O
 to	O
 us	O
 .	O
+
 We	O
 are	O
 left	O
@@ -628,6 +636,7 @@ just	O
 the	O
 drought	O
 .	O
+
 Climate	O
 change	O
 is	O
@@ -826,6 +835,7 @@ here	O
 in	O
 Marsabit	B-Location
 .	O
+
 For	O
 the	O
 past	O
@@ -847,6 +857,7 @@ COVID	B-Misc
 -	I-Misc
 19	I-Misc
 .	O
+
 This	O
 is	O
 just	O
@@ -855,6 +866,7 @@ much	O
 for	O
 us	O
 .	O
+
 I	O
 wonder	O
 if	O
@@ -896,6 +908,7 @@ cope	O
 with	O
 drought	O
 .	O
+
 We	O
 are	O
 trying	O
@@ -920,6 +933,7 @@ in	O
 the	O
 future	O
 .	O
+
 This	O
 is	O
 everyone	O
@@ -982,6 +996,7 @@ many	O
 families	O
 here	O
 .	O
+
 In	O
 our	O
 dispensary	O
@@ -1002,6 +1017,7 @@ under	O
 five	O
 children	O
 .	O
+
 Malnutrition	O
 cases	O
 have	O
@@ -1063,6 +1079,7 @@ curfew	O
 and	O
 lockdowns	O
 .	O
+
 That	O
 is	O
 why	O

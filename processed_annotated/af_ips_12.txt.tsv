@@ -28,6 +28,7 @@ famous	O
 Poulet	B-Misc
 Yassa	I-Misc
 .	O
+
 However	O
 ,	O
 climate	O
@@ -200,6 +201,7 @@ production	O
 a	O
 gamble	O
 .	O
+
 Under	O
 the	O
 Adaptation	B-Misc
@@ -289,6 +291,7 @@ and	O
 Tambacounda	B-Location
 regions	O
 .	O
+
 The	O
 two	O
 areas	O
@@ -450,6 +453,7 @@ in	O
 his	O
 region	O
 .	O
+
 They	O
 are	O
 tackling	O
@@ -487,6 +491,7 @@ and	O
 agricultural	O
 practices	O
 .	O
+
 It	O
 increases	O
 the	O
@@ -612,6 +617,7 @@ practical	O
 training	O
 helpful	O
 .	O
+
 It	O
 ’s	O
 boosted	O
@@ -764,6 +770,7 @@ markets	O
 says	O
 Mwongera	B-Person
 .	O
+
 “	O
 The	O
 varieties	O
@@ -775,6 +782,7 @@ are	O
 locally	O
 demanded	O
 .	O
+
 For	O
 example	O
 ,	O
@@ -795,6 +803,7 @@ pepper	O
 and	O
 okra	O
 .	O
+
 In	O
 addition	O
 ,	O
@@ -838,6 +847,7 @@ tolerant	O
 rice	O
 varieties	O
 .	O
+
 The	O
 Senegalese	B-NORP
 research	O
@@ -853,6 +863,7 @@ developed	O
 the	O
 rice	O
 .	O
+
 For	O
 agroforestry	O
 ,	O
@@ -884,6 +895,7 @@ with	O
 climate	O
 risks	O
 .	O
+
 We	O
 want	O
 the	O
@@ -893,6 +905,7 @@ to	O
 be	O
 diversified	O
 .	O
+
 That	O
 is	O
 why	O
@@ -923,6 +936,7 @@ better	O
 says	O
 Mwongera	B-Person
 .	O
+
 She	O
 adds	O
 that	O
@@ -1078,6 +1092,7 @@ discounts	O
 for	O
 farmers	O
 .	O
+
 Farmers	O
 get	O
 technologies	O
@@ -1171,6 +1186,7 @@ sell	O
 their	O
 produce	O
 .	O
+
 There	O
 is	O
 a	O
@@ -1268,6 +1284,7 @@ Senegal	I-Organization	B-Location
 ANACIM	B-Organization
 )	O
 .	O
+
 Farmers	O
 use	O
 this	O
@@ -1316,6 +1333,7 @@ the	O
 agricultural	O
 sector	O
 .	O
+
 Agriculture	O
 employs	O
 70	O
@@ -1363,6 +1381,7 @@ sectors	O
 including	O
 agriculture	O
 .	O
+
 The	O
 latest	O
 report	O
@@ -1455,6 +1474,7 @@ Jointly	O
 scientists	O
 said	O
 .	O
+
 They	O
 noted	O
 that	O

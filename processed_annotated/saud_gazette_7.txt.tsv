@@ -67,6 +67,7 @@ Global	I-Misc
 Advisor	I-Misc
 survey	O
 .	O
+
 The	O
 survey	O
 was	O
@@ -114,6 +115,7 @@ the	O
 Ipsos	B-Misc	B-Organization
 Index	I-Misc
 .	O
+
 The	O
 Kingdom	B-Organization
 came	O
@@ -302,6 +304,7 @@ of	O
 these	O
 reforms	O
 .	O
+
 The	O
 survey	O
 also	O
@@ -383,6 +386,7 @@ around	O
 the	O
 world	O
 .	O
+
 The	O
 Kingdom	O
 came	O
@@ -444,6 +448,7 @@ under	O
 50	O
 percent	O
 .	O
+
 Japan	B-Location
 was	O
 the	O

@@ -28,6 +28,7 @@ the	O
 Crown	O
 Prince	O
 .	O
+
 The	O
 resignation	O
 came	O
@@ -50,6 +51,7 @@ check	O
 rife	O
 corruption	O
 .	O
+
 Sheikh	O
 Sabah	B-Person
 categorically	O
@@ -77,6 +79,7 @@ the	O
 prime	O
 minister	O
 .	O
+
 As	O
 a	O
 result	O
@@ -93,6 +96,7 @@ the	O
 Cabinet	B-Organization
 members	O
 .	O
+
 A	O
 decision	O
 on	O
@@ -160,6 +164,7 @@ for	O
 snap	O
 polls	O
 .	O
+
 Sheikh	O
 Sabah	B-Person
 quit	O
@@ -176,6 +181,7 @@ of	O
 the	O
 government	O
 .	O
+
 During	O
 his	O
 tenure	O
@@ -196,6 +202,7 @@ and	O
 the	O
 government	O
 .	O
+
 The	O
 last	O
 Cabinet	B-Organization
@@ -252,6 +259,7 @@ letter	O
 of	O
 resignation	O
 .	O
+
 Al	B-Person
 -	I-Person
 Ghanim	I-Person
@@ -327,6 +335,7 @@ accordingly	O
 he	O
 noted	O
 .	O
+
 His	O
 Highness	O
 the	O

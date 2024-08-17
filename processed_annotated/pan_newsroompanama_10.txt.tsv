@@ -30,6 +30,7 @@ Island	I-Location
 in	O
 Amador	B-Location
 .	O
+
 The	O
 investigation	O
 began	O
@@ -38,6 +39,7 @@ a	O
 citizen	O
 complaint	O
 .	O
+
 The	O
 Metropolitan	B-Location
 Region	I-Location

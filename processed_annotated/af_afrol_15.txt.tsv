@@ -43,6 +43,7 @@ the	O
 state	O
 leader	O
 .	O
+
 Mr	O
 Kenyatta	B-Person
 is	O
@@ -74,6 +75,7 @@ of	O
 President	O
 Kenyatta	B-Person
 .	O
+
 The	O
 trial	O
 is	O
@@ -113,6 +115,7 @@ on	O
 9	B-Date
 July	I-Date
 .	O
+
 But	O
 the	O
 defence	O
@@ -187,6 +190,7 @@ in	O
 The	B-Location
 Hague	I-Location
 .	O
+
 More	O
 than	O
 1.000	O
@@ -221,6 +225,7 @@ other	O
 African	B-NORP
 countries	O
 .	O
+
 The	O
 ICC	B-Organization
 is	O
@@ -288,6 +293,7 @@ the	O
 public	O
 opinion	O
 .	O
+
 The	O
 ICC	B-Organization
 is	O
@@ -368,6 +374,7 @@ other	O
 world	O
 leaders	O
 .	O
+
 European	B-NORP
 and	O
 American	B-NORP
@@ -419,6 +426,7 @@ by	O
 Kenyan	B-NORP
 courts	O
 .	O
+
 Together	O
 with	O
 three	O
@@ -449,6 +457,7 @@ the	O
 2007	B-Date
 election	O
 .	O
+
 The	O
 ICC	B-Organization
 prosecution	O
@@ -492,6 +501,7 @@ appearance	O
 if	O
 requested	O
 .	O
+
 This	O
 puts	O
 him	O
@@ -527,6 +537,7 @@ restricts	O
 his	O
 travelling	O
 .	O
+
 Mr	O
 Kenyatta	B-Person
 ,	O

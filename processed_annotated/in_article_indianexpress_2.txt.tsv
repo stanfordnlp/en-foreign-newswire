@@ -109,6 +109,7 @@ seventh	O
 straight	O
 year	O
 .	O
+
 Director	O
 Prof	O
 V	B-Person
@@ -154,6 +155,7 @@ student	O
 faculty	O
 ratio	O
 .	O
+
 We	O
 are	O
 aggressively	O
@@ -163,6 +165,7 @@ get	O
 good	O
 faculty	O
 .	O
+
 This	O
 is	O
 important	O
@@ -185,6 +188,7 @@ ideas	O
 more	O
 projects	O
 .	O
+
 We	O
 will	O
 try	O
@@ -212,6 +216,7 @@ very	O
 subjective	O
 matter	O
 .	O
+
 And	O
 we	O
 should	O
@@ -226,6 +231,7 @@ world	O
 reputed	O
 institutes	O
 .	O
+
 In	O
 a	O
 way	O
@@ -278,6 +284,7 @@ like	O
 last	O
 year	O
 .	O
+
 The	O
 slots	O
 from	O
@@ -360,6 +367,7 @@ its	O
 seventh	O
 year	O
 .	O
+
 IIT	B-Organization	B-Organization
 -	I-Organization
 Jodhpur	I-Organization	B-Location
@@ -501,6 +509,7 @@ second	O
 consecutive	O
 year	O
 .	O
+
 AIIMs	B-Organization
 occupied	O
 the	O
@@ -595,6 +604,7 @@ College	I-Organization
 10	O
 )	O
 .	O
+
 Three	O
 colleges	O
 from	O
@@ -913,6 +923,7 @@ is	O
 also	O
 accredited	O
 .	O
+
 We	O
 will	O
 take	O
@@ -921,6 +932,7 @@ governments	O
 on	O
 board	O
 .	O
+
 Parents	O
 will	O
 know	O

@@ -175,6 +175,7 @@ up	O
 the	O
 pressure	O
 .	O
+
 The	O
 breakthrough	O
 came	O
@@ -214,6 +215,7 @@ on	O
 the	O
 rebound	O
 .	O
+
 Morgan	B-Person
 had	O
 the	O
@@ -293,6 +295,7 @@ up	O
 the	O
 field	O
 .	O
+
 Rose	B-Person
 Lavelle	I-Person
 ’s	O
@@ -337,6 +340,7 @@ the	O
 18th	O
 minute	O
 .	O
+
 Fleming	B-Person
 nearly	O
 doubled	O
@@ -483,6 +487,7 @@ the	O
 2024	B-Misc	B-Misc
 Olympics	I-Misc
 .	O
+
 The	O
 winner	O
 of	O

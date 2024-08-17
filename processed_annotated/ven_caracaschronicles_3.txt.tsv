@@ -122,6 +122,7 @@ the	O
 same	O
 artist	O
 .	O
+
 The	O
 original	O
 piece	O
@@ -143,6 +144,7 @@ time	O
 in	O
 Paris	B-Location
 .	O
+
 At	O
 only	O
 22	O
@@ -179,6 +181,7 @@ of	O
 Simón	B-Person
 Bolívar	I-Person
 .	O
+
 This	O
 opportunity	O
 allowed	O
@@ -190,6 +193,7 @@ arts	O
 in	O
 Paris	B-Location
 .	O
+
 Two	O
 years	O
 later	O

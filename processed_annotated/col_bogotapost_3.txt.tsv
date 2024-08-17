@@ -59,6 +59,7 @@ Lohan	I-Person
 visages	O
 here	O
 .	O
+
 Only	O
 the	O
 glamorous	O
@@ -82,6 +83,7 @@ Medellín	B-Location
 based	O
 artist	O
 .	O
+
 Asked	O
 about	O
 his	O
@@ -133,6 +135,7 @@ of	O
 divinity	O
 .	O
 ”	O
+
 This	O
 is	O
 why	O
@@ -229,6 +232,7 @@ And	I-Misc
 One	I-Misc
 Nights	I-Misc
 .	O
+
 Barón	B-Person
 explains	O
 it	O
@@ -244,6 +248,7 @@ of	O
 the	O
 rugs	O
 .	O
+
 He	O
 added	O
 ,	O
@@ -377,6 +382,7 @@ as	O
 a	O
 halo	O
 .	O
+
 The	O
 price	O
 of	O
@@ -393,6 +399,7 @@ million	I-Money
 Colombian	I-Money	B-NORP
 pesos	I-Money
 .	O
+
 The	O
 magic	O
 carpet	O

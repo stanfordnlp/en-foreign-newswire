@@ -84,6 +84,7 @@ mobile	O
 phone	O
 number	O
 .	O
+
 Having	O
 a	O
 mainland	O
@@ -140,6 +141,7 @@ through	O
 facial	O
 recognition	O
 .	O
+
 The	O
 company	O
 said	O
@@ -185,6 +187,7 @@ all	O
 online	O
 services	O
 .	O
+
 The	O
 government	O
 has	O
@@ -238,6 +241,7 @@ scrutiny	O
 by	O
 censors	O
 .	O
+
 The	O
 platform	O
 temporarily	O
@@ -306,6 +310,7 @@ online	O
 chaos	O
 ”	O
 .	O
+
 Some	O
 of	O
 the	O
@@ -359,6 +364,7 @@ discussions	O
 on	O
 Douban	B-Organization
 .	O
+
 Also	O
 on	O
 Wednesday	B-Date
@@ -424,6 +430,7 @@ in	O
 the	O
 notice	O
 .	O
+
 “	O
 Douban	B-Organization
 will	O
@@ -462,6 +469,7 @@ in	O
 the	O
 past	O
 .	O
+
 On	O
 the	O
 World	B-Misc

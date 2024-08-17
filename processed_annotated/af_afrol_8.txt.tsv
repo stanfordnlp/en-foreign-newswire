@@ -6,6 +6,7 @@ News	I-Organization
 26	B-Date
 March	I-Date
 -	O
+
 It	O
 is	O
 called	O
@@ -24,6 +25,7 @@ policy	O
 in	O
 Rwanda	B-Location
 .	O
+
 The	O
 goal	O
 is	O
@@ -46,6 +48,7 @@ use	O
 bank	O
 accounts	O
 .	O
+
 And	O
 in	O
 only	O
@@ -127,6 +130,7 @@ surface	O
 in	O
 Rwanda	B-Location
 .	O
+
 And	O
 ,	O
 if	O
@@ -272,6 +276,7 @@ umurenges	O
 or	O
 sectors	O
 .	O
+
 The	O
 Umurenge	B-Organization
 SACCO	I-Organization
@@ -304,6 +309,7 @@ to	O
 42	O
 percent	O
 .	O
+
 The	O
 increase	O
 is	O
@@ -331,6 +337,7 @@ save	O
 or	O
 borrow	O
 .	O
+
 The	O
 initiative	O
 was	O
@@ -426,6 +433,7 @@ complexity	O
 Randall	B-Person
 says	O
 .	O
+
 "	O
 What	O
 we	O
@@ -454,6 +462,7 @@ find	O
 a	O
 bank	O
 .	O
+
 Yet	O
 the	O
 challenges	O
@@ -488,6 +497,7 @@ of	O
 public	O
 participation	O
 .	O
+
 The	O
 manager	O
 said	O
@@ -517,6 +527,7 @@ paper	O
 based	O
 system	O
 .	O
+
 There	O
 were	O
 dozens	O
@@ -566,6 +577,7 @@ and	O
 network	O
 connectivity	O
 .	O
+
 A	O
 member	O
 of	O
@@ -583,6 +595,7 @@ SACCO	B-Organization
 or	O
 ATM	O
 .	O
+
 So	O
 traders	O
 travelling	O
@@ -656,6 +669,7 @@ past	O
 six	O
 months	O
 .	O
+
 This	O
 trend	O
 could	O
@@ -688,6 +702,7 @@ were	O
 obliged	O
 to	O
 .	O
+
 The	O
 office	O
 was	O
@@ -701,6 +716,7 @@ poorest	O
 of	O
 citizens	O
 :	O
+
 Only	O
 3	O
 percent	O
@@ -747,6 +763,7 @@ rural	O
 Rwandan	B-NORP
 customers	O
 .	O
+
 According	O
 to	O
 the	O
@@ -821,6 +838,7 @@ rural	O
 finance	O
 project	O
 .	O
+
 The	O
 World	B-Organization
 Bank	I-Organization
@@ -876,6 +894,7 @@ within	O
 few	O
 years	O
 .	O
+
 And	O
 with	O
 this	O
@@ -954,6 +973,7 @@ at	O
 their	O
 disposal	O
 .	O
+
 The	O
 penetration	O
 of	O
@@ -1037,6 +1057,7 @@ around	O
 40	O
 percent	O
 .	O
+
 Kenya	B-Location
 is	O
 among	O
@@ -1098,6 +1119,7 @@ World	B-Organization
 Bank	I-Organization
 data	O
 .	O
+
 In	O
 Niger	B-Location
 ,	O

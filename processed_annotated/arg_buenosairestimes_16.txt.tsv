@@ -147,6 +147,7 @@ others	O
 driving	O
 tractors	O
 .	O
+
 There	O
 were	O
 no	O
@@ -217,6 +218,7 @@ on	O
 grain	O
 exporters	O
 .	O
+
 That	O
 bid	O
 was	O
@@ -244,6 +246,7 @@ cry	O
 of	O
 desperation	O
 .	O
+
 The	O
 campo	O
 ca	O
@@ -271,6 +274,7 @@ lack	O
 of	O
 policies	O
 .	O
+
 There	O
 is	O
 uncertainty	O
@@ -355,6 +359,7 @@ farmers	O
 more	O
 expensive	O
 .	O
+
 Argentina	B-Location
 imports	O
 60	O
@@ -471,6 +476,7 @@ to	O
 nowhere	O
 .	O
 "	O
+
 President	O
 Alberto	B-Person
 ndez	I-Person
@@ -502,11 +508,13 @@ with	O
 this	O
 strike	O
 .	O
+
 It	O
 leads	O
 to	O
 nowhere	O
 .	O
+
 We	O
 had	O
 serious	O
@@ -585,6 +593,7 @@ and	O
 severe	O
 inflation	O
 .	O
+
 Prices	O
 are	O
 already	O

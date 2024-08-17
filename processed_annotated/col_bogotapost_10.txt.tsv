@@ -19,6 +19,7 @@ was	O
 Wednesday	B-Date
 morning	O
 .	O
+
 Over	O
 120 hours	O
 later	O
@@ -40,6 +41,7 @@ to	O
 normal	O
 service	O
 .	O
+
 The	O
 company	O
 running	O
@@ -92,6 +94,7 @@ and	O
 carrera	O
 Séptima	B-Location
 .	O
+
 That	O
 affected	O
 the	O
@@ -115,6 +118,7 @@ and	O
 Carrera	B-Location
 13	O
 .	O
+
 EAAB	B-Organization
 announced	O
 on	O
@@ -165,6 +169,7 @@ has	O
 in	O
 reconnection	O
 .	O
+
 Unforeseen	O
 things	O
 do	O
@@ -182,6 +187,7 @@ easy	O
 to	O
 fix	O
 .	O
+
 But	O
 we	O
 ’d	O
@@ -190,6 +196,7 @@ more	O
 practical	O
 solutions	O
 .	O
+
 What	O
 we	O
 got	O
@@ -207,6 +214,7 @@ on	O
 Saturday	B-Misc
 afternoon	O
 .	O
+
 The	O
 lack	O
 of	O
@@ -219,6 +227,7 @@ n’t	O
 take	O
 advantage	O
 .	O
+
 And	O
 half	O
 an	O
@@ -263,6 +272,7 @@ indeed	O
 the	O
 city	O
 .	O
+
 We	O
 ’re	O
 privileged	O
@@ -290,6 +300,7 @@ less	O
 affluent	O
 neighbourhood	O
 ?	O
+
 There	O
 are	O
 certainly	O
@@ -308,6 +319,7 @@ access	O
 to	O
 water	O
 .	O
+
 During	O
 the	O
 pandemic	O
@@ -500,6 +512,7 @@ of	O
 human	O
 necessities	O
 .	O
+
 It	O
 ’s	O
 the	O
@@ -531,6 +544,7 @@ Back	O
 to	O
 Chapinero	B-Location
 .	O
+
 Why	O
 could	O
 n’t	O
@@ -544,6 +558,7 @@ keep	O
 people	O
 informed	O
 ?	O
+
 Put	O
 out	O
 a	O
@@ -565,6 +580,7 @@ some	O
 fresh	O
 water	O
 .	O
+
 Ideally	O
 ,	O
 they	O
@@ -580,6 +596,7 @@ to	O
 -	O
 door	O
 .	O
+
 Or	O
 at	O
 least	O
@@ -599,6 +616,7 @@ solution	O
 might	O
 come	O
 .	O
+
 Instead	O
 ,	O
 it	O
@@ -624,6 +642,7 @@ or	O
 ignoring	O
 complaints	O
 .	O
+
 Twitter	B-Organization
 posts	O
 receive	O
@@ -639,6 +658,7 @@ is	O
 inevitably	O
 ignored	O
 .	O
+
 EAAB	B-Organization
 are	O
 aware	O
@@ -658,6 +678,7 @@ of	O
 the	O
 capital	O
 .	O
+
 This	O
 is	O
 the	O
@@ -717,6 +738,7 @@ to	O
 buy	O
 water	O
 .	O
+
 A	O
 24	O
 hour	O
@@ -751,6 +773,7 @@ and	O
 the	O
 like	O
 .	O
+
 Showering	O
 ,	O
 flushing	O
@@ -786,6 +809,7 @@ for	O
 too	O
 long	O
 .	O
+
 This	O
 week	O
 ’s	O
@@ -821,6 +845,7 @@ water	O
 by	O
 2030	B-Date
 .	O
+
 But	O
 after	O
 years	O
@@ -841,6 +866,7 @@ cases	O
 going	O
 forward	O
 ?	O
+
 Colombia	B-Location
 says	O
 it	O
@@ -866,6 +892,7 @@ of	O
 systemic	O
 issues	O
 ?	O
+
 In	O
 the	O
 UK	B-Location
@@ -887,6 +914,7 @@ through	O
 other	O
 lines	O
 .	O
+
 Why	O
 did	O
 n’t	O
@@ -898,6 +926,7 @@ the	O
 problems	O
 arise	O
 ?	O
+
 When	O
 will	O
 impoverished	O
@@ -909,6 +938,7 @@ the	O
 same	O
 treatment	O
 ?	O
+
 And	O
 finally	O
 ,	O

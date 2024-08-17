@@ -4,6 +4,7 @@ ANAHEIM	B-Location
 ,	I-Location
 Calif	I-Location
 .	I-Location
+
 -	O
 -	O
 Shohei	B-Person
@@ -93,6 +94,7 @@ statistic	O
 in	O
 1913	B-Date
 .	O
+
 The	O
 others	O
 were	O
@@ -189,6 +191,7 @@ game	O
 losing	O
 streak	O
 .	O
+
 Mike	B-Person
 Trout	I-Person
 sat	O
@@ -226,6 +229,7 @@ had	O
 10	O
 strikeouts	O
 .	O
+
 The	O
 last	O
 time	O
@@ -279,6 +283,7 @@ at	O
 Dodger	B-Facility
 Stadium	I-Facility
 .	O
+
 The	O
 reigning	O
 AL	B-Misc
@@ -356,6 +361,7 @@ in	O
 31	O
 2/3	O
 innings	O
+
 It	O
 was	O
 the	O
@@ -388,6 +394,7 @@ two	O
 areas	O
 Wednesday	B-Date
 .	O
+
 He	O
 ’s	O
 the	O
@@ -407,6 +414,7 @@ four	O
 straight	O
 games	O
 .	O
+
 Ohtani	B-Person
 ’s	O
 two	O
@@ -470,6 +478,7 @@ in	O
 a	O
 game	O
 .	O
+
 The	O
 only	O
 other	O

@@ -25,6 +25,7 @@ beliefs	O
 are	O
 welcome	O
 .	O
+
 With	O
 a	O
 perfect	O
@@ -40,6 +41,7 @@ is	O
 a	O
 must	O
 .	O
+
 Since	O
 its	O
 construction	O
@@ -78,6 +80,7 @@ in	O
 South	B-Location
 America	I-Location
 .	O
+
 The	O
 temple	O
 welcomes	O
@@ -118,6 +121,7 @@ inner	O
 spiritual	O
 self	O
 .	O
+
 The	O
 rest	O
 of	O
@@ -140,6 +144,7 @@ Samoa	B-Location
 and	O
 Uganda	B-Location
 .	O
+
 In	O
 all	O
 ,	O
@@ -149,6 +154,7 @@ nine	O
 of	O
 them	O
 .	O
+
 A	O
 very	O
 significant	O
@@ -185,6 +191,7 @@ in	O
 the	O
 world	O
 .	O
+
 It	O
 was	O
 founded	O
@@ -203,6 +210,7 @@ the	O
 XIX	B-Date
 century	I-Date
 .	O
+
 It	O
 ’s	O
 a	O

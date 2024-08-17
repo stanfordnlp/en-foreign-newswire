@@ -20,6 +20,7 @@ with	O
 Naftali	B-Person
 Bennett	I-Person
 .	O
+
 On	O
 his	O
 way	O
@@ -63,6 +64,7 @@ as	O
 prime	O
 minister	O
 .	O
+
 At	O
 the	O
 end	O
@@ -100,6 +102,7 @@ not	O
 long	O
 before	O
 .	O
+
 Meir	B-Person
 denies	O
 doing	O
@@ -116,6 +119,7 @@ half	O
 hour	O
 earlier	O
 .	O
+
 Meir	B-Person
 showed	O
 the	O
@@ -138,6 +142,7 @@ the	O
 secret	O
 operation	O
 .	O
+
 Meir	B-Person
 was	O
 not	O
@@ -145,6 +150,7 @@ among	O
 this	O
 group	O
 .	O
+
 These	O
 people	O
 who	O
@@ -184,6 +190,7 @@ it	O
 was	O
 released	O
 .	O
+
 One	O
 of	O
 the	O
@@ -222,6 +229,7 @@ was	O
 termed	O
 significant	O
 :	O
+
 Some	O
 believe	O
 that	O
@@ -255,6 +263,7 @@ this	O
 caused	O
 damage	O
 .	O
+
 Others	O
 say	O
 that	O
@@ -338,6 +347,7 @@ in	O
 the	O
 Mossad	B-Organization
 .	O
+
 According	O
 to	O
 sources	O
@@ -364,6 +374,7 @@ concern	O
 was	O
 dismissed	O
 .	O
+
 After	O
 a	O
 considerable	O
@@ -390,6 +401,7 @@ Bennett	B-Person
 's	O
 approval	O
 .	O
+
 In	O
 a	O
 joint	O
@@ -510,6 +522,7 @@ in	O
 the	O
 leak	O
 .	O
+
 The	O
 investigation	O
 did	O
@@ -536,6 +549,7 @@ was	O
 never	O
 clarified	O
 .	O
+
 In	O
 their	O
 responses	O

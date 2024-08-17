@@ -73,6 +73,7 @@ Resort	O
 in	O
 Mexico	B-Location
 .	O
+
 It	O
 is	O
 worth	O
@@ -114,6 +115,7 @@ public	O
 to	O
 vote	O
 .	O
+
 Voting	O
 is	O
 open	O
@@ -290,6 +292,7 @@ Sunset	B-Organization
 World	I-Organization
 Group	I-Organization
 .	O
+
 “	O
 We	O
 hope	O
@@ -348,6 +351,7 @@ and	O
 hospitality	O
 industries	O
 .	O
+
 Today	O
 ,	O
 the	O
@@ -410,6 +414,7 @@ All	O
 Inclusive	O
 Plan	O
 .	O
+
 Enjoy	O
 architecturally	O
 acclaimed	O
@@ -505,6 +510,7 @@ its	O
 six	O
 hotels	O
 .	O
+
 In	O
 addition	O
 ,	O

@@ -217,6 +217,7 @@ heard	O
 about	O
 it	O
 .	O
+
 We	O
 were	O
 only	O
@@ -241,6 +242,7 @@ a	O
 mining	O
 area	O
 .	O
+
 Dimo	B-Person
 told	O
 me	O
@@ -251,6 +253,7 @@ a	O
 diamond	O
 area	O
 .	O
+
 He	O
 told	O
 me	O
@@ -354,6 +357,7 @@ it	O
 to	O
 Swapo	B-Person
 .	O
+
 He	O
 said	O
 the	O
@@ -475,6 +479,7 @@ into	O
 Kundi	B-Person
 Paihama	I-Person
 .	O
+
 We	O
 do	O
 n't	O
@@ -488,6 +493,7 @@ with	O
 the	O
 research	O
 .	O
+
 Tate	B-Person
 Haulyodjaba	I-Person
 has	O
@@ -561,6 +567,7 @@ countries	O
 denied	O
 us	O
 .	O
+
 They	O
 even	O
 closed	O
@@ -569,6 +576,7 @@ borders	O
 for	O
 us	O
 .	O
+
 Dos	B-Person
 Santos	I-Person
 was	O
@@ -609,6 +617,7 @@ Zambia	B-Location
 and	O
 Tanzania	B-NORP
 .	O
+
 He	O
 stood	O
 by	O

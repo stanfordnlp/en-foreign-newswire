@@ -108,6 +108,7 @@ and	O
 left	O
 .	O
 “	O
+
 ”	O
 A	O
 guard	O
@@ -169,6 +170,7 @@ entire	O
 Paraguayan	B-NORP
 nation	O
 .	O
+
 We	O
 condemn	O
 this	O
@@ -340,6 +342,7 @@ in	O
 Paraguay	B-Location
 .	O
 “	O
+
 Therefore	O
 ,	O
 he	O
@@ -376,6 +379,7 @@ it	O
 to	O
 happen	O
 .	O
+
 We	O
 cannot	O
 look	O
@@ -398,6 +402,7 @@ a	O
 national	O
 cause	O
 .	O
+
 We	O
 cannot	O
 allow	O
@@ -487,6 +492,7 @@ with	O
 it	O
 “	O
 .	O
+
 Investigations	O
 in	O
 Brazil	B-Location
@@ -527,12 +533,14 @@ case	O
 him	O
 personally	O
 .	O
+
 But	O
 I	O
 will	O
 keep	O
 repeating	O
 .	O
+
 It	O
 's	O
 the	O
@@ -541,6 +549,7 @@ or	O
 the	O
 homeland	O
 .	O
+
 In	O
 Brazil	B-Location
 ,	O
@@ -582,6 +591,7 @@ founded	O
 in	O
 1887	B-Date
 .	O
+
 It	O
 is	O
 one	O
@@ -600,6 +610,7 @@ the	O
 Colorado	B-Organization
 Party	I-Organization
 .	O
+
 It	O
 was	O
 the	O
@@ -614,6 +625,7 @@ General	O
 Alfredo	B-Person
 Stroessner	I-Person
 .	O
+
 In	O
 recent	O
 years	O

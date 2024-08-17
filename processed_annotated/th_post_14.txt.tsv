@@ -123,6 +123,7 @@ on	O
 social	O
 media	O
 .	O
+
 The	O
 RTP	B-Organization
 strictly	O
@@ -287,6 +288,7 @@ Pegasus	B-Misc
 spyware	O
 attack	O
 .	O
+
 He	O
 said	O
 he	O
@@ -444,6 +446,7 @@ Pegasus	B-Misc
 spyware	O
 attack	O
 .	O
+
 This	O
 revealed	O
 his	O
@@ -488,6 +491,7 @@ France	B-Location
 he	O
 said	O
 .	O
+
 "	O
 But	O
 I	O

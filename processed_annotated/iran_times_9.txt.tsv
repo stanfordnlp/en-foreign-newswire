@@ -11,6 +11,7 @@ Iraq	I-Location
 
 TEHRAN	B-Location
 —	O
+
 The	O
 spokesperson	O
 for	O
@@ -311,6 +312,7 @@ PKK	B-Organization
 was	O
 responsible	O
 .	O
+
 At	O
 the	O
 same	O
@@ -340,6 +342,7 @@ level	O
 of	O
 insolence	O
 .	O
+
 This	O
 is	O
 because	O
@@ -405,6 +408,7 @@ relations	O
 with	O
 Turkey	B-Location
 .	O
+
 Second	O
 :	O
 Airports	O
@@ -419,6 +423,7 @@ should	O
 be	O
 blocked	O
 .	O
+
 Third	O
 :	O
 An	O
@@ -432,6 +437,7 @@ the	O
 United	B-Organization
 Nations	I-Organization
 .	O
+
 Fourth	O
 :	O
 Cancel	O

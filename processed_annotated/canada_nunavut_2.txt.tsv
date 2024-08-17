@@ -31,6 +31,7 @@ people	O
 in	O
 attendance	O
 .	O
+
 By	O
 the	O
 time	O
@@ -73,6 +74,7 @@ the	O
 time	O
 allotted	O
 .	O
+
 Throughout	O
 Francis	B-Person
 ’	O
@@ -149,6 +151,7 @@ the	O
 official	O
 finish	O
 .	O
+
 Some	O
 elders	O
 in	O
@@ -258,6 +261,7 @@ a	O
 chancy	O
 proposition	O
 .	O
+
 A	O
 flight	O
 delay	O
@@ -308,6 +312,7 @@ supposed	O
 to	O
 appear	O
 .	O
+
 Baffinland	B-Organization
 Iron	I-Organization
 Ore	I-Organization
@@ -327,6 +332,7 @@ some	O
 nearby	O
 communities	O
 .	O
+
 They	O
 offered	O
 up	O
@@ -383,6 +389,7 @@ spokesperson	O
 Peter	B-Person
 Akman	I-Person
 .	O
+
 “	O
 I	O
 believe	O
@@ -473,6 +480,7 @@ by	O
 Piita	B-Person
 Irniq	I-Person
 .	O
+
 Irniq	B-Person
 is	O
 a	O
@@ -527,6 +535,7 @@ we	O
 were	O
 happy	O
 .	O
+
 Today	O
 ,	O
 we	O
@@ -539,6 +548,7 @@ is	O
 visiting	O
 us	O
 .	O
+
 Welcome	O
 to	O
 the	O
@@ -590,6 +600,7 @@ to	O
 his	O
 hosts	O
 .	O
+
 His	O
 apology	O
 was	O
@@ -613,6 +624,7 @@ sorry	O
 Mamianaq	B-Misc
 .	O
 ”	O
+
 He	O
 also	O
 closed	O
@@ -627,6 +639,7 @@ is	O
 thank	O
 you	O
 .	O
+
 Both	O
 times	O
 ,	O
@@ -786,6 +799,7 @@ and	O
 survivors	O
 faced	O
 .	O
+
 They	O
 also	O
 criticized	O
@@ -961,6 +975,7 @@ report	O
 in	O
 2015	B-Date
 .	O
+
 But	O
 since	O
 then	O
@@ -1052,6 +1067,7 @@ form	O
 of	O
 genocide	O
 .	O
+
 The	O
 effects	O
 of	O
@@ -1093,6 +1109,7 @@ of	O
 the	O
 institutions	O
 .	O
+
 Throughout	O
 his	O
 Canadian	B-NORP

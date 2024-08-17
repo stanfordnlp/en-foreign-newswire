@@ -23,6 +23,7 @@ freezing	O
 their	O
 aid	O
 .	O
+
 But	O
 Charles	B-Person
 Mkula	I-Person
@@ -144,6 +145,7 @@ journalist	O
 union	O
 JUMA	B-Organization
 .	O
+
 But	O
 this	O
 aid	O
@@ -187,6 +189,7 @@ in	O
 government	O
 offices	O
 .	O
+
 "	O
 Recent	O
 media	O
@@ -266,6 +269,7 @@ $	I-Money
 2.7	I-Money
 million	I-Money
 .	O
+
 Another	O
 is	O
 that	O
@@ -305,6 +309,7 @@ in	O
 his	O
 house	O
 .	O
+
 The	O
 Anti	B-Organization
 Corruption	I-Organization
@@ -332,6 +337,7 @@ were	O
 not	O
 supplied	O
 .	O
+
 Police	O
 also	O
 arrested	O
@@ -381,6 +387,7 @@ million	I-Money
 ,	O
 respectively	O
 .	O
+
 So	O
 afrol	B-Organization
 News	I-Organization
@@ -439,6 +446,7 @@ the	O
 public	O
 service	O
 .	O
+
 It	O
 is	O
 even	O
@@ -500,6 +508,7 @@ by	O
 corrupt	O
 officials	O
 .	O
+
 Ms	O
 Banda	B-Person
 insisted	O
@@ -553,6 +562,7 @@ tells	O
 afrol	B-Organization
 News	I-Organization
 .	O
+
 "	O
 However	O
 ,	O
@@ -650,6 +660,7 @@ Kram	I-Person
 MSF	B-Organization
 /	O
 afrol	B-Organization
+
 News	I-Organization
 
 e	O
@@ -689,6 +700,7 @@ trust	O
 of	O
 Malawians	B-NORP
 .	O
+
 "	O
 I	O
 do	O
@@ -812,6 +824,7 @@ chief	O
 journalist	O
 comments	O
 .	O
+
 "	O
 She	O
 needs	O
@@ -854,6 +867,7 @@ enjoy	O
 popular	O
 confidence	O
 .	O
+
 Offers	O
 of	O
 support	O
@@ -904,6 +918,7 @@ to	O
 the	O
 country	O
 .	O
+
 This	O
 could	O
 have	O
@@ -1013,6 +1028,7 @@ to	O
 poor	O
 harvests	O
 .	O
+
 Further	O
 ,	O
 Mr	O
@@ -1087,6 +1103,7 @@ worse	O
 in	O
 Malawi	B-Location
 .	O
+
 Mr	O
 Mkula	B-Person
 points	O
@@ -1130,6 +1147,7 @@ Mr	O
 Mkula	B-Person
 warns	O
 .	O
+
 He	O
 also	O
 fears	O
@@ -1185,6 +1203,7 @@ tells	O
 afrol	B-Organization
 News	I-Organization
 .	O
+
 That	O
 would	O
 only	O
@@ -1215,6 +1234,7 @@ functions	O
 he	O
 warns	O
 .	O
+
 "	O
 However	O
 ,	O

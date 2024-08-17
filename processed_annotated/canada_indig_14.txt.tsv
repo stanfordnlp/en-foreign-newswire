@@ -79,6 +79,7 @@ Cornell	B-Person
 McLean	I-Person
 told	O
 CBC	B-Organization
+
 News	I-Organization
 that	O
 30	O
@@ -164,6 +165,7 @@ time	O
 was	O
 anonymous	O
 .	O
+
 The	O
 employee	O
 filed	O
@@ -388,6 +390,7 @@ by	O
 200	O
 supporters	O
 .	O
+
 The	O
 letter	O
 called	O
@@ -495,6 +498,7 @@ to	O
 attend	O
 virtually	O
 .	O
+
 He	O
 has	O
 previously	O
@@ -549,6 +553,7 @@ elect	O
 a	O
 replacement	O
 .	O
+
 Until	O
 then	O
 ,	O
@@ -719,6 +724,7 @@ policies	O
 and	O
 procedures	O
 .	O
+
 And	O
 it	O
 has	O
@@ -760,6 +766,7 @@ Anderson	B-Person
 Pyrz	I-Person
 said	O
 .	O
+
 "	O
 It	O
 would	O

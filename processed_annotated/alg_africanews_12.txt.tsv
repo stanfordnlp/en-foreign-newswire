@@ -15,6 +15,7 @@ of	O
 ride	O
 hailing	O
 .	O
+
 and	O
 home	O
 delivery	O
@@ -37,6 +38,7 @@ complex	O
 business	O
 climate	O
 .	O
+
 As	O
 a	O
 taxi	O
@@ -143,6 +145,7 @@ we	O
 're	O
 operating	O
 .	O
+
 So	O
 most	O
 of	O
@@ -164,6 +167,7 @@ job	O
 opportunities	O
 .	O
 "	O
+
 Tayebi	B-Person
 says	O
 .	O
@@ -188,6 +192,7 @@ a	O
 local	O
 champion	O
 .	O
+
 So	O
 it	O
 's	O
@@ -225,12 +230,14 @@ move	O
 forward	O
 .	O
 "	O
+
 "	O
 We	O
 're	O
 very	O
 ambitious	O
 .	O
+
 We	O
 would	O
 like	O
@@ -271,6 +278,7 @@ services	O
 it	O
 offers	O
 .	O
+
 The	O
 startup	O
 provides	O
@@ -289,6 +297,7 @@ last	O
 mile	O
 delivery	O
 .	O
+
 It	O
 raised	O
 a	O
@@ -372,6 +381,7 @@ seen	O
 exponential	O
 growth	O
 .	O
+
 In	O
 terms	O
 of	O

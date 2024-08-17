@@ -25,6 +25,7 @@ Zakho	B-Location
 ,	I-Location
 Dohuk	I-Location
 .	O
+
 Nine	O
 civilians	O
 were	O
@@ -34,6 +35,7 @@ and	O
 others	O
 injured	O
 .	O
+
 All	O
 the	O
 victims	O
@@ -85,6 +87,7 @@ and	O
 political	O
 parties	O
 .	O
+
 Iraqis	B-NORP
 took	O
 to	O
@@ -96,6 +99,7 @@ the	O
 Turkish	B-NORP
 attack	O
 .	O
+
 Angry	O
 protestors	O
 in	O
@@ -111,6 +115,7 @@ the	O
 Turkish	B-NORP
 flags	O
 .	O
+
 In	O
 other	O
 cities	O
@@ -127,6 +132,7 @@ across	O
 the	O
 country	O
 .	O
+
 Officially	O
 ,	O
 the	O
@@ -186,6 +192,7 @@ discuss	O
 the	O
 attack	O
 .	O
+
 “	O
 The	O
 Ministry	B-Organization
@@ -273,6 +280,7 @@ PKK	B-Organization
 was	O
 responsible	O
 .	O
+
 At	O
 the	O
 same	O
@@ -317,6 +325,7 @@ Ankara	B-Location
 Baghdad	B-Location
 ties	O
 .	O
+
 Many	O
 Iraqis	B-NORP
 said	O
@@ -334,6 +343,7 @@ Baghdad	B-Location
 and	O
 Ankara	B-Location
 .	O
+
 Therefore	O
 ,	O
 the	O
@@ -342,6 +352,7 @@ should	O
 be	O
 revoked	O
 .	O
+
 But	O
 the	O
 Iraqi	B-Organization	B-NORP
@@ -386,6 +397,7 @@ from	O
 Iraqi	B-NORP
 soil	O
 .	O
+
 But	O
 Turkey	B-Location
 has	O
@@ -423,6 +435,7 @@ of	O
 Turkish	B-NORP
 troops	O
 .	O
+
 It	O
 revealed	O
 the	O
@@ -480,6 +493,7 @@ in	O
 the	O
 region	O
 .	O
+
 On	O
 Saturday	B-Date
 ,	O
@@ -513,6 +527,7 @@ the	O
 past	O
 years	O
 .	O
+
 Talabani	B-Person
 strongly	O
 pushed	O

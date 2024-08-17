@@ -34,6 +34,7 @@ Moroccan	B-NORP
 capital	O
 Rabat	B-Location
 .	O
+
 Mane	B-Person
 scored	O
 the	O
@@ -64,6 +65,7 @@ the	O
 first	O
 time	O
 .	O
+
 Mane	B-Person
 beat	O
 compatriot	O
@@ -139,6 +141,7 @@ the	O
 Year	O
 title	O
 .	O
+
 The	O
 27	O
 -	O

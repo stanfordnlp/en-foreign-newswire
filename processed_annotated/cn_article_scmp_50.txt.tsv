@@ -171,6 +171,7 @@ reality	O
 art	O
 exhibitions	O
 .	O
+
 A	O
 report	O
 from	O
@@ -233,6 +234,7 @@ in	O
 mainland	O
 China	B-Location
 .	O
+
 Most	O
 domestic	O
 platforms	O
@@ -275,6 +277,7 @@ years	O
 of	O
 crackdowns	O
 .	O
+
 It	O
 has	O
 also	O
@@ -293,6 +296,7 @@ the	O
 crypto	O
 market	O
 .	O
+
 As	O
 a	O
 result	O
@@ -328,6 +332,7 @@ into	O
 the	O
 market	O
 .	O
+
 Baidu	B-Organization
 ,	O
 JD	B-Organization
@@ -369,6 +374,7 @@ issue	O
 digital	O
 collectibles	O
 .	O
+
 But	O
 the	O
 business	O
@@ -439,6 +445,7 @@ in	O
 large	O
 numbers	O
 .	O
+
 Xinhua	B-Organization
 News	I-Organization
 Agency	I-Organization
@@ -479,6 +486,7 @@ China	B-Location
 and	O
 abroad	O
 .	O
+
 Both	O
 fungible	O
 and	O
@@ -526,6 +534,7 @@ early	O
 last	O
 August	B-Date
 .	O
+
 PCG	B-Organization
 was	O
 one	O

@@ -18,6 +18,7 @@ FIFA	B-Misc	B-Organization
 World	I-Misc
 Cup	I-Misc
 .	O
+
 If	O
 it	O
 falls	O
@@ -48,6 +49,7 @@ America	I-Location
 in	O
 2017	B-Date
 .	O
+
 Can	O
 Chile	B-Location
 still	O
@@ -343,6 +345,7 @@ freedom	O
 to	O
 play	O
 .	O
+
 The	O
 team	O
 also	O
@@ -389,6 +392,7 @@ peaked	O
 in	O
 2016	B-Date
 .	O
+
 The	O
 national	O
 team	O
@@ -402,6 +406,7 @@ years	O
 against	O
 Argentina	B-Location
 .	O
+
 The	O
 back	O
 -	O
@@ -465,6 +470,7 @@ a	O
 playoff	O
 spot	O
 .	O
+
 Worse	O
 still	O
 ,	O
@@ -592,6 +598,7 @@ also	O
 help	O
 Chile	B-Location
 .	O
+
 Other	O
 nations	O
 are	O
@@ -605,6 +612,7 @@ from	O
 bad	O
 form	O
 .	O
+
 It	O
 is	O
 not	O

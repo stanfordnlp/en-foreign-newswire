@@ -46,6 +46,7 @@ at	O
 La	B-Location
 Brasserie	I-Location
 .	O
+
 The	O
 visit	O
 coincided	O
@@ -108,6 +109,7 @@ controlled	O
 growing	O
 room	O
 .	O
+
 He	O
 stressed	O
 that	O
@@ -157,6 +159,7 @@ Rs	B-Money
 112	I-Money
 million	I-Money
 .	O
+
 The	O
 Mauritian	B-NORP
 market	O
@@ -185,6 +188,7 @@ canned	O
 he	O
 recalled	O
 .	O
+
 Button	O
 mushroom	O
 ,	O
@@ -265,6 +269,7 @@ Agriculture	I-Misc
 DeSIRA	B-Misc
 )	O
 .	O
+
 The	O
 objective	O
 of	O
@@ -330,6 +335,7 @@ locally	O
 available	O
 materials	O
 .	O
+
 According	O
 to	O
 the	O
@@ -363,6 +369,7 @@ to	O
 May	I-Date
 2022	I-Date
 .	O
+
 The	O
 training	O
 was	O
@@ -412,6 +419,7 @@ of	O
 Bottom	O
 mushroom	O
 .	O
+
 She	O
 further	O
 dwelt	O
